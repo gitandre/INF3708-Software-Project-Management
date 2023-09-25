@@ -1,10 +1,11 @@
 # Past Paper Analysis - Oct 2022 - AI Answers
 
 ## Disclaimer
-This document is meant for learning purposes and comes with no guarnatee of accuacy or correctness. Do your own research and use it as a tool to double check your own work, attempts and understanding
+This document is meant for learning purposes and comes with no guarantee of accuracy or correctness. Do your own research and use it as a tool to double-check your own work, attempts and understanding
+
 ---
 
-## Question 1
+## Question 1 - Questions and Answers
 
 ### Case Study
 The department of a big car manufactory company (Car Trace) you are working
@@ -36,45 +37,18 @@ come up with any changes.
 #### 1.1 Given the information on the case scenario identify who the project stakeholders are. (4 marks)
 **Answer:**
 The project stakeholders in this scenario include the Car Trace management, the finance department, Highway IT, and other departments like procurement, auditing, and reimbursement.
-**Relevant Chapters and Pages:**
-- Chapter 1, Page 9
-- Chapter 2, Page 58
-- Chapter 3, Page 101
-- Chapter 13, Page 539
-- Chapter 13, Page 540
-- Chapter 13, Page 542
-- Chapter 13, Page 546
-- Chapter 13, Page 548
-- Chapter 13, Page 550
-- Chapter 13, Page 553
 
 #### 1.2 Often there is more than one major stakeholder in the project. Is it better for a project to have many or few stakeholders? Justify your answer by using a possible example from the exam case scenario. (4 marks)
 **Answer:**
 Having multiple stakeholders can be beneficial as it brings in diverse perspectives, as seen in the case where various departments like procurement, auditing, and reimbursement will be interacting with the system. However, it can also complicate decision-making. In this case, having input from multiple departments can ensure the system meets everyone's needs.
 
-**Relevant Chapters and Pages:**
-- Chapter 1, Page 9
-- Chapter 2, Page 58
-- Chapter 3, Page 101
-- Chapter 13, Page 539
-- Chapter 13, Page 540
-- Chapter 13, Page 542
-- Chapter 13, Page 546
-- Chapter 13, Page 548
-- Chapter 13, Page 550
-- Chapter 13, Page 553
-
 #### 1.3 Which project management process group would you be engaging in by identifying the project stakeholder? Which project management competence should you have as a project manager consultant from Highway IT to enable you to achieve this? (2 marks)
 **Answer:**
 By identifying the project stakeholders, you're engaging in the Initiating process group. As a project manager consultant from Highway IT, you should have strong communication and stakeholder management skills.
 
-**Relevant Chapters and Pages:**
-- Chapter 3, Page 85
-- Chapter 3, Page 86
+---
 
----
----
-# Question 2
+# Question 2 - Questions and Answers
 
 Table 1: Projects Cash Flow (in South Africa Rand R)
 
@@ -121,7 +95,6 @@ ROI = (35,000 / 275,000) x 100 = 12.73%
 
 The ROI percentage tells you how much return you got on your initial investment. A higher percentage is generally better, indicating a more profitable project.
 
----
 
 #### 2.3 Calculate which year each of the projects will payback its capital investment. (5 marks)
 **Answer:**
@@ -157,8 +130,8 @@ The payback year helps to understand how quickly an investment will be recovered
     Payback Period Calculation
 
 ---
----
-# Question 3 Answers
+
+# Question 3 - Questions and Answers
 
 #### 3.1 Why would you consider Net Present Value (NPV) over net profit as one of the primary methods for projecting financial viability of a project? (3 marks)
 
@@ -236,12 +209,9 @@ Weighted Score = 46.5
 
 Given the higher weighted score, Project 1 further supports its case as the most financially viable project to invest in.
 
-**Relevant Chapters and Pages:**  
-None Detected By Me
+---
 
----
----
-# Question 4 Answers
+# Question 4 - Questions and Answers
 
 ## Case Study Context
 The department of a big car manufactory company (Car Trace) is in need of an upgrade for their largest financial system. The project needs evaluation by the finance department to ensure its viability. Different departments such as procurement, auditing, and reimbursement are involved, and the system needs to accommodate their needs. The finance department wants a working system at the end of each iteration.
@@ -255,7 +225,7 @@ I would recommend the Agile development life cycle approach for Highway IT.
 1. Various departments are involved, each with unique needs, which suggests a requirement for flexibility - a key advantage of Agile.
 2. The finance department wants a working system at the end of each iteration, aligning with Agile's iterative delivery model.
 
-###3 4.2 Provide a brief description of the prescriptive system development life cycle model you will not recommend for the Highway IT development team. (5 marks)
+#### 4.2 Provide a brief description of the prescriptive system development life cycle model you will not recommend for the Highway IT development team. (5 marks)
 
 **Answer:**  
 I would not recommend the Waterfall model.
@@ -265,10 +235,10 @@ I would not recommend the Waterfall model.
 2. In Waterfall, a working system is only available at the end, which conflicts with the finance department's need for a system at the end of each iteration.
 
 ---
----
-# Question 5 Answers
 
-#### 5.1 Construct a Network Diagram (Activity-on-Arrow)
+# Question 5 - Questions and Answers
+
+#### 5.1 Construct a Network Diagram (Activity-on-Arrow) (15 marks)
 
 ##### Forward Pass Calculations
 
@@ -306,11 +276,11 @@ Float (or Slack) for each activity is calculated as either LF - EF or LS - ES. I
 
 1. A: 0, B: 0, C: 2, D: 0, E: 3, F: 2, G: 0, H: 0, I: 0, J: 0
 
-#### 5.2 Indicate the Critical Path on the Network Diagram and Its Durations
+#### 5.2 Indicate the Critical Path on the Network Diagram and Its Durations (3 marks)
 
 The critical path is the sequence of stages determining the minimum time needed for an operation. It is A - B - D - G - I - J with a duration of 16 days.
 
-#### 5.3 Indicate the Total and/or the Free Slack
+#### 5.3 Indicate the Total and/or the Free Slack (2 marks)
 
 - **Total Slack**: A: 0, B: 0, C: 2, D: 0, E: 3, F: 2, G: 0, H: 0, I: 0, J: 0
 - **Free Slack**: A: 0, B: 0, C: 0, D: 0, E: 0, F: 0, G: 0, H: 0, I: 0, J: 0
@@ -318,5 +288,87 @@ The critical path is the sequence of stages determining the minimum time needed 
 The critical path activities (A, B, D, G, I, J) have zero total and free slack, meaning they can't be delayed without delaying the project. Activities C, E, and F have some slack and can be delayed without affecting the project's completion time.
 
 ---
+
+# Question 6 - Questions and Answers
+
+#### 6.1 In relation to the exam case scenario, identify two critical risks that are likely to occur in the development of this project. What techniques are likely to be used to address the risks and which stakeholders would apply the techniques? (4 marks)
+
+### Risks
+
+1. Scope Creep: Given that multiple departments will be interacting with the new financial system, the scope of the project may expand during development.
+2. Technical Debt: Due to the need for frequent changes during development, there may be a build-up of technical debt.
+
+### Techniques to Address Risks
+
+1. Scope Management Plan: To manage scope creep.
+2. Code Review: To manage technical debt.
+
+### Stakeholders Involved
+
+1. Project Manager
+2. Technical Team
+
+#### 6.2 Calculate the expected (te) values for all the activities in Table 5.(4 marks)
+
+The formula to calculate the expected time (te) in PERT is:
+
+\[ te = (Optimistic + 4 * Most Likely + Pessimistic) / 6 \]
+
+For Activity A:  
+\[ te = (4 + 4 * 2 + 5) / 6 = 3.5 \]
+
+For Activity B:  
+\[ te = (3 + 4 * 6 + 6) / 6 = 5.5 \]
+
+For Activity C:  
+\[ te = (2 + 4 * 6 + 4) / 6 = 4.5 \]
+
+For Activity D:  
+\[ te = (5 + 4 * 4 + 7) / 6 = 5 \]
+
+#### 6.3 Describe two project management knowledge areas where PERT weighted average formula calculation can be used.(4)
+
+1. Cost Management: For estimating costs based on time.
+2. Time Management: For creating a realistic project schedule.
+
+#### Assuming the budget that Car Trace management assigned for the finance department project is R120, 000. Presume the actual cost and earn value of the project are R90, 000 and R100, 000 respectively.
+
+Answer the following questions:
+(a) Calculate schedule variance and cost variance.
+(4)
+(b) Calculate SPI and CPI.
+(4)
+(c) How would you describe the performance of the project? Justify
+your answer.
+(2)
+(d) Use the CPI to calculate estimate at completion for this project.
+Indicate how the project is performing.
+(2)
+
+#### 6.4 (a) Calculate schedule variance and cost variance. (4 marks)
+
+1. Schedule Variance (SV) = Earned Value (EV) - Planned Value (PV)  
+\[ SV = R100,000 - R120,000 = -R20,000 \]
+
+2. Cost Variance (CV) = Earned Value (EV) - Actual Cost (AC)  
+\[ CV = R100,000 - R90,000 = R10,000 \]
+
+#### 6.4 (b) Calculate SPI and CPI. (4 marks)
+
+1. Schedule Performance Index (SPI) = EV / PV  
+\[ SPI = R100,000 / R120,000 = 0.83 \]
+
+2. Cost Performance Index (CPI) = EV / AC  
+\[ CPI = R100,000 / R90,000 = 1.11 \]
+
+### 6.4 (c) How would you describe the performance of the project? Justify your answer. (2 marks)
+The project is behind schedule but under budget.
+
+### 6.4 (d) Use the CPI to calculate estimate at completion for this project. Indicate how the project is performing. (2 marks)
+
+Estimate at Completion (EAC) = Budget at Completion (BAC) / CPI  
+\[ EAC = R120,000 / 1.11 = R108,108.11 \]
+
+The project is performing well in terms of cost.
+
 ---
-# Question 6 Answers
