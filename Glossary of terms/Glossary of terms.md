@@ -1,5 +1,9 @@
 # Glossary of Terms and Definitions
 
+## Disclaimer
+This document is meant for learning purposes and comes with no guarnatee of accuacy or correctness. Do your own research and use it as a tool to double check your own work, attempts and understanding
+---
+
 ## 5 whys
 
 A technique in which you repeatedly ask the question why? to help peel away the layers of symptoms that can lead to the root cause of a problem
