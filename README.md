@@ -1,10 +1,10 @@
-# NF3708-Software-Project-Management
+# NF3708-Software-Project-Management Exam Prep
 
 ---
 
 ### Disclaimer
 
-This document is meant for learning purposes and comes with no guarantee of accuracy or correctness. Do your own research and use it as a tool to double-check your own work, attempts and understanding
+This document is meant for learning purposes and comes with no guarantee of accuracy or correctness. Do your own research and use it as a tool to double-check your own work, attempts and understanding.
 
 ---
 
@@ -31,4 +31,8 @@ This document is meant for learning purposes and comes with no guarantee of accu
 4. Textbook analysis in dir `./Textbook Analysis`
  - summaries.md
 
+---
+### Disclaimer
+
+This document is meant for learning purposes and comes with no guarantee of accuracy or correctness. Do your own research and use it as a tool to double-check your own work, attempts and understanding.
 
