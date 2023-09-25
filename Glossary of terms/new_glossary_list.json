@@ -1,0 +1,1630 @@
+[
+    {
+        "term": "5 whys",
+        "definition": "A technique in which you repeatedly ask the question why? to help peel away the layers of symptoms that can lead to the root cause of a problem"
+    },
+    {
+        "term": "acceptance decisions",
+        "definition": "Decisions that determine if the products or services produced as part of the project will be accepted or rejected"
+    },
+    {
+        "term": "activity",
+        "definition": "An element of work normally found on the WBS that has an expected duration, cost, and resource requirements; also called a task"
+    },
+    {
+        "term": "activity attributes",
+        "definition": "Information about each activity, such as predecessors, successors, logical relationships, leads and lags, resource requirements, constraints, imposed dates, and assumptions related to the activity"
+    },
+    {
+        "term": "activity list",
+        "definition": "A tabulation of activities to be included on a project schedule"
+    },
+    {
+        "term": "activity-on-arrow (AOA)",
+        "definition": "A network diagramming technique in which activities are represented by arrows and connected at points called nodes to illustrate the sequence of activities; also called arrow diagramming method (ADM)"
+    },
+    {
+        "term": "actual cost (AC)",
+        "definition": "The total of direct and indirect costs incurred in accomplishing work on an activity during a given period"
+    },
+    {
+        "term": "agile",
+        "definition": "Quick and coordinated in movement; a method based on iterative and incremental development, in which requirements and solu- tions evolve through collaboration"
+    },
+    {
+        "term": "agile methods",
+        "definition": "An approach to managing proj- ects that includes a workflow comprised of short iterations and incremental delivery of software"
+    },
+    {
+        "term": "analogous estimates",
+        "definition": "A cost-estimating technique that uses the actual cost of a previous similar project as the basis for estimating the cost of the current project; also called top-down estimates"
+    },
+    {
+        "term": "analogy approach",
+        "definition": "Creating a WBS by using a similar project’s WBS as a starting point"
+    },
+    {
+        "term": "appraisal cost",
+        "definition": "The cost of evaluating processes and their outputs to ensure that a project is error-free or within an acceptable error range"
+    },
+    {
+        "term": "arrow diagramming method (ADM)",
+        "definition": "A network diagramming technique in which activities are represented by arrows and connected at points called nodes to illustrate the sequence of activities; also called activity-on-arrow (AOA)."
+    },
+    {
+        "term": "artifact",
+        "definition": "A useful object created by people"
+    },
+    {
+        "term": "backward pass",
+        "definition": "A project network diagramming technique that determines the late start and late finish dates for each activity"
+    },
+    {
+        "term": "balanced scorecard",
+        "definition": "A strategic planning and management system that helps organizations align business activities to strategy, improve communications, and monitor performance against strategic goals"
+    },
+    {
+        "term": "baseline",
+        "definition": "The approved project management plan plus approved changes"
+    },
+    {
+        "term": "baseline dates",
+        "definition": "The planned schedule dates for activities in a tracking gantt chart"
+    },
+    {
+        "term": "benchmarking",
+        "definition": "Generating ideas by comparing specific project practices or product characteristics to those of other projects or products inside or outside the performing organization"
+    },
+    {
+        "term": "best practice",
+        "definition": "An optimal way recognized by industry to achieve a stated goal or objective"
+    },
+    {
+        "term": "bid",
+        "definition": "A document prepared by sellers to provide pricing for standard items that the buyer has clearly defined; also called a tender or quote (short for quotation)"
+    },
+    {
+        "term": "blogs",
+        "definition": "Journals on the web that allow users to write entries, create links, and upload pictures, while readers can post comments to journal entries"
+    },
+    {
+        "term": "bottom-up approach",
+        "definition": "Creating a WBS by having team members identify as many specific tasks related to the project as possible and then grouping them into higher- level categories"
+    },
+    {
+        "term": "bottom-up estimates",
+        "definition": "A cost-estimating technique based on estimating individual work items and summing them to get a project total"
+    },
+    {
+        "term": "brainstorming",
+        "definition": "A technique by which a group attempts to generate ideas or find a solution for a specific problem by amassing ideas spontane- ously and without judgment"
+    },
+    {
+        "term": "budget at completion (BAC)",
+        "definition": "The original total budget for a project"
+    },
+    {
+        "term": "budgetary estimate",
+        "definition": "A cost estimate used to allocate money into an organization’s budget"
+    },
+    {
+        "term": "buffer",
+        "definition": "Additional time to complete a task; a buffer is added to an estimate to account for various factors"
+    },
+    {
+        "term": "burndown chart",
+        "definition": "A chart that shows the cumulative work remaining in a sprint on a day-by-day basis"
+    },
+    {
+        "term": "burst",
+        "definition": "A single node followed by two or more activities on a network diagram"
+    },
+    {
+        "term": "Capability",
+        "definition": "Maturity | Model | Integration"
+    },
+    {
+        "term": "(CMMI)",
+        "definition": "A process improvement approach that provides organizations with the essential ele- ments of effective processes"
+    },
+    {
+        "term": "capitalization rate",
+        "definition": "The rate used in discounting future cash flow also called the discount rate or opportunity cost of capital"
+    },
+    {
+        "term": "cash flow",
+        "definition": "Benefits minus costs or income minus expenses"
+    },
+    {
+        "term": "cash flow analysis",
+        "definition": "A method for determining the estimated annual costs and benefits for a project"
+    },
+    {
+        "term": "cause-and-effect diagram",
+        "definition": "A diagram that traces complaints about quality problems back to the responsible production operations to help find the root cause; also known as a fishbone dia-"
+    },
+    {
+        "term": "gram or",
+        "definition": "Ishikawa diagram"
+    },
+    {
+        "term": "champion",
+        "definition": "A senior manager who acts as a key proponent for a project"
+    },
+    {
+        "term": "change control board (CCB)",
+        "definition": "A formal group of people responsible for approving or rejecting changes on a project"
+    },
+    {
+        "term": "change control system",
+        "definition": "A formal, documented process that describes when and how official project documents may be changed"
+    },
+    {
+        "term": "charismatic",
+        "definition": "A leadership style in which people inspire others based on their enthusiasm and confidence"
+    },
+    {
+        "term": "checksheet",
+        "definition": "A technique used to collect and analyze data; sometimes called a tally sheet or checklist"
+    },
+    {
+        "term": "closing processes",
+        "definition": "Formalizing acceptance of the project or project phase and ending it efficiently"
+    },
+    {
+        "term": "coercive power",
+        "definition": "Using punishment, threats, or other negative approaches to get people to do things they do not want to do"
+    },
+    {
+        "term": "collaborating mode",
+        "definition": "A conflict-handling mode in which decision makers incorporate different viewpoints and insights to develop consensus and commitment"
+    },
+    {
+        "term": "communications management plan",
+        "definition": "A docu- ment that guides project communications"
+    },
+    {
+        "term": "compromise mode",
+        "definition": "Using a give-and-take approach to resolve conflicts; bargaining and searching for solutions that bring some degree of satisfaction to all the parties in a dispute"
+    },
+    {
+        "term": "configuration management",
+        "definition": "A process that ensures that the descriptions of a project’s ­products are correct and complete"
+    },
+    {
+        "term": "conformance",
+        "definition": "Delivering products that meet requirements and fitness for use"
+    },
+    {
+        "term": "conformance to requirements",
+        "definition": "Project processes and products that meet written specifications"
+    },
+    {
+        "term": "confrontation mode",
+        "definition": "Facing a conflict directly using a problem-solving approach that allows affected parties to work through their disagreements"
+    },
+    {
+        "term": "constructive change orders",
+        "definition": "Oral or written acts or omissions by someone with actual or appar- ent authority that can be construed to have the same effect as a written change order"
+    },
+    {
+        "term": "contingency allowances",
+        "definition": "Provisions held by the project sponsor or organization to reduce the risk of cost or schedule overruns to an accept- able level; also called contingency reserves"
+    },
+    {
+        "term": "contingency plans",
+        "definition": "Predefined actions that the project team will take if an identified risk event occurs"
+    },
+    {
+        "term": "contingency reserves",
+        "definition": "Dollar amounts included in a cost estimate to allow for future situations that may be partially planned for (sometimes called known unknowns) and that are included in the project cost baseline"
+    },
+    {
+        "term": "contract",
+        "definition": "A mutually binding agreement that obligates the seller to provide specified products or services and obligates the buyer to pay for them"
+    },
+    {
+        "term": "control chart",
+        "definition": "A graphic display of data that illustrates the results of a process over time"
+    },
+    {
+        "term": "cost baseline",
+        "definition": "A time-phased budget that proj- ect managers use to measure and monitor cost performance"
+    },
+    {
+        "term": "cost of capital",
+        "definition": "The return available by investing capital elsewhere"
+    },
+    {
+        "term": "cost of nonconformance",
+        "definition": "Taking responsibility for failures or not meeting quality expectations"
+    },
+    {
+        "term": "cost of quality",
+        "definition": "The cost of conformance plus the cost of nonconformance"
+    },
+    {
+        "term": "cost performance index (CPI)",
+        "definition": "The ratio of earned value to actual cost; can be used to estimate the projected cost to complete the project cost plus award fee (CPAF) contract A contract in which the buyer pays the supplier for allowable costs (as defined in the contract) plus an award fee based on the satisfaction of subjective performance criteria cost plus fixed fee (CPFF) contract A contract in which the buyer pays the supplier for allowable costs (as defined in the contract) plus a fixed fee payment that is usually based on a percentage of estimated costs cost plus incentive fee (CPIF) contract A contract in which the buyer pays the supplier for allowable costs (as defined in the contract) along with a predetermined fee and an incentive bonus cost plus percentage of costs (CPPC) contract A contract in which the buyer pays the supplier for allowable costs (as defined in the contract) along with a predetermined percentage based on total costs"
+    },
+    {
+        "term": "cost variance (CV)",
+        "definition": "The earned value minus the actual cost"
+    },
+    {
+        "term": "cost-reimbursable contracts",
+        "definition": "Contracts that involve payment to the supplier for direct and indirect actual costs"
+    },
+    {
+        "term": "crashing",
+        "definition": "A technique for making cost and schedule trade-offs to obtain the greatest amount of schedule compression for the least incremental cost"
+    },
+    {
+        "term": "critical chain scheduling",
+        "definition": "A method of schedul- ing that takes limited resources into account when creating a project schedule and includes buffers to protect the project completion date critical path method (CPM) or critical path"
+    },
+    {
+        "term": "analysis",
+        "definition": "A project network diagramming technique used to predict total project duration"
+    },
+    {
+        "term": "daily",
+        "definition": "Scrum | A short meeting in which the team shares progress and challenges"
+    },
+    {
+        "term": "decision tree",
+        "definition": "A diagramming analysis tech- nique used to help select the best course of action when future outcomes are uncertain"
+    },
+    {
+        "term": "decomposition",
+        "definition": "Subdividing project deliverables into smaller pieces"
+    },
+    {
+        "term": "defect",
+        "definition": "Any instance in which the product or service fails to meet customer requirements"
+    },
+    {
+        "term": "definitive estimate",
+        "definition": "A cost estimate that pro- vides an accurate estimate of project costs"
+    },
+    {
+        "term": "deliverable",
+        "definition": "A product or service, such as a technical report, a training session, a piece of hardware, or a segment of software code, produced or provided as part of a project"
+    },
+    {
+        "term": "Delphi technique",
+        "definition": "An approach used to derive a consensus among a panel of experts to make predictions about future developments"
+    },
+    {
+        "term": "dependency",
+        "definition": "The sequencing of project activities or tasks; also called a relationship"
+    },
+    {
+        "term": "deputy project managers",
+        "definition": "People who fill in for project managers in their absence and assist them as needed"
+    },
+    {
+        "term": "design of experiments",
+        "definition": "A quality technique that helps identify which variables have the most influence on the overall outcome of a process"
+    },
+    {
+        "term": "Dev",
+        "definition": "Ops | A culture of collaboration between software development and operations teams to build, test, and release reliable software more quickly"
+    },
+    {
+        "term": "direct costs",
+        "definition": "Costs that can be directly related to creating the products and services of the project"
+    },
+    {
+        "term": "directives",
+        "definition": "New requirements imposed by management, government, or some external influence"
+    },
+    {
+        "term": "discount factor",
+        "definition": "A multiplier for each year based on the discount rate and year"
+    },
+    {
+        "term": "discount rate",
+        "definition": "The rate used in discounting future cash flow; also called the capitalization rate or opportunity cost of capital"
+    },
+    {
+        "term": "discretionary dependencies",
+        "definition": "The sequencing of project activities or tasks defined by the project team and used with care because they may limit later scheduling options DMAIC (Define, Measure, Analyze, Improve,"
+    },
+    {
+        "term": "Control)",
+        "definition": "A systematic closed-loop process for continued improvement that is scientific and fact based"
+    },
+    {
+        "term": "dummy activities",
+        "definition": "Activities with no duration and no resources used to show a logical relationship between two activities in the arrow diagramming method of project network diagrams"
+    },
+    {
+        "term": "duration",
+        "definition": "The actual amount of time worked on an activity plus elapsed time"
+    },
+    {
+        "term": "early finish date",
+        "definition": "The earliest possible time an activity can finish based on the project network logic"
+    },
+    {
+        "term": "early start date",
+        "definition": "The earliest possible time an activity can start based on the project network logic"
+    },
+    {
+        "term": "earned value (EV)",
+        "definition": "An estimate of the value of the physical work actually completed"
+    },
+    {
+        "term": "earned value management (EVM)",
+        "definition": "A project performance measurement technique that ­integrates scope, time, and cost data"
+    },
+    {
+        "term": "effort",
+        "definition": "The number of workdays or work hours required to complete a task"
+    },
+    {
+        "term": "emotional intelligence",
+        "definition": "Knowing and managing one’s own emotions and understanding the emotions of others for improved performance"
+    },
+    {
+        "term": "empathic listening",
+        "definition": "Listening with the intent to understand enterprise project management software Software that integrates information from multiple projects to show the status of active, approved, and future projects across an entire organization; also called portfolio project management software"
+    },
+    {
+        "term": "estimate at completion (EAC)",
+        "definition": "An estimate of what it will cost to complete the project based on performance to date"
+    },
+    {
+        "term": "ethics",
+        "definition": "A set of principles that guides decision making based on personal values of what is considered right and wrong"
+    },
+    {
+        "term": "executing processes",
+        "definition": "Coordinating people and other resources to carry out the project plans and create the products, services, or results of the project or project phase"
+    },
+    {
+        "term": "executive steering committee",
+        "definition": "A group of senior executives from various parts of the organiza- tion who regularly review important corporate projects and issues"
+    },
+    {
+        "term": "expectations management matrix",
+        "definition": "A tool that helps clarify expectations and lists project mea sures of success as well as priorities, expecta- tions, and guidelines related to each measure"
+    },
+    {
+        "term": "expected monetary value (EMV)",
+        "definition": "The product of a risk event probability and the risk event’s monetary value"
+    },
+    {
+        "term": "expert power",
+        "definition": "Using one’s personal knowledge and expertise to get people to change their behavior"
+    },
+    {
+        "term": "explicit knowledge",
+        "definition": "Knowledge that can be easily explained using words, pictures, or numbers and is easy to communicate, store, and distribute, such as information in textbooks, project documents, and plans"
+    },
+    {
+        "term": "external dependencies",
+        "definition": "The sequencing of project activities or tasks that involve rela- tionships between project and non-project activities"
+    },
+    {
+        "term": "external failure cost",
+        "definition": "A cost related to all errors that are not detected and corrected before delivery to the customer"
+    },
+    {
+        "term": "extrinsic motivation",
+        "definition": "An approach that causes people to do something for a reward or to avoid a penalty"
+    },
+    {
+        "term": "fallback plans",
+        "definition": "Plans developed for risks that have a high impact on meeting project objectives and implemented if attempts to reduce the risk are not effective"
+    },
+    {
+        "term": "fast tracking",
+        "definition": "A schedule compression ­technique in which you do activities in parallel that you would normally do in sequence"
+    },
+    {
+        "term": "features",
+        "definition": "The special characteristics that appeal to users"
+    },
+    {
+        "term": "feeding buffers",
+        "definition": "Time added before tasks on the critical chain if they are preceded by other tasks that are not on the critical path"
+    },
+    {
+        "term": "finish-to-finish dependency",
+        "definition": "A relationship on a project network diagram in which the “from” activity must be finished before the “to” activity can be finished"
+    },
+    {
+        "term": "finish-to-start dependency",
+        "definition": "A relationship on a project network diagram in which the “from” activity must be finished before the “to” activity can be started"
+    },
+    {
+        "term": "fishbone diagram",
+        "definition": "A diagram that traces com- plaints about quality problems back to the responsible production operations to help find the root cause; also known as a cause-and-effect"
+    },
+    {
+        "term": "diagram or",
+        "definition": "Ishikawa diagram"
+    },
+    {
+        "term": "fitness for use",
+        "definition": "A product that can be used as it was intended"
+    },
+    {
+        "term": "fixed-price contract",
+        "definition": "A contract with a fixed total price for a well-defined product or service; also called a lump-sum contract"
+    },
+    {
+        "term": "float",
+        "definition": "The amount of time a project activity may be delayed without delaying a succeeding activity or the project finish date; also called slack"
+    },
+    {
+        "term": "flowchart",
+        "definition": "A graphic display of the logic and flow of processes that helps you analyze how problems occur and how processes can be improved"
+    },
+    {
+        "term": "forcing mode",
+        "definition": "Using a win/lose approach to conflict resolution to get one’s way"
+    },
+    {
+        "term": "forecasts",
+        "definition": "Predictions of future project status and progress based on past information and trends"
+    },
+    {
+        "term": "forward pass",
+        "definition": "A network diagramming technique that determines the early start and early finish dates for each activity"
+    },
+    {
+        "term": "free slack (free float)",
+        "definition": "The amount of time an activity can be delayed without delaying the early start of any immediately following activities"
+    },
+    {
+        "term": "function points",
+        "definition": "A means of measuring software size in terms that are meaningful to end users"
+    },
+    {
+        "term": "functional organizational structure",
+        "definition": "An organizational structure that groups people by functional areas such as IT, manufacturing, engineering, and human resources"
+    },
+    {
+        "term": "functionality",
+        "definition": "The degree to which a system performs its intended function"
+    },
+    {
+        "term": "Gantt chart",
+        "definition": "A standard format for displaying project schedule information by listing project activities and their corresponding start and finish dates in a calendar format; sometimes referred to as bar charts"
+    },
+    {
+        "term": "google docs",
+        "definition": "Online applications offered by google that allow users to create, share, and edit documents, spreadsheets, and presentations online"
+    },
+    {
+        "term": "groupthink",
+        "definition": "Conformance to the values or ethical standards of a group"
+    },
+    {
+        "term": "hierarchy of needs",
+        "definition": "A pyramid structure illus-"
+    },
+    {
+        "term": "trating",
+        "definition": "Maslow’s theory that people’s behaviors are guided or motivated by a sequence of needs"
+    },
+    {
+        "term": "histogram",
+        "definition": "A bar graph of a distribution of variables"
+    },
+    {
+        "term": "human resources (HR) frame",
+        "definition": "A frame that focuses on producing harmony between the needs of the organization and the needs of people"
+    },
+    {
+        "term": "indirect costs",
+        "definition": "Costs that are not directly related to the products or services of the project, but are indirectly related to performing the project"
+    },
+    {
+        "term": "influence diagram",
+        "definition": "A diagram that represents decision problems by displaying essential ele- ments, including decisions, uncertainties, and objectives, and how they influence each other"
+    },
+    {
+        "term": "initiating processes",
+        "definition": "Defining and authorizing a project or project phase"
+    },
+    {
+        "term": "intangible costs or benefits",
+        "definition": "Costs or benefits that are difficult to measure in monetary terms"
+    },
+    {
+        "term": "integrated change control",
+        "definition": "Identifying, evaluating, and managing changes throughout the project life cycle"
+    },
+    {
+        "term": "integration testing",
+        "definition": "Testing that occurs between unit and system testing to test functionally grouped components and ensure that a subset or subsets of the entire system work together"
+    },
+    {
+        "term": "interactional",
+        "definition": "A leadership style in which people use a combination of transactional, transforma- tional, and charismatic approaches"
+    },
+    {
+        "term": "interface management",
+        "definition": "Identifying and managing the points of interaction between various elements of a project"
+    },
+    {
+        "term": "internal dependencies",
+        "definition": "Relationships between project activities that are generally inside the project team’s control"
+    },
+    {
+        "term": "internal failure cost",
+        "definition": "A cost incurred to correct an identified defect before the customer receives the product"
+    },
+    {
+        "term": "internal rate of return (IRR)",
+        "definition": "The discount rate that results in an NPV of zero for a project"
+    },
+    {
+        "term": "interviewing",
+        "definition": "A fact-finding technique that is normally done face to face, but can also occur through phone calls, e-mail, or instant messaging"
+    },
+    {
+        "term": "intrinsic motivation",
+        "definition": "An approach that causes people to participate in an activity for their own enjoyment"
+    },
+    {
+        "term": "Ishikawa diagram",
+        "definition": "A diagram that traces com- plaints about quality problems back to the responsible production operations to help find the root cause; also known as a ­cause-and-effect diagram or fishbone diagram"
+    },
+    {
+        "term": "ISO 9000",
+        "definition": "A quality system standard"
+    },
+    {
+        "term": "developed by the",
+        "definition": "International | Organization"
+    },
+    {
+        "term": "for",
+        "definition": "Standardization (ISO) that includes a three- part, continuous cycle of planning, controlling, and documenting quality in an organization"
+    },
+    {
+        "term": "issue log",
+        "definition": "A tool used to document, monitor, and track issues that need resolution"
+    },
+    {
+        "term": "IT governance",
+        "definition": "The authority and control for key IT activities in organizations, including IT infrastructure, IT use, and project management"
+    },
+    {
+        "term": "Joint",
+        "definition": "Application | Design (JAD) | Using highly organized and intensive workshops to bring together project stakeholders—the sponsor, users, business analysts, programmers, and so on—to jointly define and design information systems"
+    },
+    {
+        "term": "kaizen",
+        "definition": "The | Japanese word for improvement or change for the better; an approach used for continuously improving quality in organizations"
+    },
+    {
+        "term": "kanban",
+        "definition": "A just-in-time method of inventory control that can be used in conjunction with Scrum"
+    },
+    {
+        "term": "kick-off meeting",
+        "definition": "A meeting held at the beginning of a project so that stakeholders can meet each other, review the goals of the project, and discuss future plans"
+    },
+    {
+        "term": "kill point",
+        "definition": "A management review that should occur after each project phase to determine if projects should be continued, redirected, or terminated; also called a phase exit"
+    },
+    {
+        "term": "known risks",
+        "definition": "Risks that the project team has identified and analyzed and that can be managed proactively"
+    },
+    {
+        "term": "known unknowns",
+        "definition": "Dollar amounts included in a cost estimate to allow for future situations that may be partially planned for (sometimes called contingency reserves) and that are included in the project cost baseline"
+    },
+    {
+        "term": "laissez-faire",
+        "definition": "A leadership style meaning “let go,” this hands-off approach lets teams determine their own goals and how to achieve them"
+    },
+    {
+        "term": "late finish date",
+        "definition": "The latest possible time an activity can be completed without delaying the project finish date"
+    },
+    {
+        "term": "late start date",
+        "definition": "The latest possible time an activity may begin without delaying the project finish date"
+    },
+    {
+        "term": "leader",
+        "definition": "A person who focuses on long-term goals and big-picture objectives while inspiring people to reach those goals"
+    },
+    {
+        "term": "lean",
+        "definition": "An approach for improving quality that involves evaluating processes to maximize customer value while minimizing waste"
+    },
+    {
+        "term": "learning curve theory",
+        "definition": "A theory that when many items are produced repetitively, the unit cost of those items normally decreases in a regular pattern as more units are produced"
+    },
+    {
+        "term": "legitimate power",
+        "definition": "Getting people to do things based on a position of authority"
+    },
+    {
+        "term": "lessons-learned report",
+        "definition": "Reflective statements written by project managers and their team members to document important information they have learned from working on a project"
+    },
+    {
+        "term": "life cycle costing",
+        "definition": "The total cost of ownership, or development plus support costs, for a project"
+    },
+    {
+        "term": "lump-sum contract",
+        "definition": "A contract with a fixed total price for a well-defined product or service; also called a fixed-price contract"
+    },
+    {
+        "term": "maintainability",
+        "definition": "The ease of performing mainte- nance on a product"
+    },
+    {
+        "term": "make-or-buy decision",
+        "definition": "An organization’s deci- sion to make certain products and perform cer- tain services inside the organization or to buy them from an outside organization"
+    },
+    {
+        "term": "Malcolm",
+        "definition": "Baldrige | National | Quality | Award | An award started in 1987 to recognize companies that have achieved a level of world-class compe- tition through quality management"
+    },
+    {
+        "term": "management reserves",
+        "definition": "Dollar amounts included in a cost estimate to allow for future situations that are unpredictable (sometimes called unknown unknowns)"
+    },
+    {
+        "term": "manager",
+        "definition": "A person who deals with the day-to-day details of meeting specific goals"
+    },
+    {
+        "term": "mandatory dependencies",
+        "definition": "The sequencing of project activities or tasks that are inherent in the nature of the work being done on the project"
+    },
+    {
+        "term": "matrix organizational structure",
+        "definition": "An orga- nizational structure in which employees are assigned both to functional and project managers"
+    },
+    {
+        "term": "maturity model",
+        "definition": "A framework for helping orga- nizations improve their processes and systems"
+    },
+    {
+        "term": "mean",
+        "definition": "The average value of a population"
+    },
+    {
+        "term": "measurement and test equipment costs",
+        "definition": "The capital cost of equipment used to perform ­prevention and appraisal activities"
+    },
+    {
+        "term": "megaproject",
+        "definition": "A very large project that typically costs over US$1 billion, affects over one million people, and lasts several years"
+    },
+    {
+        "term": "merge",
+        "definition": "Two or more nodes that precede a single node on a network diagram"
+    },
+    {
+        "term": "methodology",
+        "definition": "A description of how things should be done"
+    },
+    {
+        "term": "metric",
+        "definition": "A standard of measurement"
+    },
+    {
+        "term": "milestone",
+        "definition": "A significant event that nor no duration on a project; serves as a marker to help in identifying necessary activities, setting schedule goals, and monitoring progress"
+    },
+    {
+        "term": "mind mapping",
+        "definition": "A technique that uses branches radiating from a core idea to structure thoughts and ideas"
+    },
+    {
+        "term": "mirroring",
+        "definition": "Matching certain behaviors of another person monitoring and controlling processes Regularly measuring and monitoring progress to ensure that the project team meets the project objectives"
+    },
+    {
+        "term": "Monte",
+        "definition": "Carlo analysis | A risk quantification technique that simulates a model’s outcome many times to provide a statistical distribution of the calculated results"
+    },
+    {
+        "term": "multitasking",
+        "definition": "Working on more than one task at a time"
+    },
+    {
+        "term": "Murphy’s",
+        "definition": "Law | The principle that if something can go wrong, it will"
+    },
+    {
+        "term": "Myers-",
+        "definition": "Briggs | Type | Indicator (MBTI) | A popular tool for determining personality preferences"
+    },
+    {
+        "term": "net present value (NPV) analysis",
+        "definition": "A method of calculating the expected net monetary gain or loss from a project by discounting all expected future cash inflows and outflows to the present point in time"
+    },
+    {
+        "term": "network diagram",
+        "definition": "A schematic display of the logical relationships or sequencing of project activities"
+    },
+    {
+        "term": "node",
+        "definition": "The starting and ending point of an activ- ity on an activity-on-arrow diagram"
+    },
+    {
+        "term": "normal distribution",
+        "definition": "A bell-shaped curve that is symmetrical about the mean of the population"
+    },
+    {
+        "term": "offshoring",
+        "definition": "Outsourcing from another country"
+    },
+    {
+        "term": "opportunities",
+        "definition": "Chances to improve an organization"
+    },
+    {
+        "term": "opportunity cost of capital",
+        "definition": "The rate used in discounting future cash flow; also called the capitalization rate or discount rate organizational breakdown structure (OBS) A specific type of organizational chart that shows which organizational units are responsible for particular work items"
+    },
+    {
+        "term": "organizational culture",
+        "definition": "A set of shared assumptions, values, and behaviors that characterize the functioning of an organization"
+    },
+    {
+        "term": "mally has organizational process assets",
+        "definition": "Formal and informal plans, policies, procedures, guidelines, information systems, financial systems, management systems, lessons learned, and historical information that can influence a project’s success"
+    },
+    {
+        "term": "organizational project management",
+        "definition": "A frame- work in which portfolio, program, and project management are integrated with organizational enablers in order to achieve strategic objectives"
+    },
+    {
+        "term": "outsourcing",
+        "definition": "An organization’s acquisition of goods and services from an outside source"
+    },
+    {
+        "term": "overallocation",
+        "definition": "A state in which not enough resources are available to perform the assigned work during a given time period"
+    },
+    {
+        "term": "overrun",
+        "definition": "The additional percentage or dollar amount by which actual costs exceed estimates"
+    },
+    {
+        "term": "parametric estimating",
+        "definition": "A cost-estimating tech- nique that uses project characteristics (param- eters) in a mathematical model to estimate project costs"
+    },
+    {
+        "term": "Pareto analysis",
+        "definition": "Identifying the vital few contributors that account for most quality problems in a system"
+    },
+    {
+        "term": "Pareto chart",
+        "definition": "A histogram that helps identify and prioritize problem areas"
+    },
+    {
+        "term": "Parkinson’s",
+        "definition": "Law | The principle that work expands to fill the time allowed"
+    },
+    {
+        "term": "payback period",
+        "definition": "The amount of time needed to recoup the total dollars invested in a project, in terms of net cash inflows"
+    },
+    {
+        "term": "performance",
+        "definition": "How well a product or service per- forms the customer’s intended use PERT weighted average (Optimistic time 1 4 * most likely time 1 pessimistic time)/6"
+    },
+    {
+        "term": "phase exit",
+        "definition": "A management review that should occur after each project phase to determine if projects should be continued, redirected, or terminated; also called a kill point"
+    },
+    {
+        "term": "phase gate review",
+        "definition": "Management reviews that keep projects on track and determine if they should be continued, redirected, or terminated; also called phase exits or kill points"
+    },
+    {
+        "term": "planned value (PV)",
+        "definition": "The portion of the approved total cost estimate planned to be spent on an activity during a given period"
+    },
+    {
+        "term": "planning processes",
+        "definition": "Devising and maintaining a workable scheme to ensure that the project addresses the organization’s needs"
+    },
+    {
+        "term": "Point of",
+        "definition": "Total | Assumption (PTA) | The cost at which the contractor assumes total responsibil- ity for each additional dollar of contract cost in a fixed-price incentive fee contract"
+    },
+    {
+        "term": "political frame",
+        "definition": "A frame that addresses organizational and personal politics"
+    },
+    {
+        "term": "politics",
+        "definition": "Competition between groups or individuals for power and leadership"
+    },
+    {
+        "term": "portfolio",
+        "definition": "Projects, programs, subsidiary port- folios, and operations managed as a group to achieve strategic objectives"
+    },
+    {
+        "term": "power",
+        "definition": "The ability to influence behavior to get people to do things they would not otherwise do"
+    },
+    {
+        "term": "power/interest grid",
+        "definition": "A tool used to group stakeholders based on their level of authority (power) and their level of concern (interest) for project outcomes precedence diagramming method (PDM) A network diagramming technique in which boxes represent activities"
+    },
+    {
+        "term": "predictive life cycle",
+        "definition": "A software development approach used when the scope of the project can be articulated clearly and the schedule and cost can be predicted accurately"
+    },
+    {
+        "term": "prevention cost",
+        "definition": "The cost of planning and exe- cuting a project so that it is error- or within an acceptable error range"
+    },
+    {
+        "term": "probabilistic time estimates",
+        "definition": "Duration estimates based on using optimistic, most likely, and pessimistic estimates of activity durations instead of using one specific or discrete estimate"
+    },
+    {
+        "term": "probability/impact matrix or chart",
+        "definition": "A matrix or chart that shows the relative probability of a risk occurring and the relative impact of the risk"
+    },
+    {
+        "term": "problems",
+        "definition": "Undesirable situations that prevent an organization from achieving its goals"
+    },
+    {
+        "term": "process",
+        "definition": "A series of actions directed toward a particular result"
+    },
+    {
+        "term": "process adjustments",
+        "definition": "Adjustments made to cor- rect or prevent further quality problems based on quality control measurements"
+    },
+    {
+        "term": "procurement",
+        "definition": "Acquiring goods and services from an outside source"
+    },
+    {
+        "term": "product backlog",
+        "definition": "A single list of features prioritized by business value"
+    },
+    {
+        "term": "product life cycle",
+        "definition": "A process used to define, create, and deliver products the project, providing integrated change control, and closing the project"
+    },
+    {
+        "term": "project life cycle",
+        "definition": "A collection of project phases, such as concept, development, implementation, and close-out"
+    },
+    {
+        "term": "project management",
+        "definition": "The application of knowl- edge, skills, tools, and techniques to project activities to meet project requirements"
+    },
+    {
+        "term": "Project",
+        "definition": "Management | Professional (PMP®) Certification provided by PMI that requires documenting project experience and education, agreeing to follow the PMI code of ethics, and passing a comprehensive exam project management tools and techniques Methods available to assist project managers and their teams; some popular time-"
+    },
+    {
+        "term": "project management plan",
+        "definition": "A document used to coordinate all project planning documents and guide project execution and control"
+    },
+    {
+        "term": "project management process groups",
+        "definition": "The progression of project activities from initiation to planning, executing, monitoring and controlling, and closing"
+    },
+    {
+        "term": "management tools include",
+        "definition": "Gantt charts, network diagrams, and critical path analysis"
+    },
+    {
+        "term": "project manager",
+        "definition": "The person responsible for working with the project sponsor, the project team, and the other people involved to meet project goals"
+    },
+    {
+        "term": "project organizational structure",
+        "definition": "An organizational structure that groups people by major projects project portfolio management or portfolio"
+    },
+    {
+        "term": "management",
+        "definition": "When organizations group and manage projects as a portfolio of investments that contribute to the entire enterprise’s success"
+    },
+    {
+        "term": "product owner",
+        "definition": "The person responsible for the business value of the project and for deciding what work to do and in what order when using"
+    },
+    {
+        "term": "a",
+        "definition": "Scrum method"
+    },
+    {
+        "term": "profit margin",
+        "definition": "The ratio of profits to revenues"
+    },
+    {
+        "term": "profits",
+        "definition": "Revenues minus expenses"
+    },
+    {
+        "term": "program",
+        "definition": "A group of related projects, subprograms, and program activities managed in a coordinated way to obtain benefits and control not available from managing them individually"
+    },
+    {
+        "term": "Program",
+        "definition": "Evaluation and | Review | Technique"
+    },
+    {
+        "term": "(PERT)",
+        "definition": "A project network analysis technique used to estimate project duration when there is a high degree of uncertainty about the individual activity duration estimates"
+    },
+    {
+        "term": "program manager",
+        "definition": "A person who provides leadership and direction for the project managers heading the projects within a program"
+    },
+    {
+        "term": "progress reports",
+        "definition": "Reports that describe what the project team has accomplished during a certain period of time"
+    },
+    {
+        "term": "project",
+        "definition": "A temporary endeavor undertaken to create a unique product, service, or result project and portfolio management software Software that integrates information from multiple projects to show the status of active, approved, and future projects across an entire organization; also called enterprise project management software"
+    },
+    {
+        "term": "project archives",
+        "definition": "A complete set of organized project records that provide an accurate history of the project"
+    },
+    {
+        "term": "project buffer",
+        "definition": "Time added before the project’s due date"
+    },
+    {
+        "term": "project charter",
+        "definition": "A document that formally recognizes the existence of a project and pro- vides direction on the project’s objectives and management"
+    },
+    {
+        "term": "project cost management",
+        "definition": "The processes required to ensure that the project is completed within the approved budget"
+    },
+    {
+        "term": "project integration management",
+        "definition": "Processes that coordinate all project management knowledge areas throughout a project’s life, including developing the project charter, developing the preliminary project scope statement, developing the project management plan, directing and managing the project, monitoring and controlling"
+    },
+    {
+        "term": "project procurement management",
+        "definition": "The processes required to acquire goods and services for a project from outside the performing organization"
+    },
+    {
+        "term": "project quality management",
+        "definition": "Ensuring that a project will satisfy the needs for which it was undertaken"
+    },
+    {
+        "term": "project scope management",
+        "definition": "The processes involved in defining and controlling what work is or is not included in a project"
+    },
+    {
+        "term": "project scope statement",
+        "definition": "A document that includes at least a description of the project, including its overall objectives and justification, detailed descriptions of all project deliverables, and the characteristics and requirements of products and services produced as part of the project"
+    },
+    {
+        "term": "project sponsor",
+        "definition": "The person who provides the direction and funding for a project"
+    },
+    {
+        "term": "project schedule management",
+        "definition": "The processes required to ensure timely completion of a project"
+    },
+    {
+        "term": "PRojects IN",
+        "definition": "Controlled | Environments"
+    },
+    {
+        "term": "(PRINCE2)",
+        "definition": "A project management methodology"
+    },
+    {
+        "term": "developed in the",
+        "definition": "United | Kingdom that defines 45 separate subprocesses and organizes these into eight process groups"
+    },
+    {
+        "term": "proposal",
+        "definition": "A document prepared by sellers when there are different approaches for meeting buyer needs"
+    },
+    {
+        "term": "prototyping",
+        "definition": "Developing a working replica of the system or some aspect of it to help define user requirements"
+    },
+    {
+        "term": "quality",
+        "definition": "The totality of characteristics of an entity that bear on its ability to satisfy stated or implied needs or the degree to which a set of inherent characteristics fulfill requirements"
+    },
+    {
+        "term": "quality assurance",
+        "definition": "Periodic evaluation of overall project performance to ensure that the project will satisfy the relevant quality standards"
+    },
+    {
+        "term": "quality audit",
+        "definition": "A structured review of specific quality management activities that helps identify lessons learned and that can improve performance on current or future projects"
+    },
+    {
+        "term": "quality circles",
+        "definition": "Groups of nonsupervisors and work leaders in a single company department who volunteer to conduct group studies on how to improve the effectiveness of work in their department"
+    },
+    {
+        "term": "quality control",
+        "definition": "Monitoring specific project results to ensure that they comply with the rel- evant quality standards and identifying ways to improve overall quality"
+    },
+    {
+        "term": "RACI charts",
+        "definition": "Charts that show | Responsibility,"
+    },
+    {
+        "term": "Accountability,",
+        "definition": "Consultation, and | Informed roles for project stakeholders"
+    },
+    {
+        "term": "rapport",
+        "definition": "A relation of harmony, conformity, accord, or affinity"
+    },
+    {
+        "term": "rate of performance (RP)",
+        "definition": "The ratio of actual work completed to the percentage of work planned to have been completed at any given time during the life of the project or activity"
+    },
+    {
+        "term": "Rational",
+        "definition": "Unified | Process (RUP) framework | An iterative software development process that focuses on team productivity and delivers software best practices to all team members"
+    },
+    {
+        "term": "referent power",
+        "definition": "Getting others to do things based on a person’s own charisma"
+    },
+    {
+        "term": "relationship",
+        "definition": "The sequencing of project activities or tasks; also called a dependency"
+    },
+    {
+        "term": "reliability",
+        "definition": "The ability of a product or service to perform as expected under normal conditions"
+    },
+    {
+        "term": "Request for",
+        "definition": "Quote (RFQ) | A document used to solicit quotes or bids from prospective suppliers"
+    },
+    {
+        "term": "required rate of return",
+        "definition": "The minimum accept- able rate of return on an investment"
+    },
+    {
+        "term": "requirement",
+        "definition": "A condition or capability that must be met by the project or that must be present in the product, service, or result to satisfy an agreement or other formally imposed specification"
+    },
+    {
+        "term": "requirements management plan",
+        "definition": "A plan that describes how project requirements will be analyzed, documented, and managed requirements traceability matrix (RTM) A table that lists requirements, their various attri butes, and the status of the requirements to ensure that all are addressed"
+    },
+    {
+        "term": "reserves",
+        "definition": "Dollar amounts included in a cost esti- mate to mitigate cost risk by allowing for future situations that are difficult to predict"
+    },
+    {
+        "term": "residual risks",
+        "definition": "Risks that remain after all of the response strategies have been implemented"
+    },
+    {
+        "term": "resource breakdown structure",
+        "definition": "A hierarchical structure that identifies the project’s resources by category and type"
+    },
+    {
+        "term": "resource histogram",
+        "definition": "A column chart that shows the number of resources assigned to a project over time"
+    },
+    {
+        "term": "resource leveling",
+        "definition": "A technique for resolving resource conflicts by delaying tasks"
+    },
+    {
+        "term": "resource loading",
+        "definition": "The amount of individual resources an existing schedule requires during specific time periods"
+    },
+    {
+        "term": "resources",
+        "definition": "People, equipment, and materials responsibility assignment matrix (RAM) A matrix that maps the work of a project, as described in the WBS, to the people responsible for performing the work, as described in the organizational breakdown structure (OBS)"
+    },
+    {
+        "term": "return on investment (ROI)",
+        "definition": "A method for determining the financial value of a project; the ROI is the result of subtracting the project costs from the benefits and then dividing by the costs"
+    },
+    {
+        "term": "reward power",
+        "definition": "Using incentives to induce people to do things"
+    },
+    {
+        "term": "rework",
+        "definition": "Action taken to bring rejected items into compliance with product requirements, specifications, or other stakeholder expectations"
+    },
+    {
+        "term": "risk",
+        "definition": "An uncertainty that can have a negative or positive effect on meeting project objectives"
+    },
+    {
+        "term": "risk acceptance",
+        "definition": "Accepting the consequences if a risk occurs"
+    },
+    {
+        "term": "risk appetite",
+        "definition": "The degree of uncertainty an entity is willing to take on in anticipation of a reward"
+    },
+    {
+        "term": "risk avoidance",
+        "definition": "Eliminating a specific threat or risk, usually by eliminating its causes"
+    },
+    {
+        "term": "risk breakdown structure",
+        "definition": "A hierarchy of potential risk categories for a project"
+    },
+    {
+        "term": "risk enhancement",
+        "definition": "Changing the size of an opportunity by identifying and maximizing key drivers of the positive risk"
+    },
+    {
+        "term": "risk events",
+        "definition": "Specific uncertain events that may occur to the detriment or enhancement of the project"
+    },
+    {
+        "term": "risk exploitation",
+        "definition": "Doing whatever you can to make sure a positive risk happens"
+    },
+    {
+        "term": "risk factors",
+        "definition": "Numbers that represent the overall risk of specific events, given their probability of occurring and the consequence to the project if they do occur"
+    },
+    {
+        "term": "risk management plan",
+        "definition": "A plan that documents the procedures for managing risk throughout a project"
+    },
+    {
+        "term": "risk mitigation",
+        "definition": "Reducing the impact of a risk event by reducing the probability of its occurrence"
+    },
+    {
+        "term": "risk owner",
+        "definition": "The person who will take responsibility for a risk and its associated response strategies and tasks"
+    },
+    {
+        "term": "risk register",
+        "definition": "A document that contains results of various risk management processes, often displayed in a table or spreadsheet format"
+    },
+    {
+        "term": "risk sharing",
+        "definition": "Allocating ownership of a risk to another party"
+    },
+    {
+        "term": "risk tolerance",
+        "definition": "The maximum acceptable deviation an entity is willing to accept on a project or business objectives as the potential impact"
+    },
+    {
+        "term": "risk transference",
+        "definition": "Shifting the consequence of a risk and responsibility for its management to a third party"
+    },
+    {
+        "term": "risk utility",
+        "definition": "The amount of satisfaction or plea- sure received from a potential payoff"
+    },
+    {
+        "term": "risk-averse",
+        "definition": "Having a low tolerance for risk"
+    },
+    {
+        "term": "risk-neutral",
+        "definition": "A balance between risk and payoff"
+    },
+    {
+        "term": "risk-seeking",
+        "definition": "Having a high tolerance for risk"
+    },
+    {
+        "term": "Robust",
+        "definition": "Design methods | Methods that focus on eliminating defects by substituting scientific inquiry for trial-and-error methods rough order of magnitude (ROM) estimate A cost estimate prepared very early in the life of a project to provide a rough idea of what a project will cost"
+    },
+    {
+        "term": "run chart",
+        "definition": "A chart that displays the history and pattern of variation of a process over time"
+    },
+    {
+        "term": "scatter diagram",
+        "definition": "A diagram that helps to show if there is a relationship between two variables; sometimes called XY charts"
+    },
+    {
+        "term": "schedule baseline",
+        "definition": "The approved planned schedule for the project"
+    },
+    {
+        "term": "schedule performance index (SPI)",
+        "definition": "The ratio of earned value to planned value; can be used to estimate the projected time to complete a project"
+    },
+    {
+        "term": "schedule variance (SV)",
+        "definition": "The earned value minus the planned value"
+    },
+    {
+        "term": "scope",
+        "definition": "All the work involved in creating the products of the project and the processes used to create them"
+    },
+    {
+        "term": "scope baseline",
+        "definition": "The approved project scope statement and its associated WBS and WBS dictionary"
+    },
+    {
+        "term": "scope creep",
+        "definition": "The tendency for project scope to keep getting bigger"
+    },
+    {
+        "term": "scope validation",
+        "definition": "Formal acceptance of the completed project deliverables"
+    },
+    {
+        "term": "Scrum",
+        "definition": "Master | A person who ensures that the"
+    },
+    {
+        "term": "Scrum team or development team",
+        "definition": "A cross- functional team of five to nine people who organize themselves and the work to produce the desired results for each sprint"
+    },
+    {
+        "term": "team is productive, facilitates the daily",
+        "definition": "Scrum, enables close cooperation across all roles and functions, and removes barriers that prevent the team from being effective"
+    },
+    {
+        "term": "secondary risks",
+        "definition": "Risks that are a direct result of implementing a risk response"
+    },
+    {
+        "term": "sellers",
+        "definition": "Contractors, suppliers, or providers who provide goods and services to other organizations"
+    },
+    {
+        "term": "sensitivity analysis",
+        "definition": "A technique used to show the effects of changing one or more variables on an outcome"
+    },
+    {
+        "term": "servant leader",
+        "definition": "A leadership style in which peo- ple focus on relationships and community first and leadership is secondary"
+    },
+    {
+        "term": "seven run rule",
+        "definition": "If seven data points in a row on a quality control chart are all below the mean, above the mean, or increasing or decreasing, then the process needs to be examined for nonrandom problems"
+    },
+    {
+        "term": "Share",
+        "definition": "Point portal | A tool that allows users to create custom websites to access documents and applications stored on shared devices"
+    },
+    {
+        "term": "six 9s of quality",
+        "definition": "A measure of quality control equal to 1 fault in 1 million opportunities"
+    },
+    {
+        "term": "Six",
+        "definition": "Sigma methodologies | Define, | Measure,"
+    },
+    {
+        "term": "Analyze,",
+        "definition": "Improve, and | Control (DMAIC) is used to improve an existing business process, and"
+    },
+    {
+        "term": "Define,",
+        "definition": "Measure, | Analyze, | Design, and | Verify (DMADV) is used to create new product or process designs"
+    },
+    {
+        "term": "slack",
+        "definition": "The amount of time a project activity may be delayed without delaying a succeeding activity or the project finish date; also called float"
+    },
+    {
+        "term": "slipped milestone",
+        "definition": "A milestone activity that is completed later than planned"
+    },
+    {
+        "term": "SMART criteria",
+        "definition": "Guidelines to help define mile- stones that are specific, measurable, assignable, realistic, and time-framed"
+    },
+    {
+        "term": "smoothing mode",
+        "definition": "Deemphasizing or avoiding areas of differences and emphasizing areas of agreement"
+    },
+    {
+        "term": "software defect",
+        "definition": "Anything that must be changed before delivery of the program"
+    },
+    {
+        "term": "Software",
+        "definition": "Quality | Function | Deployment (SQFD)"
+    },
+    {
+        "term": "model",
+        "definition": "A maturity model that focuses on defin- ing user requirements and planning software projects"
+    },
+    {
+        "term": "sprint",
+        "definition": "A set period of time, normally two to four weeks, during which specific work must be completed and made ready for review when"
+    },
+    {
+        "term": "using",
+        "definition": "Scrum methods"
+    },
+    {
+        "term": "sprint backlog",
+        "definition": "The highest-priority items from the product backlog to be completed in a sprint"
+    },
+    {
+        "term": "sprint planning session",
+        "definition": "A meeting with the team to select a set of work from the product backlog to deliver during a sprint"
+    },
+    {
+        "term": "sprint retrospectives",
+        "definition": "A meeting in which the team looks for ways to improve the product and the process based on a review of the actual performance of the development team"
+    },
+    {
+        "term": "sprint reviews",
+        "definition": "A meeting in which the team demonstrates to the product owner what it has completed during the sprint"
+    },
+    {
+        "term": "staffing management plan",
+        "definition": "A document that describes when and how people will be added to a project team and taken off it"
+    },
+    {
+        "term": "stakeholder analysis",
+        "definition": "A technique for analyzing information to determine which stakeholders’ interests to focus on and how to increase stakeholder support throughout the project"
+    },
+    {
+        "term": "stakeholder register",
+        "definition": "A document that includes details about identified project stakeholders"
+    },
+    {
+        "term": "stakeholders",
+        "definition": "People involved in or affected by project activities"
+    },
+    {
+        "term": "standard",
+        "definition": "Best practices for what should be done"
+    },
+    {
+        "term": "standard deviation",
+        "definition": "A measure of how much variation exists in a distribution of data"
+    },
+    {
+        "term": "start-to-finish dependency",
+        "definition": "A relationship on a project network diagram in which the “from” activity cannot start before the “to” activity is finished"
+    },
+    {
+        "term": "start-to-start dependency",
+        "definition": "A relationship on a project network diagram in which the “from” activity cannot start until the “to” activity starts"
+    },
+    {
+        "term": "statement of work (SOW)",
+        "definition": "A description of the work required for procurement"
+    },
+    {
+        "term": "statistical sampling",
+        "definition": "Choosing part of a population of interest for inspection"
+    },
+    {
+        "term": "status reports",
+        "definition": "Reports that describe where a project stands at a specific point in time"
+    },
+    {
+        "term": "strategic planning",
+        "definition": "Determining long-term objec- tives by analyzing the strengths and weaknesses of an organization, studying opportunities and threats in the business environment, predicting future trends, and projecting the need for new products and services"
+    },
+    {
+        "term": "structural frame",
+        "definition": "A frame that deals with how the organization is structured (usually depicted in an organizational chart) and focuses on different groups’ roles and responsibilities to meet the goals and policies set by top management"
+    },
+    {
+        "term": "subproject managers",
+        "definition": "People responsible for managing the subprojects of a larger project"
+    },
+    {
+        "term": "sunk cost",
+        "definition": "Money that has been spent in the past"
+    },
+    {
+        "term": "SWOT analysis",
+        "definition": "Analyzing | Strengths, | Weaknesses,"
+    },
+    {
+        "term": "Opportunities, and",
+        "definition": "Threats; used to aid in strategic planning"
+    },
+    {
+        "term": "symbolic frame",
+        "definition": "A frame that focuses on the symbols, meanings, and culture of an organization"
+    },
+    {
+        "term": "synergy",
+        "definition": "An approach in which the whole is greater than the sum of the parts"
+    },
+    {
+        "term": "system outputs",
+        "definition": "The screens and reports the system generates"
+    },
+    {
+        "term": "system testing",
+        "definition": "Testing the entire system as one entity to ensure that it is working properly"
+    },
+    {
+        "term": "systems",
+        "definition": "Sets of interacting components work- ing within an environment to fulfill some purpose"
+    },
+    {
+        "term": "systems analysis",
+        "definition": "A problem-solving approach that requires defining the scope of the system to be studied, and then dividing it into component parts for identifying and evaluating its problems, opportunities, constraints, and needs"
+    },
+    {
+        "term": "systems approach",
+        "definition": "A holistic and analytical approach to solving complex problems that includes using a systems philosophy, systems analysis, and systems management systems development life cycle (SDLC) A framework for describing the phases involved in developing and maintaining information systems"
+    },
+    {
+        "term": "systems management",
+        "definition": "Addressing the business, technological, and organizational issues associated with creating, maintaining, and modifying a system"
+    },
+    {
+        "term": "systems philosophy",
+        "definition": "An overall model for think- ing about things as systems"
+    },
+    {
+        "term": "systems thinking",
+        "definition": "A holistic view of an organiza- tion to effectively handle complex situations"
+    },
+    {
+        "term": "tacit knowledge",
+        "definition": "Sometimes called informal knowledge, this type of knowledge is difficult to express and is highly personal, such as beliefs, insight, and experience"
+    },
+    {
+        "term": "tangible costs or benefits",
+        "definition": "Costs or benefits that can be easily measured in dollars"
+    },
+    {
+        "term": "task",
+        "definition": "An element of work normally found on the WBS that has an expected duration, cost, and resource requirements; also called an activity"
+    },
+    {
+        "term": "team charter",
+        "definition": "Document to help promote team- work and clarify team communications"
+    },
+    {
+        "term": "team development",
+        "definition": "Building individual and group skills to enhance project performance"
+    },
+    {
+        "term": "termination clause",
+        "definition": "A contract clause that allows the buyer or supplier to end the contract"
+    },
+    {
+        "term": "Theory of",
+        "definition": "Constraints (TOC) | A management philosophy that any complex system at any point in time often has only one aspect or constraint that limits the ability to achieve more of the system’s goal"
+    },
+    {
+        "term": "three-point estimate",
+        "definition": "An estimate that includes an optimistic, a most likely, and a pessimistic estimate"
+    },
+    {
+        "term": "time and material (T&M) contracts",
+        "definition": "A hybrid of fixed-price and cost-reimbursable contracts"
+    },
+    {
+        "term": "Top",
+        "definition": "Ten | Risk | Item | Tracking | A qualitative risk analysis tool for identifying risks and maintain- ing an awareness of risks throughout the life of a project"
+    },
+    {
+        "term": "top-down approach",
+        "definition": "Creating a WBS by starting with the largest items of the project and break- ing them into subordinate items"
+    },
+    {
+        "term": "top-down estimates",
+        "definition": "A cost-estimating technique that uses the actual cost of a previous similar project as the basis for estimating the cost of the current project; also called analogous estimates"
+    },
+    {
+        "term": "total slack (total float)",
+        "definition": "The amount of time an activity may be delayed from its early start without delaying the planned project finish date"
+    },
+    {
+        "term": "Tracking",
+        "definition": "Gantt chart | A | Gantt chart that compares planned and actual project schedule information"
+    },
+    {
+        "term": "transactional",
+        "definition": "A leadership style using a man- agement by exception approach that focuses on achieving goals or compliance by offering team members appropriate rewards and punishments"
+    },
+    {
+        "term": "transformational",
+        "definition": "A leadership style in which people work with others to identify needed changes to empower others and guide changes through inspiration"
+    },
+    {
+        "term": "triggers",
+        "definition": "Indications for actual risk events"
+    },
+    {
+        "term": "triple constraint",
+        "definition": "Balancing scope, time, and cost goals"
+    },
+    {
+        "term": "Tuckman model",
+        "definition": "A model that describes five stages of team development: forming, storming, norming, performing, and adjourning"
+    },
+    {
+        "term": "unit pricing",
+        "definition": "An approach in which the buyer pays the supplier a predetermined amount per unit of service, and the total value of the con- tract is a function of the quantities needed to complete the work"
+    },
+    {
+        "term": "unit test",
+        "definition": "A test of each individual component (often a program) to ensure that it is as defect- free as possible"
+    },
+    {
+        "term": "unknown risks",
+        "definition": "Risks that cannot be managed proactively because they have not been identified and analyzed"
+    },
+    {
+        "term": "unknown unknowns",
+        "definition": "Dollar amounts included in a cost estimate to allow for future situations that are unpredictable (sometimes called management reserves)"
+    },
+    {
+        "term": "use case modeling",
+        "definition": "A process for identifying and modeling business events, who initiated them, and how the system should respond to them"
+    },
+    {
+        "term": "user acceptance testing",
+        "definition": "An independent test performed by end users prior to accepting the delivered system"
+    },
+    {
+        "term": "user stories",
+        "definition": "Short descriptions written by customers of what they need a system to do for them"
+    },
+    {
+        "term": "variance",
+        "definition": "The difference between planned and actual performance"
+    },
+    {
+        "term": "virtual team",
+        "definition": "A group of people who work together despite time and space boundaries using communication technologies"
+    },
+    {
+        "term": "watch list",
+        "definition": "A list of risks that have low priority but are still identified as potential risks"
+    },
+    {
+        "term": "WBS dictionary",
+        "definition": "A document that includes detailed information about each WBS item"
+    },
+    {
+        "term": "weighted scoring model",
+        "definition": "A technique that pro- vides a systematic process for selecting projects based on numerous criteria"
+    },
+    {
+        "term": "wiki",
+        "definition": "A website that enables anyone who accesses it to contribute or modify content"
+    },
+    {
+        "term": "withdrawal mode",
+        "definition": "Retreating or withdrawing from an actual or potential disagreement work breakdown structure (WBS) A deliverable-oriented grouping of the work involved in a project that defines its total scope"
+    },
+    {
+        "term": "work package",
+        "definition": "A task at the lowest level of the WBS"
+    },
+    {
+        "term": "workarounds",
+        "definition": "Unplanned responses to risk events when no contingency plans are in place"
+    },
+    {
+        "term": "yield",
+        "definition": "The number of units handled correctly through the development process ="
+    }
+]
