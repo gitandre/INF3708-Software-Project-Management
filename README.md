@@ -8,6 +8,10 @@ This document is meant for learning purposes and comes with no guarantee of accu
 
 ---
 
+Chapters 1,2,3,4,5,6,7,9,11,13
+
+---
+
 1. Calculations in dir `./Calculations`
  - calculations and formulae.md
 
