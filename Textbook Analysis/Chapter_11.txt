@@ -1,0 +1,1923 @@
+Opening case
+
+Cliff Branch was the president of a small IT consulting firm that specialized in developing Internet and mobile applications and providing full-service support. The staff consisted of programmers, business analysts, database specialists, Web designers, project managers, and others. The firm had 50 full-time people and planned to hire at least 10 more in the next year. The firm also planned to increase the number of part-time consultants it used.
+
+The company had done very well during the past few years, but it was recently having difficulty winning contracts. Spending time and resources to respond to various requests for proposals from prospective clients was becoming expensive. Many clients were starting to require presentations and even some prototype development before awarding a contract.
+
+Cliff knew he had an aggressive approach to risk and liked to bid on the projects with the highest payoff. He did not use a systematic approach to evaluate the risks involved in various projects before bidding on them. He focused on the profit potentials and on how challenging the projects were. His strategy was now causing problems for the company because it was investing heavily in the preparation of proposals, yet winning few contracts. Several employees who were not currently working on projects were still on the payroll, and some of their part-time consultants were actively pursuing other opportunities because they were being underutilized. What could Cliff and his company do to better understand project risks? Should Cliff adjust his strategy for deciding what projects to pursue? How?
+
+the impOrtance Of prOject risk management
+
+Project risk management is the art and science of identifying, analyzing, and responding to risk throughout the life of a project and in the best interests of meeting project objectives.
+
+A frequently overlooked aspect of project management, risk management can often result in significant improvements in the ultimate success of projects. Risk management can have a positive impact on selecting projects, determining their scope, and developing realistic schedules and cost estimates. It helps project stakeholders understand the nature of the project, involves team members in defining strengths and weaknesses, and helps to integrate the other project management knowledge areas.
+
+Good project risk management often goes unnoticed, unlike crisis management, which indicates an obvious danger to the success of a project. The crisis, in turn, receives the intense interest of the entire project team. Resolving a crisis has much greater visibility, often accompanied by rewards from management, than successful risk management. In contrast, when risk management is effective, it results in fewer problems, and for the few problems that exist, it results in more expeditious resolutions. It may be difficult for outside observers to tell whether risk management or luck was responsible for the smooth development of a new system, but project teams always know that their projects worked out better because of good risk management. Managing project risks takes dedicated, talented professionals. In response to this need, PMI introduced the PMI Risk 01356_ch11_hr_463-504.indd 464
+
+5/14/18 5:58 PM
+
+Project Risk Management
+
+465
+
+Management Professional (PMI-RMP)SM credential in 2008. (Consult PMI’s website for further information.)
+
+All industries, especially the software development industry, tend to underestimate the importance of project risk management. William Ibbs and Young H. Kwak studied project management maturity in 38 organizations in different industries. The organizations were divided into four industry groups: engineering and construction, telecommunications, information systems/software development, and high-tech manufacturing. Survey participants answered 148 multiple-choice questions to assess how mature their organization was in the project management knowledge areas of scope, time, cost, quality, human resources, communications, risk, and procurement. The rating scale ranged from 1 to 5, with 5 being the highest maturity rating. Table 11-1 shows the results of the survey. Notice that risk management was the only knowledge area for which all ratings were less than 3. This study showed that all organizations should put more effort into project risk management, especially companies in the information systems and software development industry, which had the lowest rating of 2.75.1
+
+A similar survey was completed with software development companies in Mauritius, South Africa. The average maturity rating was only 2.29 for all knowledge areas on a scale of 1 to 5, with 5 being the highest maturity rating. The lowest average maturity rating, 1.84, was also in the area of project risk management, like the study by Ibbs and Kwak.
+
+Cost management had the highest maturity rating of 2.5, and the survey authors noted that organizations in the study were often concerned with cost overruns and had metrics tabLe 11-1 Project management maturity by industry group and knowledge area keY: 15Lowest maturity rating, 5 5highest maturity rating knowledge
+
+engineering/
+
+information
+
+high-tech
+
+area
+
+construction
+
+telecommunications
+
+systems
+
+manufacturing
+
+Scope
+
+3.52
+
+3.45
+
+3.25
+
+3.37
+
+Time
+
+3.55
+
+3.41
+
+3.03
+
+3.50
+
+Cost
+
+3.74
+
+3.22
+
+3.20
+
+3.97
+
+Quality
+
+2.91
+
+3.22
+
+2.88
+
+3.26
+
+Human
+
+3.18
+
+3.20
+
+2.93
+
+3.18
+
+resources
+
+Communications
+
+3.53
+
+3.53
+
+3.21
+
+3.48
+
+Risk
+
+2.93
+
+2.87
+
+2.75
+
+2.76
+
+Procurement
+
+3.33
+
+3.01
+
+2.91
+
+3.33
+
+Source: Ibbs and Kwak
+
+01356_ch11_hr_463-504.indd 465
+
+5/14/18 5:58 PM
+
+466
+
+
+
+* * *
+
+
+
+
+
+Chapter 11
+
+
+in place to help control costs. The authors also found that maturity rating was closely linked to the success rate of projects, and that the poor rating for risk management was a likely cause of project problems and failures.2
+
+KLCI Research Group surveyed 260 software organizations worldwide to study software risk management practices. The following points summarize some of their findings:
+
+• Ninety-seven percent of the participants said they had procedures in place to identify and assess risk.
+
+• Eighty percent identified anticipating and avoiding problems as the primary benefit of risk management.
+
+• Seventy percent of the organizations had defined software development processes.
+
+• Sixty-four percent had a Project Management Office.
+
+Figure 11-1 shows the main benefits from software risk management practices cited by survey respondents. In addition to anticipating and avoiding problems, risk management practices helped software project managers prevent surprises, improve negotiations, meet customer commitments, and reduce schedule slips and cost overruns.3
+
+Although many organizations know that they do not do a good job of managing project risk, little progress seems to have been made over the past decade in improving 100%
+
+80%
+
+80%
+
+60%
+
+60%
+
+47%
+
+47%
+
+43%
+
+40%
+
+35%
+
+20%
+
+% of Survey Respondents
+
+6%
+
+0%
+
+s
+
+ents
+
+None
+
+itm
+
+m
+
+Prevent surprises
+
+er com
+
+Reduce schedule slips
+
+Reduce cost overruns
+
+Anticipate/avoid problemprove ability to negotiate
+
+Im
+
+eet custom
+
+M
+
+Source: Kulik and Weber, KLCI Research Group
+
+figure 11-1 Benefits from software risk management practices 01356_ch11_hr_463-504.indd 466
+
+5/14/18 5:58 PM
+
+Project Risk Management
+
+467
+
+risk management on a project level or an enterprise level. Several books and articles have been written on the topic. For example shortly after the fall 2008 stock market crash, Dr. David Hillson, PMP®, wrote about the importance of project risk management. Hillson said:
+
+There is no doubt that all sectors of industry and society are facing real challenges in coping with the current fallout from the credit crunch. But risk management should not be regarded as a nonessential cost to be cut in these difficult times.
+
+Instead, organisations should use the insights offered by the risk process to ensure that they can handle the inevitable uncertainties and emerge in the best possible position in [the] future. With high levels of volatility surrounding us on all sides, risk management is more needed now than ever, and cutting it would be a false economy.
+
+Rather than treating risk management as part of the problem, we should see it as a major part of the solution.4
+
+Hillson continues to write articles and books, give presentations, and provide videos on his website at www.risk-doctor.com.
+
+g L O b a L i s s u e s
+
+Many people around the world suffered losses as various financial markets dropped in the fall of 2008, even after the $700 billion economic stabilization act was passed by the U.S. Congress. According to a survey of 316 global financial services executives conducted in July 2008, over 70 percent of respondents believed that the losses during the financial crisis were largely due to failures to address risk management issues. The executives identified several challenges in implementing risk management, including data and company culture issues. For example, access to relevant, timely, and consistent data continues to be a major obstacle in many organizations. Many respondents also said that fostering a culture of risk management was a major challenge.
+
+Executives and lawmakers finally started paying attention to risk management.
+
+Fifty-nine percent of survey respondents said the financial crisis prompted them to scrutinize their risk management practices in greater detail, and many institutions are revisiting their risk management practices. The Financial Stability Forum (FSF) and the Institute for International Finance (IIF) called for closer scrutiny of the risk management process.5
+
+Risk continues to be an important issue in the financial industry, and organizations are taking a more proactive approach by investing in IT such as cloud computing, big data, and analytics to help them identify and mitigate risk. “Worldwide, the capital markets, banking and insurance sectors will spend roughly $78.6 billion on risk information technologies and services (RITS) in 2015, according to a new study. What’s more, that figure is expected to grow to $96.3 billion by 2018.”6
+
+Before you can improve project risk management, you must understand what risk is. A basic dictionary definition states that risk is “the possibility of loss or injury.”
+
+This definition highlights the negativity often associated with risk and points out that 01356_ch11_hr_463-504.indd 467
+
+5/14/18 5:58 PM
+
+468
+
+
+
+* * *
+
+
+
+
+
+Chapter 11
+
+
+uncertainty is involved. Project risk management involves understanding potential problems that might occur on the project and how they might impede project success.
+
+The PMBOK® Guide – Sixth Edition refers to this type of risk as a negative risk or threat.
+
+However, there are also positive risks or opportunities, which can result in good outcomes for a project. A general definition of a project risk, therefore, is an uncertainty that can have a negative or positive effect on meeting project objectives.
+
+Managing negative risks involves a number of possible actions that project managers can take to avoid, lessen, change, or accept the potential effects of risks on their projects. Positive risk management is like investing in opportunities. It is important to note that risk management is an investment—costs are associated with it.
+
+The investment that an organization is willing to make in risk management activities depends on the nature of the project, the experience of the project team, and the constraints imposed on both. In any case, the cost for risk management should not exceed the potential benefits.
+
+If there is so much risk in IT projects, why do organizations pursue them? Many companies are in business today because they took risks that created great opportunities.
+
+Organizations survive over the long term when they pursue opportunities. IT is often a key part of a business’s strategy; without it, many businesses might not survive. Given that all projects involve uncertainties that can have negative or positive outcomes, the question is how to decide which projects to pursue and how to identify and manage project risk throughout a project’s life cycle.
+
+B e s t P r a c t i c e
+
+Some organizations make the mistake of addressing only tactical and negative risks when performing project risk management. David Hillson (www.risk-doctor.com) suggests overcoming this problem by widening the scope of risk management to encompass both strategic risks and upside opportunities, which he refers to as integrated risk management. Benefits of this approach include:
+
+• Bridging the strategy and tactics gap to ensure that project delivery is tied to organizational needs and vision
+
+• Focusing projects on the benefits they exist to support, rather than producing a set of deliverables
+
+• Managing opportunities proactively as an integral part of business processes at both strategic and tactical levels
+
+• Providing useful information to decision makers at all levels when the environment is uncertain
+
+• Allowing an appropriate level of risk to be taken intelligently with full awareness of the degree of uncertainty and its potential effects on objectives7
+
+In a 2014 paper, Hilson also described the importance of good working relationships as a best practice in managing project risk. “. . . management of overall project risk becomes a shared duty of both project sponsor and project manager, acting in ( continued)
+
+01356_ch11_hr_463-504.indd 468
+
+6/18/18 4:22 PM
+
+Project Risk Management
+
+469
+
+partnership to ensure that the project has the optimal chance of achieving its objectives within the allowable risk threshold. Successful management of risk at this whole-project level therefore depends largely on the effectiveness of the working relationship between these two key players.”8
+
+Several risk experts suggest that organizations and individuals should strive to find a balance between risks and opportunities in all aspects of projects and their personal lives. The idea of striving for balance suggests that different organizations and people have different attitudes toward risk. Some organizations or people have a neutral tolerance for risk, some have an aversion to risk, and others are risk-seeking. These three preferences are part of the utility theory of risk.
+
+Risk utility is the amount of satisfaction or pleasure received from a potential payoff. Figure 11-2 shows the basic difference between risk-averse, risk-neutral, and risk-seeking preferences. The y-axis represents utility, or the amount of pleasure received from taking a risk. The x-axis shows the amount of potential payoff or dollar value of the opportunity at stake. Utility rises at a decreasing rate for a risk-averse person or organization. In other words, when more payoff or money is at stake, a person or organization that is risk-averse gains less satisfaction from the risk, or has lower tolerance for the risk. Those who are risk-seeking have a higher tolerance for risk, and their satisfaction increases when more payoff is at stake. A risk-seeking person or organization prefers outcomes that are more uncertain and is often willing to pay a penalty to take risks. A risk-neutral person or organization achieves a balance between risk and payoff. For example, a risk-averse organization might not purchase hardware from a vendor who has not been in business for a specified period of time.
+
+A risk-seeking organization might deliberately choose startup vendors for hardware purchases to gain new products with unusual features that provide an advantage.
+
+A risk-neutral organization might perform a series of analyses to evaluate possible purchase decisions. This type of organization evaluates decisions using a number of factors—risk is just one of them.
+
+Risk-Averse
+
+Risk-Neutral
+
+Risk-Seeking
+
+utility
+
+utility
+
+utility
+
+potential payoff
+
+potential payoff
+
+potential payoff
+
+figure 11-2 Risk utility function and risk preference 01356_ch11_hr_463-504.indd 469
+
+5/14/18 5:58 PM
+
+470
+
+
+
+* * *
+
+
+
+
+
+Chapter 11
+
+
+a d v i c e f O r Y O u n g p r O f e s s i O n a L s Young project professionals are sometimes more willing to take risks with unique or untested approaches than their more experienced counterparts. Project teams with less experience often believe that they can accomplish more than they are realistically able to do within a certain time period, or they might convince each other that apparent risks are not as much of a concern as they really should be. They may also fail to take into account some details of costs or quality that a more experienced person might include because they have not seen how such factors can be affected by unlikely events that actually happen. Years of experience in managing projects tends to build a sense of awareness or second nature about risk. So, take the time to find out what other, more experienced people might feel about the circumstances of a project before making up your mind about potential risks. Then, taking other views into account, you can determine how best to plan for the impacts that might occur while balancing the rewards of a potential payoff from a unique or untested approach.
+
+The goal of project risk management can be viewed as minimizing potential negative risks while maximizing potential positive risks. The term known risks is sometimes used to describe risks that the project team has identified and analyzed. Known risks can be managed proactively. However, unknown risks, or risks that have not been identified and analyzed, cannot be managed.
+
+As you can imagine, good project managers know it is good practice to take the time to identify and manage project risks. Six major processes are involved in risk management:
+
+1. Planning risk management involves deciding how to approach and plan risk management activities for the project. The main output of this process is a risk management plan.
+
+2. Identifying risks involves determining which risks are likely to affect a project and documenting the characteristics of each. The main outputs of this process are a risk register, risk report, and project documents updates.
+
+3. Performing qualitative risk analysis involves prioritizing risks based on their probability of occurrence and impact. After identifying risks, project teams can use various tools and techniques to rank risks and update information in the risk register. The main outputs are project documents updates.
+
+4. Performing quantitative risk analysis involves numerically estimating the effects of risks on project objectives. The main outputs of this process are project documents updates.
+
+5. Planning risk responses involves taking steps to enhance opportunities and reduce threats to meeting project objectives. Using outputs from the preceding risk management processes, project teams can develop risk response strategies that often result in change requests, updates to the project management plan and project documents.
+
+01356_ch11_hr_463-504.indd 470
+
+5/14/18 5:58 PM
+
+Project Risk Management
+
+471
+
+6. Implementing risk responses, just as it sounds, involves implementing the risk response plans. Outputs include change requests and project documents updates.
+
+7. Monitoring risk involves monitoring identified and residual risks, identifying new risks, carrying out risk response plans, and evaluating the effectiveness of risk strategies throughout the life of the project. The main outputs of this process include work performance information, change requests, and updates to the project management plan, project documents, and organizational process assets.
+
+Figure 11-3 summarizes the inputs, tools and techniques, and outputs of project risk management.
+
+Project Risk
+
+Management Overview
+
+11.1 Plan Risk
+
+11.3 Perform Qualitative
+
+11.4 Perform Quantitative
+
+11.2 Identify Risks
+
+Management
+
+Risk Analysis
+
+Risk Analysis
+
+.1 Inputs
+
+.1 Inputs
+
+.1 Inputs
+
+.1 Inputs
+
+.1 Project charter
+
+.1 Project management plan
+
+.1 Project management plan
+
+.1 Project management plan
+
+.2 Project management plan
+
+.2 Project documents
+
+.2 Project documents
+
+.2 Project documents
+
+.3 Project documents
+
+.3 Agreements
+
+.3 Enterprise environmental
+
+.3 Enterprise environmental
+
+.4 Enterprise environmental
+
+.4 Procurement
+
+factors
+
+factors
+
+factors
+
+documentation
+
+.4 Organizational process
+
+.4 Organizational process
+
+.5 Organizational process
+
+.5 Enterprise environmental
+
+assets
+
+assets
+
+assets
+
+factors
+
+.2 Tools & Techniques
+
+.2 Tools & Techniques
+
+.6 Organizational process
+
+.2 Tools & Techniques
+
+.1 Expert judgment
+
+.1 Expert judgment
+
+assets
+
+.1 Expert judgment
+
+.2 Data gathering
+
+.2 Data gathering
+
+.2 Data analysis
+
+.2 Tools & Techniques
+
+.3 Data analysis
+
+.3 Interpersonal and team
+
+.3 Meetings
+
+.1 Expert judgment
+
+.4 Interpersonal and team
+
+skills
+
+.2 Data gathering
+
+skills
+
+.4 Representations of
+
+.3 Outputs
+
+.3 Data analysis
+
+.5 Risk categorization
+
+uncertainty
+
+.1 Risk management plan
+
+.4 Interpersonal and team
+
+.6 Data representation
+
+.5 Data analysis
+
+skills
+
+.7 Meetings
+
+.3. Outputs
+
+.5 Prompt lists
+
+11.5 Plan
+
+.3 Outputs
+
+.1 Project documents updates
+
+.6 Meetings
+
+.1 Project documents updates
+
+Risk Responses
+
+.3 Outputs
+
+.1 Risk register
+
+.1 Inputs
+
+.2 Risk report
+
+.1 Project management plan
+
+.3 Project documents updates
+
+11.7 Monitor Risks
+
+.2 Project documents
+
+.3 Enterprise environmental
+
+factors
+
+.1 Inputs
+
+.4 Organizational process
+
+11.6 Implement Risk
+
+.1 Project management plan
+
+assets
+
+Responses
+
+.2 Project documents
+
+.3 Work performance data
+
+.2 Tools & Techniques
+
+.1 Inputs
+
+.4 Work performance reports
+
+.1 Expert judgment
+
+.1 Project management plan
+
+.2 Data gathering
+
+.2. Tools & Techniques
+
+.2 Project documents
+
+.3 Interpersonal and team
+
+.1 Data analysis
+
+.3 Organizational process
+
+skills
+
+.2 Audits
+
+assets
+
+.4 Strategies for threats
+
+.3 Meetings
+
+.5 Strategies for
+
+.2 Tools & Techniques
+
+.3. Outputs
+
+opportunities
+
+.1 Expert judgment
+
+.1 Work performance
+
+.6 Contingent response
+
+.2 Interpersonal and team
+
+information
+
+strategies
+
+skills
+
+.2 Change requests
+
+.7 Strategies for overall
+
+.3 Project management
+
+.3 Project management plan
+
+project risk
+
+information system
+
+updates
+
+.8 Data analysis
+
+.3 Outputs
+
+.4 Project documents updates
+
+.9 Decision making
+
+.1 Change requests
+
+.5 Organizational process
+
+.3 Outputs
+
+.2 Project documents updates
+
+assets updates
+
+.1 Change requests
+
+.2 Project management plan
+
+updates
+
+.3 Project documents updates
+
+Source: PMBOK® Guide – Sixth Edition. Project Management Institute, Inc. (2017). Copyright and all rights reserved. Material from this publication has been reproduced with permission of PMI.
+
+figure 11-3 Project risk management overview
+
+01356_ch11_hr_463-504.indd 471
+
+5/14/18 5:58 PM
+
+472
+
+
+
+* * *
+
+
+
+
+
+Chapter 11
+
+
+The first step in project risk management is determining how to address this knowledge area for a particular project by performing risk management planning.
+
+pLanning risk management
+
+Planning risk management is the process of deciding how to approach risk management activities and plan for them in a project; the main output of this process is a risk management plan. A risk management plan documents the procedures for managing risk throughout the project. Project teams should hold several planning meetings early in the project’s life cycle to help develop the risk management plan. The project team should review project documents as well as corporate risk management policies, risk categories, lessons-learned reports from past projects, and templates for creating a risk management plan. It is also important to review the risk tolerances of various stakeholders. For example, if the project sponsor is risk-averse, the project might require a different approach to risk management than if the project sponsor were a risk seeker.
+
+A risk management plan summarizes how risk management will be performed on a particular project. Like plans for other knowledge areas, it becomes a subset of the project management plan. Table 11-2 lists the general topics that a risk management plan should address. It is important to clarify roles and responsibilities, prepare budget and schedule estimates for risk-related work, and identify risk categories for consideration. It is also important to describe how risk management will be done, including assessment of risk probabilities and impacts as well as the creation of risk-related documentation. The level of detail included in the risk management plan can vary with the needs of the project.
+
+In addition to a risk management plan, many projects also include contingency plans, fallback plans, contingency reserves, and management reserves.
+
+• Contingency plans are predefined actions that the project team will take if an identified risk event occurs. For example, if the project team knows that a new release of a software package may not be available in time to use for the project, the team might have a contingency plan to use the existing, older version of the software.
+
+• Fallback plans are developed for risks that have a high impact on meeting project objectives and are put into effect if attempts to reduce the risk do not work. For example, a new college graduate might have a main plan and several contingency plans for where to live after graduation, but if these plans do not work out, a fallback plan might be to live at home for a while. Sometimes the terms contingency plan and fallback plan are used interchangeably.
+
+• Contingency reserves or contingency allowances are funds included in the cost baseline that can be used to mitigate cost or schedule overruns if known risks occur. For example, if a project appears to be off course because the staff is not experienced with a new technology and the team had identified that as a risk, the contingency reserves could be used to hire 01356_ch11_hr_463-504.indd 472
+
+5/14/18 5:58 PM
+
+Project Risk Management
+
+473
+
+tabLe 11-2 Topics addressed in a risk management plan topic
+
+Questions to answer
+
+Methodology
+
+How will risk management be performed on this project?
+
+What tools and data sources are available and applicable?
+
+Roles and responsibilities
+
+Which people are responsible for implementing specific tasks and providing deliverables related to risk management?
+
+Budget and schedule
+
+What are the estimated costs and schedules for performing risk-related activities?
+
+Risk categories
+
+What are the main categories of risks that should be
+
+addressed on this project? Is there a risk breakdown
+
+structure for the project? (See the information on risk breakdown structures later in this chapter.)
+
+Risk probability and
+
+How will the probabilities and impacts of risk items be impact
+
+assessed? What scoring and interpretation methods will be used for the qualitative and quantitative analysis of risks? How will the probability and impact matrix be
+
+developed?
+
+Revised stakeholders’
+
+Have stakeholders’ tolerances for risk changed? How will tolerances
+
+those changes affect the project?
+
+Tracking
+
+How will the team track risk management activities? How will lessons learned be documented and shared? How will risk management processes be audited?
+
+Risk documentation
+
+What reporting formats and processes will be used for risk management activities?
+
+an outside consultant to train and advise the project staff in using the new technology.
+
+• Management reserves are funds held for unknown risks that are used for management control purposes. They are not part of the cost baseline, as discussed in Chapter 7, but they are part of the project budget and funding requirements. If the management reserves are used for unforeseen work, they are added to the cost baseline after the change is approved.
+
+Contingency plans, fallback plans, and reserves show the importance of taking a proactive approach to managing project risks.
+
+Before you can really understand and use project risk management processes on IT
+
+projects, it is necessary to recognize and understand the common sources of risk.
+
+01356_ch11_hr_463-504.indd 473
+
+5/14/18 5:58 PM
+
+474
+
+
+
+* * *
+
+
+
+
+
+Chapter 11
+
+
+cOmmOn sOurces Of risk On it prOjects
+
+Several studies have shown that IT projects share some common sources of risk. For example, recall from Chapter 1 the factors of success from the Standish Group. The top four factors were executive sponsorship, emotional maturity, user involvement, and optimization, all with equal scores of 15. If a potential project does not receive a minimum score on any of these factors, the organization might decide not to work on it or to reduce the risks before investing too much time or money.9
+
+Many organizations develop their own risk questionnaires. Broad categories of risks described on these questionnaires might include the following:
+
+• Market risk: If the IT project will create a new product or service, will it be useful to the organization or marketable to others? Will users accept and use the product or service? Will someone else create a better product or service faster, making the project a waste of time and money?
+
+• Financial risk: Can the organization afford to undertake the project? How confident are stakeholders in the financial projections? Will the project meet NPV, ROI, and payback estimates? If not, can the organization afford to continue the project? Is this project the best way to use the organization’s financial resources?
+
+• Technology risk: Is the project technically feasible? Will it use mature, leading-edge, or bleeding-edge technologies? When will decisions be made on which technology to use? Will hardware, software, and networks function properly? Will the technology be available in time to meet project objectives?
+
+Could the technology be obsolete before a useful product can be created? You can also break down the technology risk category into hardware, software, and network technology, if desired.
+
+• People risk: Does the organization have people with appropriate skills to complete the project successfully? If not, can the organization find such people?
+
+Do people have the proper managerial and technical skills? Do they have enough experience? Does senior management support the project? Is there a project champion? Is the organization familiar with the sponsor or customer for the project? How good is the relationship with the sponsor or customer?
+
+• Structure/process risk: What degree of change will the new project introduce into user areas and business procedures? How many distinct user groups does the project need to satisfy? With how many other systems does the new project or system need to interact? Does the organization have processes in place to complete the project successfully?
+
+Reviewing a proposed project in terms of the Standish Group’s factors of success, a risk questionnaire, or another similar tool is a good method for understanding common sources of risk on IT projects. It is also useful to review the work breakdown structure (WBS) for a project to see if there might be specific risks by WBS categories. For example, if an item on the WBS involves preparing a press release and no one on the project team has ever written one, it could be a negative risk if the release is not handled professionally.
+
+A risk breakdown structure is a useful tool to help project managers consider potential risks in different categories. Similar in form to a WBS, a risk breakdown structure is a 01356_ch11_hr_463-504.indd 474
+
+5/14/18 5:58 PM
+
+Project Risk Management
+
+475
+
+W h a t W e n t W r O n g ?
+
+Performing risk management is important to improving the likelihood of project success.
+
+But in 1995, more than half of projects with significant cost or schedule overruns had no risk management in place, according to a study conducted by KPMG, a large consulting firm.10 Nearly 20 years later, the situation was much the same. In a 2013 KPMG survey of over 1,000 executives, although risk management was a high priority, only 66 percent of companies said they often or constantly build it into their strategic planning decisions. A key observation in the survey report is that “Risk management is at the top of the global executive agenda . . . those companies that fail to manage them well imperil their future.”11 Only 44 percent of executives believed their organizations were effective at developing stakeholders’ understanding of risk. The executives also said challenges are growing faster than they can handle them. The top three risks reported were growing regulatory pressure from governments, reputational risk, and market risk.
+
+Airline incidents cause concerns, especially when lives are lost. The Germanwings crash in 2015 resulted in 150 deaths, allegedly due to the co-pilot’s poor mental state.
+
+Senior managers are reviewing policies related to risk management to help prevent future tragedies. Some changes can take place immediately, while others will take more time. For example, the German air traffic control authority suggested investing in new technologies like remote command of passenger planes, an approach that will take a fair amount of time and money to implement. Other policy changes have already been made.
+
+“Since the Germanwings crash, European airlines have implemented a rule that two people must be in the cockpit at all times and Germany has set up a task force with the aviation industry to consider changes to medical and psychological tests for pilots.”12
+
+hierarchy of potential risk categories for a project. Figure 11-4 shows a sample risk breakdown structure that might apply to many IT projects. The highest-level categories are business, technical, organizational, and project management. Competitors, suppliers, and cash flow are categories that fall under business risks. Under technical risks are the categories of hardware, software, and network. Hardware could be broken down further to include malfunctions, availability, and cost. Notice how the risk breakdown structure provides a simple, one-page chart to help ensure that a project team considers important risk categories related to all IT projects. For example, Cliff and his managers in the chapter’s opening case could have benefited from considering several of the categories listed under project management—
+
+estimates, communication, and resources. They could have discussed these risks and other types of risks related to the projects their company bid on, and then developed appropriate strategies for optimizing positive risks and minimizing negative ones.
+
+In addition to identifying risk based on the nature of the project or products created, it is also important to identify potential risks according to project management knowledge areas, such as scope, time, cost, and quality. Notice that a major category in the risk breakdown structure in Figure 11-4 is project management. Table 11-3 lists potential negative risk conditions that can exist within each knowledge area.13
+
+Understanding common sources of risk is very helpful in risk identification, which is the next step in project risk management.
+
+01356_ch11_hr_463-504.indd 475
+
+5/14/18 5:58 PM
+
+476
+
+
+
+* * *
+
+
+
+
+
+Chapter 11
+
+
+IT Project
+
+
+Business
+
+Technical
+
+Organizational
+
+Project
+
+Management
+
+Competitors
+
+Executive
+
+Hardware
+
+support
+
+Estimates
+
+Suppliers
+
+Software
+
+User support
+
+Communication
+
+Cash flow
+
+Network
+
+Team support
+
+Resources
+
+figure 11-4 Sample risk breakdown structure
+
+tabLe 11-3 Potential negative risk conditions associated with each knowledge area knowledge area
+
+risk conditions
+
+Integration
+
+Inadequate planning; poor resource allocation; poor integration management; lack of post-project review
+
+Scope
+
+Poor definition of scope or work packages; incomplete definition Time
+
+Errors in estimating time or resource availability; errors in determining the critical path; poor allocation and management of float; early release of competitive products
+
+Cost
+
+Estimating errors; inadequate productivity, cost, change, or contingency
+
+Quality
+
+Poor attitude toward quality; substandard design, materials, and workmanship; inadequate quality assurance program
+
+Human resource
+
+Poor conflict management; poor project organization and definition of responsibilities; absence of leadership
+
+Communications
+
+Carelessness in planning or communicating
+
+Risk
+
+Ignoring risk; unclear analysis of risk; poor insurance management Procurement
+
+Unenforceable conditions or contract clauses; adversarial relations Stakeholders
+
+Lack of consultation with key stakeholder; poor sponsor engagement
+
+Source: R.M. Wideman
+
+01356_ch11_hr_463-504.indd 476
+
+5/14/18 5:58 PM
+
+Project Risk Management
+
+477
+
+identifYing risks
+
+Identifying risks is the process of understanding what potential events might hurt or enhance a particular project. It is important to identify potential risks early, but you must also continue to identify risks based on the changing project environment. Also remember that you cannot manage risks if you do not identify them first. By understanding common sources of risks and reviewing a project’s project management plan, project documents, agreements, procurement documents, enterprise environmental factors, and organizational process assets project managers and their teams can identify many potential risks.
+
+Another consideration for identifying risks is the likelihood of advanced discovery, which is often viewed at a program level rather than a project level. The Department of Defense (DOD) Risk, Issue, and Opportunity Management Guide addresses this concept and emphasizes the need to establish high-level indicators for an entire program. For example, several experts track asteroids to enable a response in case one threatens our planet. Although the likelihood of a deadly asteroid is very low, the impact is extremely high. For IT programs, advanced discovery could involve monitoring an important supplier who might remove support for software used on several projects. Some suppliers provide early warning for this possibility, while others do not. It is important for organizations to identify these advanced discovery risks early and track their status in case time is needed to develop responses.
+
+suggestions for identifying risks
+
+There are several tools and techniques for identifying risks. Project teams often begin this process by reviewing project documentation, recent and historical information related to the organization, and assumptions that might affect the project. Project team members and outside experts often hold meetings to discuss this information and ask important questions about it as they relate to risk. After identifying potential risks at the initial meeting, the project team might then use different information-gathering techniques to further identify risks. Some common techniques include brainstorming, the Delphi technique, interviewing, root cause analysis, and SWOT analysis.
+
+Brainstorming is a technique by which a group attempts to generate ideas or find a solution for a specific problem by amassing ideas spontaneously and without judgment.
+
+This approach can help the group create a comprehensive list of risks to address later during qualitative and quantitative risk analysis. An experienced facilitator should run the brainstorming session and introduce new categories of potential risks to keep the ideas flowing. After the ideas are collected, the facilitator can group and categorize the ideas to make them more manageable. Care must be taken, however, not to overuse or misuse brainstorming. Although businesses use brainstorming widely to generate new ideas, the psychology literature shows that individual people working alone produce a greater number of ideas than they produce through brainstorming in small, face-to-face groups. Group effects, such as fear of social disapproval, the effects of authority hierarchy, and domination of the session by one or two vocal people, often inhibit idea generation for many participants.14
+
+The Delphi technique is an approach to gathering information that helps prevent some of the negative group effects found in brainstorming. The basic concept of the Delphi 01356_ch11_hr_463-504.indd 477
+
+5/14/18 5:58 PM
+
+478
+
+
+
+* * *
+
+
+
+
+
+Chapter 11
+
+
+technique is to derive a consensus among a panel of experts who make predictions about future developments. Developed by the Rand Corporation for the U.S. Air Force in the late 1960s, the Delphi technique is a systematic, interactive forecasting procedure based on independent and anonymous input regarding future events. The Delphi technique uses repeated rounds of questioning and written responses, including feedback to responses in earlier rounds, to take advantage of group input while avoiding the possible biasing effects of oral panel deliberations. To use the Delphi technique, you must select a panel of experts for the particular area in question. For example, Cliff Branch from the opening case could use the Delphi technique to help him understand why his company is no longer winning many contracts. Cliff could assemble a panel of people with knowledge in his business area.
+
+Each expert would answer questions related to Cliff’s situation, and then Cliff or a facilitator would evaluate their responses, together with opinions and justifications, and provide that feedback to each expert in the next iteration. Cliff would continue this process until the group responses converge to a specific solution. If the responses diverge, the facilitator of the Delphi technique needs to determine if there is a problem with the process.
+
+Interviewing is a fact-finding technique for collecting information in face-to-face, phone, e-mail, or virtual discussions. Interviewing people with similar project experience is an important tool for identifying potential risks. For example, if a new project involves using a particular type of hardware or software, people who had recent experience with that hardware or software could describe their problems on a past project. If people have worked with a particular customer, they might provide insight into the potential risks of working for that customer again. It is important to be well prepared for leading interviews; it often helps to create a list of questions to use as a guide during the interview.
+
+It is not uncommon for people to identify problems or opportunities without really understanding them. Before suggesting courses of action, it is important to identify the root cause of a problem or opportunity. Root cause analysis (as you learned in Chapter 8, Project Quality Management) often results in identifying even more potential risks for a project.
+
+Another technique is a SWOT analysis of strengths, weaknesses, opportunities, and threats, which is often used in strategic planning. SWOT analysis can also be used during risk identification by having project teams focus on the broad perspectives of potential risks for particular projects. (You first learned about SWOT analysis in Chapter 4, Project Integration Management.) For example, before writing a particular proposal, Cliff Branch could have a group of his employees discuss in detail their company’s strengths, their weaknesses for the project, and what opportunities and threats exist. Do they know that several competing firms are much more likely to win a certain contract? Do they know that winning a particular contract will likely lead to future contracts and help expand their business? Applying SWOT to specific potential projects can help identify the broad risks and opportunities that apply in that scenario.
+
+the risk register
+
+One important output of risk identification is a list of identified risks and other information needed to begin creating a risk register. A risk register is a document that contains results of various risk management processes; it is often displayed in a table or spreadsheet format. A risk register is a tool for documenting potential risk events and related information. Risk events refer to specific, uncertain events that may occur to the 01356_ch11_hr_463-504.indd 478
+
+5/14/18 5:58 PM
+
+Project Risk Management
+
+479
+
+detriment or enhancement of the project. For example, negative risk events might include the performance failure of a product created as part of a project, delays in completing work as scheduled, increases in estimated costs, supply shortages, litigation against the company, and strikes. Examples of positive risk events include completing work sooner or cheaper than planned, collaborating with suppliers to produce better products, and good publicity resulting from the project.
+
+Table 11-4 provides a sample of the format for a risk register that Cliff and his managers from the opening case might use on a new project. Actual data that might be entered for one of the risks is included below the table. Notice the main headings often included in the register. Many of these items are described in more detail later in this chapter. Elements of a risk register include the following:
+
+• An identification number for each risk event: The project team may want to sort by risk events or quickly search for specific risk events, so they need to identify each risk with a unique descriptor, such as an identification number.
+
+• A rank for each risk event: The rank is usually a number, with 1 representing the highest risk.
+
+• The name of the risk event: Example names include defective server, late completion of testing, reduced consulting costs, and good publicity.
+
+• A description of the risk event: Because the name of a risk event is often abbreviated, it helps to provide a more detailed description. Consider using a risk statement format similar to the following: “Because of <one or more causes>, <risk event> might occur, which would lead to <one or more effects>.” For example, reduced consulting costs might be expanded to:
+
+“Because this particular consultant enjoys working for our company and is open to negotiating her rates, reduced consulting costs might occur, which could lead to saving money on the project.”
+
+• The category under which the risk event falls: For example, defective server might fall under the broader category of technology or hardware technology.
+
+• The root cause of the risk: The root cause of the defective server might be a defective power supply.
+
+• Triggers for each risk: Triggers are indicators or symptoms of actual risk events. For example, cost overruns on early activities may be symptoms of poor cost estimates. Defective products may be symptoms of a low-quality supplier. Documenting potential risk symptoms for projects also helps the project team identify more potential risk events.
+
+tabLe 11-4 Sample risk register
+
+root
+
+potential
+
+risk
+
+no. rank risk description category cause triggers responses Owner probability impact status R44 1
+
+R21 2
+
+R7
+
+3
+
+01356_ch11_hr_463-504.indd 479
+
+5/14/18 5:58 PM
+
+480
+
+
+
+* * *
+
+
+
+
+
+Chapter 11
+
+
+• Potential responses to each risk: A potential response to the defective server might be to include a clause in the supplier’s contract to replace the server within a certain time period at a negotiated cost.
+
+• The risk owner or person who will take responsibility for the risk: For example, a certain person might be in charge of any server-related risk events and managing response strategies.
+
+• The probability of the risk occurring: There might be a high, medium, or low probability of a certain risk event. For example, the risk might be low that the server would actually be defective.
+
+• The impact to the project if the risk occurs: There might be a high, medium, or low impact to project success if the risk event actually occurs. A defective server might have a high impact on successfully completing a project on time.
+
+• The status of the risk: Did the risk event occur? Was the response strategy completed? Is the risk no longer relevant to the project? For example, a contract clause may have been completed to address the risk of a defective server.
+
+For example, the following data might be entered for the first risk in the register.
+
+Notice that Cliff’s team is taking a proactive approach in managing this risk.
+
+• No.: R44
+
+• Rank: 1
+
+• Risk: New customer
+
+• Description: We have never done a project for this organization before and don’t know too much about them. One of our company’s strengths is building good customer relationships, which often leads to further projects with that customer. We might have trouble working with this customer because they are new to us.
+
+• Category: People risk
+
+• Root cause: We won a contract to work on a project without really getting to know the customer.
+
+• Triggers: The new customer asked a lot of questions in person and via e-mail that our existing customers would not, so we could easily misunderstand their needs and expectations.
+
+• Potential responses: Make sure the project manager is sensitive to the fact that this is a new customer and takes the time to understand them.
+
+Have the PM set up a meeting to get to know the customer and clarify their expectations. Have Cliff attend the meeting, too.
+
+• Risk owner: Project manager
+
+• Probability: Medium
+
+• Impact: High
+
+• Status: PM will set up the meeting within the week.
+
+the risk report
+
+Another important output of identifying risks is creation of a risk report. Overall project risk is the effect of uncertainty on the project as a whole. Contents of a risk report include sources of overall project risk, important drivers of overall project risk exposure, 01356_ch11_hr_463-504.indd 480
+
+5/14/18 5:58 PM
+
+Project Risk Management
+
+481
+
+and summary information on risk events, such as number of risks, total risk exposure, distribution across risk categories, metrics, and trends. The risk report is developed progressively during the entire risk planning processes.
+
+After identifying risks, the next step is to understand which risks are most important by performing qualitative risk analysis.
+
+perfOrming QuaLitative risk anaLYsis
+
+Qualitative risk analysis involves assessing the likelihood and impact of identified risks to determine their magnitude and priority. This section describes how to use a probability/
+
+impact matrix to produce a prioritized list of risks. It also provides examples of using the Top Ten Risk Item Tracking technique to produce an overall ranking for project risks and to track trends in qualitative risk analysis. Finally, this section discusses the importance of expert judgment in performing risk analysis. Note that some organizations simply determine that risks are high, medium, or low and color code them as red, yellow, and green, with very little analysis. Using the methods described in this section can greatly improve qualitative risk analysis.
+
+using probability/impact matrixes to calculate risk factors People often describe a risk probability or consequence as being high, medium or moderate, or low. For example, a meteorologist might predict a high probability or likelihood of severe rain showers on a certain day. If that day happens to be your wedding day and you are planning a large outdoor ceremony, the consequences or impact of severe showers might also be high.
+
+A project manager can chart the probability and impact of risks on a probability/
+
+impact matrix or chart, which lists the relative probability of a risk occurring and the relative impact of the risk occurring. Many project teams would benefit from using this simple technique to help them identify risks that need attention. To use this approach, project stakeholders list the risks they think might occur on their projects. They then label a risk as having a high, medium, or low probability of occurrence and a high, medium, or low impact if it does occur.
+
+The project manager then summarizes the results in a probability/impact matrix or chart, as shown in Figure 11-5. For example, Cliff Branch and some of his project managers in the opening case could each identify three negative and positive potential risks for a particular project. They could then label the probability of occurrence and impact of each risk as being high, medium, or low. For example, one project manager might list a severe market downturn as a negative risk that is low in probability but high in impact. Cliff may have listed the same risk as being medium in both probability and impact. The team could then plot all of the risks on a matrix or chart, combine common risks, and decide where those risks should be on the matrix or chart. The team should then focus on risks that fall in the high sections of the probability/impact matrix or chart.
+
+For example, Risks 1 and 4 are listed as high in both probability and impact. Risk 6 is high in probability but low in impact. Risk 9 is high in probability and medium in impact, and so on. The team should then discuss how it plans to respond to the risks if they occur, as you will learn later in this chapter in the section on risk response planning.
+
+01356_ch11_hr_463-504.indd 481
+
+5/14/18 5:58 PM
+
+482
+
+
+
+* * *
+
+
+
+
+
+Chapter 11
+
+
+High
+
+
+risk 6
+
+risk 9
+
+risk 1
+
+risk 4
+
+risk 3
+
+risk 2
+
+Medium
+
+risk 7
+
+risk 5
+
+risk 11
+
+Probability
+
+risk 8
+
+Low
+
+risk 10
+
+risk 12
+
+Low
+
+Medium
+
+High
+
+Impact
+
+figure 11-5 Sample probability/impact matrix
+
+It may be useful to create a separate probability/impact matrix or chart for negative risks and positive risks to make sure that both types are adequately addressed. Some project teams also collect data on the probability of risks and the negative or positive impact they could have on scope, time, and cost goals. Qualitative risk analysis is normally done quickly, so the project team has to decide what type of approach makes the most sense for its project.
+
+Some project teams develop a single number for a risk score simply by multiplying a numeric score for probability by a numeric score for impact. A more sophisticated approach to using probability/impact information is to calculate risk factors. To quantify risk probability and consequence, the U.S. Defense Systems Management College (DSMC) developed a technique for calculating risk factors—numbers that represent the overall risk of specific events, based on their probability of occurring and the consequences to the project if they do occur. The technique makes use of a probability/impact matrix that shows the probability of risks occurring and the impact or consequences of the risks.
+
+Probabilities of a risk occurring can be estimated based on several factors determined by the unique nature of each project. For example, factors to evaluate for potential hardware or software technology risks could include the technology not being mature, the technology being too complex, and an inadequate support base for developing the technology. The impact of a risk occurring could include factors such as the availability of fallback solutions or the consequences of not meeting performance, cost, and schedule estimates.
+
+Figure 11-6 provides an example of how risk factors were used to graph the probability of failure and consequence of failure in a research study on proposed technologies for designing more reliable aircraft. The figure classifies potential technologies (dots on the chart) as high, medium, or low risk, based on the probability of failure and consequences of failure. The researchers strongly recommended that the 01356_ch11_hr_463-504.indd 482
+
+5/14/18 5:58 PM
+
+Project Risk Management
+
+483
+
+1.0
+
+0.8
+
+High Risk
+
+0.6
+
+Probability
+
+of Failure
+
+Medium
+
+(Pf)
+
+0.4
+
+Risk
+
+0.2 Low
+
+Risk
+
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+Consequence of Failure (Cf)
+
+figure 11-6 Chart showing high-, medium-, and low-risk technologies U.S. Air Force invest in the low-to medium-risk technologies and suggested that it not pursue the high-risk technologies.15 The rigor involved in using the probability/impact matrix and risk factors can provide a much stronger argument than simply stating that risk probabilities or consequences are high, medium, or low.
+
+top ten risk item tracking
+
+Top Ten Risk Item Tracking is a qualitative risk analysis tool. In addition to identifying risks, it maintains an awareness of risks throughout the life of a project by helping to monitor risks. Using this tool involves establishing a periodic review of the project’s most significant risk items with management; similar reviews can also occur with the customer.
+
+The review begins with a summary of the status of the top ten sources of risk on the project. The summary includes each item’s current ranking, previous ranking, number of times it appears on the list over a period of time, and a summary of progress made in resolving the risk item since the previous review.
+
+Table 11-5 provides an example of a Top Ten Risk Item Tracking chart that could be used at a management review meeting for a project. This example includes only the top five negative risk events. Notice that each risk event is ranked based on the current month, previous month, and how many months it has been in the top ten. The last column briefly describes the progress for resolving each risk item. You can have separate charts for negative and positive risks or combine them into one chart.
+
+A risk management review accomplishes several objectives. First, it keeps management and the customer (if included) aware of major influences that could prevent or enhance the project’s success. Second, by involving the customer, the project team may be able to consider alternative strategies for addressing the risks. Third, the 01356_ch11_hr_463-504.indd 483
+
+5/14/18 5:58 PM
+
+484
+
+
+
+* * *
+
+
+
+
+
+Chapter 11
+
+
+tabLe 11-5 Example of top ten risk item tracking mOnthLY ranking
+
+number of
+
+rank this
+
+rank Last
+
+months in
+
+risk event
+
+month
+
+month
+
+top ten
+
+risk resolution progress
+
+Inadequate
+
+1
+
+2
+
+4
+
+Working on revising the
+
+planning
+
+entire project management plan
+
+Poor
+
+2
+
+3
+
+3
+
+Holding meetings with
+
+definition
+
+project customer and
+
+sponsor to clarify scope
+
+Absence of
+
+3
+
+1
+
+2
+
+Assigned a new project
+
+leadership
+
+manager to lead the
+
+project after the previous
+
+one quit
+
+Poor cost
+
+4
+
+4
+
+3
+
+Revising cost estimates
+
+estimates
+
+Poor time
+
+5
+
+5
+
+3
+
+Revising schedule
+
+estimates
+
+estimates
+
+review promotes confidence in the project team by demonstrating to management and the customer that the team is aware of significant risks, has a strategy in place, and is effectively carrying out that strategy.
+
+The main output of qualitative risk analysis is updating the risk register. The ranking column of the risk register should be filled in, along with a numeric value or rating of high, medium, or low for the probability and impact of the risk event. Additional information is often added for risk events, such as identification of risks that need more attention in the near term or those that can be placed on a watch list. A watch list is a list of risks that have low priority but are still identified as potential risks. Qualitative analysis can also identify risks that should be evaluated quantitatively, as you learn in the next section.
+
+m e d i a s n a p s h O t
+
+Even more than 100 years after the Titanic sank on April 15, 1912, people mark the anniversary on which more than 1,500 of the ship’s passengers and crew died. A recent article in PMI’s Virtual Library explains how to avoid “the Titanic factor” in your projects by analyzing the interdependence of risks. For example, the probability of one risk event occurring might change if another one materializes, and the response to one risk ( continued)
+
+01356_ch11_hr_463-504.indd 484
+
+5/14/18 5:58 PM
+
+Project Risk Management
+
+485
+
+event might affect another. The article’s author addresses the issue of how project risks interact and how project teams can address those risks. Some of the interdependent risk events on the Titanic included the following:
+
+• The design of the bulkheads, rudder, and engines were integrated. As six of the 16 watertight compartments were breached and began flooding, the weight of the water in the bow pulled the ship under until the bulkheads overtopped.
+
+The rudder design was considered adequate for use on the open seas, but it was undersized for the tight maneuvers required that fateful night. The central propeller had a steam turbine as its power source, but this engine could not be reversed and was stopped during the run up to the iceberg. This stopped the water flow past the rudder and became a critical problem for the ship.
+
+• Several procedures were not followed, which had the cumulative effect of creating other major problems. Iceberg reports from two other ships were not passed on to the bridge. The wireless radio did not work most of the day, so another critical iceberg warning failed to reach the Titanic’s captain. The ship was traveling too fast for the amount of ice in the area, and visibility was terrible that night.
+
+• Unknown risk events also contributed to the sinking of the Titanic. For example, the steel in the hull could not withstand the cold temperatures, causing it to break without bending. Iron rivet heads also burst due to the cold.16
+
+perfOrming Quantitative risk anaLYsis
+
+Quantitative risk analysis often follows qualitative risk analysis, yet both processes can be done together or separately. On some projects, the team may only perform qualitative risk analysis. The nature of the project and availability of time and money affect which risk analysis techniques are used. Large, complex projects involving leading-edge technologies often require extensive quantitative risk analysis. This section focuses on using the quantitative risk analysis and modeling techniques of decision tree analysis, simulation, and sensitivity analysis.
+
+decision trees and expected monetary value
+
+A decision tree is a diagramming analysis technique used to help select the best course of action when future outcomes are uncertain. A common application of decision tree analysis involves calculating expected monetary value. Expected monetary value (EMV) is the product of a risk event probability and the risk event’s monetary value. To illustrate this concept, Figure 11-7 uses the issue of which project(s) an organization might pursue.
+
+Suppose Cliff Branch’s firm was trying to decide if it should submit a proposal for Project 1, Project 2, both projects, or neither project. The team could draw a decision tree with two branches, one for Project 1 and one for Project 2. The firm could then calculate the expected monetary value to help make this decision.
+
+To create a decision tree, and to calculate expected monetary value specifically, you must estimate the probabilities or chances of certain events occurring. For example, Figure 11-7 shows a 20 percent probability ( P .
+
+5 20) that Cliff’s firm will win the contract
+
+01356_ch11_hr_463-504.indd 485
+
+5/14/18 5:58 PM
+
+486
+
+
+
+* * *
+
+
+
+
+
+Chapter 11
+
+
+Probability (P)
+
+times
+
+EMV of Outcome
+
+P = .20
+
+*
+
+$300,000 = +$60,000
+
+Project 1
+
+Decision
+
+P = .80
+
+*
+
+–$40,000 = –$32,000
+
+P = 20
+
+*
+
+–$50,000 = –$10,000
+
+Project 2
+
+–$20,000 = –$2,000
+
+P = .10
+
+*
+
+P = .70
+
+*
+
+$60,000 = $42,000
+
+Project 1's EMV = $60,000 – $32,000 = $28,000
+
+Project 2's EMV = –$10,000 – $2,000 + $42,000 = $30,000
+
+figure 11-7 Expected monetary value (EMV) example for Project 1, which is estimated to be worth $300,000 in profits—the outcome of the top branch in the figure. There is an 80 percent probability ( P .
+
+5 80) that the firm will not win
+
+the contract for Project 1, and the outcome is estimated to be −$40,000, meaning that the firm will have invested $40,000 into Project 1 with no reimbursement if it does not win the contract. The sum of the probabilities for outcomes for each project must equal one (for Project 1, .20 plus .80). Probabilities are normally determined based on expert judgment. Cliff or other people in his firm should have a sense of the likelihood of winning certain projects.
+
+Figure 11-7 also shows probabilities and outcomes for Project 2. Suppose there is a 20 percent probability that Cliff’s firm will lose $50,000 on Project 2, a 10 percent probability that it will lose $20,000, and a 70 percent probability that it will earn $60,000.
+
+Again, experts would need to estimate these dollar amounts and probabilities.
+
+To calculate the EMV for each project, multiply the probability by the outcome value for each potential outcome for each project and sum the results. To calculate the EMV for Project 1, going from left to right, multiply the probability by the outcome for each branch and sum the results. In this example, the EMV for Project 1 is $28,000.
+
+.2($300,000)1.8($40,000) 5$60,0002$32,000 5$28,000
+
+The EMV for Project 2 is $30,000.
+
+.2(2$50,000)1.1(2$20,000)1.7($60,000) 5 2$10,0002$2,0001$42,000 5$30,000
+
+Because the EMV provides an estimate for the total dollar value of a decision, you want to have a positive number; the higher the EMV, the better. Because the EMV is positive for both Projects 1 and 2, Cliff’s firm would expect a positive outcome from each and could bid 01356_ch11_hr_463-504.indd 486
+
+5/14/18 5:58 PM
+
+Project Risk Management
+
+487
+
+on both projects. If it had to choose between the two projects, perhaps because of limited resources, Cliff’s firm should bid on Project 2 because it has a higher EMV.
+
+Notice in Figure 11-7 that if you just look at the potential outcome of the two projects, Project 1 looks more appealing. You could earn $300,000 in profits from Project 1, but you could only earn $60,000 for Project 2. If Cliff were a risk seeker, he would naturally want to bid on Project 1. However, there is only a 20 percent chance of earning the $300,000 on Project 1, as opposed to a 70 percent chance of earning $60,000 on Project 2. Using EMV helps account for all possible outcomes and their probabilities of occurrence, thereby reducing the tendency to pursue overly aggressive or conservative risk strategies.
+
+simulation
+
+A more sophisticated technique for quantitative risk analysis is simulation, which uses a representation or model of a system to analyze its expected behavior or performance.
+
+Most simulations are based on some form of Monte Carlo analysis. Monte Carlo analysis simulates a model’s outcome many times to provide a statistical distribution of the calculated results. For example, Monte Carlo analysis can determine that a project will finish by a certain date only 10 percent of the time, and determine another date for which the project will finish 50 percent of the time. In other words, Monte Carlo analysis can predict the probability of finishing by a certain date or the probability that the cost will be equal to or less than a certain value.
+
+You can use several different types of distribution functions when performing a Monte Carlo analysis. The following example is a simplified approach. The basic steps of a Monte Carlo analysis are as follows:
+
+1. Collect the most likely, optimistic, and pessimistic estimates for the variables in the model. For example, if you are trying to determine the likelihood of meeting project schedule goals, the project network diagram would be your model. You would collect the most likely, optimistic, and pessimistic time estimates for each task. Notice that this step is similar to collecting data for performing PERT estimates. However, instead of applying the same PERT
+
+weighted average formula, you perform the following steps in a Monte Carlo simulation.
+
+2. Determine the probability distribution of each variable. What is the likelihood of a variable falling between the optimistic and most likely estimates? For example, if an expert assigned to a particular task provides a most likely estimate of 10 weeks, an optimistic estimate of 8 weeks, and a pessimistic estimate of 15 weeks, you then ask about the probability of completing that task between 8 and 10 weeks. The expert might respond that there is a 20 percent probability.
+
+3. For each variable, such as the time estimate for a task, select a random value based on the probability distribution for the occurrence of the variable. For example, using the preceding scenario, you would randomly pick a value between 8 weeks and 10 weeks 20 percent of the time and a value between 10 weeks and 15 weeks 80 percent of the time.
+
+01356_ch11_hr_463-504.indd 487
+
+5/14/18 5:58 PM
+
+488
+
+
+
+* * *
+
+
+
+
+
+Chapter 11
+
+
+4. Run a deterministic analysis or one pass through the model using the combination of values selected for each of the variables. For example, one task described in the preceding scenario might have a value of 12
+
+on the first run. All of the other tasks would also have one random value assigned to them on the first run, based on their estimates and probability distributions.
+
+5. Repeat Steps 3 and 4 many times to obtain the probability distribution of the model’s results. The number of iterations depends on the number of variables and the degree of confidence required in the results, but it typically lies between 100 and 1,000. Using the project schedule as an example, the final simulation results will show you the probability of completing the entire project within a certain time period.
+
+Figure 11-8 illustrates the results from a Monte Carlo–based simulation of a project schedule. The simulation was done using Microsoft Project and Risk+ software. On the left side of Figure 11-8 is a chart displaying columns and an S-shaped curve. The height of each column indicates how many times the project was completed in a given time interval during the simulation run, which is the sample count. In this example, the time interval was two working days, and the simulation was run 250 times. The first column shows that the project was completed by January 29 only two times during the simulation.
+
+The S-shaped curve shows the cumulative probability of completing the project on or before a given date. The right side of Figure 11-8 shows the information in tabular form.
+
+For example, there is a 10 percent probability that the project will be completed by 2/8
+
+(February 8), a 50 percent chance of completion by 2/17 (February 17), and a 90 percent chance of completion by 2/25 (February 25).
+
+Date: 1/14 11:13:56 AM
+
+Completion Std Deviation: 5.2 days
+
+Number of Samples: 250
+
+95% Confidence Interval: 0.6 day
+
+Unique ID: 1
+
+Each bar represents 2 days.
+
+Name: Widget
+
+Completion Probability Table
+
+Prob Date
+
+Prob Date
+
+45.0
+
+1.0
+
+40.5
+
+0.9
+
+0.05 2/4
+
+0.55 2/17
+
+36.0
+
+0.8
+
+0.10 2/8
+
+0.60 2/18
+
+31.5
+
+0.7
+
+obability
+
+0.15 2/9
+
+0.65 2/19
+
+27.0
+
+0.6
+
+0.20 2/10
+
+0.70 2/22
+
+22.5
+
+0.5
+
+18.0
+
+0.4
+
+0.25 2/11
+
+0.75 2/22
+
+13.5
+
+0.3
+
+0.30 2/12
+
+0.80 2/23
+
+Sample Count
+
+9.0
+
+0.2
+
+0.35 2/15
+
+0.85 2/24
+
+4.5
+
+0.1
+
+Cumulative Pr
+
+0.40 2/15
+
+0.90 2/25
+
+1/29
+
+2/17
+
+3/10
+
+0.45 2/16
+
+0.95 2/26
+
+Completion Date
+
+0.50 2/17
+
+1.00 3/10
+
+figure 11-8 Sample Monte Carlo–based simulation results for project schedule 01356_ch11_hr_463-504.indd 488
+
+5/14/18 5:58 PM
+
+Project Risk Management
+
+489
+
+Several PC-based software packages that perform Monte Carlo simulations are available. Many products display the major risk drivers for a project based on the simulation results. This enables you to identify the chief source of uncertainty in a project schedule. For example, a wide range for a certain task estimate might cause most of the uncertainty in the project schedule. You will learn more about using simulation software and other software related to project risk management later in this chapter.
+
+W h a t W e n t r i g h t ?
+
+Microsoft Excel is a common tool for performing quantitative risk analysis. Microsoft provides examples of how to use Excel to perform Monte Carlo simulation on its website, and explains how several companies use Monte Carlo simulation as an important tool for decision making:
+
+• General Motors uses simulation for forecasting its net income, predicting structural costs and purchasing costs of vehicles, and determining the company’s susceptibility to different kinds of risk, such as interest rate changes and exchange rate fluctuations.
+
+• Eli Lilly uses simulation to determine the optimal plant capacity that should be built for developing each drug.
+
+• Procter & Gamble uses simulation to model and optimally hedge foreign exchange risk.17
+
+Monte Carlo simulation can also help reduce schedule risk on agile projects. For example, instead of using linear techniques, which assume a fixed future velocity and a discrete completion date, you can use Monte Carlo simulation to estimate a range of completion dates. “Consider a simple scenario where two teams both have an average velocity of 7.5. Using this average, either team could deliver the next 45 points in 6 iterations. However, suppose Team A’s historical velocity values were 10, 4, 5, and 11, and Team B’s historical velocity values were 7, 8, 8, and 7. The average is the same, but because the velocity values for Team A have a higher variance, there is greater risk when predicting future results.”18
+
+sensitivity analysis
+
+Many people are familiar with using sensitivity analysis to see the effects of changing one or more variables on an outcome. For example, many people perform a sensitivity analysis to determine their monthly payments for a loan given different interest rates or periods of the loan. What will your monthly mortgage payment be if you borrow $100,000 for 30 years at a 6 percent rate? What will the payment be if the interest rate is 7 percent?
+
+What will the payment be if you decide to pay off the loan in 15 years at 5 percent?
+
+Many professionals use sensitivity analysis to help make several common business decisions, such as determining breakeven points based on different assumptions. People often use spreadsheet software like Microsoft Excel to perform sensitivity analysis. Figure 11-9
+
+01356_ch11_hr_463-504.indd 489
+
+5/14/18 5:58 PM
+
+
+
+490
+
+
+
+* * *
+
+
+
+
+
+Chapter 11
+
+
+figure 11-9 Sample sensitivity analysis for determining breakeven point shows an example Excel file created to quickly show the breakeven point for a product based on various inputs: the sales price per unit, the manufacturing cost per unit, and fixed monthly expenses. The current inputs result in a breakeven point of 6,250 units sold. Users of this spreadsheet can change inputs and see the effects on the breakeven point in chart format.
+
+Project teams often create similar models to determine the sensitivity of various project variables. For example, Cliff’s team could develop sensitivity analysis models to estimate their profits on jobs by varying the number of hours required to do the jobs or by varying costs per hour.
+
+The main outputs of quantitative risk analysis are updates to project documents, such as the risk report and risk register. The quantitative analysis also provides high-level information about the probabilities of achieving certain project objectives. This information might cause the project manager to suggest changes in contingency reserves. In some cases, projects may be redirected or canceled based on the quantitative analysis, or the quantitative analysis might be used to help initiate new projects to help the current one succeed.
+
+pLanning risk respOnses
+
+After an organization identifies and quantifies risks, it must develop an appropriate response to them. Developing a response to risks involves developing options and defining strategies for reducing negative risks and enhancing positive risks.
+
+01356_ch11_hr_463-504.indd 490
+
+5/14/18 5:58 PM
+
+Project Risk Management
+
+491
+
+The five basic response strategies for negative risks are as follows:
+
+• Risk avoidance or eliminating a specific threat, usually by eliminating its causes. Of course, not all risks can be eliminated, but specific risk events can be. For example, a project team may decide to continue using a specific piece of hardware or software on a project because the team knows it works. Other products that could be used on the project may be available, but if the project team is unfamiliar with them, they could cause significant risk. Using familiar hardware or software eliminates this risk.
+
+• Risk acceptance or accepting the consequences if a risk occurs. For example, a project team planning a big project review meeting could take an active approach to risk by having a contingency or backup plan and contingency reserves if the team cannot get approval for a specific meeting site. On the other hand, the team could take a passive approach and accept whatever facility the organization provides.
+
+• Risk transference or shifting the consequence of a risk and responsibility for its management to a third party. For example, risk transference is often used in dealing with financial risk exposure. A project team may purchase special insurance or warranty protection for specific hardware needed for a project. If the hardware fails, the insurer must replace it within a specified period of time.
+
+• Risk mitigation or reducing the impact of a risk event by reducing the probability of its occurrence. Suggestions for reducing common sources of risk on IT projects were provided at the beginning of this chapter.
+
+Other examples of risk mitigation include using proven technology, having competent project personnel, using various analysis and validation techniques, and buying maintenance or service agreements from subcontractors.
+
+• Risk escalation or notifying a higher level authority. If the risk is outside of the scope of the project or the proposed response is outside of the project manager’s authority, it would make sense to escalate the risk to a higher-level manager within the organization.
+
+Table 11-6 provides general mitigation strategies for technical, cost, and schedule risks on projects.19 Note that increasing the frequency of project monitoring and using a WBS and Critical Path Method (CPM) are strategies for all three areas. Increasing the project manager’s authority is a strategy for mitigating technical and cost risks, and selecting the most experienced project manager is recommended for reducing schedule risks. Improving communication is also an effective strategy for mitigating risks.
+
+The five basic response strategies for positive risks are as follows:
+
+• Risk exploitation or doing whatever you can to make sure the positive risk happens. For example, suppose that Cliff’s company funded a project to provide new computer classrooms for a nearby school in need. They might select one of their top project managers to organize news coverage of the project, write a press release, or hold some other public event to ensure that 01356_ch11_hr_463-504.indd 491
+
+5/14/18 5:58 PM
+
+492
+
+
+
+* * *
+
+
+
+
+
+Chapter 11
+
+
+tabLe 11-6 General risk mitigation strategies for technical, cost, and schedule risks technical risks
+
+cost risks
+
+schedule risks
+
+Emphasize team support
+
+Increase the frequency of
+
+Increase the frequency of
+
+and avoid stand-alone
+
+project monitoring
+
+project monitoring
+
+project structure
+
+Increase project manager
+
+Use WBS and CPM
+
+Use WBS and CPM
+
+authority
+
+Improve problem han—
+
+Improve communication,
+
+Select the most experienced
+
+dling and communication
+
+understanding of project
+
+project manager
+
+goals, and team support
+
+Increase the frequency of
+
+Increase project manager
+
+project monitoring
+
+authority
+
+Use WBS and CPM
+
+Source: J. Couillard
+
+the project produces good public relations for the company, which could lead to more business.
+
+• Risk sharing or allocating ownership of the risk to another party. Using the same example of implementing new computer classrooms, the project manager could form a partnership with the school’s principal, school board, or parent–teacher organization to share responsibility for achieving good public relations for the project. On the other hand, the company might partner with a local training firm that agrees to provide free training for all of the teachers on how to use the new computer classrooms.
+
+• Risk enhancement or changing the size of the opportunity by identifying and maximizing key drivers of the positive risk. For example, an important driver of getting good public relations for the computer classrooms project might be to generate awareness and excitement about it among students, parents, and teachers. These groups might then do their own formal or informal advertising of the project and Cliff’s company, which in turn might interest other groups and generate more business.
+
+• Risk acceptance also applies to positive risks when the project team does not take any actions toward a risk. For example, the computer classrooms project manager might assume that the project will result in good public relations for the company and not feel compelled to do anything extra.
+
+• Risk escalation or notifying a higher level authority also applies to positive risks. The computer classrooms project manager might escalate the risk of partnering with another firm to a higher-level manager who may have more influence with the firm.
+
+01356_ch11_hr_463-504.indd 492
+
+5/14/18 5:58 PM
+
+Project Risk Management
+
+493
+
+The main outputs of risk response planning include updates to the project management plan and other project documents and change requests. For example, if Cliff’s company decided to partner with a local training firm on the computer classrooms project to share the opportunity of achieving good public relations, it could issue a change request to write a contract with that firm. The project management plan and its related plans might need to be updated if the risk response strategies require additional tasks, resources, or time to accomplish. Risk response strategies often result in changes to the WBS and project schedule, so plans that contain this information must be updated as well. The risk response strategies also provide updated information for the risk register by describing the risk responses, risk owners, and status information.
+
+Risk response strategies often include identification of residual and secondary risks as well as contingency plans and reserves, as described earlier. Residual risks are risks that remain after all of the response strategies have been implemented. For example, even though a stable hardware product may have been used on a project, there may still be a risk that it fails to function properly. Secondary risks are a direct result of implementing a risk response. For example, using the more stable hardware may have caused a risk of peripheral devices failing to function properly.
+
+impLementing risk respOnses
+
+The main executing process performed as part of project risk management is implementing risk responses as defined in the process to plan risk responses. Key outputs include change requests and project documents updates (i.e. issue log, lessons-learned register, project team assignments, risk register, and risk report). For example, Cliff’s team had identified the risk event of having a new customer. They listed several activities they could perform to help manage this risk, such as making sure the project manager took the time to understand the customer, setting up a meeting to get to know the customer and clarify expectations, and having Cliff attend the meeting. In this case, Cliff’s team was proactive in identifying this risk and would take actions to prevent any negative events from happening by implementing their risk responses.
+
+mOnitOring risks
+
+Monitoring risks involves ensuring the appropriate risk responses are performed, tracking identified risks, identifying and analyzing new risk, and evaluating the effectiveness of risk management throughout the entire project. Project risk management does not stop with the initial risk analysis. Identified risks may not materialize, or their probabilities of occurrence or loss may diminish. Previously identified risks may be determined to have a greater probability of occurrence or a higher estimated loss value. Similarly, new risks will be identified as the project progresses. Newly identified risks need to go through the same process as those identified during the initial risk assessment. A redistribution of resources devoted to risk management may be necessary because of relative changes in risk exposure.
+
+Carrying out individual risk management plans involves monitoring risks based on defined milestones and making decisions regarding risks and their response strategies.
+
+01356_ch11_hr_463-504.indd 493
+
+5/14/18 5:58 PM
+
+494
+
+
+
+* * *
+
+
+
+
+
+Chapter 11
+
+
+It may be necessary to alter a strategy that becomes ineffective, implement a planned contingency activity, or eliminate a risk from the list of potential risks when it no longer exists. Project teams sometimes use workarounds—unplanned responses to risk events—
+
+when they do not have contingency plans in place.
+
+Tools and techniques for monitoring risks include data analysis, audits, and meetings.
+
+Outputs include work performance information, change requests, and updates to the project management plan, project documents, and organizational process assets.
+
+using sOftWare tO assist in prOject risk management As you saw in several parts of this chapter, you can use a variety of software tools to enhance various risk management processes. Most organizations use software to create, update, and distribute information in their risk registers. The risk register is often a simple Microsoft Word or Excel file, but it can also be part of a more sophisticated database.
+
+Spreadsheets can aid in tracking and quantifying risks, preparing charts and graphs, and performing sensitivity analysis. Software can be used to create decision trees and estimate expected monetary value.
+
+More sophisticated risk management software, such as Monte Carlo simulation software, can help you develop models and use simulations to analyze and respond to various risks.
+
+Several high-end project management tools include simulation capabilities. Several software packages have also been created specifically for project risk management. Although it has become easier to do sophisticated risk analysis with new software tools, project teams must be careful not to rely too heavily on software when performing project risk management. If a risk is not identified, it cannot be managed, and intelligent, experienced people are needed to do a good job of identifying risks. It also takes hard work to develop and implement good risk response strategies. Software should be used as a tool to help make good decisions in project risk management, not as a scapegoat when things go wrong.
+
+cOnsideratiOns fOr agiLe/adaptive envirOnments
+
+The PMBOK® Guide – Sixth Edition provides the following information for project risk management:
+
+High-variability environments, by definition, incur more uncertainty and risk. To address this, projects managed using adaptive approaches make use of frequent reviews of incremental work products and cross-functional project teams to accelerate knowledge sharing and ensure that risk is understood and managed. Risk is considered when selecting the content of each iteration, and risks will also be identified, analyzed, and managed during each iteration.
+
+Additionally, the requirements are kept as a living document that is updated regularly, and work may be reprioritized as the project progresses, based on an improved understanding of current risk exposure.20
+
+All type of projects should share knowledge related to risks as quickly as possible and keep documents up to date. It is true that risk is considered during each iteration for 01356_ch11_hr_463-504.indd 494
+
+5/14/18 5:58 PM
+
+Project Risk Management
+
+495
+
+agile/adaptive projects, which does elevate its importance. Changing priorities can be addressed more easily by changing the product backlog for each iteration.
+
+Well-run projects, like a master violinist’s performance, an Olympic athlete’s gold medal win, or a Pulitzer Prize–winning book, appear to be almost effortless. Those on the outside—whether audiences, customers, or managers—cannot observe the effort that goes into a superb performance. They cannot see the hours of practice, the edited drafts, or the planning, management, and foresight that create the appearance of ease. To improve IT project management, project managers should strive to make their jobs look easy—it reflects the results of a well-run project. You can be a change agent in your organization by stressing the need for good project risk management to help more projects succeed.
+
+c a s e W r a p - u p
+
+Cliff Branch and two of his senior people attended a seminar on project risk management where the speaker discussed several techniques, such as estimating the expected monetary value of projects and Monte Carlo simulations. Cliff asked the speaker how these techniques could help his company decide which projects to bid on, because bidding on projects often required up-front investments with the possibility of no payback. The speaker walked through an example of EMV and then ran a quick Monte Carlo simulation. Cliff did not have a strong math background and had a hard time understanding the EMV calculations. He thought the simulation was much too confusing to have any practical use for him. He believed in his gut instincts much more than any math calculation or computer output.
+
+The speaker finally sensed that Cliff was not impressed, so she explained the importance of looking at the odds of winning project awards and not just at the potential profits. She suggested using a risk-neutral strategy by bidding on projects that the company had a good chance of winning (50 percent or so) and that had a good profit potential, instead of focusing on projects that they had a small chance of winning and that had a larger profit potential. Cliff disagreed with this advice, and he continued to bid on high-risk projects. The two other managers who attended the seminar now understood why the firm was having problems—their leader loved taking risks, even if it hurt the company. They soon found jobs with competing companies, as did several other employees.
+
+01356_ch11_hr_463-504.indd 495
+
+5/14/18 5:58 PM
+
+496
+
+Chapter 11
+
+
+
+* * *
+Chapter 11 - Chapter Summary start
+
+Risk is an uncertainty that can have a negative or positive effect on meeting project objectives.
+
+Many organizations do a poor job of project risk management, if they do any at all. Successful organizations realize the value of good project risk management.
+
+Risk management is an investment; in other words, costs are associated with identifying risks, analyzing those risks, and establishing plans to address them. Those costs must be included in cost, schedule, and resource planning.
+
+Risk utility or risk tolerance is the amount of satisfaction or pleasure received from a potential payoff. Risk seekers enjoy high risks, risk-averse people do not like to take risks, and risk-neutral people seek to balance risks and potential payoff.
+
+Project risk management is a process in which the project team continually assesses what risks may negatively or positively affect the project, determines the probability of such events occurring, and determines the impact if such events occur. Risk management also involves analyzing and determining alternate strategies to deal with risks. The processes of risk management are planning risk management, identifying risks, performing qualitative risk analysis, performing quantitative risk analysis, planning risk responses, implementing risk responses, and monitoring risks.
+
+Planning risk management is the process of deciding how to approach risk management activities and plan for them in a project. Contingency plans are predefined actions that a project team will take if an identified risk event occurs. Fallback plans are developed for risks that have a high impact on meeting project objectives and are implemented if attempts to reduce the risk are not effective. Contingency reserves or contingency allowances are provisions held by the project sponsor or organization to reduce the risk of cost or schedule overruns to an acceptable level.
+
+IT projects often involve several risks, including lack of user involvement, lack of executive management support, unclear requirements, and poor planning. Lists developed by the Standish Group and other organizations can help you identify potential risks on IT projects.
+
+A risk breakdown structure is a useful tool that can help project managers consider potential risks in different categories. Lists of common risk conditions in project management knowledge areas can also be helpful in identifying risks, as can techniques such as brainstorming, the Delphi technique, interviewing, and SWOT analysis. A risk register is a document that contains results of various risk management processes; it is often displayed in a table or spreadsheet format. A risk register is a tool for documenting potential risk events and related information.
+
+Risk events refer to specific, uncertain events that may occur to the detriment or enhancement of the project.
+
+Risks can be assessed qualitatively and quantitatively. Tools for qualitative risk analysis include a probability/impact matrix and the Top Ten Risk Item Tracking technique. Tools for quantitative risk analysis include decision trees and Monte Carlo simulation. Expected monetary value (EMV) uses decision trees to evaluate potential projects based on their expected value.
+
+Simulations are a more sophisticated method for creating estimates to help you determine the likelihood of meeting specific project schedule or cost goals. Sensitivity analysis is used to show the effects of changing one or more variables on an outcome.
+
+Chapter 11 - Chapter Summary end
+
+* * *

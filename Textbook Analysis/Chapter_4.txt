@@ -1,0 +1,2322 @@
+Opening case
+
+Nick Carson recently became project manager of a critical biotech enterprise at his Silicon Valley company. This project involved creating the hardware and software for a next generation (next-gen) DNA-sequencing instrument used in assembling and analyzing the human genome. Several companies were competing to build smaller, faster sequencing instruments that would reduce the costs and improve the quality of data analysis in this rapidly changing field. The biotech project was the company’s largest endeavor, and it had tremendous potential for future growth and revenue.
+
+Unfortunately, there were problems managing this large project. It had been under way for three years and had already gone through three different project managers. Nick had been the lead software developer on the project before top management made him the project manager. The CEO told him to do whatever it took to deliver the first version of the product in four months and a production version in nine months. Negotiations for a potential corporate buyout with a larger company influenced top management’s sense of urgency to complete the project.
+
+Highly energetic and intelligent, Nick had the technical background to make the project a success. He delved into the technical problems and found some critical flaws that kept the next-gen DNA-sequencing instrument from working. Nevertheless, he was having difficulty in his new role as project manager. Although Nick and his team got the product out on time, top management was upset because Nick did not focus on managing all aspects of the project.
+
+He never provided them with accurate schedules or detailed plans of what was happening on the project. Instead of performing the work of project manager, Nick had taken on the role of software integrator and troubleshooter. Nick, however, did not understand top management’s complaints—he delivered the product, didn’t he? Didn’t they realize how valuable he was?
+
+What is PrOject integratiOn ManageMent?
+
+Project integration management involves coordinating all of the other project management knowledge areas throughout a project’s life cycle. This integration ensures that all the elements of a project come together at the right times to complete a project successfully. According to the PMBOK® Guide – Sixth Edition, six main processes are involved in project integration management:
+
+1. Developing the project charter involves working with stakeholders to create the document that formally authorizes a project—the charter.
+
+2. Developing the project management plan involves coordinating all planning efforts to create a consistent, coherent document—the project management plan.
+
+3. Directing and managing project work involves carrying out the project management plan by performing the activities included in it.
+
+4. Managing project knowledge involves using existing knowledge and creating new knowledge to achieve project objectives while also contributing to organizational learning.
+
+5. Monitoring and controlling project work involves overseeing activities to meet the performance objectives of the project.
+
+01356_ch04_hr_151-200.indd 152
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+153
+
+6. Performing integrated change control involves identifying, evaluating, and managing changes throughout the project life cycle.
+
+7. Closing the project or phase involves finalizing all activities to formally close the project or phase.
+
+Figure 4-1 summarizes the inputs, tools and techniques, and outputs of project integration management.
+
+Project Integration
+
+Management Overview
+
+4.1 Develop
+
+4.2 Develop Project
+
+4.3 Direct and Manage
+
+4.4 Manage
+
+Project Charter
+
+Management Plan
+
+Project Work
+
+Project Knowledge
+
+.1 Inputs
+
+.1 Inputs
+
+.1 Inputs
+
+.1 Inputs
+
+.1 Business documents
+
+.1 Project charter
+
+.1 Project management plan
+
+.1 Project management plan
+
+.2 Agreements
+
+.2 Outputs from other
+
+.2 Project documents
+
+.2 Project documents
+
+.3 Enterprise environmental
+
+processes
+
+.3 Approved change requests
+
+.3 Deliverables
+
+factors
+
+.3 Enterprise environmental
+
+.4 Enterprise environmental
+
+.4 Enterprise environmental
+
+.4 Organizational process
+
+factors
+
+factors
+
+factors
+
+assets
+
+.4 Organizational process
+
+.5 Organizational process
+
+.5 Organizational process
+
+.2 Tools & Techniques
+
+assets
+
+assets
+
+assets
+
+.1 Expert judgment
+
+.2 Tools & Techniques
+
+.2 Tools & Techniques
+
+.2 Tools & Techniques
+
+.2 Data gathering
+
+.1 Expert judgment
+
+.1 Expert judgment
+
+.1 Expert judgment
+
+.3 Interpersonal and team
+
+.2 Data gathering
+
+.2 Project management
+
+.2 Knowledge management
+
+skills
+
+.3 Interpersonal and team
+
+information system
+
+.3 Information management
+
+.4 Meetings
+
+skills
+
+.3 Meetings
+
+.4 Interpersonal and team
+
+.3 Outputs
+
+.4 Meetings
+
+.3 Outputs
+
+skills
+
+.1 Project charter
+
+.3 Outputs
+
+.1 Deliverables
+
+.3 Outputs
+
+.2 Assumption log
+
+.1 Project management plan
+
+.2 Work performance data
+
+.1 Lessons learned register
+
+.3 Issue log
+
+.2 Project management plan
+
+.4 Change requests
+
+updates
+
+.5 Project management plan
+
+.3 Organizational process
+
+4.5 Monitor and
+
+4.6 Perform Integrated
+
+updates
+
+assets updates
+
+Control Project Work
+
+Change Control
+
+.6 Project documents updates
+
+.7 Organizational process
+
+.1 Inputs
+
+.1 Inputs
+
+assets updates
+
+.1 Project management plan
+
+.1 Project management plan
+
+.2 Project documents
+
+.2 Project documents
+
+.3 Work performance
+
+.3 Work performance reports
+
+information
+
+.4 Change requests
+
+4.7 Close Project
+
+.4 Agreements
+
+.5 Enterprise environmental
+
+or Phase
+
+.5 Enterprise environmental
+
+factors
+
+factors
+
+.6 Organizational process
+
+.1 Inputs
+
+.6 Organizational process
+
+assets
+
+.1 Project charter
+
+assets
+
+.2 Tools & Techniques
+
+.2 Project management plan
+
+.2 Tools & Techniques
+
+.1 Expert judgment
+
+.3 Project documents
+
+.1 Expert judgment
+
+.2 Change control tools
+
+.4 Accepted deliverables
+
+.2 Data analysis
+
+.3 Data analysis
+
+.5 Business documents
+
+.3 Decision making
+
+.4 Decision making
+
+.6 Agreements
+
+.4 Meetings
+
+.5 Meetings
+
+.7 Procurement
+
+documentation
+
+.3 Outputs
+
+.3 Outputs
+
+.8 Organizational process
+
+.1 Work performance reports
+
+.1 Approved change requests
+
+assets
+
+.2 Change requests
+
+.2 Project management plan
+
+.3 Project management plan
+
+updates
+
+.2 Tools & Techniques
+
+updates
+
+.3 Project documents updates
+
+.1 Expert judgment
+
+.4 Project documents updates
+
+.2 Data analysis
+
+.3 Meetings
+
+.3 Outputs
+
+.1 Project documents updates
+
+.2 Final product, service, or
+
+result transition
+
+.3 Final report
+
+.4 Organizational process
+
+assets updates
+
+Source: Project Management Institute, Inc. A Guide to the Project Management Body of Knowledge, (PMBOK® Guide) – Sixth Edition (2017), Figure 4-1, Page 71.
+
+Figure 4-1 Project integration management summary 01356_ch04_hr_151-200.indd 153
+
+4/28/18 11:29 AM
+
+154
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+Many people consider project integration management the key to overall project success. Someone must take responsibility for coordinating all of the people, plans, and work required to complete a project. Someone must focus on the big picture of the project and steer the project team toward successful completion. Someone must make the final decisions when conflicts occur among project goals or people. Someone must communicate key project information to top management. These responsibilities belong to the project manager, whose chief means for accomplishing all these tasks is project integration management.
+
+W h a t W e n t W r O n g ?
+
+Everyone knows that making sure people are paid is crucial to employee satisfaction, so when a payroll system project doesn’t work, it is a disaster. Tens of thousands of Canadian federal government workers faced a third year of payroll system torment in 2018.
+
+The Phoenix system project, started in 2009 and budgeted to cost C$309.5, is estimated to cost over C$1 billion and take three additional years to complete properly. The main goal of the system was to reduce payroll processing overhead and staffing costs.
+
+“In what is quickly moving into contention as one of the worst government-managed IT implementations ever, over half the 290,000 plus civil servants paid through the IBM-developed Phoenix pay system have been underpaid, overpaid, or not paid at all since its rollout began in February of 2016. . . . According to Canada’s Auditor General, nearly 50,000 government workers have had to wait over a year to get their pay straightened out.”1
+
+Particularly on large projects, the project manager’s main job is project integration management. To perform well in that role, it is important to understand the organization’s needs and staff your project with skilled workers capable of making the project a success.
+
+Good project integration management is critical to providing stakeholder satisfaction.
+
+Project integration management includes interface management, which involves identifying and managing the points of interaction between various elements of a project.
+
+The primary tools for interface management are communication and relationships.
+
+The number of interfaces can increase exponentially as the number of people involved in a project increases. Thus, one of the most important jobs of a project manager is to establish and maintain good communication and relationships across organizational interfaces. The project manager must communicate well with all project stakeholders, including customers, the project team, top management, other project managers, and opponents of the project.
+
+What happens when a project manager does not communicate well with all stakeholders? In the chapter’s opening case, Nick Carson seemed to ignore a key stakeholder for the next-gen DNA-sequencing instrument project—his top management.
+
+Nick was comfortable working with other members of the project team, but he was not familiar with his new job as project manager or the needs of the company’s top management. Nick continued to do his old job of software developer and took on the 01356_ch04_hr_151-200.indd 154
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+155
+
+added role of software integrator. He mistakenly thought project integration management meant software integration management and focused on the project’s technical problems.
+
+He totally ignored what project integration management is really about—integrating the work of all of the people involved in the project by focusing on good communication and relationship management. Recall that project management is applying knowledge, skills, tools, and techniques to meet project requirements, while also meeting or exceeding stakeholder needs and expectations. Nick did not take the time to find out what top management expected from him as the project manager; he assumed that completing the project on time and within budget was sufficient to make them happy. Yes, top management should have made its expectations more clear, but Nick should have taken the initiative to get the guidance he needed.
+
+In addition to not understanding project integration management, Nick did not use holistic or systems thinking (see Chapter 2). He burrowed into the technical details of his particular project. He did not stop to think about what it meant to be the project manager, how this project related to other projects in the organization, or top management’s expectations of him and his team.
+
+Project integration management must occur within the context of the entire organization, not just within a particular project. The project manager must integrate the work of the project with the ongoing operations of the organization. In the opening case, Nick’s company was negotiating a potential buyout with a larger company. Consequently, top management needed to know when the next-gen DNA-sequencing instrument would be ready, how big the market was for the product, and if the company had enough in-house staff to continue to manage projects like this one in the future. Top management wanted to see a project management plan and a schedule to help monitor the project’s progress and show the potential buyer what was happening. When top managers tried to talk to Nick about these issues, he soon returned to discussing the technical details of the project. Even though Nick was very bright, he had no experience or real interest in many of the company’s business aspects. Project managers must always view their projects in the context of the changing needs of their organizations and respond to requests from top management. Likewise, top management must keep project managers informed of major issues that could affect their projects and strive to make processes consistent throughout their organization.
+
+Following a standard process for managing projects can help prevent some of the typical problems new and experienced project managers face, including communicating with and managing stakeholders. Before organizations begin projects, however, they should go through a formal process to decide what projects to pursue.
+
+strategic PLanning and PrOject seLectiOn
+
+Successful leaders look at the big picture or strategic plan of the organization to determine what types of projects will provide the most value. Some may argue that project managers should not be involved in strategic planning and project selection because top management is usually responsible for these types of business decisions. But successful organizations know that project managers can provide valuable insight into the project selection process.
+
+01356_ch04_hr_151-200.indd 155
+
+4/28/18 11:29 AM
+
+156
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+strategic Planning
+
+
+Strategic planning involves determining long-term objectives by analyzing the strengths and weaknesses of an organization, studying opportunities and threats in the business environment, predicting future trends, and projecting the need for new products and services. Strategic planning provides important information to help organizations identify and then select potential projects.
+
+Many people are familiar with SWOT analysis—analyzing Strengths, Weaknesses, Opportunities, and Threats—which is one tool used in strategic planning. For example, a group of four people who want to start a new business in the film industry could perform a SWOT analysis to help identify potential projects. They might determine the following based on a SWOT analysis:
+
+Strengths:
+
+• As experienced professionals, we have numerous contacts in the film industry.
+
+• Two of us have strong sales and interpersonal skills.
+
+• Two of us have strong technical skills and are familiar with several filmmaking software tools.
+
+• We all have impressive samples of completed projects.
+
+Weaknesses:
+
+• None of us have accounting or financial experience.
+
+• We have no clear marketing strategy for products and services.
+
+• We have little money to invest in new projects.
+
+• We have no company website and limited use of technology to run the business.
+
+Opportunities:
+
+• A potential client has mentioned a large project she would like us to bid on.
+
+• The film industry continues to grow.
+
+• There are two major conferences this year where we could promote our company.
+
+Threats:
+
+• Other individuals or companies can provide the services we can.
+
+• Customers might prefer working with more established individuals and organizations.
+
+• There is high risk in the film business.
+
+Based on their SWOT analysis, the four entrepreneurs outline potential projects as follows:
+
+• Find an external accountant or firm to help run the business.
+
+• Hire someone to develop a company website, focusing on our experience and past projects.
+
+• Develop a marketing plan.
+
+• Develop a strong proposal to get the large project the potential client mentioned.
+
+• Plan to promote the company at two major conferences this year.
+
+01356_ch04_hr_151-200.indd 156
+
+4/28/18 11:29 AM
+
+
+
+Project Integration Management
+
+157
+
+Some people like to perform a SWOT analysis by using mind mapping, a technique that uses branches radiating from a core idea to structure thoughts and ideas. The human brain does not work in a linear fashion. People come up with many unrelated ideas. By capturing those ideas in a visual mind map format, you can often generate more ideas than by creating lists. You can create mind maps by hand, using sticky notes, using presentation software such as Microsoft PowerPoint, or by using mind mapping software.
+
+Figure 4-2 shows a sample mind map for the new film industry business SWOT
+
+analysis. This diagram was created using MindView Business Edition software by MatchWare. Notice that this map has four main branches representing strengths, weaknesses, opportunities, and threats. Ideas in each category are added to the appropriate branch, and sub-branches are shown for some ideas under those categories.
+
+Notice that several branches end with a project idea, such as Project proposal, Conference promotions, Accountant, Marketing plan, and Website. You can easily format the project ideas to make them stand out, as shown in Figure 4-2. From this example, you can see that no project ideas are identified to address strengths or threats, so these areas should be discussed further.
+
+identifying Potential Projects
+
+The first step in project management is deciding what projects to do in the first place.
+
+Therefore, project initiation starts with identifying potential projects, using realistic methods to select which projects to work on, and then formalizing their initiation by issuing some sort of project charter.
+
+In addition to using a SWOT analysis, organizations often follow a detailed process for project selection. Figure 4-3 shows a four-stage process for selecting IT projects. Note the hierarchical structure of this model and the results produced from each stage.
+
+In the first stage of the selection process, starting at the top of the hierarchy, a steering committee develops an IT strategic plan that is tied to the organization’s overall strategic plan. In many organizations, this steering committee consists of managers from departments throughout the company to ensure that all projects are selected in the best Figure 4-2 Mind map of a SWOT analysis to help identify potential projects 01356_ch04_hr_151-200.indd 157
+
+4/28/18 11:29 AM
+
+158
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+Information Technology
+
+
+Results Produced
+
+Planning Stages
+
+Tie information technology strategy
+
+Information
+
+to mission and vision of organization.
+
+Technology
+
+Identify key business areas.
+
+Strategy Planning
+
+Document key business
+
+Business Area Analysis
+
+processes that could benefit
+
+from information technology.
+
+Define potential projects.
+
+Project Planning
+
+Define project scope,
+
+benefits, and constraints.
+
+Select information
+
+Resource Allocation
+
+technology projects.
+
+Assign resources.
+
+Figure 4-3 Planning process for selecting IT projects interests of the entire organization. The head of the Project Management Office (PMO) would be part of this committee because the PMO acts as the central location for keeping track of all project activities. It is very important to have managers from outside the IT department assist in developing the IT strategic plan, as they can help IT personnel understand organizational strategies and identify the business areas that support them. At the end of this stage, the organization should have a well-defined list of IT strategic goals.
+
+After identifying strategic goals, the next stage in the process for selecting IT projects is to perform a business area analysis. This analysis outlines business processes that are central to achieving strategic goals and helps determine which processes could most benefit from IT. In the next stage, the organization starts defining the scope, benefits, and constraints of potential IT projects. The last stage in the process for selecting IT projects is choosing which projects to do and assigning resources for working on them.
+
+aligning it with business strategy
+
+Notice that aligning IT projects with business strategy is at the heart of selecting IT
+
+projects. This is consistently a top concern for CIOs. It is often difficult to educate line managers on technology’s possibilities and limitations and keep IT professionals in tune with changing business needs. Most organizations face thousands of problems and opportunities for improvement. To get the most value from technology, an organization’s strategic plan should guide the IT project selection process. Recall from Chapter 2’s Best Practice feature that IT governance is an important part of ensuring that IT supports business goals. IT governance helps organizations maximize their investments in IT and address IT-related risks and opportunities.
+
+An organization must develop a strategy for using IT to define how it will support the organization’s objectives. This IT strategy must align with the organization’s strategic 01356_ch04_hr_151-200.indd 158
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+159
+
+plans. In fact, research shows that supporting explicit business objectives is the top reason cited for why organizations invest in IT projects. Other top criteria for investing in IT
+
+projects include supporting implicit business objectives and providing financial incentives, such as a good internal rate of return (IRR) or net present value (NPV).2 Using a balanced scorecard approach, as described later in this chapter also helps align projects with business strategy. Gartner estimated worldwide IT spending at $3.6 trillion in 2018, an increase of 3.5 percent from 2017. The majority of survey respondents felt that the CIO
+
+role was becoming more strategic, reporting that 62 percent sit on the executive board, an all-time high from past surveys.3
+
+Information systems often are central to business strategy. Author Michael Porter, who developed the concepts of the strategic value of competitive advantage and value chain, and many other experts have emphasized the importance of using IT to support strategic plans and provide a competitive advantage. Many information systems are classified as strategic because they directly support key business strategies. For example, information systems can support an organizational strategy of being a low-cost producer.
+
+As one of the largest retailers in the United States, Walmart’s inventory control system is a classic example of such a strategic system. Information systems can support a strategy of providing specialized products or services that set a company apart from others in the industry. Consider the classic example of Federal Express’s introduction of online package tracking systems. FedEx was the first company to provide this type of service, which gave it a competitive advantage until others developed similar systems. Information systems can also support a strategy of selling to a particular market or occupying a specific product niche. Owens Corning developed a strategic information system that boosted the sales of its home-insulation products by providing its customers with a system for evaluating the energy efficiency of building designs. The editor in chief of CIO magazine stated, “The smart use of technology is always a key component in driving innovation and creating a competitive edge. We see IT value proving itself across the board in many organizations.”4
+
+b e s t P r a c t i c e
+
+In 2017 Fortune released their Business by Design list, highlighting the 24 companies they believe are using technology and globalization to find their competitive advantage.
+
+A few excerpts from their analysis include the following:
+
+• “No company tops Apple (aapl, 20.24%) for demonstrating the strategic power of great design and learning to ‘think different.’ While there is a raging debate about whether or not Apple has lost some of its design mojo in recent years, as the story ‘Has Apple Lost Its Design Mojo’ explores, the world’s most valuable company continues to push boundaries. Meanwhile, a host of other leading companies, including Alphabet, Amazon, and Nike, have achieved success by expanding design capabilities.
+
+( continued)
+
+01356_ch04_hr_151-200.indd 159
+
+4/28/18 11:29 AM
+
+160
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+• Dyson is the U.K.’s biggest investor in robotics and artificial intelligence research. In September, the company launched the Dyson Institute of Engineering and Technology, a university within its office grounds, to feed its growing headcount of engineers and scientists, which Dyson predicts will double to 6,000 by 2020.
+
+• It wasn’t so long ago that Samsung found itself in a courtroom defending its creativity against Apple. But the company’s decades-long bid to move beyond its reputation as a budget brand has paid off. Today Samsung is tech’s largest spender on R&D. And its TVs, phones, appliances, services, and offices?
+
+Covetable.
+
+• Capital One has adopted design thinking as a mantra to reinvent itself as a software company and innovation incubator, rather than a traditional bank.
+
+After acquiring design firms Adaptive Path and Monsoon, Capital One has recently rolled out fresh digital features, from an emoji-enabled SMS chatbot to GPS-tracked transaction histories. In early 2018 it will unveil its 1717
+
+Innovation Center in Richmond, a 42,000-square-foot facility housing an experience design research lab and, through a partnership with an incubator program, some 50 startups.”5
+
+MethOds FOr seLecting PrOjects
+
+Organizations identify many potential projects as part of their strategic planning processes, and they need to narrow down the list of potential projects to the ones that will be of most benefit. They often rely on experienced project managers to help them make project selection decisions. Selecting projects is not an exact science, and many methods exist for selecting projects. Five common techniques are as follows:
+
+• Focusing on broad organizational needs
+
+• Categorizing IT projects
+
+• Performing net present value or other financial analyses
+
+• Using a weighted scoring model
+
+• Implementing a balanced scorecard
+
+In practice, many organizations use a combination of these approaches to select projects. Each approach has advantages and disadvantages, and it is up to management to determine the best approach for selecting projects based on their particular organization.
+
+Focusing on broad Organizational needs
+
+Top managers must focus on meeting their organizations’ many needs when deciding what projects to undertake, when to undertake them, and to what level. Projects that address broad organizational needs are much more likely to be successful because they will be important to the organization. For example, a broad organizational need might be 01356_ch04_hr_151-200.indd 160
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+161
+
+to improve safety, increase morale, provide better communications, or improve customer service. However, it is often difficult to provide a strong justification for many IT projects related to these broad organizational needs. For example, estimating the financial value of such projects is often impossible, even though everyone agrees that they have a high value. As the old proverb says, “It is better to measure gold roughly than to count pennies precisely.”
+
+One method for selecting projects based on broad organizational needs is to determine whether they first meet three important criteria: need, funding, and will. Do people in the organization agree that the project needs to be done? Does the organization have the desire and capacity to provide adequate funds to perform the project? Is there a strong will to make the project succeed? For example, many visionary CEOs can describe a broad need to improve certain aspects of their organizations, such as communications.
+
+Although they cannot specifically describe how to improve communications, they might allocate funds to projects that address this need. As projects progress, the organization must reevaluate the need, funding, and will for each project to determine if it should be continued, redefined, or terminated.
+
+categorizing it Projects
+
+Another method for selecting projects is based on various categorizations, such as the project’s impetus, time window, and general priority. The impetus for a project is often to respond to a problem, an opportunity, or a directive.
+
+• Problems are undesirable situations that prevent an organization from achieving its goals. These problems can be current or anticipated. For example, users of an information system may be having trouble logging on to the system or getting information in a timely manner because the system has reached its capacity. In response, the company could initiate a project to enhance the current system by adding more access lines or upgrading the hardware with a faster processor, more memory, or more storage space.
+
+• Opportunities are chances to improve the organization. For example, the project described in the chapter’s opening case involves creating a new product that can make or break the entire company.
+
+• Directives are new requirements imposed by management, government, or some external influence. For example, many projects that involve medical technologies must meet rigorous government requirements.
+
+Organizations select projects for any of these reasons. It is often easier to get approval and funding for projects that address problems or directives because the organization must respond to these categories to avoid hurting their business. Many problems and directives must be resolved quickly, but managers must also apply systems thinking and seek opportunities for improving the organization through IT
+
+projects.
+
+Another categorization for IT projects is based on timing: How long will it take to complete a project and what is the deadline for completing it? For example, some 01356_ch04_hr_151-200.indd 161
+
+4/28/18 11:29 AM
+
+162
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+potential projects must be finished within a specific time window; otherwise, they are no longer valid projects. Some projects can be completed very quickly—within a few weeks, days, or even minutes. Many organizations have an end-user support function to handle very small projects that can be completed quickly. However, even though many IT
+
+projects can be completed quickly, it is still important to prioritize them.
+
+Organizations can also categorize IT projects as having high, medium, or low priority based on the current business environment. For example, if it is crucial to cut operating costs quickly, projects that have the most potential to do so would be given a high priority.
+
+An organization should always complete high-priority projects first, even if a low-or medium-priority project could be finished in less time. Usually an organization has many more potential IT projects than it can undertake at one time, so it is crucial to work on the most important projects first.
+
+Performing Financial analyses
+
+Financial considerations are an important aspect of the project selection process, whether economic times are tough or the economy is growing. As authors Dennis Cohen and Robert Graham put it, “Projects are never ends in themselves. Financially they are always a means to an end, cash.”6 Many organizations require an approved business case before pursuing projects, and financial projections are a critical component of the business case.
+
+(See Chapter 3 for a sample business case.) Three primary methods for projecting the financial value of projects include net present value analysis, return on investment, and payback analysis. Because project managers often deal with business executives, they must understand how to speak business language, which often boils down to the following important financial concepts.
+
+net Present value analysis
+
+Most people know that a dollar earned today is worth more than a dollar earned five years from now—a principle called the time value of money. Many projects have financial implications that extend into the future. In order to evaluate potential projects equally, you need to consider their net present value.
+
+Net present value (NPV) analysis is a method of calculating the expected net monetary gain or loss from a project by calculating the value of all expected future cash inflows and outflows at the present time. An organization should consider only projects with a positive NPV if financial value is a key criterion for project selection. A positive NPV means that the return from a project exceeds the cost of capital—the return available from investing the capital elsewhere. In other words, the cost of capital is the rate of return that could have been earned by putting the same money into a different investment with equal risk. Projects with higher NPVs are preferred to projects with lower NPVs, if all other factors are equal.
+
+To calculate NPV, you must assume a certain discount rate. The discount rate is the interest rate used to discount cash flows. It takes into account not just the time value of money but also the risk or uncertainty of future cash flows. The greater the uncertainty of future cash flows, the higher the discount rate. It is also called the capitalization rate or the opportunity cost of capital.
+
+01356_ch04_hr_151-200.indd 162
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+163
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+1 Discount rate
+
+10%
+
+2
+
+3 PROJECT 1 YEAR 1 YEAR 2 YEAR 3 YEAR 4 YEAR 5 TOTAL
+
+4 Benefits
+
+$0
+
+$2,000
+
+$3,000
+
+$4,000
+
+$5,000
+
+$14,000
+
+5 Costs
+
+$5,000
+
+$1,000
+
+$1,000
+
+$1,000
+
+$1,000
+
+$9,000
+
+6 Cash flow
+
+($5,000)
+
+$1,000
+
+$2,000
+
+$3,000
+
+$4,000 $5,000
+
+7 NPV
+
+$2,316
+
+8
+
+Formula =npv(b1,b6:f6)
+
+Note that totals are
+
+9
+
+equal, but NPVs are
+
+10 PROJECT 2 YEAR 1 YEAR 2 YEAR 3 YEAR 4 YEAR 5 TOTAL
+
+not because of the
+
+time value of money
+
+11 Benefits
+
+$1,000
+
+$2,000
+
+$4,000
+
+$4,000
+
+$4,000
+
+$15,000
+
+12 Costs
+
+$2,000
+
+$2,000
+
+$2,000
+
+$2,000
+
+$2,000
+
+$10,000
+
+13 Cash flow
+
+($1,000)
+
+$0
+
+$2,000
+
+$2,000
+
+$2,000 $5,000
+
+14 NPV
+
+$3,201
+
+15
+
+Formula =npv(b1,b13:f13)
+
+16
+
+17
+
+Figure 4-4 Net present value example
+
+Figure 4-4 illustrates this concept in Microsoft Excel for two different projects. Note that this example starts discounting immediately in Year 1 and uses a 10 percent discount rate. You can use the NPV function in Excel to calculate the NPV quickly. Detailed steps for performing this calculation manually are presented later.
+
+Figure 4-4 lists the projected benefits first, followed by the costs, and then the calculated cash flow amount. Note that the sum of the cash flow—benefits minus costs or income minus expenses—is the same for both projects at $5,000. The net present values are different, however, because they account for the time value of money. Project 1 has a negative cash flow of $5,000 in the first year, while Project 2 has a negative cash flow of only $1,000 in the first year. Although both projects have the same total cash flows without discounting, they are not of comparable financial value. Project 2’s NPV of $3,201
+
+is better than Project 1’s NPV of $2,316. NPV analysis, therefore, is a method for making equal comparisons between cash flows for multiyear projects.
+
+To determine NPV, follow these steps:
+
+1. Determine the estimated costs and benefits for the life of the project and the products it creates. For example, JWD Consulting assumed that its project would produce a system in about six months that would be used for three years, so costs are included in Year 0, when the system is developed. Ongoing system costs and projected benefits are included for Years 1, 2, and 3.
+
+2. Determine the discount rate. In Figure 4-4, the discount rate is 10 percent per year.
+
+3. Calculate the net present value. Most spreadsheet software has a built-in function to calculate NPV. For example, Figure 4-4 shows the formula that 01356_ch04_hr_151-200.indd 163
+
+4/28/18 11:29 AM
+
+164
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+Discount rate
+
+
+8%
+
+Assume the project is completed in Year 0
+
+Year
+
+0
+
+1
+
+2
+
+3 Total
+
+Costs
+
+140,000 40,000
+
+40,000 40,000
+
+Discount factor
+
+1
+
+0.93
+
+0.86
+
+0.79
+
+Discounted costs
+
+140,000 37,200 34,400 31,600 243,200
+
+Benefits
+
+0 200,000 200,000 200,000
+
+Discount factor
+
+1
+
+0.93
+
+0.86
+
+0.79
+
+Discounted benefits
+
+0 186,000 172,000 158,000 516,000
+
+Discounted benefits - costs (140,000) 148,800 137,600 126,400 272,800
+
+NPV
+
+Cumulative benefits - costs (140,000)
+
+8,800 146,400 272,800
+
+ROI
+
+112%
+
+Payback in Year 1
+
+Figure 4-5 JWD Consulting net present value and return on investment example Microsoft Excel uses: 5npv(discount rate, range of cash flows), where the discount rate is in cell B1 and the range of cash flows for Project 1 are in cells B6 through F6. (See Chapter 7, Project Cost Management, for more information on cash flow and other cost-related terms.) To use the NPV
+
+function, you must have a row or column in the spreadsheet for the cash flow each year, which is the benefit amount for that year minus the cost amount.
+
+The result of the formula yields an NPV of $2,316 for Project 1 and $3,201 for Project 2. Because both projects have positive NPVs, they are good candidates for selection.
+
+However, because Project 2 has an NPV that is 38 percent higher than Project 1, it would be the better choice. If the two numbers are close, then other methods should be used to help decide which project to select.
+
+The mathematical formula for calculating NPV is
+
+5
+
+∑ t 1 r t
+
+NPV
+
+A /(1
+
+)
+
+t 5 0 . . . n
+
+where t equals the year of the cash flow, n is the last year of the cash flow, A is the amount of cash flow each year, and r is the discount rate.
+
+If you cannot enter the data into spreadsheet software, you can perform the calculations by hand or with a calculator. First, determine the annual discount factor—a multiplier for each year based on the discount rate and year—and then apply it to the costs and benefits for each year. The formula for the discount factor is 1/(1 1 r)t, where r is the discount rate, such as 8 percent, and t is the year. For example, the discount factors used in Figure 4-5 are calculated as follows:
+
+01356_ch04_hr_151-200.indd 164
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+165
+
+Year 0 : discount factor 5 1/(1 1 0.08)05 1
+
+Year 1 : discount factor 5 1/(1 1 0.08)15 0.93
+
+Year 2 : discount factor 5 1/(1 1 0.08)25 0. 86
+
+Year 3 : discount factor 5 1/(1 1 0.08)35 0. 79
+
+After determining the discount factor for each year, multiply the costs and benefits each year by the appropriate discount factor. (Note that the discount factor in this case is rounded to two decimal places.) For example, in Figure 4-5, the discounted cost for Year 1
+
+is $40,000 3 0.93 5 $37,200. Next, sum all of the discounted costs and benefits each year to get a total. The total discounted costs in Figure 4-5 are $243,200. To calculate the NPV, subtract the total discounted costs from the total discounted benefits. In this example, the NPV is $516,000 2 $243,200 5 $272,800.
+
+When calculating NPV, some organizations refer to the investment year or years for project costs as Year 0 and do not discount costs in Year 0. Other organizations start discounting immediately based on their financial procedures; it’s simply a matter of preference for the organization.
+
+The discount rate can also vary, often based on the prime rate and other economic considerations. Some people consider it to be the rate at which the organization could borrow money for the project. Financial experts in your organization can tell you what discount rate to use.
+
+When calculating NPV, you can enter costs as negative numbers instead of positive numbers, and you can list costs first and then benefits. For example, Figure 4-5 shows the financial calculations used in the JWD Consulting business case for the project management intranet site project described in Chapter 3. Note that the discount rate is 8 percent, costs are not discounted in Year 0, the discount factors are rounded to two decimal places, costs are listed first, and costs are entered as positive numbers. Also note that costs and benefits are discounted before they are summed. The NPV and other calculations are the same; only the format is different. A project manager needs to check with the organization to learn its guidelines for when discounting starts, what discount rate to use, and what format the organization prefers.
+
+return on investment
+
+Another important financial consideration is return on investment. Return on investment (ROI) is the result of subtracting the project costs from the benefits and then dividing by the costs. For example, if you invest $100 today and next year it is worth $110, your ROI is ($110
+
+– 100)/100 or 0.10 (10 percent). Note that the ROI is always a percentage. It can be positive or negative. For multiyear projects, it is best to use discounted costs and benefits when calculating ROI. Figure 4-5 shows an ROI of 112 percent, which you calculate as follows: ROI 5 (total discounted benefits 2 total discounted costs)/discounted costs ROI 5 (516,000 2 243,200)/243,200 5 112%
+
+The higher the ROI is, the better. An ROI of 112 percent is outstanding.
+
+Many organizations have a required rate of return for projects. The required rate of return is the minimum acceptable rate of return on an investment. For example, an 01356_ch04_hr_151-200.indd 165
+
+4/28/18 11:29 AM
+
+166
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+organization might have a required rate of return of at least 10 percent for projects. The organization bases the required rate of return on what it could expect to receive elsewhere for an investment of comparable risk. You can also determine a project’s internal rate of return (IRR) by finding what discount rate results in an NPV of zero for the project. You can use the Goal Seek function in Excel to set the cell that contains the formula for NPV
+
+to the value 0 by changing the cell that contains the discount rate. The resulting discount rate is the IRR. For example, in Figure 4-4, you could set cell b7 to zero while changing cell b1 to find that the IRR for Project 1 is 27 percent.
+
+Payback analysis
+
+Payback analysis is another important financial tool when selecting projects. Payback period is the amount of time it will take to recoup the total dollars invested in a project, in terms of net cash inflows. In other words, payback analysis determines how much time will elapse before accrued benefits overtake accrued and continuing costs. Payback occurs when the net cumulative benefits equal the net cumulative costs or when the net cumulative benefits minus costs equal zero. Figure 4-5 shows how to find the payback period. The cumulative benefits minus costs for Year 0 is $140,000. Adding that number to the discounted benefits minus costs for Year 1 results in $8,800. Because that number is positive, the payback occurs in Year 1.
+
+Creating a chart helps illustrate more precisely when the payback period occurs.
+
+Figure 4-6 charts the cumulative discounted costs and cumulative discounted benefits each year using the numbers from Figure 4-5. Note that the lines cross around Year 1. This is the point where the cumulative discounted benefits equal the cumulative discounted Payback
+
+600,000
+
+500,000
+
+400,000
+
+Payback
+
+$ 300,000
+
+200,000
+
+100,000
+
+0
+
+0
+
+1
+
+2
+
+3
+
+Year
+
+Cumulative costs
+
+Cumulative benefits
+
+Figure 4-6 Charting the payback period for the JWD Consulting project 01356_ch04_hr_151-200.indd 166
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+167
+
+costs, so that the cumulative discounted benefits minus costs is zero. Beyond this point, discounted benefits exceed discounted costs and the project shows a profit. An early payback period, such as in the first or second year, is considered very good.
+
+Many organizations have requirements for the length of the payback period of an investment. They might require all IT projects to have a payback period of less than two years or even one year, regardless of the estimated NPV or ROI. Dan Hoover, vice president and area director of Ciber Inc., an international systems integration consultancy, suggests that organizations, especially small firms, should focus on payback period when making IT investment decisions. “If your costs are recovered in the first year,” Hoover said, “the project is worthy of serious consideration, especially if the benefits are high. If the payback period is more than a year, it may be best to look elsewhere.”7 However, organizations must also consider long-range goals when making technology investments. Many crucial projects cannot achieve a payback so quickly or be completed in such a short time period.
+
+To aid in project selection, project managers must understand the organization’s financial expectations for projects. Top management must also understand the limitations of financial estimates, particularly for IT projects. For example, it is very difficult to develop good estimates of projected costs and benefits for IT projects. You will learn more about estimating costs and benefits in Chapter 7, Project Cost Management.
+
+using a Weighted scoring Model
+
+A weighted scoring model is a tool that provides a systematic process for selecting projects based on many criteria. These criteria can include factors such as meeting broad organizational needs; addressing problems, opportunities, or directives; the amount of time needed to complete the project; the overall priority of the project; and projected financial performance of the project.
+
+The first step in creating a weighted scoring model is to identify criteria that are important to the project selection process. It often takes time to develop and reach agreement on these criteria. Holding facilitated brainstorming sessions or using groupware to exchange ideas can aid in developing these criteria. Possible criteria for IT projects include the following:
+
+• Supports key business objectives or strategies
+
+• Has strong internal sponsor
+
+• Has strong customer support
+
+• Uses realistic level of technology
+
+• Can be implemented in one year or less
+
+• Provides positive NPV
+
+• Has low risk in meeting scope, time, and cost goals Next, you assign a weight to each criterion based on its importance. Once again, determining weights requires consultation and final agreement. You can assign weights based on percentages; the weights of the criteria must total 100 percent. You then assign numerical scores to each criterion (e.g., 0 to 100) for each project. The scores indicate how much each project meets each criterion. At this point, you can use a spreadsheet application to create a matrix of projects, criteria, weights, and scores. Figure 4-7 provides 01356_ch04_hr_151-200.indd 167
+
+4/28/18 11:29 AM
+
+168
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+an example of a weighted scoring model to evaluate four different projects. After assigning weights for the criteria and scores for each project, you calculate a weighted score for each project by multiplying the weight for each criterion by its score and adding the resulting values.
+
+For example, you calculate the weighted score for Project 1 in Figure 4-7 as 25% * 90 115% 70 115% 50 110% 2515 20 120% 50 110% 20 556
+
+Note that in this example, Project 2 would be the obvious choice for selection because it has the highest weighted score. Creating a bar chart to graph the weighted scores for each project allows you to see the results at a glance.
+
+If you create the weighted scoring model in a spreadsheet, you can enter the data, create and copy formulas, and perform a “what-if” analysis. For example, suppose that A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+1 Criteria
+
+Weight
+
+Project 1 Project 2 Project 3 Project 4
+
+2 Supports key business objectives
+
+25%
+
+90
+
+90
+
+50
+
+20
+
+3 Has strong internal sponsor
+
+15%
+
+70
+
+90
+
+50
+
+20
+
+4 Has strong customer support
+
+15%
+
+50
+
+90
+
+50
+
+20
+
+5 Uses realistic level of technology
+
+10%
+
+25
+
+90
+
+50
+
+70
+
+6 Can be implemented in one year or less
+
+5%
+
+20
+
+20
+
+50
+
+90
+
+7 Provides positive NPV
+
+20%
+
+50
+
+70
+
+50
+
+50
+
+8 Has low risk in meeting scope, time, and cost goals 10%
+
+20
+
+50
+
+50
+
+90
+
+9 Weighted Project Scores
+
+100%
+
+56
+
+78.5
+
+50
+
+41.5
+
+10
+
+11
+
+12
+
+Weighted Score by Project
+
+13
+
+14
+
+Project 4
+
+15
+
+16
+
+17
+
+Project 3
+
+18
+
+19
+
+Project 2
+
+20
+
+21
+
+Project 1
+
+22
+
+23
+
+24
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+25
+
+26
+
+Figure 4-7 Sample weighted scoring model for project selection 01356_ch04_hr_151-200.indd 168
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+169
+
+you want to change the weights for the criteria. By having the weighted scoring model in a spreadsheet, you can easily change the weights and update the weighted scores and charts automatically. This capability allows you to investigate various options for different stakeholders quickly. Ideally, the result should reflect the group’s consensus, and any major disagreements should be documented.
+
+You can also establish how well projects meet criteria by assigning points. For example, a project might receive 10 points if it definitely supports key business objectives, 5 points if it somewhat supports them, and 0 points if it is totally unrelated to key business objectives. With a point model, you can simply add all the points to determine the best projects for selection, without having to multiply weights and scores and sum the results.
+
+You can also determine minimum scores or thresholds for specific criteria in a weighted scoring model. For example, suppose that an organization should not consider a project if it does not score at least 50 out of 100 on every criterion. You can build this type of threshold into the weighted scoring model to reject projects that do not meet these minimum standards. As you can see, weighted scoring models can aid in project selection decisions.
+
+implementing a balanced scorecard
+
+Drs. Robert Kaplan and David Norton developed another approach to help select and manage projects that align with business strategy. A balanced scorecard is a strategic planning and management system that helps organizations align business activities to strategy, improve communications, and monitor performance against strategic goals. The Gartner Group estimates that over half of large U.S. organizations use this approach. The balanced scorecard has evolved over time. “The ‘new’ balanced scorecard transforms an organization’s strategic plan from an attractive but passive document into the ‘marching orders’ for the organization on a daily basis. It provides a framework that not only provides performance measurements but helps planners identify what should be done and measured.”8 You can find several examples of balanced scorecards from manufacturing companies like Shat-R-Shield to non profits like the Kenya Red Cross at www.balancedscorecard.org.
+
+As you can see, organizations can use many approaches to select projects. Many project managers have some say in which projects their organizations select for implementation. Even if they do not, they need to understand the motives and overall business strategies for the projects they are managing. Project managers and team members are often called upon to explain the importance of their projects, and understanding project selection methods can help them represent the project effectively.
+
+deveLOPing a PrOject charter
+
+After top management decides which projects to pursue, it is important to let the rest of the organization know about these projects. Management needs to create and distribute documentation to authorize project initiation. This documentation can take many different forms, but one common form is a project charter. A project charter is a document that formally recognizes the existence of a project and provides direction on the project’s objectives and management. It authorizes the project manager to use organizational resources to complete the project. Ideally, the project manager plays a major role in developing the project charter.
+
+01356_ch04_hr_151-200.indd 169
+
+4/28/18 11:29 AM
+
+170
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+Instead of project charters, some organizations initiate projects using a simple letter of agreement, while others use much longer documents or formal contracts. Key project stakeholders should sign a project charter to acknowledge agreement on the need for and intent of the project. A project charter is a key output of the initiation process, as described in Chapter 3.
+
+The PMBOK® Guide – Sixth Edition lists inputs, tools, techniques, and outputs of the six project integration management processes. The following inputs are helpful in developing a project charter:
+
+• A business case: As explained in Chapter 3, many projects require a business case to justify their investment. Information in the business case, such as the project objective, high-level requirements, and time and cost goals, is included in the project charter.
+
+• Benefits management plan: This document describes how and when the projected benefits of the project will be delivered and how they will be managed. Topics covered can include the target benefits, strategic alignment, timeframe for realizing benefits, benefits owner, metrics, assumptions, and risks.
+
+• Agreements: If you are working on a project under contract for an external customer, the contract or agreement should include much of the information needed for creating a good project charter. Some people might use a contract or agreement in place of a charter. However, many contracts are difficult to read and can often change, so it is still a good idea to create a project charter.
+
+• Enterprise environmental factors: These factors include relevant government or industry standards, the organization’s infrastructure, and marketplace conditions. Managers should review these factors when developing a project charter.
+
+• Organizational process assets: Organizational process assets include formal and informal plans, policies, procedures, guidelines, information systems, financial systems, management systems, lessons learned, and historical information that can influence a project’s success.
+
+The main tools and techniques for developing a project charter are expert judgment, data gathering, interpersonal and team skills, and meetings. Experts from inside and outside the organization should be consulted when creating a project charter to make sure it is useful and realistic. Facilitators often make it easier for experts to collaborate and provide useful information.
+
+The two outputs of the process to develop a project charter are the charter itself and an assumption log. Although the format of project charters can vary tremendously, they should include at least the following basic information:
+
+• The project’s title and date of authorization
+
+• The project manager’s name and contact information 01356_ch04_hr_151-200.indd 170
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+171
+
+• A summary schedule, including the planned start and finish dates; if a summary milestone schedule is available, it should also be included or referenced
+
+• A summary of the project’s budget or reference to budgetary documents
+
+• A brief description of the project objectives, including the business need or other justification for authorizing the project
+
+• Project success criteria, including project approval requirements and who signs off on the project
+
+• A summary of the planned approach for managing the project, which should describe stakeholder needs and expectations, important assumptions, and constraints, and should refer to related documents, such as a communications management plan, as available
+
+• A roles and responsibilities matrix
+
+• A sign-off section for signatures of key project stakeholders
+
+• A comments section in which stakeholders can provide important comments related to the project
+
+Unfortunately, many internal projects, like the one described in the opening case of this chapter, do not have project charters. They often have a budget and general guidelines, but no formal, signed documentation. If Nick had a project charter to refer to—especially if it included information for managing the project—top management would have received the business information it needed, and managing the project might have been easier. Project charters are usually not difficult to write. The difficult part is getting people with the proper knowledge and authority to write and sign the project charter. Top management should have reviewed the charter with Nick because he was the project manager. In their initial meeting, they should have discussed roles and responsibilities, as well as their expectations of how Nick should work with them. If there is no project charter, the project manager should work with key stakeholders, including top management, to create one. Table 4-1 shows a possible charter that Nick could have created for completing the next-gen DNA-sequencing instrument project.
+
+Many projects fail because of unclear requirements and expectations, so starting with a project charter makes a lot of sense. If project managers are having difficulty obtaining support from project stakeholders, for example, they can refer to the agreements listed in the project charter. Note that the sample project charter in Table 4-1 includes several items under the Approach section to help Nick in managing the project and the sponsor in overseeing it. To help Nick make the transition to project manager, the charter said that the company would hire a technical replacement and part-time assistant for Nick as soon as possible. To help Ahmed, the project sponsor, feel more comfortable with how the project was being managed, items were included to ensure proper planning and communications. Recall from Chapter 2 that executive support contributes the most to successful IT projects. Because Nick was the fourth project manager on this project, top management at his company obviously had problems choosing and working with project managers.
+
+01356_ch04_hr_151-200.indd 171
+
+4/28/18 11:29 AM
+
+172
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+tabLe 4-1 Project charter for the next-gen DNA-sequencing instrument completion project Project Title: Next-gen DNA-Sequencing Instrument Completion Project Date of Authorization: February 1
+
+Project Start Date: February 1 Projected Finish Date: November 1
+
+Key Schedule Milestones:
+
+• Complete first version of the software by June 1
+
+• Complete production version of the software by November 1
+
+Budget Information: The firm has allocated $1.5 million for this project, and more funds are available if needed. The majority of costs for this project will be internal labor. All hardware will be outsourced.
+
+Project Manager: Nick Carson, (650) 949-0707, ncarson@dnaconsulting.com Project Objectives: The Next-gen DNA-sequencing instrument project has been under way for three years. It is a crucial project for our company. This is the first charter for the project; the objective is to complete the first version of the instrument software in four months and a production version in nine months.
+
+Main Project Success Criteria: The software must meet all written specifications, be thoroughly tested, and be completed on time. The CEO will formally approve the project with advice from other key stakeholders.
+
+Approach:
+
+• Hire a technical replacement for Nick Carson and a part-time assistant as soon as possible.
+
+• Within one month, develop a clear work breakdown structure, scope statement, and Gantt chart detailing the work required to complete the Next-gen DNA-sequencing instrument.
+
+• Purchase all required hardware upgrades within two months.
+
+• Hold weekly progress review meetings with the core project team and the sponsor.
+
+• Conduct thorough software testing per the approved test plans.
+
+rOLes and resPOnsibiLities
+
+name
+
+role
+
+Position
+
+contact information
+
+Ahmed Abrams
+
+Sponsor
+
+CEO
+
+aabrams@dnaconsulting.com
+
+Nick Carson
+
+Project Manager
+
+Manager
+
+ncarson@dnaconsulting.com
+
+Susan Johnson
+
+Team Member
+
+DNA Expert
+
+sjohnson@dnaconsulting.com
+
+Renyong Chi
+
+Team Member
+
+Testing Expert
+
+rchi@dnaconsulting.com
+
+Erik Haus
+
+Team Member
+
+Programmer
+
+ehaus@dnaconsulting.com
+
+Bill Strom
+
+Team Member
+
+Programmer
+
+bstrom@dnaconsulting.com
+
+Maggie Elliot
+
+Team Member
+
+Programmer
+
+melliot@dnaconsulting.com
+
+( continued)
+
+01356_ch04_hr_151-200.indd 172
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+173
+
+tabLe 4-1 Project charter for the next-gen DNA-sequencing instrument completion project ( continued)
+
+rOLes and resPOnsibiLities
+
+name
+
+role
+
+Position
+
+contact information
+
+Sign-off: (signatures of all the above stakeholders)
+
+Ahmed Abrams
+
+Nick Carson
+
+Susan Johnson
+
+Renyong Chi
+
+Erik Haus
+
+Bill Strom
+
+Maggie Elliot
+
+Comments: (handwritten or typed comments from above stakeholders, if applicable)
+
+“I want to be heavily involved in this project. It is crucial to our company’s
+
+success, and I expect everyone to help make it succeed.”—ahmed abrams
+
+“The software test plans are complete and well documented. If anyone has questions, do not hesitate to contact me.”—Renyong Chi Taking the time to discuss, develop, and sign off on a simple project charter could have prevented several problems in this case.
+
+In addition to a project charter, it is a good idea to create an assumption log.
+
+Assumptions are usually identified in the business case, but additional assumptions should be documented throughout the project. Assumptions can be related to technology, estimates, schedules, risks, etc. A simple document or spreadsheet can be used to log assumptions. Information could include an assumption ID, date, source, category, description, and status.
+
+After creating a project charter and assumption log, the next step in project integration management is preparing a project management plan.
+
+deveLOPing a PrOject ManageMent PLan
+
+To coordinate and integrate information across project management knowledge areas and across the organization, there must be a good project management plan. A project management plan is a document used to coordinate all project planning documents and help guide a project’s execution and control. Plans created in the other knowledge areas are considered subsidiary parts of the overall project management plan. Project management plans also document project planning assumptions and decisions regarding choices, facilitate communication among stakeholders, define the content, extent, and timing of key management reviews, and provide a baseline for progress measurement and project control. Project management plans should be dynamic, flexible, and subject to change when the environment or project changes. These plans 01356_ch04_hr_151-200.indd 173
+
+4/28/18 11:29 AM
+
+174
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+should greatly assist the project manager in leading the project team and assessing project status.
+
+To create and assemble a good project management plan, the project manager must practice the art of project integration management, because information is required from all of the project management knowledge areas. Working with the project team and other stakeholders to create a project management plan will help the project manager guide the project’s execution and understand the overall project.
+
+The main inputs for developing a project management plan include the project charter, outputs from other processes, enterprise environment factors, and organizational process assets. The main tool and technique is expert judgments are expert judgment, data gathering, interpersonal and team skills, and meetings, and the output is a project management plan.
+
+Project Management Plan contents*
+
+The project management plan briefly describes the overall scope, schedule, and cost baselines for the project. Specific plans in each of those knowledge areas provide more detailed baseline information. For example, the project management plan might provide a high-level budget baseline for the entire project, whereas the cost baseline prepared as part of the project cost management knowledge area provides detailed cost projections by WBS by month. The project management plan can also include a project life cycle description and development approach, as shown in Table 4-2. Also tabLe 4-2 Project management plan and project documents Project Management Plan
+
+Project Documents
+
+1. Scope management plan
+
+1. Activity attributes
+
+14. Project
+
+2. Requirements
+
+2. Activity list
+
+communications
+
+management plan
+
+3. Assumption log
+
+15. Project schedule
+
+3. Schedule management
+
+4. Basis of estimates
+
+16. Project schedule
+
+plan
+
+5. Change log
+
+network diagram
+
+4. Cost management plan
+
+6. Cost estimates
+
+17. Project scope
+
+5. Quality management
+
+7. Cost forecasts
+
+statement
+
+plan
+
+8. Duration estimates
+
+18. Project team
+
+6. Resource management
+
+9. Issue log
+
+assignments
+
+plan
+
+10. Lessons learned
+
+19. Quality control
+
+7. Communications
+
+register
+
+measurements
+
+management plan
+
+11. Milestone list
+
+20. Quality metrics
+
+8. Risk management plan
+
+12. Physical resource
+
+21. Quality report
+
+9. Procurement
+
+assignments
+
+22. Requirements
+
+management plan
+
+13. Project calendars
+
+documentation
+
+( continued)
+
+01356_ch04_hr_151-200.indd 174
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+175
+
+tabLe 4-2 Project management plan and project documents ( continued) Project Management Plan
+
+Project Documents
+
+10. Stakeholder engagement
+
+23. Requirements
+
+33. Test and evaluation
+
+plan
+
+traceability matrix
+
+documents
+
+11. Change management
+
+24. Resource breakdown
+
+plan
+
+structure
+
+12. Configuration
+
+25. Resource calendars
+
+management plan
+
+26. Resource
+
+13. Scope baseline
+
+requirements
+
+14. Schedule baseline
+
+27. Risk register
+
+15. Cost baseline
+
+28. Risk report
+
+16. Performance
+
+29. Schedule data
+
+measurement baseline
+
+30. Schedule forecasts
+
+17. Project life cycle
+
+31. Stakeholder register
+
+description
+
+32. Team charter
+
+18. Development approach
+
+Source: Project Management Institute, Inc., A Guide to the Project Management Body of Knowledge (PMBOK® Guide) – Sixth Edition (2017).
+
+notice the many other project documents that project teams can create, as needed, for their projects.
+
+Project management plans should be dynamic, flexible, and receptive to change when the environment or project changes. These plans should greatly assist the project manager in leading the project team and assessing project status. Just as projects are unique, so are project plans. For a small project involving a few people over a couple of months, a project charter, scope statement, and Gantt chart might be the only formal project planning documents needed; there would not be a need for a separate project management plan.
+
+A large project involving 100 people over three years would benefit from having a detailed project management plan and separate plans for each knowledge area. Because all project plans should help guide the completion of the particular project, they should be tailored as needed for each project.
+
+There are, however, common elements to most project management plans, as follows:
+
+• Introduction/overview of the project
+
+• Project organization
+
+• Management and technical processes (including project lifecycle description and development approach, as applicable)
+
+• Work to be performed (scope)
+
+• Schedule and budget information
+
+• References to other project planning documents
+
+01356_ch04_hr_151-200.indd 175
+
+4/28/18 11:29 AM
+
+176
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+using guidelines to create Project Management Plans Many organizations use guidelines to create project management plans. Microsoft Project 2016 and other project management software packages come with several template files to use as guidelines. However, do not confuse a project management plan with a Gantt chart. The project management plan is much more than a Gantt chart, as described earlier.
+
+Many government agencies also provide guidelines for creating project management plans. For example, the U.S. Department of Defense (DOD) Standard 2167, Software Development Plan, describes the format for contractors to use when creating a software development plan for DOD projects. The Institute of Electrical and Electronics Engineers (IEEE) Standard 1058–1998 describes the contents of its Software Project Management Plan (SPMP). Table 4-3 provides some of the categories for the IEEE SPMP. Companies that work on software development projects for the Department of Defense must follow this standard or a similar standard.
+
+In many private organizations, specific documentation standards are not as rigorous; however, there are usually guidelines for developing project management plans. It is good practice to follow the organization’s standards or guidelines for developing project management plans to facilitate their execution. The organization can work more efficiently if all project management plans follow a similar format. Recall from Chapter 1
+
+tabLe 4-3 Sample contents for the IEEE software project management plan (SPMP) Major section
+
+headings
+
+section topics
+
+Overview
+
+Purpose, scope, and objectives; assumptions and constraints; project deliverables; schedule and budget summary; evolution of the plan
+
+Project
+
+External interfaces; internal structure; roles and responsibilities Organization
+
+Managerial Process Startup plans (estimation, staffing, resource acquisition, and Plan
+
+project staff training plans); work plan (work activities, schedule, resource, and budget allocation); control plan; risk management plan; closeout plan
+
+Technical Process
+
+Process model; methods, tools, and techniques; infrastructure Plans
+
+plan; product acceptance plan
+
+Supporting Process Configuration management plan; verification and validation Plans
+
+plan; documentation plan; quality assurance plan; reviews and audits; problem resolution plan; subcontractor management plan; process improvement plan
+
+Source: IEEE Standard 1058–1998.
+
+01356_ch04_hr_151-200.indd 176
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+177
+
+that companies that excel in project management develop and deploy standardized project delivery systems.
+
+The winners clearly spell out what needs to be done in a project, by whom, when, and how. For this they use an integrated toolbox, including PM tools, methods, and techniques. . . . If a scheduling template is developed and used over and over, it becomes a repeatable action that leads to higher productivity and lower uncertainty.
+
+Sure, using scheduling templates is neither a breakthrough nor a feat. But laggards exhibited almost no use of the templates. Rather, in constructing schedules their project managers started with a clean sheet, a clear waste of time.9
+
+In the chapter’s opening case, Nick Carson’s top managers were disappointed because he did not provide the project planning information they needed to make important business decisions. They wanted to see detailed project management plans, including schedules and a means for tracking progress. Nick had never created a project management plan or even a simple progress report before, and the organization did not provide templates or examples to follow. If it had, Nick might have been able to deliver the information top management was expecting.
+
+directing and Managing PrOject WOrk
+
+Directing and managing project work involves managing and performing the work described in the project management plan, one of the main inputs for this process.
+
+Other inputs include approved change requests, enterprise environmental factors, and organizational process assets. The majority of time on a project is usually spent on execution, as is most of the project’s budget.
+
+The application area of the project directly affects project execution because products are created during the execution phase. For example, the next-gen DNA-sequencing instrument from the opening case and all associated software and documentation would be produced during project execution. The project team would need to use its expertise in biology, hardware and software development, and testing to create the product successfully.
+
+The project manager needs to focus on leading the project team and managing stakeholder relationships to execute the project management plan successfully. Project resource management, communications management, and stakeholder management are crucial to a project’s success. See Chapters 9, 10, and 13, respectively, for more information on these knowledge areas. If the project involves a significant amount of risk or outside resources, the project manager also needs to be well versed in project risk management and project procurement management. See Chapters 11 and 12
+
+for details on those knowledge areas. Many unique situations occur during project execution, so project managers must be flexible and creative in dealing with them.
+
+Review the situation that Erica Bell faced during project execution in Chapter 3. Also review the ResNet case study (available on the Companion website for this text) to understand the execution challenges that project manager Peeter Kivestu and his project team faced.
+
+01356_ch04_hr_151-200.indd 177
+
+4/28/18 11:29 AM
+
+178
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+coordinating Planning and execution
+
+
+In project integration management, project planning and execution are intertwined and inseparable activities. The main function of creating a project management plan is to guide project execution. A good plan should help produce good products or work results and should document what constitutes good work results. Updates to plans should reflect knowledge gained from completing work earlier in the project. Anyone who has tried to write a computer program from poor specifications appreciates the importance of a good plan. Anyone who has had to document a poorly programmed system appreciates the importance of good execution.
+
+A common sense approach to improving the coordination between project plan development and execution is to follow this simple rule: Those who will do the work should plan the work. All project personnel need to develop both planning and executing skills, and they need experience in these areas. In IT projects, programmers who have to write detailed specifications and then create the code from them become better at writing specifications. Likewise, most systems analysts begin their careers as programmers, so they understand what type of analysis and documentation they need to write good code.
+
+Although project managers are responsible for developing the overall project management plan, they must solicit input from project team members who are developing plans in each knowledge area.
+
+Providing strong Leadership and a supportive culture Strong leadership and a supportive organizational culture are crucial during project execution. Project managers must lead by example to demonstrate the importance of creating good project plans and then following them in project execution. Project managers often create plans for things they need to do themselves. If project managers follow through on their own plans, their team members are more likely to do the same.
+
+W h a t W e n t r i g h t
+
+In Pulse of the Profession®: Capturing the Value of Project Management 2015, PMI found that organizations that excel in project management are indeed capturing business value. They complete about 80 percent of their projects successfully (defined by meeting the scope on time and on budget) and waste 13 times less money than low-performing counterparts. “Their rigorous approach to project, program and portfolio management improves their ability to execute strategy and creates a competitive advantage.”10
+
+The surprising news in this survey of 2,800 global professionals was that only 12 percent of organizations were considered to be high performers, a percentage that has remained unchanged since 2012. The main industry group surveyed was in IT
+
+(19 percent), followed by financial services (11 percent).
+
+In order to improve, organizations must make some major cultural changes. They need to make sure that everyone fully understands the value of project management, require that executive sponsors are fully engaged on projects and programs, and align their projects to the organization’s strategy.
+
+01356_ch04_hr_151-200.indd 178
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+179
+
+Good project execution also requires a supportive organizational culture. For example, organizational procedures can help or hinder project execution. If an organization has useful guidelines and templates for project management that everyone in the organization follows, it will be easier for project managers and their teams to plan and do their work. If the organization uses the project plans as the basis for performing work and monitoring progress during execution, the culture will promote the relationship between good planning and execution. On the other hand, if organizations have confusing or bureaucratic project management guidelines that hinder getting work done or measuring progress against plans, project managers and their teams will be frustrated.
+
+Even with a supportive organizational culture, project managers may sometimes find it necessary to break the rules to produce project results in a timely manner. When project managers break the rules, politics will play a role in the results. For example, if a particular project requires use of nonstandard software, the project manager must use political skills to convince concerned stakeholders that using standard software would be inadequate. Breaking organizational rules—and getting away with it—requires excellent leadership, communication, and political skills.
+
+capitalizing on Product, business, and application area knowledge In addition to strong leadership, communication, and political skills, project managers need to possess product, business, and application area knowledge to execute projects successfully. It is often helpful for IT project managers to have prior technical experience or at least a working knowledge of IT products. For example, if the project manager were leading a team to help define user requirements, it would be helpful to understand the language of the business and technical experts on the team. See Chapter 5, Project Scope Management, for more information on collecting requirements.
+
+Many IT projects are small, so project managers may be required to perform some technical work or mentor team members to complete the project. For example, a three-month project to develop a Web-based application with only three team members would benefit most from a project manager who can complete some of the technical work. On larger projects, however, the project manager’s primary responsibility is to lead the team and communicate with key project stakeholders. The project manager does not have time to do the technical work. In this case, it is usually best that the project manager understand the business and application area of the project more than the technology involved.
+
+On very large projects the project manager must understand the business and application area of the project. For example, Northwest Airlines completed a series of projects in recent years to develop and upgrade its reservation systems. The company spent millions of dollars and had more than 70 full-time people working on the projects at peak periods. The project manager, Peeter Kivestu, had never worked in an IT
+
+department, but he had extensive knowledge of the airline industry and the reservations process. He carefully picked his team leaders, making sure they had the required technical and product knowledge. ResNet was the first large IT project at Northwest Airlines led by a business manager instead of a technical expert, and it was a roaring success. Many organizations have found that large IT projects require experienced general managers who understand the business and application area of the technology, not the technology itself.
+
+01356_ch04_hr_151-200.indd 179
+
+4/28/18 11:29 AM
+
+180
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+Project execution tools and techniques
+
+
+Directing and managing project work requires specialized tools and techniques, some of which are unique to project management. Project managers can use specific tools and techniques to perform activities that are part of execution processes. These include the following:
+
+• Expert judgment: Anyone who has worked on a large, complex project appreciates the importance of expert judgment in making good decisions.
+
+Project managers should not hesitate to consult experts on different topics, such as what methodology to follow, what programming language to use, and what training approach to follow.
+
+• Meetings: Meetings are crucial during project execution. Face-to-face meetings with individuals or groups of people are important, as are phone and virtual meetings. Meetings allow people to develop relationships, pick up on important body language or tone of voice, and have a dialogue to help resolve problems. It is often helpful to establish set meeting times for various stakeholders. For example, Nick could have scheduled a short meeting once a week with senior managers. He could have also scheduled 10-minute standup meetings every morning for the project team.
+
+• Project management information systems: As described in Chapter 1, hundreds of project management software products are on the market today.
+
+Many large organizations use powerful enterprise project management systems that are accessible via the Internet and tie into other systems, such as financial systems. Even in smaller organizations, project managers or other team members can create Gantt charts that include links to other planning documents on an internal network. For example, Nick or his assistant could have created a detailed Gantt chart for their project in Project 2016 and created links to other key planning documents created in Word, Excel, or PowerPoint. Nick could have shown the summary tasks during the progress review meetings, and if top management had questions, Nick could have shown them supporting details. Nick’s team could also have set baselines for completing the project and tracked their progress toward achieving those goals. See Appendix A (available on the Companion website for this text) for details on using Project 2016 to perform these functions, and for samples of Gantt charts and other useful outputs from project management software.
+
+Although project management information systems can aid in project execution, project managers must remember that positive leadership and strong teamwork are critical to successful project management. Project managers should delegate the detailed work involved in using these tools to other team members and focus on providing leadership for the whole project to ensure project success. Stakeholders often focus on the most important output of execution from their perspective: the deliverables. For example, a production version of the next-gen DNA-sequencing instrument was the main deliverable for the project in the opening case. Of course, many other deliverables were created along the way, such as software modules, tests, and reports. Other outputs of project execution 01356_ch04_hr_151-200.indd 180
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+181
+
+include work performance information, change requests, and updates to the project management plan and project documents.
+
+Project managers and their teams are most often remembered for how well they executed a project and handled difficult situations. Likewise, sports teams around the world know that the key to winning is good execution. Team coaches can be viewed as project managers, with each game a separate project. Coaches are often judged on their win-loss record, not on how well they planned for each game. On a humorous note, when one losing coach was asked what he thought about his team’s execution, he responded,
+
+“I’m all for it!”
+
+Managing PrOject knOWLedge*
+
+PMI added this new process to the PMBOK® Guide in 2017 to highlight the importance of managing project knowledge. There are two basic types of knowledge: 1. Explicit knowledge: This type of knowledge can be easily explained using words, pictures, or numbers and is easy to communicate, store, and distribute. Examples include information found in textbooks and encyclopedias as well as project documents and plans.
+
+2. Tacit knowledge: Unlike explicit knowledge, tacit knowledge, sometimes called informal knowledge, is difficult to express and is highly personal.
+
+Examples include beliefs, insight, and experience. It is often shared through conversations and interactions between people. Many organizations set up programs like mentorships, communities of practice, or workshops to assist in passing on tacit knowledge.
+
+Knowledge management should be done before, during, and after projects are completed. It is often very difficult to accomplish. Organizations can provide explicit knowledge in writing or other formats, including audio, pictures, and videos. They can also build a culture of trust and sharing so people work together to pass on tacit knowledge. One of the main outputs of managing project knowledge is a lessons-learned register.
+
+A lessons-learned register should document challenges, problems, realized risks and opportunities, and other content to assist in knowledge management on current and future projects. Contents can include a lessons learned ID, date identified, owner, name, category, situation, and recommendation. For example, if Nick from the opening case documented lessons learned, he might highlight one important lesson of understanding sponsor expectations, listing himself as the owner, communications as the category, being offered a severance package as the situation that prompted the lesson, and a recommendation to ask the project sponsor about expectations on a regular basis.
+
+It is best if project team members document lessons learned throughout the life of the project. At the end of the project, all lessons learned should be both discussed with the team and archived in a lessons learned repository, a key organizational process asset.
+
+01356_ch04_hr_151-200.indd 181
+
+4/28/18 11:29 AM
+
+182
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+a d v i c e F O r Y O u n g P r O F e s s i O n a L s Hopefully you are interested in finding and using existing knowledge as well as creating new knowledge. Many college students excel in this area based on their experiences doing rigorous coursework. To stand out in your job, consider volunteering to be in charge of creating your project team’s lessons-learned register. You could create a shared online space where team members and other stakeholders can share information. Be sure to read through and organize and edit inputs, if needed. Consider pairing up with a more experienced person to develop something that is of real value to your team and organization.
+
+MOnitOring and cOntrOLLing PrOject WOrk
+
+On large projects, many project managers say that 90 percent of the job is communicating and managing changes. Changes are inevitable on most projects, so it’s important to develop and follow a process to monitor and control changes.
+
+Monitoring project work includes collecting, measuring, and disseminating performance information. It also involves assessing measurements and analyzing trends to determine what process improvements can be made. The project team should continuously monitor project performance to assess the overall health of the project and identify areas that require special attention.
+
+The project management plan, project documents, work performance information, agreements, enterprise environmental factors, and organizational process assets are all important inputs for monitoring and controlling project work.
+
+The project management plan provides the baseline for identifying and controlling project changes. A baseline is a starting point, a measurement, or an observation that is documented so that it can be used for future comparison. For example, the project management plan includes a section that describes the work to perform on a project.
+
+This section of the plan describes the key deliverables for the project, the products of the project, and quality requirements. The schedule section of the project management plan lists the planned dates for completing key deliverables, and the budget section of the plan provides the planned cost of these deliverables. The project team must focus on delivering the work as planned. If the project team or someone else causes changes during project execution, the team must revise the project management plan and have it approved by the project sponsor. Many people refer to different types of baselines, such as a cost baseline or schedule baseline, to describe different project goals more clearly and performance toward meeting them.
+
+Schedule and cost forecasts, validated changes, and work performance information provide details on how project execution is going. The main purpose of this information is to alert the project manager and project team about issues that are causing problems or might cause problems in the future. The project manager and project team must continuously monitor and control project work to decide if corrective or preventive actions are needed, what the best course of action is, and when to act.
+
+01356_ch04_hr_151-200.indd 182
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+183
+
+M e d i a s n a P s h O t
+
+Few events get more media attention than the Olympic Games. Imagine all the work involved in planning and executing an event that involves thousands of athletes from around the world with millions of spectators. The 2002 Olympic Winter Games and Paralympics took five years to plan and cost more than $1.9 billion. PMI presented the Salt Lake Organizing Committee (SLOC) with the Project of the Year award for delivering world-class games that, according to the International Olympic Committee, “made a profound impact upon the people of the world.”11
+
+Four years before the Games began, the SLOC used a Primavera software-based system with a cascading color-coded WBS to integrate planning. A year before the Games, the team added a Venue Integrated Planning Schedule to help integrate resource needs, budgets, and plans. For example, this software helped the team coordinate different areas involved in controlling access into and around a venue, such as roads, pedestrian pathways, seating and safety provisions, and hospitality areas, saving nearly $10 million.
+
+When the team experienced a budget deficit three years before the Games, it separated “must-have” items from “nice-to-have” items and implemented a rigorous expense approval process. According to Matthew Lehman, SLOC managing director, using classic project management tools turned a $400 million deficit into a $100 million surplus.
+
+The SLOC also used an Executive Roadmap, a one-page list of the top 100 activities during the Games, to keep executives apprised of progress. Activities were tied to detailed project information within each department’s schedule. A 90-day highlighter showed which managers were accountable for each integrated activity. Fraser Bullock, SLOC Chief Operating Officer and Chief, said, “We knew when we were on and off schedule and where we had to apply additional resources. The interrelation of the functions meant they could not run in isolation—it was a smoothly running machine.”12
+
+Important outputs of monitoring and controlling project work include change requests and work performance reports. Change requests include recommended corrective and preventive actions and defect repairs. Corrective actions should result in improvements in project performance. Preventive actions reduce the probability of negative consequences associated with project risks. Defect repairs involve bringing defective deliverables into conformance with requirements. For example, if project team members have not been reporting hours that they worked, a corrective action would show them how to enter the information and let them know that they need to do it. An example of a preventive action might be modifying a time-tracking system screen to avoid common errors people have made in the past. A defect repair might be having someone redo an incorrect entry. Many organizations use a formal change request process and forms to keep track of project changes, as described in the next section. Work performance reports include status reports, progress reports, memos, and other documents used to communicate performance.
+
+01356_ch04_hr_151-200.indd 183
+
+4/28/18 11:29 AM
+
+184
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+PerFOrMing integrated change cOntrOL
+
+
+Integrated change control involves identifying, evaluating, and managing changes throughout the project life cycle. The three main objectives of integrated change control are as follows:
+
+• Influencing the factors that create changes to ensure that changes are beneficial: To ensure that changes are beneficial and that a project is successful, project managers and their teams must make trade-offs among key project dimensions, such as scope, time, cost, and quality.
+
+• Determining that a change has occurred: To determine that a change has occurred, the project manager must know the status of key project areas at all times. In addition, the project manager must communicate significant changes to top management and key stakeholders. Top management and other key stakeholders do not like surprises, especially ones that mean the project might produce less, take longer to complete, cost more than planned, or create products of lower quality.
+
+• Managing actual changes as they occur: Managing change is a key role of project managers and their teams. It is important that project managers exercise discipline in managing the project to help minimize the number of changes that occur.
+
+Important inputs to the integrated change control process include the project management plan, project documents, work performance information, change requests, enterprise environmental factors, and organizational process assets. Important outputs include approved change requests and updates to the project management plan and project documents.
+
+Change requests are common on projects and occur in many different forms.
+
+They can be oral or written, formal or informal. For example, a project team member responsible for installing a server might ask the project manager if it is acceptable to order a server with a faster processor than planned. The server is from the same manufacturer and has the same approximate cost. Because this change is positive and should have no negative effects on the project, the project manager might give a verbal approval at the progress review meeting. Nevertheless, it is still important that the project manager document this change to avoid any potential problems. The appropriate team member should update the scope statement to include the new server specifications.
+
+Still, keep in mind that many change requests can have a major impact on a project. For example, customers who change their minds about the number of hardware components they want as part of a project will have a definite impact on its scope and cost. Such a change might also affect the project’s schedule. The project team must present such significant changes in written form to the project sponsor, and there should be a formal review process for analyzing and deciding whether to approve these changes.
+
+Change is unavoidable and often expected on most IT projects. Technologies change, personnel change, organizational priorities change, and so on. A good change control system is also important for project success.
+
+01356_ch04_hr_151-200.indd 184
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+185
+
+change control on it Projects
+
+From the 1950s to the 1980s, IT was often referred to as data automation or data processing. At that time, a widely held view of project management was that the project team should strive to do exactly what it planned, on time and within budget. The problem with this view was that project teams could rarely meet original project goals, especially for projects that used new technologies. Stakeholders rarely agreed up front on the scope of the project or what the finished product should look like. Time and cost estimates created early in a project were rarely accurate.
+
+Beginning in the 1990s, most project managers and top management realized that project management is a process of constant communication and negotiation about project objectives and stakeholder expectations. This view assumes that changes happen throughout the project life cycle and recognizes that changes are often beneficial to some projects. For example, if a project team member discovers a new hardware or software technology that could satisfy customers’ needs for less time and money, the project team and key stakeholders should be open to making major changes in the project.
+
+All projects will have some changes, and managing them is a key issue in project management, especially for IT projects. Many IT projects involve the use of hardware and software that is updated frequently. To continue the example from earlier in this section, the initial plan for ordering the server might have identified a model that used cutting-edge technology at the time. If the actual server order occurred six months later, it is quite possible that a more powerful server could be available at the same cost. This example illustrates a positive change. On the other hand, the server manufacturer specified in the project plan could go out of business, which would result in a negative change. IT project managers should be accus-tomed to such changes and build some flexibility into their project plans and execution. Customers for IT projects should also be open to meeting project objectives in different ways.
+
+Some changes might make sense but be too large to fit into a current project.
+
+Remember that projects have scope, time, cost, and other goals, and changes often affect those goals. If the organization wants to meet time and cost goals, for example, it must control changes to the project’s scope. Organizations often decide to document some change requests and include them in an upgrade to the current project.
+
+Even if project managers, project teams, and customers are flexible, it is important that projects have a formal change control system. This formal system is necessary to plan for managing change.
+
+change control system
+
+A change control system is a formal, documented process that describes when and how official project documents may be changed. It also describes the people authorized to make changes, the paperwork required for these changes, and any automated or manual tracking systems the project will use. A change control system often includes a change control board, configuration management, and a process for communicating changes.
+
+A change control board (CCB) is a formal group of people responsible for approving or rejecting changes to a project. The primary functions of a CCB are to provide guidelines for preparing change requests, evaluating change requests, and managing the implementation of approved changes. An organization could have key stakeholders for the 01356_ch04_hr_151-200.indd 185
+
+4/28/18 11:29 AM
+
+186
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+entire organization on this board, and a few members could rotate based on the unique needs of each project. By creating a formal board and a process for managing changes, overall change control should improve.
+
+However, CCBs can have some drawbacks, such as the time it takes to make decisions on proposed changes. CCBs often meet only once a week or once a month and may not make decisions in one meeting. Some organizations have streamlined processes for making quick decisions on smaller project changes. One company created a “48-hour policy,” in which task leaders on a large IT project would reach agreements on key decisions or changes within their expertise and authority. The person in the area most affected by this decision or change then had 48 hours to go to top management and seek approval. If the project team’s decision could not be implemented for some reason, the top manager consulted would have 48 hours to reverse the decision; otherwise, the project team’s decision was approved. This type of process is an effective way to deal with the many time-sensitive decisions or changes that project teams must make on IT projects.
+
+Configuration management is another important part of integrated change control.
+
+Configuration management ensures that the descriptions of the project’s products are correct and complete. It involves identifying and controlling the functional and physical design characteristics of products and their support documentation. Members of the project team, frequently called configuration management specialists, are often assigned to perform configuration management for large projects. Their job is to identify and document the functional and physical characteristics of the project’s products, control any changes to such characteristics, record and report the changes, and audit the products to verify conformance to requirements. Visit the Institute of Configuration Management’s website (www.icmhq.com) for more information on this topic.
+
+g L O b a L i s s u e s
+
+Rapid changes in technology, such as the increased use of mobile roaming for communications, often cause governments around the world to take action. Incompatible hardware, software, and networks can make communications difficult in some regions, and a lack of competition can cause prices to soar. Fortunately, a group called the Organisation for Economic Cooperation and Development (OECD) promotes policies that will improve the economic and social well-being of people around the world. In February 2012, the OECD called upon its members’ governments to boost competition in international mobile roaming markets. “The OECD has detailed a series of measures that, if implemented would, it says: ‘encourage effective competition, raise consumer awareness and protection and ensure fairer prices.’ If these fail to produce results it says:
+
+‘Governments should consider price regulation for roaming services,’ and that ‘Wholesale roaming services could be regulated by means of bilateral or multilateral wholesale agreements with mutually established price caps.’”13
+
+OECD also encourages expansion of other technologies. By the end of 2013, wireless broadband penetration grew to 72.4 percent in the 34-country OECD area. Strong demand for smartphones and tablets helped wireless broadband subscriptions grow by 14.6 percent.14 Wireless broadband penetration continues to grow globally, thanks in part to these agreements.
+
+01356_ch04_hr_151-200.indd 186
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+187
+
+Another critical factor in change control is communication. Project managers should use written and oral performance reports to help identify and manage project changes. For example, on software development projects, most programmers must make their edits to a copy of the master file in a database; to ensure version control, programmers must “check out” the file to edit it. If two programmers are allowed to check out the same file, they must coordinate to merge their changes. In addition to written or formal communication methods, oral and informal communications are also important. Some project managers have standup meetings once a week or even every morning, depending on the nature of the project. The goal of a standup meeting is to quickly communicate what is most important for the project. For example, the project manager might have a standup meeting every morning with all of the team leaders. There might be a standup meeting every Monday morning with all interested stakeholders. Requiring participants to stand keeps meetings short and forces everyone to focus on the most important project events.
+
+Why is good communication so critical to success? One of the most frustrating aspects of project change is not having everyone coordinated and informed about the latest project information. Again, it is the project manager’s responsibility to integrate all project changes so that the project stays on track. The project manager and staff members must develop a system for notifying everyone affected by a change in a timely manner.
+
+E-mail, real-time databases, cell phones, and the Web make it easy to disseminate the most current project information. You will learn more about good communication in Chapter 10, Project Communications Management.
+
+Table 4-4 lists suggestions for performing integrated change control. As described earlier, project management is a process of constant communication and negotiation.
+
+Project managers should plan for changes and use appropriate tools and techniques, such as a change control board, configuration management, and good communication. It is helpful to define procedures for making timely decisions about small changes, use written and oral performance reports to help identify and manage changes, and use software to assist in planning, updating, and controlling projects. An IT steering committee can also tabLe 4-4 Suggestions for performing integrated change control View project management as a process of constant communication and negotiation.
+
+Plan for change.
+
+Establish a formal change control system, including a change control board (CCB) and IT steering committee.
+
+Use effective configuration management.
+
+Define procedures for making timely decisions about smaller changes.
+
+Use written and oral performance reports to help identify and manage change.
+
+Use project management software and other software to help manage and communicate changes.
+
+Focus on leading the project team and meeting overall project goals and expectations.
+
+01356_ch04_hr_151-200.indd 187
+
+4/28/18 11:29 AM
+
+188
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+be used to represent the entire IT Portfolio—a key consideration in change management, especially when resources must shift to accommodate approved changes. In addition, shifts in strategic direction by the IT steering committee can reach down to influence existing projects, actually creating changes.
+
+Project managers must also provide strong leadership to steer the project to successful completion. They must not get too involved in managing project changes. Project managers should delegate much of the detailed work to project team members and focus on providing overall leadership for the project in general. Remember, project managers must focus on the big picture and perform project integration management well to lead their team and organization to success.
+
+cLOsing PrOjects Or Phases
+
+The last process in project integration management is closing the project or phase, which requires that you finalize all activities and transfer the completed or cancelled work to the appropriate people. The main inputs to this process are the project charter, project management plan, project documents, accepted deliverables, business documents, agreements, procurement documentation, and organizational process assets. The main tools and techniques are expert judgment, data analysis, and meetings. The outputs of closing projects are as follows:
+
+• Project documents updates: All project documents should be reviewed and marked as final versions. Others may need to refer to these documents in the future, and it’s important that they be accurate.
+
+• Final product, service, or result transition: Project sponsors are usually most interested in making sure they receive delivery of the final products, services, or results they expected when they authorized the project. For items produced under contract, formal acceptance or handover includes a written statement that the terms of the contract were met. Internal projects can also include some type of project completion form.
+
+• Final report: A final project report and presentation are also commonly used during project closing. The PMBOK® Guide – Sixth Edition suggests the final report include the following topics:
+
+• Summary level description of the project or phase
+
+• Scope objectives, the criteria used to evaluate the scope, and evidence that the completion criteria were met
+
+• Quality objectives, the criteria used to evaluate the project and product quality, and the verification and validation information
+
+• Schedule objectives, including planned and actual milestone delivery dates and reasons for variances
+
+• Cost objectives, including the acceptable cost range, actual costs, and reasons for variances
+
+• Summary of how the final project, service, or result achieved the benefits that the project was undertaken to address.
+
+01356_ch04_hr_151-200.indd 188
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+189
+
+• Summary of how the final project, service, or result achieved the business needs identified in the business plan.
+
+• Summary of any risks or issues encountered on the project and how they were addressed
+
+• Organizational process asset updates: The project team should provide a list of project documentation, project closure documents, and historical information produced by the project in a useful format. This information is considered a process asset. Project teams normally produce a final project report, which often includes a transition plan describing work to be done as part of operations after the project is completed. Teams also often write a lessons-learned report at the end of a project, and this information can be a tremendous asset for future projects. (See Chapter 10, Project Communications Management, for more information on creating final project reports, lessons-learned reports, and other project communications.) Several organizations also conduct a post-implementation review to analyze whether the project achieved what it set out to do. Information from this type of review also becomes an organizational process asset for future projects.
+
+using sOFtWare tO assist in PrOject integratiOn
+
+ManageMent
+
+As described throughout this chapter, project teams can use various types of software to assist in project integration management. Project teams can create documents with word-processing software, give presentations with presentation software, track information with spreadsheets, databases, or customized software, and transmit information using various types of communication software.
+
+Project management software is also an important tool for developing and integrating project planning documents, executing the project management plan and related project plans, monitoring and controlling project activities, and performing integrated change control. Small project teams can use low-end or midrange project management software to coordinate their work. For large projects, such as the Olympic Games described in the Media Snapshot earlier in this chapter, organizations may benefit most from high-end tools that provide enterprise project management capabilities and integrate all aspects of project management.
+
+As you learned in Chapter 1, organizations can also use software to assist in project portfolio management and optimization. Portfolio management software often provides many types of charts or dashboards to help managers see the big picture in managing portfolios of projects. For example, Figure 4-8 shows a project dashboard from the software ProjectManager. Students can get a free 120-day trial of this software from www.projectmanager.com. All projects can benefit from using some type of project management information system to coordinate and communicate project information.
+
+In recent years, the growth of cloud computing has transformed how, when, and where people work. Many project management software tools are now available in the 01356_ch04_hr_151-200.indd 189
+
+4/28/18 11:29 AM
+
+
+
+190
+
+
+
+* * *
+
+
+
+
+
+Chapter 4
+
+
+Source: www.projectmanager.com
+
+Figure 4-8 Sample portfolio management software screens cloud, as are other tools and services. Most business professionals and students now store their files using some type of cloud storage (Google Drive, Microsoft OneDrive, DropBox, etc.). Many cloud tools are accessible via smartphones and tablets as well as laptops and desktops. Cloud computing enables users to easily access and share information from any location at any time. Project integration management is not easy, but the cloud has definitely helped provide easier access to important information and applications.
+
+cOnsideratiOns FOr agiLe/adaPtive envirOnMents
+
+The PMBOK® Guide – Sixth Edition includes a short section with this title for each knowledge area. The following information is provided for project integration management:
+
+Iterative and agile approaches promote the engagement of team members as local domain experts in integration management. The team members determine how plans and components should integrate.
+
+The expectations of the project manager as noted in the Key Concepts for Integration Management do not change in an adaptive environment, but control of the detailed product planning and delivery is delegated to the team. The project manager’s focus is on building a collaborative decision-making environment and ensuring that the team has the ability to respond to changes. This collaborative approach can be further enhanced when team members possess a broad skill base rather than a narrow specialization.16
+
+01356_ch04_hr_151-200.indd 190
+
+4/28/18 11:29 AM
+
+Project Integration Management
+
+191
+
+For many large, traditional projects, several team members are not directly involved in integration management and do have specialized skills. It is up to the project managers and their team leads to focus on integration while team members focus on completing often complex, technical tasks. This does not mean that they should not contribute to project planning. As emphasized in this chapter, those who do the work should help plan the work.
+
+Project managers using any product life cycle should focus on creating a collaborative decision-making environment and providing opportunities for team members to develop additional skills. Recall that the Agile Manifesto values the following:
+
+• Individuals and interactions over processes and tools
+
+• Working software over comprehensive documentation
+
+• Customer collaboration over contract negotiation
+
+• Responding to change over following a plan
+
+As you can see, a lot of work is involved in project integration management. Project managers and their teams must focus on pulling all the elements of a project together to successfully complete it.
+
+c a s e W r a P - u P
+
+Without consulting Nick Carson or his team, Nick’s CEO hired a new person, Jim Lansing, to act as a middle manager between himself and the people in Nick’s department. The CEO and other top managers really liked Jim; he met with them often, shared ideas, and had a great sense of humor. He started developing standards that the company could use to help manage projects in the future. For example, he developed templates for creating plans and progress reports and put them on the company’s intranet. However, Jim and Nick did not get along, especially after Nick heard that Jim told the CEO that he was hard to work with and preoccupied with the birth of his son.
+
+Nick was very frustrated after hearing this and stormed into the CEO’s office. The CEO suggested that Nick move to another department, but Nick did not like that so the CEO offered Nick a severance package to leave the company. Because of the planned corporate buyout, the CEO knew the company might have to let some people go any-way. Nick talked the CEO into giving him a two-month sabbatical he had earned plus a higher percentage on his stock options. After discussing the situation with his wife and realizing that he would get over $70,000 if he resigned, Nick took the severance package.
+
+The CEO called a meeting with Nick and Jim to give them both advice. He told Nick that he was one of the best technical people he ever worked with and that he would thrive in another organization in a technical role. He told Jim that he was a great organizer, but he had to learn to respect technical people more. They all left the meeting with a feeling of mutual respect.
+
+01356_ch04_hr_151-200.indd 191
+
+4/28/18 11:29 AM
+
+192
+
+Chapter 4
+
+
+
+* * *
+Chapter 4 - Chapter Summary start
+
+Project integration management is usually the most important project management knowledge area, because it ties together all the other areas of project management. A project manager’s primary focus should be on project integration management.
+
+Before selecting projects to pursue, it is important for organizations to follow a strategic planning process. Many organizations perform a SWOT analysis to help identify potential projects based on their strengths, weaknesses, opportunities, and threats. IT projects should support the organization’s overall business strategy. Common techniques for selecting projects include focusing on broad organizational needs, categorizing projects, performing financial analyses, developing weighted scoring models, and using balanced scorecards.
+
+Project integration management includes the following processes:
+
+•Developing the project charter, which involves working with stakeholders to create the document that formally authorizes a project. Project charters can have different formats, but they should include basic project information and signatures of key stakeholders.
+
+•Creating an assumption log to document and track assumptions throughout the life of the project.
+
+•Developing the project management plan, which involves coordinating all planning efforts to create a consistent, coherent document. The main purpose of project plans is to facilitate action.
+
+•Directing and managing project work, which involves carrying out the project plans by performing the activities included in it. Project plan execution usually requires the majority of a project’s budget.
+
+•Managing project knowledge, which involves using existing knowledge and creating new knowledge to achieve project objectives while also contributing to organizational learning.
+
+•Monitoring and controlling project work, which is necessary to meet the performance objectives of the project. The project team should continuously monitor project performance to assess the overall health of the project.
+
+•Performing integrated change control, which involves identifying, evaluating, and managing changes throughout the project life cycle. A change control system often includes a change control board (CCB), configuration management, and a process for communicating changes.
+
+•Closing the project or phase involves finalizing all project activities. It is important to follow good procedures to ensure that all project activities are completed and that the project sponsor accepts delivery of the final products, services, or results.
+
+Several types of software products are available to assist in project integration management.
+
+Be sure to consider how project integration management can differ in agile/adaptive environments.
+Chapter 4 - Chapter Summary end
+
+* * *

@@ -1,0 +1,2085 @@
+Opening case
+
+This was the third time someone from the Information Technology (IT) department tried to work with Ben, the head of the F-44 radar upgrade project. The F-44 was one of five aircraft programs in the company. The company had program managers in charge of each aircraft program, with several project managers reporting to them. Workers supporting each project were part of a matrix organization, with people from engineering, IT, manufacturing, sales, and other departments allocated as needed to each project.
+
+Ben had been with the company for almost 30 years, and was known for being “rough around the edges” and very demanding. The company was losing money on the F-44 radar upgrade project because the upgrade kits were not being delivered on time. The Canadian government had written severe late-penalty fees into its contract, and other customers were threatening to take their business elsewhere. Ben blamed it all on the IT department for not letting his staff access the upgrade project’s information system directly so they could work with their customers and suppliers more effectively. The information system was based on very old technology that only a couple of people in the company knew how to use. It often took days or even weeks for Ben’s group to get the information they needed.
+
+Ed Davidson, a senior programmer, attended a meeting with Sarah Ellis, an internal IT business consultant. Sarah was in her early thirties and had advanced quickly in her company, primarily due to her keen ability to work well with all types of people. Sarah’s job was to uncover the real problems with IT support for the F-44 radar upgrade project, and then develop a solution with Ben and his team. If she found it necessary to invest in more IT hardware, software, or staff, Sarah would write a business case to justify these investments and then work with Ed, Ben, and his group to implement the suggested solution as quickly as possible.
+
+Ben and three of his project team members entered the conference room. Ben threw his books on the table and started yelling at Ed and Sarah. Ed could not believe his eyes or ears when Sarah stood nose to nose with Ben and started yelling right back at him.
+
+the impOrtance Of resOurce management
+
+Many corporate executives have said, “People are our most important asset.”
+
+People determine the success and failure of organizations and projects. Most project managers agree that managing human resources effectively is one of the toughest challenges they face. Managing people is a vital component of project resource management, especially in the IT field—in which qualified people are often hard to find and keep. It is important to understand global IT workforce issues and their implications for the future.
+
+the global it Workforce
+
+Although the IT labor market has had its ups and downs, there will always be a need for people to develop and maintain IT hardware, software, networks, and applications.
+
+The global job market for IT workers is expanding, and the demand for project managers continues to increase:
+
+• Demand for new IT products and services continues to increase. By June 2017, 80 percent of the youth population in 104 countries were online, and there were over 4.3 billion mobile-broadband subscriptions.1
+
+01356_ch09_hr_373-424.indd 374
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+375
+
+• By 2020, global information and communications technology (ICT) spending is projected to grow to $5.5 trillion. “New technologies, which IDC calls
+
+‘Innovation Accelerators,’ will provide almost $7.4 trillion in aggregate industry revenue from 2015–2020, adding $1.8 trillion to the overall size of the industry in terms of annual sales by the end of the forecast period.”2
+
+• The number of jobs available to IT professionals is expected to increase by 12 percent by 2024. “While job seekers will offer an array of technical skills, employers are typically looking for a more balanced employee who also possesses soft skills that are not readily apparent on a resume.”3
+
+• IT job candidates are in the driver’s seat. Jason Hayman, market research manager for IT staffing firm TEK systems, cites a report estimating that
+
+“500,000 to 1 million IT jobs go unfilled every year, but notes that some analysts say the figure is closer to 2 million. He says there’s a classic supply-and-demand scenario working here, with demand for talent far exceeding supply. ‘The takeaway is there aren’t enough of these workers.’”4
+
+• As mentioned in Chapter 1, project management continues to be one of the ten hottest tech skills, listed as number three according to ComputerWorld.5
+
+• “By 2027, employers will need nearly 88 million individuals in project management-oriented roles. China and India will represent more than 75 percent of the total project management-oriented employment. . . . Talent shortages in the profession can potentially create risks of nearly US$208
+
+billion in GDP over the 10-year period in the 11 countries examined.”6
+
+These studies highlight the need for skilled IT workers and project managers. As the economy changes and technology progresses, however, people need to continually upgrade their skills to remain marketable and flexible. Negotiation and presentation skills are also crucial to finding and keeping a good job. Workers need to know how they personally contribute to an organization’s bottom line and how they can continue to do so.
+
+implications for the future of it human resource management It is crucial for organizations to practice what they preach about human resources. If people truly are their greatest asset, organizations must work to fulfill their human resource needs and the needs of individual people in their organizations, regardless of the job market.
+
+If organizations want to implement IT projects successfully, they need to understand the importance of project resource management and make effective use of people.
+
+Proactive organizations address current and future human resource needs by improving benefits, redefining work hours and incentives, and finding future workers.
+
+Many organizations have changed their benefits policies to meet worker needs. Most workers assume that companies provide some perks, such as casual dress codes, flexible work hours, on-the-job training, continuing education, and tuition assistance.
+
+Other companies might provide on-site day care, fitness club discounts, or matching contributions to retirement savings. Google, the winner of Fortune’s 100 Best Companies award multiple times in recent years, provides employees with free gourmet meals, on-site doctors, a swimming spa and corporate gym, beach volleyball, Foosball, video games, pool tables, ping-pong, roller hockey, and weekly Thank Goodness It’s Friday (TGIF) parties!
+
+Google built a large, outdoor sports complex in 2011 to help keep its employees in shape.
+
+01356_ch09_hr_373-424.indd 375
+
+5/16/18 12:40 PM
+
+376
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+The company also provides indoor recreation with bowling alleys and a dance studio, and offers a generous amount of leave for new parents (regardless of gender, including dads, domestic partners, adoptive parents, and surrogate parents)—12 weeks of fully paid
+
+“baby bonding” plus $500.7 With an average of 130 applicants per hire, it’s almost ten times harder to get a job at Google than it is to get into Harvard.
+
+Other trends affecting the future of human resource management relate to the hours that organizations expect many IT professionals to work and how they reward performance.
+
+Today people are happier when they can work less than 40 hours a week or work from home. If companies plan their projects well, they can avoid the need for overtime, or they can make it clear that overtime is optional. Many companies also outsource more of their project work to manage the fluctuating demand for workers, as described in Chapter 12, Project Procurement Management.
+
+Companies can also provide incentives that use performance, not hours worked, as the basis of rewards. If performance can be measured objectively, as it can in many aspects of IT jobs, then it should not matter where employees do their work or how long it takes.
+
+For example, if a technical writer can produce a high-quality publication at home in one week, the company should accept the arrangement instead of insisting that the writer come to the office and take two weeks to produce the publication. Objective measures of work performance and incentives based on meeting those criteria are important considerations.
+
+g L O b a L i s s u e s
+
+In early 2013, Marissa Meyer, Yahoo’s CEO, issued a memo stating that Yahoo employees could no longer work from home. She believed that people needed to work side-by-side to have the best communication and collaboration. This new policy caused quite a stir throughout the world as workers and managers discussed the pros and cons of working from home.
+
+Another CEO, Andy Mattes at Diebold, which makes ATMs, took the exact opposite approach as Meyer and started recruiting employees who wanted to work from home.
+
+He told The Huffington Post that he wanted to lure the best and brightest workers away from Yahoo, HP, Oracle, and other companies cutting back on telecommuting.
+
+Which CEO has the right approach? The Huffington Post would vote for Andy Mattes. “Now, two years later, it’s clear: Telecommuting has won. Even Yahoo seems to have softened its stance. Workers inside the company told HuffPost that some employees still do occasionally work from home, depending on their job, and some do not have a desk in the office. Yahoo declined to comment for this article.”8
+
+The need to develop future talent in IT has important implications for everyone. Who will maintain the systems we have today when the last of the “baby boomer” generation retires? Who will continue to develop new technologies and innovative products based on them? Some schools require all students to take computer literacy courses, although most teenagers today already know how to use computers, iPods, iPads, cell phones, and other technologies. But are today’s children learning the skills they’ll need to develop new technologies and work on global teams? As the workforce becomes more diverse, 01356_ch09_hr_373-424.indd 376
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+377
+
+will more women and minorities be ready and willing to enter IT fields? Several colleges, government agencies, and private groups have programs to help recruit more women and minorities into technical fields. Some companies provide options to assist employees who desire work-life integration. Today’s efforts to come up with innovative ways to address these issues will help to develop the human resources needed for future IT projects.
+
+W h a t W e n t W r O n g ?
+
+A report by CompTIA found a gap between skills that employers wanted and what they actually found in the IT workforce.
+
+• Even with 5.73 million people working in the U.S. IT industry, 68 percent of IT
+
+firms report having a “very challenging” time finding new staff.
+
+• Fifty-two percent of organizations report having job openings, and 33 percent say they are understaffed, while 42 percent say they are fully staffed but want to hire more people in order to expand.
+
+• Fifty-eight percent of businesses are concerned about the quality and quantity of IT talent available for hire.
+
+• Top technology priorities in this survey included security, data storage, and network infrastructure.
+
+• The number one strategy to handle understaffing is requiring workers to put in more hours.
+
+• Ninety-four percent of IT professionals plan to pursue more training.9
+
+What is prOject resOurce management?
+
+Project resource management includes the processes required to make the most effective use of the human and physical resources (facilities, equipment, materials, supplies, etc.) involved with a project. Human resource management includes all project stakeholders: sponsors, customers, project team members, support staff, suppliers supporting the project, and so on. Physical resources include facilities, equipment, materials, and supplies. Project resource management includes the following four processes: 1. Planning resource management involves deciding how to estimate, acquire, manage, and use project resources. The main outputs are a resource management plan, team charter, and project documents updates.
+
+2. Estimating activity resources involves estimating human and physical resources needed to complete project work. Outputs include resource requirements, basis of estimates, a resource breakdown structure, and project documents updates.
+
+3. Acquiring resources includes obtaining team members, facilities, equipment, materials, supplies, and other resources as needed. Outputs include physical and project team assignments, resource calendars, change requests, and updates to several documents.
+
+01356_ch09_hr_373-424.indd 377
+
+5/16/18 12:40 PM
+
+378
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+4. Developing the project team involves building individual and group skills to enhance project performance. Team-building skills are often a challenge for many project managers. The main outputs of this process are team performance assessments, change requests, and updates to several documents.
+
+5. Managing the project team involves tracking team member performance, motivating team members, providing timely feedback, resolving issues and conflicts, and coordinating changes to help enhance project performance.
+
+Outputs of this process include change requests, project management plan updates, project documents updates, and organizational process assets updates.
+
+6. Controlling resources ensures that a project’s physical resources are available as planned, monitoring the planned versus actual resource utilization, and taking corrective action when needed. Outputs include work performance information, change requests, and updates to the project management plan and project documents .
+
+Figure 9-1 summarizes the inputs, tools and techniques, and outputs of project resource management.
+
+You were introduced to several topics related to human resource management, including understanding organizations, stakeholders, and different organizational structures, in Chapter 2, The Project Management and Information Technology Context.
+
+You will learn about other related issues in Chapter 13, Project Stakeholder Management.
+
+This chapter expands on some of those topics and introduces other important concepts in project resource management, including theories about managing and leading people, resource loading, and resource leveling. You also learn how to use software to assist in project resource management.
+
+Keys tO managing and Leading peOpLe
+
+Industrial-organizational psychologists and management theorists have devoted extensive research and thought to the field of managing and leading people at work. Psychosocial issues that affect how people work and how well they work include motivation, influence and power, effectiveness, emotional intelligence, and leadership. This section reviews the contributions of Abraham Maslow, Frederick Herzberg, David McClelland, and Douglas McGregor to an understanding of motivation; the work of H. J. Thamhain and D. L. Wilemon on influencing workers and reducing conflict; the effect of power on project teams; Stephen Covey’s work on how people and teams can become more effective; Howard Gardner and Daniel Goleman’s focus on emotional intelligence; and recent research on leadership. The final part of this section looks at some implications and recommendations for project managers.
+
+motivation theories
+
+Psychologists, managers, coworkers, teachers, parents, and most people in general struggle to understand what motivates people to do what they do. Intrinsic motivation causes people to participate in an activity for their own enjoyment. For example, 01356_ch09_hr_373-424.indd 378
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+379
+
+Project Resource
+
+Management Overview
+
+9.1 Plan Resource
+
+9.2 Estimate
+
+Management
+
+Activity Resources
+
+9.3 Acquire Resources
+
+.1 Inputs
+
+.1 Inputs
+
+.1 Inputs
+
+.1 Project charter
+
+.1 Project management plan
+
+.1 Project management plan
+
+.2 Project management plan
+
+.2 Project documents
+
+.2 Project documents
+
+.3 Project documents
+
+.3 Enterprise environmental
+
+.3 Enterprise environmental
+
+.4 Enterprise environmental
+
+factors
+
+factors
+
+factors
+
+.4 Organizational process
+
+.4 Organizational process
+
+.5 Organizational process
+
+assets
+
+assets
+
+assets
+
+.2 Tools & Techniques
+
+.2 Tools & Techniques
+
+.2 Tools & Techniques
+
+.1 Expert judgment
+
+.1 Decision making
+
+.1 Expert judgment
+
+.2 Bottom-up estimating
+
+.2 Interpersonal and team
+
+.2 Data representation
+
+.3 Analogous estimating
+
+skills
+
+.3 Organizational theory
+
+.4 Parametric estimating
+
+.3 Pre-assignment
+
+.4 Meetings
+
+.5 Data analysis
+
+.4 Virtual teams
+
+.3 Outputs
+
+.6 Project management
+
+.3 Outputs
+
+.1 Resource management plan
+
+information system
+
+.1 Physical resource
+
+.2 Team charter
+
+.7 Meetings
+
+assignments
+
+.3 Project documents updates
+
+.3 Outputs
+
+.2 Project team assignments
+
+.1 Resource requirements
+
+.3 Resource calendars
+
+.2 Basis of estimates
+
+.4 Change requests
+
+.3 Resource breakdown
+
+.5 Project management plan
+
+9.4 Develop Team
+
+structure
+
+updates
+
+.4 Project documents updates
+
+.6 Project documents updates
+
+.7 Enterprise environmental
+
+.1 Inputs
+
+factors updates
+
+.1 Project management plan
+
+.8 Organizational process
+
+.2 Project documents
+
+9.5 Manage Team
+
+assets updates
+
+.3 Enterprise environmental
+
+factors
+
+.4 Organizational process
+
+.1 Inputs
+
+assets
+
+.1 Project management plan
+
+9.6 Control Resources
+
+.2 Tools & Techniques
+
+.2 Project documents
+
+.1 Colocation
+
+.3 Work performance reports
+
+.1 Inputs
+
+.2 Virtual teams
+
+.4 Team performance
+
+.1 Project management plan
+
+.3 Communication technology
+
+assessments
+
+.2 Project documents
+
+.4 Interpersonal and team
+
+.5 Enterprise environmental
+
+.3 Work performance data
+
+skills
+
+factors
+
+.4 Agreements
+
+.5 Recognition and rewards
+
+.6 Organizational process
+
+.5 Organizational process
+
+.6 Training
+
+assets
+
+assets
+
+.7 Individual and team
+
+.2 Tools & Techniques
+
+assessments
+
+.1 Interpersonal and team
+
+.2 Tools & Techniques
+
+.8 Meetings
+
+skills
+
+.1 Data analysis
+
+.2 Problem solving
+
+.3 Outputs
+
+.2 Project management
+
+.3 Interpersonal and team
+
+.1 Team performance
+
+information system
+
+skills
+
+assessments
+
+.3 Outputs
+
+.4 Project management
+
+.2 Change requests
+
+.1 Change requests
+
+information system
+
+.3 Project management plan
+
+.2 Project management plan
+
+updates
+
+updates
+
+.3 Outputs
+
+.4 Project documents updates
+
+.3 Project documents updates
+
+.1 Work performance
+
+.5 Enterprise environmental
+
+.4 Enterprise environmental
+
+information
+
+factors updates
+
+factors updates
+
+.2 Change requests
+
+.6 Organizational process
+
+.3 Project management plan
+
+assets updates
+
+updates
+
+.4 Project documents updates
+
+Source: PMBOK® Guide – Sixth Edition. Project Management Institute, Inc. (2017). Copyright and all rights reserved. Material from this publication has been reproduced with permission of PMI.
+
+figure 9-1 Project resource management overview 01356_ch09_hr_373-424.indd 379
+
+5/16/18 12:40 PM
+
+380
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+some people love to read, write, or play an instrument because it makes them feel good. Extrinsic motivation causes people to do something for a reward or to avoid a penalty. For example, some young children would prefer not to play an instrument, but they do because they receive a reward or avoid a punishment for doing so. Why do some people require no external motivation to produce high-quality work while others require significant external motivation to perform routine tasks? Why can’t you get someone who is extremely productive at work to do simple tasks at home? Humankind is fascinated with asking and trying to answer these types of questions. A basic understanding of motivational theory will help anyone who works or lives with other people to understand themselves and others. Keep in mind that the following are brief summaries, and you are encouraged to research these topics further, especially as they relate to working with people on projects.
+
+maslow’s hierarchy of needs
+
+Abraham Maslow, a highly respected psychologist who rejected the dehumanizing negativism of psychology in the 1950s, is best known for developing a hierarchy of needs.
+
+In the 1950s, proponents of Sigmund Freud’s psychoanalytic theory promoted the idea that human beings were not the masters of their destiny and that all their actions were governed by unconscious processes dominated by primitive sexual urges. During the same period, behavioral psychologists saw human beings as controlled by the environment.
+
+Maslow argued that both schools of thought failed to recognize unique qualities of human behavior: love, self-esteem, belonging, self-expression, and creativity. He argued that these unique qualities enable people to make independent choices, which gives them full control of their destiny.
+
+Figure 9-2 shows the basic pyramid structure of Maslow’s hierarchy of needs, which states that people’s behaviors are guided or motivated by a sequence of needs. At the bottom of the hierarchy are physiological needs. Once physiological needs are satisfied, safety needs guide behavior. Once safety needs are satisfied, social needs come to the high
+
+Challenging projects,
+
+opportunities for
+
+5. Self—
+
+innovation and creativity
+
+Actualization
+
+Recognition,
+
+4. Esteem
+
+prestige, status
+
+Acceptance, love,
+
+affection, association
+
+3. Social
+
+with a team/group
+
+Physical safety,
+
+2. Safety
+
+economic
+
+Food,
+
+security
+
+water,
+
+1. Physiological
+
+low
+
+etc.
+
+A satisfied need is no longer a motivator
+
+figure 9-2 Maslow’s hierarchy of needs
+
+01356_ch09_hr_373-424.indd 380
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+381
+
+forefront, and so on up the hierarchy. The order of these needs and their relative sizes in the pyramid are significant. Maslow suggests that each level of the hierarchy is a prerequisite for the levels above. A person cannot consider self-actualization without first addressing basic needs of security and safety. For example, people in an emergency, such as a flood or hurricane, do not worry about personal growth. Personal survival will be their main motivation. Once a particular need is satisfied, however, it no longer serves as a potent motivator of behavior.
+
+The bottom four needs in Maslow’s hierarchy—physiological, safety, social, and esteem—are referred to as deficiency needs, and the highest level, self-actualization, is considered a growth need. Only after meeting deficiency needs can people act upon growth needs. Self-actualized people are problem-focused, have an appreciation for life, are concerned about personal growth, and are able to have peak experiences.
+
+Most people working on an IT project probably have their basic physiological and safety needs met. If someone has a sudden medical emergency or is laid off from work, however, physiological and safety needs will move to the forefront. The project manager needs to understand each team member’s motivation, especially with regard to social, esteem, and self-actualization or growth needs. Team members who are new to a company and city might be motivated by social needs. To address social needs, some companies organize gatherings and social events for new workers. Other project members may find these events to be an invasion of personal time that they would rather spend with their friends and family, or working on an advanced degree.
+
+Maslow’s hierarchy conveys a message of hope and growth. People can work to control their own destinies and naturally strive to satisfy higher needs. Successful project managers know they must focus on meeting project goals, but they also must understand team members’ personal goals and needs to provide appropriate motivation and maximize team performance.
+
+herzberg’s motivation-hygiene theory
+
+Frederick Herzberg is best known for distinguishing between motivational factors and hygiene factors when considering motivation in work settings. He referred to factors that cause job satisfaction as motivators and factors that could cause dissatisfaction as hygiene factors.
+
+Herzberg was the head of Case Western University’s psychology department, and he wrote the book Work and the Nature of Man in 1966 and a famous Harvard Business Review article, “One More Time: How Do You Motivate Employees?” in 1968.10 Herzberg analyzed the factors that affected productivity among a sample of 1,685 employees. Popular beliefs at the time were that work output was most improved through larger salaries, more supervision, or a more attractive work environment. According to Herzberg, these hygiene factors would cause dissatisfaction if not present, but would not motivate workers to do more if present. Today, professionals might also expect employers to provide health benefits, training, and a computer or other equipment required to perform their jobs. Herzberg found that people were motivated to work mostly by feelings of personal achievement and recognition. Motivators, Herzberg concluded, included achievement, recognition, the work itself, responsibility, advancement, and growth, as shown in Table 9-1.
+
+01356_ch09_hr_373-424.indd 381
+
+5/16/18 12:40 PM
+
+382
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+tabLe 9-1 Examples of Herzberg’s hygiene factors and motivators hygiene factors
+
+motivators
+
+Larger salaries
+
+Achievement
+
+More supervision
+
+Recognition
+
+More attractive work environment
+
+Work itself
+
+Computer or other required equipment
+
+Responsibility
+
+Health benefits
+
+Advancement
+
+Training
+
+Growth
+
+In his books and articles, Herzberg explained why companies could not instill motivation by attempting to use positive factors such as reducing time spent at work, increasing wages, offering fringe benefits, and providing human relations and sensitivity training. He argued that people want to actualize themselves by being able to use their creativity and work on challenging projects. They need stimuli to grow and advance, in accordance with Maslow’s hierarchy of needs. Factors such as achievement, recognition, responsibility, advancement, and growth produce job satisfaction and are work motivators.
+
+m e d i a s n a p s h O t
+
+Books and articles are written every year on the topic of human motivation. Videos are also popular on this subject, especially one by Daniel Pink. RSA Animate used its popular whiteboard drawing technique to summarize key points from Pink’s book in a YouTube video called “Drive: The surprising truth about what motivates us.” Pink narrates the video, summarizing several studies that suggest money often causes people to perform worse on tasks that involve cognitive skills. He suggests that organizations should pay people enough to eliminate resentments over money and stop using the carrot-and-stick approach to motivation. Pink also suggests that managers focus on the following three motivators:
+
+• Autonomy: People like to be self-directed and have freedom in their work.
+
+Maslow, Herzberg, and other researchers also found that people are motivated by autonomy. Pink gives an example of how an Australian software company called Atlassian lets people decide what they want to work on, and with whom, for one day every quarter. Workers show the results of their work that day in a fun meeting. This one day of total autonomy has produced a large number of new products and fixes to problems.
+
+• Mastery: People like to improve their skills, such as playing an instrument, participating in a sport, writing software, and mastering work-related activities.
+
+Pink states that several products like UNIX, Apache, and Wikipedia were created because people enjoyed the challenge and mastery involved.
+
+( continued)
+
+01356_ch09_hr_373-424.indd 382
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+383
+
+• Purpose: People want to work for a good purpose. When the profit motive is separated from the purpose motive, people notice and do not perform as well. Many great products were created for a purpose. For example, the founder of Skype wanted to make the world a better place, and Steve Jobs, the cofounder of Apple, wanted to put a “ding in the universe.”11
+
+mcclelland’s acquired-needs theory
+
+David McClelland proposed that a person’s specific needs are acquired or learned over time and shaped by life experiences. The main categories of acquired needs include achievement, affiliation, and power.12 Normally, one or two of these needs are dominant in people.
+
+• Achievement: People who have a high need for achievement (nAch) seek to excel, and tend to avoid both low-risk and high-risk situations to improve their chances for achieving something worthwhile. Achievers need regular feedback and often prefer to work alone or with other high achievers. Managers should give high achievers challenging projects with achievable goals. Achievers should receive frequent performance feedback, and although money is not an important motivator to them, it is an effective form of feedback.
+
+• Affiliation: People with a high need for affiliation (nAff) desire harmonious relationships with other people and need to feel accepted by others. They tend to conform to the norms of their work group and prefer work that involves significant personal interaction. Managers should try to create a cooperative work environment to meet the needs of people with a high need for affiliation.
+
+• Power: People with a need for power (nPow) desire either personal power or institutional power. People who need personal power want to direct others and can be seen as bossy. People who need institutional power or social power want to organize others to further the goals of the organization.
+
+Management should provide such employees with the opportunity to manage others, emphasizing the importance of meeting organizational goals.
+
+The Thematic Apperception Test (TAT) is a tool to measure the individual needs of different people using McClelland’s categories. The TAT presents subjects with a series of ambiguous pictures and asks them to develop a spontaneous story for each picture, assuming they will project their own needs into the story.
+
+mcgregor’s theory X and theory y
+
+Douglas McGregor was one of the great popularizers of a human relations approach to management, and he is best known for developing Theory X and Theory Y. In his research, documented in his 1960 book The Human Side of Enterprise, McGregor found that although many managers spouted the right ideas, they actually followed a set of assumptions about worker motivation that he called Theory X (sometimes referred to as classical systems theory).13 People who believe in Theory X assume that workers dislike 01356_ch09_hr_373-424.indd 383
+
+5/16/18 12:40 PM
+
+384
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+and avoid work if possible, so managers must use coercion, threats, and various control schemes to have workers make adequate efforts to meet objectives. They assume that the average worker wants to be directed and prefers to avoid responsibility, has little ambition, and wants security above all else. Research clearly demonstrated that these assumptions were not valid. McGregor suggested a different series of assumptions about human behavior that he called Theory Y (sometimes referred to as human relations theory). Managers who believe in Theory Y assume that employees do not inherently dislike work, but consider it as natural as play or rest. The most significant rewards are the satisfaction of esteem and self-actualization needs, as described by Maslow. McGregor urged managers to motivate people based on Theory Y notions.
+
+In 1981, William Ouchi introduced another approach to management in his book Theory Z: How American Business Can Meet the Japanese Challenge.14 Theory Z
+
+is based on the Japanese approach to motivating workers, which emphasizes trust, quality, collective decision making, and cultural values. Whereas Theory X and Theory Y
+
+emphasize how management views employees, Theory Z also describes how workers perceive management. Theory Z workers, it is assumed, can be trusted to do their jobs to their utmost ability, as long as management can be trusted to support them and look out for their well-being. Theory Z emphasizes job rotation, broadening of skills, generalization versus specialization, and the need for continuous training of workers.
+
+influence and power
+
+Many people working on a project do not report directly to project managers, and project managers often do not have control over project staff who report to them. For example, if they are given work assignments they do not like, many workers will simply quit or transfer to other departments or projects. People are free to change jobs when they like.
+
+H. J. Thamhain and D. L. Wilemon investigated the approaches that project managers use to deal with workers and how those approaches relate to project success. They identified nine influence bases that are available to project managers: 1. Authority: the legitimate hierarchical right to issue orders 2. Assignment: the project manager’s perceived ability to influence a worker’s later work assignments
+
+3. Budget: the project manager’s perceived ability to authorize others’ use of discretionary funds
+
+4. Promotion: the ability to improve a worker’s position 5. Money: the ability to increase a worker’s pay and benefits 6. Penalty: the project manager’s perceived ability to dispense or cause punishment
+
+7. Work challenge: the ability to assign work that capitalizes on a worker’s enjoyment of doing a particular task, which taps an intrinsic motivational factor 8. Expertise: the project manager’s perceived special knowledge that others deem important
+
+9. Friendship: the ability to establish friendly personal relationships between the project manager and others15
+
+01356_ch09_hr_373-424.indd 384
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+385
+
+Top management grants authority to the project manager. However, assignment, budget, promotion, money, and penalty influence bases are not automatically available to project managers as part of their position. Others’ perceptions are important in establishing the usefulness of these influence bases. For example, any manager can influence workers by providing challenging work; the ability to provide challenging work (or take it away) is not a special ability of project managers. In addition, project managers must earn the ability to influence by using expertise and friendship.
+
+Thamhain and Wilemon found that projects were more likely to fail when project managers relied too heavily on using authority, money, or penalty to influence people.
+
+When project managers used work challenge and expertise to influence people, projects were more likely to succeed. The effectiveness of work challenge in influencing people is consistent with Maslow’s and Herzberg’s research on motivation. The importance of expertise as a means of influencing people makes sense on projects that involve special knowledge, as in most IT projects.
+
+In 2013, Thamhain published a study of 72 global project teams, and the results again showed that people issues have the strongest impact on project performance. Managers cannot succeed by simply issuing work orders, preparing plans, or providing guidelines. They must emphasize common values and goals to focus and unify global teams. “In particular, the field study shows that certain conditions related to the people side, such as personal interest, pride and satisfaction with the work, professional work challenge, accomplishments and recognition, appear most favorable toward unifying culturally diverse project teams and their work processes. These conditions serve as a bridging mechanism between organizational goals and personal interests, between central control and local management norms, and between following a project plan and adaptive problem solving. These are some of the conditions crucial to project success in complex multi-cultural organizations.”16
+
+Influence is related to power, which is the ability to influence behavior to get people to do things they would not otherwise do. Power is much stronger than influence, because it is often used to force people to change their behavior. There are five main types of power, according to French and Raven’s classic study, “The Bases of Social Power.”17
+
+• Coercive power involves using punishment, threats, or other negative approaches to get people to do things they do not want to do. This type of power is similar to Thamhain and Wilemon’s influence category called penalty. For example, a project manager can threaten to fire workers or subcontractors to try to get them to change their behavior. If the project manager really has the power to fire people, he or she could follow through on the threat. Recall, however, that influencing by using penalties is correlated with unsuccessful projects. Still, coercive power can be very effective in stopping negative behavior. For example, if students tend to hand in assignments late, an instructor can have a policy in the syllabus for late penalties, such as a 20 percent grade reduction for each day an assignment is late. Workers’ pay can be docked if they arrive late for work, or they might be fired if they arrive late more than once.
+
+• Legitimate power is getting people to do things based on a position of authority. This type of power is similar to the authority basis of influence.
+
+If top management gives project managers organizational authority, they 01356_ch09_hr_373-424.indd 385
+
+5/16/18 12:40 PM
+
+386
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+can use legitimate power in several situations. They can make key decisions without involving the project team, for example. Overemphasis on legitimate power or authority also correlates with project failure.
+
+• Expert power involves using personal knowledge and expertise to get people to change their behavior. People who perceive that project managers are experts in certain situations will follow their suggestions. For example, if a project manager has expertise in working with a particular IT supplier and its products, the project team will be more likely to follow the project manager’s suggestions on how to work with that vendor and its products.
+
+• Reward power involves using incentives to induce people to do things.
+
+Rewards can include money, status, recognition, promotions, and special work assignments. Many motivation theorists suggest that only certain types of rewards, such as work challenge, achievement, and recognition, truly induce people to change their behavior or work hard.
+
+• Referent power is based on a person’s own charisma. People who have referent power are held in very high regard; others will do what they say based on that regard. People such as Martin Luther King, Jr., John F. Kennedy, and Bill Clinton had referent power. Very few people possess the natural charisma that underlies referent power.
+
+It is important for project managers to understand what types of influence and power they can use in different situations. New project managers often overemphasize their position—their legitimate power or authority influence—especially when dealing with project team members or support staff. They also neglect the importance of reward power or work challenge influence. People often respond much better to a project manager who motivates them with challenging work and provides positive reinforcement for doing a good job. Project managers should understand the basic concepts of influence and power, and should practice using them to their own advantage and to help their teams.
+
+covey and improving effectiveness
+
+Stephen Covey, author of The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,18 expanded on the work done by Maslow, Herzberg, and others to develop an approach for helping people and teams become more effective. Covey’s first three habits of effective people—be proactive, begin with the end in mind, and put first things first—help people achieve a private victory by becoming independent. After achieving independence, people can then strive for interdependence by developing the next three habits—think win/win; seek first to understand, then to be understood; and synergize. (Synergy is the concept that the whole is equal to more than the sum of its parts.) Finally, everyone can work on Covey’s seventh habit—sharpen the saw—to develop and renew their physical, spiritual, mental, social, and emotional selves.
+
+Project managers can apply Covey’s seven habits to improve effectiveness on projects, as follows:
+
+1. Be proactive. Covey, like Maslow, believes that people have the ability to be proactive and choose their responses to different situations. Project managers must be proactive in anticipating and planning for problems and inevitable 01356_ch09_hr_373-424.indd 386
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+387
+
+changes on projects. They can also encourage their team members to be proactive in working on their project activities.
+
+2. Begin with the end in mind. Covey suggests that people focus on their values, what they want to accomplish, and how they want to be remembered in their lives. He suggests writing a mission statement to help achieve this habit.
+
+Many organizations and projects have mission statements that help them focus on their main purpose.
+
+3. Put first things first. Covey developed a time management system and matrix to help people prioritize their time. He suggests that most people need to spend more time doing things that are important, but not urgent. Such activities include planning, reading, and exercising. Project managers need to spend a lot of time working on important but not urgent activities, such as developing various project plans, building relationships with major project stakeholders, and mentoring project team members. They also need to avoid focusing only on important and urgent activities—putting out fires.
+
+4. Think win/win. Covey presents several paradigms of interdependence; think win/win is the best choice in most situations. When you use a win/win paradigm, parties in potential conflict work together to develop new solutions that benefit all parties. Project managers should strive to use a win/win approach in making decisions, but in competitive situations they sometimes must use a win/lose paradigm.
+
+5. Seek first to understand, then to be understood. Empathic listening is listening with the intent to understand. It is more powerful than active listening because you set aside your personal interests and focus on truly understanding the other person. When you practice empathic listening, you can begin two-way communication. This habit is critical for project managers so they can understand their stakeholders’ needs and expectations.
+
+6. Synergize. A project team can synergize by creating collaborative products that are much better than a collection of individual efforts. Covey also emphasizes the importance of valuing differences in others to achieve synergy. Synergy is essential to many highly technical projects; in fact, several major breakthroughs in IT occurred because of synergy. For example, in his Pulitzer Prize-winning book, The Soul of a New Machine, Tracy Kidder documented the synergistic efforts of a team of Data General researchers to create a new 32-bit superminicomputer during the 1970s.19
+
+7. Sharpen the saw. When you practice sharpening the saw, you take time to renew yourself physically, spiritually, mentally, and socially. The practice of self-renewal helps people avoid burnout. Project managers must make sure that they and their project teams have time to retrain, reenergize, and occasionally even relax to avoid burnout. A simple technique like encouraging people to stand up and walk around for a brief time every hour can improve physical health and mental performance.
+
+Douglas Ross, author of Applying Covey’s Seven Habits to a Project Management Career, related Covey’s habits to project management. Ross suggests that Habit 5—Seek 01356_ch09_hr_373-424.indd 387
+
+5/16/18 12:40 PM
+
+388
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+first to understand, then to be understood—differentiates good project managers from average or poor ones. People have a tendency to focus on their own agendas instead of first trying to understand other people’s points of view. Empathic listening can help project managers and team members find out what motivates different people. Understanding what motivates key stakeholders and customers can mean the difference between a project’s success or failure. Once project managers and team members begin to practice empathic listening, they can communicate and work together to tackle problems more effectively.20
+
+Before you can practice empathic listening, you first have to get people to talk to you.
+
+In many cases, you must work on developing a rapport with the other person. Rapport is a relation of harmony, conformity, accord, or affinity. Without rapport, people cannot begin to communicate. For example, in the chapter’s opening case, Ben was not ready to talk to anyone from the IT department, even if Ed and Sarah were ready to listen. Ben was angry about the lack of support he received from the IT department and bullied anyone who reminded him of that group. Before Sarah could begin to communicate with Ben, she had to establish rapport.
+
+One technique for establishing rapport is mirroring. Mirroring is matching certain behaviors of the other person. People tend to like others who are like themselves, and mirroring helps you take on some of the other person’s characteristics. It also helps them realize if they are behaving unreasonably, as in the chapter’s opening case. You can mirror someone’s tone and tempo of voice, breathing, movements, or body postures.
+
+After Ben started yelling at her, Sarah quickly decided to mirror his voice tone, tempo, and body posture. She stood nose to nose with Ben and started yelling back at him. This action made Ben realize what he was doing, and it also made him notice and respect his colleague from the IT department. Once Ben overcame his anger, he could start communicating his needs. In most cases, however, such extreme measures are not needed, and mirroring must be used with caution. When done improperly or with the wrong person, it could result in very negative consequences.
+
+a d v i c e f O r y O u n g p r O f e s s i O n a L s Unfortunately, many people stereotype IT professionals as having poor soft skills and not caring much about other people’s feelings. This makes it even more important to develop and use your empathy skills. There are several books, videos, and classes on this subject.
+
+For example, MindTools provides the following advice: To start using empathy more effectively, consider the following: 1. Put aside your viewpoint, and try to see things from the other person’s point of view.
+
+When you do this, you’ll realize that other people most likely aren’t being evil, unkind, stubborn, or unreasonable – they’re probably just reacting to the situation with the knowledge they have.
+
+2. Validate the other person’s perspective.
+
+Once you “see” why others believe what they believe, acknowledge it. Remember: acknowledgement does not always equal agreement. You can accept that people ( continued)
+
+01356_ch09_hr_373-424.indd 388
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+389
+
+have different opinions from your own, and that they may have good reason to hold those opinions.
+
+3. Examine your attitude.
+
+Are you more concerned with getting your way, winning, or being right? Or, is your priority to find a solution, build relationships, and accept others?
+
+Without an open mind and attitude, you probably won’t have enough room for empathy.
+
+4. Listen to the entire message that the other person is trying to communicate.
+
+• Listen with your ears – what is being said, and what tone is being used?
+
+• Listen with your eyes – what is the person doing with his or her body while speaking?
+
+• Listen with your instincts – do you sense that the person is not communicating something important?
+
+• Listen with your heart – what do you think the other person feels?
+
+5. Ask what the other person would do.
+
+When in doubt, ask the person to explain his or her position. This is probably the simplest, and most direct, way to understand the other person. However, it’s probably the least used way to develop empathy.21
+
+Recall the importance of getting users involved in IT projects. For organizations to be truly effective in IT project management, they must find ways to help users and developers of information systems work together. It is widely accepted that organizations make better project decisions when business professionals and IT staff collaborate. It is also widely accepted that this task is easier said than done. Many companies have been very successful in integrating technology and business departments, but many other companies continue to struggle with this issue.
+
+emotional intelligence
+
+As the title suggests, Howard Gardner’s book Frames of Mind: The Theory of Multiple Intelligences introduced the concept of using more than one way to think of and measure human intelligence. Gardner suggested the need to develop both interpersonal intelligence (the capacity to understand the motivations, intentions, and desires of others) and intrapersonal intelligence (the capacity to understand oneself, one’s feelings, and motivations). Empathic listening is an example of interpersonal intelligence, while knowing that you have a high need for achievement is an example of intrapersonal intelligence. The concept emotional intelligence—knowing and managing one’s own emotions and understanding the emotions of others for improved performance—became popular in 1995 when Daniel Goleman’s book, Emotional Intelligence, became a best-seller.
+
+Several articles and books have been written on the need for project managers to develop their emotional intelligence (EI). For example, Anthony C. Mersino, PMP®, author of Emotional Intelligence for Project Managers: The People Skills You Need to Achieve Outstanding Results, says that EI comes into play as project managers work on team building, collaboration, negotiation, and relationship development. EI is also becoming a 01356_ch09_hr_373-424.indd 389
+
+5/16/18 12:40 PM
+
+390
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+more sought-after characteristic. According to a CareerBuilder.com survey of over 2,600
+
+U.S. hiring managers and human resource professionals,
+
+• 71 percent said they value EI in an employee more than IQ.
+
+• 59 percent said they would not hire someone who has a high IQ but low EI.
+
+• 75 percent said they are more likely to promote an employee with high EI than an employee with a high IQ.22
+
+Leadership
+
+As defined in Chapter 1, a leader focuses on long-term goals and big-picture objectives while inspiring people to reach those goals. Leadership is a soft skill, and there is no one best way to be a leader. Peter Northouse, author of a popular textbook called Leadership: Theory and Practice, says, “In the past 60 years, as many as 65 different classification systems have been developed to define the dimensions of leadership.”23
+
+Some classification systems focus on group processes, while others focus on personality traits or behaviors. People discuss transformational leaders, transactional leaders, and servant leaders, to name a few. There are many different leadership styles, and the one thing most experts agree on is that the best leaders are able to adapt their style to needs of the situation.
+
+Daniel Goleman, author of Primal Leadership, points out that “The goal for leaders should be to develop a solid understanding of the different styles of leadership and their implications, and reach the point where choosing the right one for the situation becomes second nature to them.”24
+
+W h a t W e n t r i g h t ?
+
+It’s important for professional societies to stay abreast of skills needed in their profession. In 2015, PMI acknowledged that project management professionals need to be continually updating their skills by developing a new Continuing Certification Requirements (CCR) program. Applicants who want to renew a PMI certification must now demonstrate ongoing professional development that meets the new PMI Talent Triangle®. As described in Chapter 1, this triangle includes the following:
+
+• Technical project management: Knowledge, skills, and behaviors related to specific domains of project, program, and portfolio management
+
+• Strategic and business management: Knowledge of and expertise in the industry or organization that enhances performance and better delivers business outcomes
+
+• Leadership: Knowledge, skills, and behaviors specific to leadership-oriented, cross-cutting skills that help an organization achieve its business goals ( continued)
+
+01356_ch09_hr_373-424.indd 390
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+391
+
+PMI has always emphasized the need to stay abreast of technical project management, but now it is placing more emphasis on strategic and business management as well as leadership skills. PMI often surveys individuals and organizations, and in a recent report, 75 percent of organizations ranked leadership skills as most important for successful navigation of complexity in projects. “Managing complex projects requires project managers who are able to establish the vision, mission and expected outcomes in a way that is broad enough to be complete yet simple enough to understand. It also requires the skill to align the team to that vision. These are project managers who have become project executives with the leadership skill and business acumen to drive success.”25
+
+It is important to understand and pay attention to concepts of motivation, influence, power, effectiveness, emotional intelligence, and leadership in all project processes. It is also important to remember that projects operate within an organizational environment.
+
+The challenge comes from applying the preceding theories to the many unique people involved in particular projects.
+
+Many important topics related to motivation, influence, power, effectiveness, emotional intelligence, and leadership are relevant to project management. Projects are done by and for people, so it is important for project managers and team members to understand and practice key concepts related to these topics. Remember that everyone prefers to work with people they like and respect, and it is important to treat others with respect, regardless of their title or position. This is especially true for people in support roles, such as administrative assistants, security guards, or members of the cleaning crew.
+
+You never know when you may need their help at a critical point in a project.
+
+deveLOping the resOurce management pLan
+
+and team charter
+
+To develop a resource management plan for a project, you must identify and document project resources, roles, responsibilities, skills, and reporting relationships. The project resource management plan can be separated into a human resource management plan and a physical resource management plan. The human resource plan often includes an organizational chart for the project, detailed information on roles and responsibilities, and a staffing management plan. In addition, project teams can create a team charter to provide guidance on how they will operate.
+
+Before creating an organizational chart or any part of the human resource plan for a project, top management and the project manager must identify what types of people the project needs to ensure success. If the key to success lies in having the best Java programmers you can find, planning should reflect that need. If the real key to success is having a top-notch project manager and respected team leaders, that need should drive human resource planning.
+
+01356_ch09_hr_373-424.indd 391
+
+5/16/18 12:40 PM
+
+392
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+project Organizational charts
+
+
+Recall from Chapter 2 that the nature of IT projects often means that project team members come from different backgrounds and possess a wide variety of skills. Also recall that organizations have many types of structures (functional, matrix, etc.). It can be very difficult to manage such a diverse group of people, so it is important to provide a clear organizational structure for a project. After identifying important skills and the types of people needed to staff a project, the project manager should work with top management and project team members to create an organizational chart for the project. Figure 9-3
+
+provides part of an organizational chart for a large project that involves hardware and software development. For example, in the chapter’s opening case, a program manager might be in charge of every project related to the F-44 aircraft, and each major component of the aircraft, like the radar system, might have its own dedicated project manager. Note that the project personnel include a deputy project manager, subproject managers, and teams. Other boxes on the chart represent each functional department supporting the project, such as systems engineering, quality assurance, and configuration management, as well as an external independent test group. Deputy project managers fill in for project managers in their absence and assist them as needed. Subproject managers are responsible for managing the subprojects into which a large project might be divided.
+
+For example, an aircraft radar upgrade project could involve several major software (S/W) upgrades as well as hardware (H/W) upgrades, so a subproject manager could be in charge of each upgrade. This structure is typical for large projects that use a matrix organizational structure. When many people work on a project, clearly defining and allocating project work is essential. (For example, visit the Companion website for this text to see the project organizational chart that Northwest Airlines used for its large Resnet project.) Smaller projects usually do not have deputy project managers or Project Manager
+
+Deputy Project
+
+Manager
+
+Systems
+
+Independent Project Technical
+
+Quality
+
+Configuration
+
+Engineering
+
+Test Group
+
+Lead
+
+Assurance
+
+Management
+
+S/W Subproject
+
+S/W Subproject
+
+H/W Subproject
+
+Manager 1
+
+Manager 2
+
+Manager
+
+Team 1
+
+Team 2
+
+Team 3
+
+Team 1
+
+Team 2
+
+Team 1
+
+Team 2
+
+figure 9-3 Sample organizational chart for a large IT project 01356_ch09_hr_373-424.indd 392
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+393
+
+subproject managers. On smaller projects, the project managers might have team leaders reporting directly to them.
+
+In addition to defining an organizational structure for a project, it is also important to follow a work definition and assignment process. Figure 9-4 provides a framework for defining and assigning work that consists of four steps: 1. Finalizing the project requirements
+
+2. Defining how the work will be accomplished
+
+3. Breaking down the work into manageable elements
+
+4. Assigning work responsibilities
+
+The work definition and assignment process is carried out during the proposal and startup phases of a project. Note that the process is iterative, often taking more than one pass. A Request for Proposal (RFP) or draft contract often provides the basis for defining and finalizing work requirements, which are then documented in a final contract and technical baseline. If the project does not require an RFP, then the internal project charter and scope statement would provide the basis for defining and finalizing work requirements, as described in Chapter 5, Project Scope Management. The project team leaders then decide on a technical approach for how to do the work. Should work be broken down using a product-oriented approach or a phased approach? Will the project team outsource some of the work or subcontract to other companies? Once the project team has decided on a technical approach, it develops a work breakdown structure (WBS) to establish manageable elements of work, as described in Chapter 5. The team then develops activity definitions for the work involved in each activity on the WBS, as you learned in Chapter 6, Project Schedule Management. The last step is assigning the work.
+
+Once the project manager and project team have broken down the work into manageable elements, the project manager assigns work to organizational units. The project manager often bases these work assignments on where the work fits in the RFP, Contract, Charter,
+
+Steps
+
+Key Outputs
+
+Scope Statement
+
+Requirements Finalization
+
+Finalized Project Scope Baseline
+
+Finalized Technical Baseline
+
+How Work Will Be Done
+
+Program/Team Approach
+
+Technical Approaches
+
+Break Down the Work
+
+Work Breakdown Structure (WBS)
+
+Activity Definitions
+
+Assign the Work
+
+Organizational Breakdown
+
+Structure (OBS)
+
+OBS Responsibilities
+
+figure 9-4 Work definition and assignment process 01356_ch09_hr_373-424.indd 393
+
+5/16/18 12:40 PM
+
+394
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+organization and uses an organizational breakdown structure to conceptualize the process.
+
+An organizational breakdown structure (OBS) is a specific type of organizational chart that shows which organizational units are responsible for which work items. The OBS
+
+can be based on a general organizational chart and then broken down into more detail, based on specific units within departments in the company or units in any subcontracted companies. For example, OBS categories might include software development, hardware development, and training.
+
+responsibility assignment matrices
+
+After developing an OBS, the project manager can develop a responsibility assignment matrix. A responsibility assignment matrix (RAM) maps the work of the project, as described in the WBS, to the people responsible for performing the work, as described in the OBS. Figure 9-5 shows an example of a RAM. The RAM allocates work to responsible and performing organizations, teams, or individuals, depending on the desired level of detail. For smaller projects, it is best to assign individual people to WBS activities. For very large projects, it is more effective to assign the work to organizational units or teams, as shown in Figure 9-5.
+
+In addition to using a RAM to assign detailed work activities, you can use it to define general roles and responsibilities on projects. This type of RAM can include the stakeholders in the project. Some organizations use RACI charts to show four key roles for project stakeholders:
+
+• Responsibility: Who does the task?
+
+• Accountability: Who signs off on the task or has authority for it?
+
+• Consultation: Who has information necessary to complete the task?
+
+• Informed: Who needs to be notified of task status and results?
+
+As shown in Table 9-2, a RACI chart lists tasks vertically and lists individuals or groups horizontally. Each intersecting cell contains an R, an A, a C, or an I. A task may have multiple R, C, or I entries, but there can be only one A entry per row to clarify who WBS activities
+
+OBS
+
+1.1.1 1.1.2 1.1.3 1.1.4 1.1.5 1.1.6 1.1.7 1.1.8
+
+units Systems Engineering
+
+R
+
+R P
+
+R
+
+Software Development
+
+R P
+
+Hardware Development
+
+R P
+
+Test Engineering
+
+P
+
+Quality Assurance
+
+R P
+
+Configuration Management
+
+R P
+
+Integrated Logistics Support
+
+P
+
+Training
+
+R P
+
+R = Responsible organizational unit
+
+P = Performing organizational unit
+
+figure 9-5 Sample responsibility assignment matrix (RAM) 01356_ch09_hr_373-424.indd 394
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+395
+
+tabLe 9-2 Sample RACI chart
+
+car Owner
+
+shop Owner
+
+mechanic
+
+parts supplier
+
+Pay for parts and
+
+A, R
+
+C
+
+services
+
+Determine parts and
+
+C
+
+A, R
+
+C
+
+services needed
+
+Supply parts
+
+C
+
+C
+
+A, R
+
+Install parts
+
+I
+
+A
+
+R
+
+is accountable for each task. For example, a mechanic is responsible for repairing a car, but the shop owner is accountable for the repairs being made properly. The car owner and parts supplier would be other stakeholders with various roles for different work activities, as shown in Table 9-2. Project managers can use the RACI codes or any other codes to help clarify the roles that different organizational units or specific stakeholders have in getting the work done.
+
+staffing management plans and resource histograms
+
+A staffing management plan describes when and how people will be added to the project team and taken off it. The level of detail may vary based on the type of project. For example, if an IT project is expected to need 100 people on average over a year, the staffing management plan would describe the types of people needed to work on the project, such as Java programmers, business analysts, and technical writers, and the number of each type of person needed each month. The plan would also describe how these resources would be acquired, trained, rewarded, and reassigned after the project. All of these issues are important to meeting the needs of the project, the employees, and the organization.
+
+The staffing management plan often includes a resource histogram, which is a column chart that shows the number of resources assigned to a project over time.
+
+Figure 9-6 provides an example of a histogram that might be used for a six-month IT project. Notice that the columns represent the number of people needed in each area—managers, business analysts, programmers, and technical writers. By stacking the columns, you can see the total number of people needed each month. You can also create a resource histogram for physical resources. For example, if a project involved a lot of training, there would be a need to plan for the classroom space and supplies needed for that part of the project. After determining the resource needs, the next step in project resource management is to acquire resources.
+
+Team Charters*
+
+Many companies believe in using team charters to help promote teamwork and clarify team communications. (Note that some organizations and previous editions of this text use the term team contract instead of team charter. PMI just added team charters to the PMBOK® Guide – Sixth Edition in 2017.) After core project team members have been 01356_ch09_hr_373-424.indd 395
+
+5/16/18 12:40 PM
+
+396
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+8
+
+
+7
+
+6
+
+5
+
+4
+
+3
+
+Number of People 2
+
+1
+
+0
+
+Jan
+
+Feb
+
+March
+
+April
+
+May
+
+June
+
+Managers
+
+Business analysts
+
+Programmers
+
+Technical writers
+
+figure 9-6 Sample resource histogram
+
+selected, they meet to prepare a team charter to guide how the team will function. The process normally includes reviewing a template and then working in small groups of three to four people to prepare inputs for the team charter. Creating smaller groups makes it easier for everyone to contribute ideas. Each group then shares their ideas on what the charter should contain, and then they work together to form one project team charter.
+
+Ideally, the charter should be finished in a one-to two-hour meeting. The project manager should attend the meeting and act as a coach or facilitator, observing the different personalities of team members and seeing how well they work together. It is crucial to emphasize the importance of the project team throughout the project’s life cycle, and the team charter should be updated as needed.
+
+Contents of the team charter, according to PMI, may include the following:
+
+• Team values
+
+• Communication guidelines
+
+• Decision-making criteria and process
+
+• Conflict resolution process
+
+• Meeting guidelines
+
+• Team agreements
+
+estimating activity resOurces
+
+The nature of the project and the organization will affect resource estimates. Expert judgment, various estimating approaches, data analysis, project management software, and meetings are tools that can assist in resource estimating. The people who help determine what resources are necessary must have experience and expertise in similar projects and with the organization performing the project.
+
+01356_ch09_hr_373-424.indd 396
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+397
+
+Important questions to answer when estimating activity resources include the following:
+
+• How difficult will specific activities be on this project?
+
+• Is anything unique in the project’s scope statement that will affect resources?
+
+• What is the organization’s history in doing similar activities? Has the organization done similar tasks before? What level of personnel did the work?
+
+• Does the organization have people, equipment, and materials that are capable and available for performing the work? Could any organizational policies affect the availability of resources?
+
+• Does the organization need to acquire more resources to accomplish the work?
+
+Would it make sense to outsource some of the work? Will outsourcing increase or decrease the amount of resources needed and when they will be available?
+
+Answering these questions requires important inputs such as the project management plan, project documents, enterprise environmental factors, and organizational process assets such as policies regarding staffing and outsourcing. During the early phases of a project, the project team may not know which specific people, equipment, and materials will be available. For example, the team might know from past projects that a mix of experienced and inexperienced programmers will work on a project. The team might also be able to approximate the number of people or hours needed to perform specific activities.
+
+It is important to thoroughly brainstorm and evaluate alternatives related to resources, especially on projects that involve people from multiple disciplines and companies. Because most projects involve many human resources and the majority of costs are for salaries and benefits, it is often effective to solicit ideas from different people to help develop alternatives and address resource-related issues early in a project. The resource estimates should also be updated as more detailed information becomes available.
+
+The main outputs of the resource estimating process include a list of activity resource requirements, a basis of estimates, a resource breakdown structure, and project documents updates. A resource breakdown structure is a hierarchical structure that identifies the project’s resources by category and type. Resource categories might include analysts, programmers, and testers. This information would be helpful in determining resource costs, acquiring resources, and so on. For example, if junior employees will be assigned to many activities, the project manager might request that additional activities, time, and resources be approved to help train and mentor those employees. In addition to providing the basis for estimating activity durations as described in Chapter 6, Project Schedule Management, estimating activity resources provides vital information for project cost estimates (Chapter 7), project communications management (Chapter 10), project risk management (Chapter 11), and project procurement management (Chapter 12).
+
+acquiring resOurces
+
+During the late 1990s, the IT job market became extremely competitive. It was a seller’s market with corporations competing fiercely for a shrinking pool of qualified, experienced IT professionals. In the early 2000s, the market declined tremendously, 01356_ch09_hr_373-424.indd 397
+
+5/16/18 12:40 PM
+
+398
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+so employers could be very selective in recruiting. Today, many organizations again face a shortage of IT staff. Regardless of the current job market, however, acquiring qualified IT professionals is critical. There is a saying that the project manager who is the smartest person on the team has done a poor job of recruiting. In addition to recruiting team members, it is also important to acquire the necessary physical resources (facilities, equipment, supplies, and so on) and provide the right type of resources at the right time and place. This section addresses important topics related to acquiring the project resources: resource assignment, resource loading, and resource leveling.
+
+resource assignment
+
+After developing resource requirements, project managers must work with other people in their organizations to assign them to their projects or to acquire additional human or physical resources needed for the project. Project managers with strong influencing and negotiating skills are often good at getting the best resources for their projects. However, the organization must ensure that resources are assigned to the projects that best fit the needs of the organization.
+
+Organizations that do a good job of staff acquisition have good staffing plans. These plans describe the number and type of people who are currently in the organization and the number and type of people anticipated to be needed for the project based on current and upcoming activities. An important component of staffing plans is maintaining a complete and accurate inventory of employees’ skills. If there is a mismatch between the current mix of people’s skills and needs of the organization, it is the project manager’s job to work with top management, human resource managers, and other people in the organization to address staffing and training needs.
+
+It is also important to have good procedures in place for hiring subcontractors and recruiting new employees. Because the Human Resource department is normally responsible for hiring people, project managers must work with their human resource managers to address any problems in recruiting appropriate people. It is also a priority to address retention issues, especially for IT professionals.
+
+One innovative approach to hiring and retaining IT staff is to offer existing employees incentives for helping recruit and retain personnel. For example, several consulting companies give their employees one dollar for every hour worked by a new person they helped recruit. This provides an incentive for current employees to help attract new people and to keep all of them working at the company. Another approach to attract and retain IT professionals is to provide benefits based on personal need. For example, some people might want to work only four days a week or have the option of working a couple of days a week from home. As it becomes more difficult to find good IT professionals, organizations must become more innovative and proactive in addressing this issue.
+
+It is very important to consider the needs of individuals and the organization when making recruiting and retention decisions and to study the best practices of leading companies in these areas. It is also important to address a growing trend in project teams—many team members work in a virtual environment. See the section on managing the project team for suggestions on working with virtual team members.
+
+01356_ch09_hr_373-424.indd 398
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+399
+
+b e s t p r a c t i c e
+
+Best practices can also include the best places for people to work. Fortune magazine publishes a list of the “100 Best Companies to Work For” in the United States every year, with Google taking top honors for the eighth time in 2017. Companies want to make the list and be known for being a great place to work, and people are drawn to work for companies on the list. Working Mothers magazine lists the best companies in the United States for women based on benefits for working families. The Times online (www.timesonline.co.uk) provides the London Sunday Times list of the “100 Best Companies to Work For,” a key benchmark against which U.K. companies can judge their performance as employers. The Great Place to Work Institute, which produces Fortune magazine’s “100 Best Companies to Work For,” uses the same selection methodology for more than 20 international lists, including all 15 countries of the European Union, Brazil, Korea, and a number of other countries throughout Latin America and Asia.
+
+Companies make these lists based on feedback from their best critics: their own employees. Quotes from employees often show why their companies made the lists:
+
+• “Working here can make you feel that you’ve made it into the technical equivalent of Major League Baseball or the NFL—you’re at the top of your field.” #1: Google
+
+• “Although people come from across the world, from different cultures, and from different life experiences,” one employee says, “everyone shares a passion for problem-solving and a positive attitude about teamwork.” #2: Boston Consulting Group
+
+• “Our health insurance benefits are awesome, our schedules are flexible and we can keep our bodies healthy at our gym,” says one team member. “ACUITY
+
+takes not only good care of me, but also my family.” #3: ACUITY
+
+• “SAS has provisions to support you at whatever stage of life you are in – child care for your newborn to preschooler, resources for dealing with your teenager and college planning, help with your elderly parent,” says one employee. “More importantly, a real sense of community is built when people work together for so long.” #4: SAS26
+
+resource Loading
+
+Chapter 6, Project Schedule Management, described using network diagrams to help manage a project’s schedule. One of the problems or dangers inherent in scheduling processes is that they often do not address the issues of resource utilization and availability. This is why the development of critical chain scheduling is so important.
+
+Schedules tend to focus primarily on time rather than both time and resources, which includes people. An important measure of a project manager’s success is how well he or she balances the trade-offs among performance, time, and cost. During a period of crisis, it is occasionally possible to add resources—such as additional staff—to a project at little or no cost. Most of the time, however, resolving performance, time, and cost trade-offs entails additional costs to the organization. The project manager’s goal must be to achieve project 01356_ch09_hr_373-424.indd 399
+
+5/16/18 12:40 PM
+
+
+
+400
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+success without increasing the costs or time required to complete the project. The key to accomplishing this goal is effectively managing human resources on the project.
+
+Once resources are assigned to projects, two techniques are available to help use them most effectively: resource loading and resource leveling. Resource loading refers to the amount of individual resources that an existing schedule requires during specific time periods. Resource loading helps project managers understand the demands of a project on the organization’s resources and on individual people’s schedules. Project managers often use resource histograms, like the one shown in Figure 9-6, to depict period-by-period variations in resource loading. A resource histogram can be very helpful in determining resource needs or in identifying staffing problems.
+
+A resource histogram can also show when work is being overallocated to a certain person or group. Overallocation means that not enough resources are available to perform the assigned work during a given time period. Figure 9-7 shows a sample resource histogram created in Microsoft Project. This histogram illustrates how much one person, Joe Franklin, is assigned to work on the project each week. The numbers on the vertical axis represent the percentage of Joe’s available time that is allocated for him to work on the project. The top horizontal axis represents time in weeks. Note that Joe Franklin is overallocated most of the time. For example, for most of March and April and part of May, Joe’s work allocation is 300 percent of his available time. If Joe is normally available 8 hours per day, this means he would have to work 24 hours a day to meet this staffing projection!
+
+Overallocation can happen for many reasons. Many people don’t use the resource assignment features of project management software properly. You also need to provide good estimates of how many hours are required to accomplish work. As mentioned in Chapter 6, Project Schedule Management, a typical worker does productive work between figure 9-7 Sample histogram showing an overallocated person 01356_ch09_hr_373-424.indd 400
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+401
+
+70 and 80 percent of the time. If people are assigned to work for 40 hours in a week, you should estimate that they will accomplish 28 to 32 hours of productive work. Of course, there are exceptions to this rule of thumb, but it is unrealistic to assume that all workers are productive 100 percent of the time.
+
+resource Leveling
+
+Resource leveling is a technique for resolving resource conflicts by delaying tasks. It is a form of network analysis in which resource management concerns drive scheduling decisions (start and finish dates). The main purpose of resource leveling is to create a smoother distribution of resource usage. Project managers examine the network diagram for areas of slack or float, and to identify resource conflicts. For example, you can sometimes remove overallocations by delaying noncritical tasks, which does not result in an overall schedule delay. At other times, you will need to delay the project completion date to reduce or remove overallocations. Appendix A (available on the Companion website for this text) explains how to use Microsoft Project 2016 to level resources using both of these approaches. You can also view resource leveling as addressing the resource constraints described in critical chain scheduling (see Chapter 6, Project Schedule Management).
+
+Overallocation is one type of resource conflict. If a certain resource is overallocated, the project manager can change the schedule to remove resource overallocation. If a certain resource is underallocated, the project manager can change the schedule to try to improve the use of the resource. Resource leveling, therefore, aims to minimize period-by-period variations in resource loading by shifting tasks within their slack allowances.
+
+Figure 9-8 illustrates a simple example of resource leveling. The network diagram at the top of this figure shows that Activities A, B, and C can all start at the same time.
+
+Activity A has a duration of two days and will take two people to complete; Activity B has a duration of five days and will take four people to complete; and Activity C has a duration of three days and will take two people to complete. The histogram in the lower-left corner of this figure shows the resource usage if all activities start on day one. The histogram in the lower-right corner shows the resource usage if Activity C is delayed two days, its total slack allowance. Notice that the lower-right histogram is flat or leveled; that is, its activities are arranged to take up the least space, saving days and number of workers. You may recognize this strategy from the computer game Tetris, in which you earn points for keeping the falling shapes as level as possible. In the same way, resources are used best when they are leveled.
+
+Resource leveling has several benefits. First, when resources are used on a more constant basis, they require less management. For example, it is much easier to manage someone who is scheduled to work 20 hours per week on a project for the next three months than it is to manage the same person for 10 hours one week, 40 the next, 5 the next, and so on.
+
+Second, resource leveling may enable project managers to use a just-in-time inventory type of policy for subcontractors or other expensive resources. For example, a project manager might want to level resources for work that must be done by particular subcontractors such as testing consultants. This leveling might allow the project to use four outside consultants full time to perform testing for four months instead of spreading 01356_ch09_hr_373-424.indd 401
+
+5/16/18 12:40 PM
+
+402
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+A = 2 days
+
+2
+
+Project network with Activities A,
+
+B, and C and durations as shown.
+
+Activity A has 3 days of slack, and
+
+B = 5 days
+
+1
+
+4
+
+Activity C has 2 days of slack.
+
+Assume Activity A has 2 workers,
+
+B has 4 workers, and C has 2 workers.
+
+3
+
+C = 3 days
+
+8
+
+8
+
+A
+
+6
+
+6
+
+A
+
+C
+
+4
+
+B
+
+B
+
+4
+
+Workers
+
+B
+
+Workers
+
+2
+
+2
+
+B
+
+C
+
+C
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Days
+
+Days
+
+Resource usage if all
+
+Resource usage if Activity C
+
+activities start on day one
+
+is delayed 2 days, its total slack
+
+figure 9-8 Resource leveling example
+
+out the work over more time or using more than four people. The latter approach is usually more expensive. Recall from Chapter 6 that crashing and fast tracking can also be used along with resource allocation to improve a project schedule.
+
+Third, resource leveling results in fewer problems for project personnel and accounting departments. Increasing and decreasing labor levels and human resources often produce additional work and confusion. For example, if people with expertise in the same area are only assigned to a project two days a week and they need to work together, then the schedule needs to reflect this need. The Accounting department might complain when subcontractors charge a higher rate for billing less than 20 hours a week on a project. The accountants will remind project managers to strive to get the lowest rates possible.
+
+Finally, resource leveling often improves morale. People like to have stability in their jobs. It is very stressful for people not to know what projects they will be working on from week to week or even from day to day.
+
+Project management software can automatically level resources. However, the project manager must be careful in using the results without making adjustments. Automatic leveling often pushes out the project’s completion date. Resources may also be reallocated 01356_ch09_hr_373-424.indd 402
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+403
+
+to work at times that are inappropriate with other constraints. To ensure that the leveling is done appropriately, a wise project manager would have his or her work checked by a team member who is proficient in using the project management software.
+
+deveLOping the prOject team
+
+Even if a project manager has successfully recruited enough skilled people to work on a project, the project manager must ensure that people can work together as a team to achieve project goals. Many IT projects have talented people working on them, but it takes teamwork to complete most projects successfully. The main goal of team development is to help people work together more effectively to improve project performance.
+
+First published in 1965 and modified in the 1970s, Dr. Bruce Tuckman’s model of team development remains relevant today. The Tuckman model describes five stages of team development:
+
+1. Forming involves the introduction of team members, either at the initiation of the team or as new members are introduced. This stage is necessary, but little work is actually achieved.
+
+2. Storming occurs when team members have different opinions for how the team should operate. People test each other, and there is often conflict within the team.
+
+3. Norming is achieved when team members have developed a common working method, and cooperation and collaboration replace the conflict and mistrust of the previous phase.
+
+4. Performing occurs when the emphasis is on reaching the team’s goals rather than working on team process. Relationships are settled, and team members are likely to build loyalty toward each other. At this stage, the team is able to manage tasks that are more complex and cope with greater change.
+
+5. Adjourning involves the break-up of the team after it successfully reaches its goals and completes the work.27
+
+There is an extensive body of literature on team development. This section highlights a few important tools and techniques for team development, including training, team-building activities, and reward and recognition systems.
+
+training
+
+Project managers often recommend that people take specific training courses to improve individual and team development. For example, Sarah from the opening case had gone through training in emotional intelligence and dealing with difficult people. She was familiar with the mirroring technique and felt comfortable using that approach with Ben.
+
+Many other people would not have reacted so quickly and effectively in the same situation.
+
+If Ben and Sarah did reach agreement on what actions they could take to resolve the F-44
+
+aircraft program’s IT problems, it might result in a new project to develop and deliver a new system for Ben’s group. If Sarah became the project manager for this new project, she would understand the need for special training in interpersonal skills for specific people in 01356_ch09_hr_373-424.indd 403
+
+5/16/18 12:40 PM
+
+404
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+her department and Ben’s. Individual team members could take special training classes to improve their interpersonal skills. If Sarah thought the whole project team could benefit from taking training together to learn to work as a team, she could arrange for a special team-building session for the entire project team and key stakeholders.
+
+It is very important to provide training in a just-in-time fashion. For example, if Sarah were preparing for a technical assignment that required her to learn a new programming language, training to deal with difficult people would not help her much. However, the training was very timely for her new consulting position. Many organizations provide e-learning opportunities for their employees so they can learn specific skills at any time and any place. They have also found that e-learning is sometimes more cost-effective than traditional instructor-led training courses. It is important to make sure that the timing and delivery method for the training is appropriate for specific situations and individuals.
+
+Organizations have also found that it is often more economical to train current employees in particular areas than it is to hire new people who already possess those skills.
+
+Several organizations that have successfully implemented Six Sigma principles have taken a unique and effective approach to training. They only let high-potential employees attend Six Sigma Black Belt training, which is a substantial investment of time and money. In addition, they do not let employees into a particular Black Belt course until the employees have had a potential Six Sigma project approved that relates to their current job. Attendees can then apply the new concepts and techniques they learn in the classes to their jobs. High-potential employees feel rewarded by being picked to take this training, and the organization benefits by having these employees implement high-payoff projects because of the training.
+
+team-building activities
+
+Many organizations provide in-house team-building training activities, and many also use services provided by external companies that specialize in this area. It is important to understand individual needs, including learning styles, past training, and physical limitations, when determining team-building training options. Two common approaches to team-building activities are physical challenges and psychological preference indicator tools.
+
+Several organizations have teams go through physically challenging activities to help them develop as a team. Military basic training or boot camps provide one example. Men and women who want to join the military must first finish basic training, which often involves strenuous physical activities such as rappelling off towers, running and marching in full military gear, going through obstacle courses, passing marksmanship training, and mastering survival training. Many organizations use a similar approach by sending teams to special locations where they work together to navigate white water rapids, climb mountains or rocks, and participate in rope courses. Research shows that physical challenges often help teams of strangers to work together more effectively, but it can cause already dysfunctional teams to have even more problems.
+
+Even more organizations have teams participate in mental team-building activities in which they learn about themselves, each other, and how to work as a group most effectively. It is important for people to understand and value each other’s differences to work effectively as a team. Three common exercises used in mental team building include the Myers-Briggs Type Indicator, Wilson Learning Social Styles Profile, and the DISC Profile.
+
+01356_ch09_hr_373-424.indd 404
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+405
+
+the myers-briggs type indicator
+
+The Myers-Briggs Type Indicator (MBTI) is a popular tool for determining personality preferences. During World War II, Isabel B. Myers and Katherine C. Briggs developed the first version of the MBTI based on psychologist Carl Jung’s theory of psychological type.
+
+The four dimensions of psychological type in the MBTI include the following:
+
+• Extrovert/Introvert (E/I): This first dimension determines if you are generally extroverted or introverted, which signifies whether you draw energy from other people (extrovert) or from yourself (introvert).
+
+• Sensation/Intuition (S/N): This second dimension relates to the manner in which you gather information. Sensation (or Sensing) type people take in facts, details, and reality and describe themselves as practical. Intuitive type people are imaginative, ingenious, and attentive to hunches or intuition.
+
+They describe themselves as innovative and conceptual.
+
+• Thinking/Feeling (T/F): Thinking judgment is objective and logical, and feeling judgment is subjective and personal.
+
+• Judgment/Perception (J/P): This fourth dimension concerns people’s attitudes toward structure. Judgment type people like closure and task completion.
+
+They tend to establish deadlines and take them seriously, expecting others to do the same. Perceiving types prefer to keep things open and flexible. They regard deadlines more as a signal to start rather than complete a project and do not feel that work must be done before play or rest begins.28
+
+Much more than this simple sketch is involved in determining personality types, and many books are available on this topic. In 1998, David Keirsey published Please Understand Me II: Temperament, Character, Intelligence.29 This book includes a test called the Keirsey Temperament Sorter, which is a personality type preference test based on the work of Jung, Myers, and Briggs. The test is easy to take and interpret.
+
+An interesting study of the MBTI types within the general population of the United States and information systems (IS) developers revealed some significant contrasts.30
+
+The two groups of people were most similar in the judgment/perception dimension, with slightly more than half of each group preferring the judgment type (J). There were significant differences, however, in the other three dimensions. Most people would not be surprised to learn that most IS developers are introverts. This study found that 75 percent of IS developers were introverts, and only 25 percent of the general population were introverts. This personality type difference might help explain some of the problems users have communicating with developers. Another sharp contrast found in the study was that almost 80 percent of IS developers were thinking types compared to 50 percent of the general population. IS developers were also much more likely to be intuitive (about 55 percent) than the general population (about 25 percent). These results fit with Keirsey’s classification of NT (Intuitive/Thinking types) people as rationals. Educationally, they tend to study the sciences, enjoy technology as a hobby, and pursue systems work.
+
+Keirsey also suggests that no more than 7 percent of the general population are NTs.
+
+Would you be surprised to know that Bill Gates is classified as a rational?31
+
+Project managers can often benefit from knowing their team members’ MBTI profiles by adjusting their management styles for each person. For example, if the project manager 01356_ch09_hr_373-424.indd 405
+
+5/16/18 12:40 PM
+
+406
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+is a strong N and one of the team members is a strong S, the project manager should provide more concrete, detailed explanations for that person’s task assignments. Project managers may also want to make sure they have a variety of personality types on their teams. For example, if all team members are strong introverts, it may be difficult for them to work well with users and other important stakeholders who are extroverts.
+
+Like any test, you should use the MBTI with caution. Several studies argue that the lack of progress in improving software development teams and other teams is due in part to the inappropriate use of psychological tests and basic misunderstandings of personality theory. “Software engineers often complain about those who, in the course of their work, do some programming in support of their professional activities: the claim being that such individuals are not professionals and do not understand the discipline.
+
+The same can be said of those who adopt psychological approaches without the relevant qualifications and background.”32
+
+the social styles profile
+
+Many organizations also use the Social Styles Profile in team-building activities.
+
+Psychologist David Merril, who helped develop the Wilson Learning Social Styles Profile, describes people as falling into four approximate behavioral profiles, or zones, based on their assertiveness and responsiveness:
+
+• Drivers are proactive and task-oriented. They are firmly rooted in the present, and they strive for action. Adjectives to describe drivers include pushy, severe, tough, dominating, harsh, strong-willed, independent, practical, decisive, and efficient.
+
+• Expressives are proactive and people-oriented. They are future-oriented and use their intuition to look for fresh perspectives on the world around them. Adjectives to describe expressives include manipulating, excitable, undisciplined, reacting, egotistical, ambitious, stimulating, wacky, enthusiastic, dramatic, and friendly.
+
+• Analyticals are reactive and task-oriented. They are past-oriented and strong thinkers. Adjectives to describe analyticals include critical, indecisive, stuffy, picky, moralistic, industrious, persistent, serious, expecting, and orderly.
+
+• Amiables are reactive and people-oriented. They think in terms of the present, past, or future depending on the situation, and they strongly value relationships. Adjectives to describe amiables include conforming, unsure, ingratiating, dependent, awkward, supportive, respectful, willing, dependable, and agreeable.33
+
+Figure 9-9 shows these four social styles and their two main determinants: assertiveness and responsiveness. To determine your level of assertiveness, ask if you are more likely to tell people what to do or ask them what should be done. To determine your responsiveness to tasks, ask whether you focus on the task itself or on the people involved in performing the task.
+
+Knowing the social styles of project stakeholders can help project managers understand why certain people may have problems working together. For example, drivers are often very impatient working with amiables, and analyticals often have difficulties understanding expressives.
+
+01356_ch09_hr_373-424.indd 406
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+407
+
+Task-Directed Responsiveness
+
+Tell-Directed Assertiveness
+
+Analytical
+
+Driver
+
+Amiable
+
+Expressive
+
+Ask-Directed Assertiveness
+
+People-Directed Responsiveness
+
+figure 9-9 Social styles
+
+disc profile
+
+Similar to the Social Styles Profile, the DISC Profile uses a four-dimensional model of normal behavior. The four dimensions—Dominance, Influence, Steadiness, and Compliance—provide the basis for the name DISC. Note that other, similar, terms are sometimes used for some of these letters, such as stability for steadiness or conscientiousness for compliance. The DISC Profile is based on the 1928 work of psychologist William Moulton Marston. The DISC Profile reveals people’s behavioral tendencies under certain situations. For example, it reveals how you tend to behave under stress, in conflict, when communicating, and when avoiding certain activities.
+
+According to www.onlinediscprofile.com, “over 5 million people have taken various forms of the DISC Profile throughout the world. Marston’s original work continues to be enhanced by ongoing behavioral research and profiles can be found in more than 50 languages by various publishers of the disc assessment.”34
+
+Figure 9-10 shows the four dimensions of the DISC Profile model and describes key characteristics of each dimension. Notice that each dimension is also associated with a color and emphasis, such as I, We, You, or It:
+
+• Dominance: Represented by red and emphasizing “I,” dominance traits include being direct, decisive, assertive, outcome-oriented, competitive, self-assured, controlling, and wanting to win.
+
+• Influence: Represented by yellow and emphasizing “We,” influence traits include being persuasive, optimistic, outgoing, verbal, enthusiastic, striving to win others over, and practicing leadership through acclimation.
+
+• Steadiness: Represented by green and emphasizing “You,” steadiness traits include being calm, sincere, cautious, conflict averse, a good listener, and wanting to maintain stability.
+
+01356_ch09_hr_373-424.indd 407
+
+5/16/18 12:40 PM
+
+408
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+It
+
+I
+
+Compliance (Blue)
+
+Dominance (Red)
+
+Data driven, risk averse,
+
+Direct, decisive, assertive,
+
+concerned, works well alone,
+
+outcome oriented, competitive,
+
+prefers processes and procedures,
+
+self assured, takes control, has
+
+not very communicative or social
+
+to win
+
+You
+
+We
+
+Steadiness (Green)
+
+Influence (Yellow)
+
+Calm, sincere, sympathetic,
+
+Persuasive, optimistic,
+
+cooperative, cautious, conflict
+
+outgoing, verbal, enthusiastic,
+
+averse, good listener, wants to
+
+strives to win others over,
+
+maintain stability
+
+leadership through acclimation
+
+figure 9-10 The DISC profile
+
+• Compliance: Represented by blue and emphasizing “It,” compliance traits include being data driven, risk averse, concerned, working well alone, preferring processes and procedures, and not being very communicative or social.
+
+Like the Social Styles Profile, people in opposite quadrants, such as Dominance and Steadiness or Influence and Compliance, can have problems understanding each other.
+
+Many other team-building activities and tests are available. For example, some people take Dr. Meredith Belbin’s test to help determine which of nine team roles they might prefer. Again, professionals should use any team-building or personality tool with caution.
+
+In reality, most professionals must be flexible and do whatever is needed for their teams to succeed. Project managers can use their leadership and coaching skills to help all types of people communicate better with each other and focus on meeting project goals.
+
+reward and recognition systems
+
+Another important tool for promoting team development is the use of team-based reward and recognition systems. If management rewards teamwork, they will promote or reinforce the philosophy that people work more effectively in teams. Some organizations offer bonuses, trips, or other rewards to workers who meet or exceed company or project goals. In a project setting, project managers can recognize and reward people who willingly work overtime to meet an aggressive schedule objective or go out of their way to help a teammate. Project managers should not reward people who work overtime just to get extra pay or because of their own poor work or planning.
+
+Project managers must continually assess their team’s performance. When they find areas in which individuals or the entire team can improve, it’s their job to find the best way to develop their people and improve performance.
+
+01356_ch09_hr_373-424.indd 408
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+409
+
+managing the prOject team
+
+In addition to developing the project team, the project manager must lead it in performing various project activities. (Note that PMI uses the word managing the project team versus leading, so that wording is used here as well.) After assessing team performance and related information, the project manager must decide if changes should be requested to the project, or if updates are needed to enterprise environmental factors, organizational process assets, or the project management plan. Project managers must use their soft skills to find the best way to motivate and manage each team member.
+
+tools and techniques for managing project teams
+
+Several tools and techniques are available to assist in managing project teams, including interpersonal and team skills (i.e. conflict management, decision making, emotional intelligence, influencing, and leadership) and project management information systems. Conflict management is discussed further below, while other topics have already been addressed.
+
+Few projects are completed without conflicts. Some types of conflict are actually desirable on projects, but many are not. It’s important for project managers to understand strategies for handling conflicts and to proactively manage conflict.
+
+Blake and Mouton (1964) delineated five basic modes or strategies for handling conflicts in their popular managerial grid. Each strategy has high, medium, or low importance on two levels: importance of the task or goal (or concern for production), and importance of the relationship between the conflicting parties (concern for people). These modes are shown in Figure 9-11.
+
+Confrontation/
+
+Smoothing/
+
+Problem-solving
+
+High Accommodating
+
+Collaborating
+
+Compromise/
+
+Medium
+
+Reconcile
+
+Relationship Importance
+
+Withdrawal/
+
+Forcing/
+
+Low
+
+Avoidance
+
+Directing
+
+Low
+
+Medium
+
+High
+
+Task Importance
+
+Source: Kathy Schwalbe, An Introduction to Project Management, Sixth Edition (September 2017)
+
+figure 9-11 Conflict handling modes
+
+01356_ch09_hr_373-424.indd 409
+
+5/16/18 12:40 PM
+
+410
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+1. Confrontation: When using the confrontation mode, project managers face a conflict directly using a problem-solving approach that allows affected parties to work through their disagreements. This approach is also called the problem-solving mode or win/win using Covey’s terminology. When the task and relationship are both of high importance, this mode is usually the most effective.
+
+2. Compromise: With the compromise mode, project managers use a give-and-take approach to resolving conflicts. They bargain and search for solutions that bring some degree of satisfaction to all the parties in a dispute. Some people refer to it as reconciliation. This mode works best when both the task and the relationship are of medium importance.
+
+3. Smoothing: When using the smoothing mode, the project manager deemphasizes or avoids areas of differences and emphasizes areas of agreement. This approach is also called accommodating, and it is best used when the relationship is of high importance and the task is of low importance.
+
+4. Forcing: The forcing mode can be viewed as the win/lose approach to conflict resolution. Project managers exert their viewpoint at the potential expense of another viewpoint. Some people refer to it as directing. If the task is of high importance and the relationship is of low importance, this mode can be very effective.
+
+5. Withdrawal: When using the withdrawal mode, project managers retreat or withdraw from an actual or potential disagreement. This approach is also called avoiding, and is normally the least desirable conflict-handling mode, unless the task and the relationship are both of low importance.
+
+More recent studies recognize a sixth conflict-handling mode: 6. Collaborating: Using the collaborating mode, decision makers incorporate different viewpoints and insights to develop consensus and commitment.
+
+Even though managers might not agree on a decision, they commit to following it in the best interests of the organization.
+
+Project managers must also realize that not all conflict is bad. Conflict often produces important results, such as new ideas, better alternatives, and motivation to work harder and more collaboratively. Project team members may become stagnant or develop groupthink—conformance to the values or ethical standards of a group—
+
+if there are no conflicting viewpoints on various aspects of a project. Research by Karen Jehn, Professor of Management at the University of Melbourne, suggests that task-related conflict, which is derived from differences over team objectives and how to achieve them, often improves team performance. Emotional conflict, however, stems from personality clashes and misunderstandings, and often depresses team performance. Project managers should create an environment that encourages and maintains the positive and productive aspects of conflict.35
+
+01356_ch09_hr_373-424.indd 410
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+411
+
+general advice on managing teams
+
+According to Patrick Lencioni, a well-known author and consultant on teams, “Teamwork remains the one sustainable competitive advantage that has been largely untapped . . .
+
+teamwork is almost always lacking within organizations that fail, and often present within those that succeed.”36 However, teamwork is challenging to create, and because teams are subject to dysfunction, maintaining teamwork is equally challenging. The five dysfunctions of teams are as follows:
+
+1. Absence of trust
+
+2. Fear of conflict
+
+3. Lack of commitment
+
+4. Avoidance of accountability
+
+5. Inattention to results
+
+Lencioni’s books provide suggestions for overcoming each of these dysfunctions.
+
+For example, he suggests that team members take the Myers-Briggs Type Indicator, as described earlier in this chapter, to help people open up to each other and build trust. To master conflict, he suggests that teams practice having unfiltered, passionate debates about important issues. To achieve commitment, he stresses the importance of expressing all possible ideas and getting people to agree to disagree, but then having them commit to decisions. To embrace accountability, Lencioni emphasizes the importance of clarifying and focusing on everyone’s top priorities. He also suggests that peer pressure and the distaste for letting down a colleague are often better motivators than authoritative intervention. Finally, using some type of scoreboard to focus on team results helps eliminate ambiguity so everyone knows what it means to achieve positive results.
+
+Additional suggestions for ensuring that teams are productive include the following:
+
+• Be patient and kind with your team. Assume the best about people; do not assume that your team members are lazy and careless.
+
+• Fix the problem instead of blaming people. Help people work out problems by focusing on behaviors.
+
+• Establish regular, effective meetings. Focus on meeting project objectives and producing positive results.
+
+• Allow time for teams to go through Tuckman’s basic team-building stages of forming, storming, norming, performing, and adjourning. Don’t expect teams to work at the highest performance level right away.
+
+• Limit the size of work teams to three to seven members.
+
+• Plan some social activities to help project team members and other stakeholders get to know each other better. Make the social events fun and not mandatory.
+
+• Stress team identity. Create traditions that team members enjoy.
+
+• Nurture team members and encourage them to help each other. Identify and provide training that will help individuals and the team as a whole become more effective.
+
+• Acknowledge individual and group accomplishments.
+
+01356_ch09_hr_373-424.indd 411
+
+5/16/18 12:40 PM
+
+412
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+• Take additional actions to work with virtual team members. If possible, have a face-to-face or phone meeting at the start of a virtual project or when introducing a virtual team member. Screen people carefully to make sure they can work effectively in a virtual environment. Clarify how virtual team members will communicate.
+
+As you can imagine, team development, leadership, and management are critical concerns on many IT projects. To paraphrase Keirsey, many IT project managers must break out of their rational/NT preference and focus on empathically listening to other people to address their concerns and create an environment in which individuals and teams can grow and prosper.
+
+cOntrOLLing resOurces
+
+Controlling resources involves ensuring that the physical resources assigned to the project are available as planned. It also involves monitoring the planned versus actual resources utilization and taking corrective actions as needed. Making effective use of team members is addressed under the Manage Team process. Tools and techniques include data analysis, problem solving, interpersonal and team skills, and project management information systems. Key outputs include work performance information, change requests, project management plan updates, and project documents updates.
+
+using sOftWare tO assist in resOurce management
+
+Earlier in this chapter, you read that a simple responsibility assignment matrix or resource histograms are useful tools that can help you effectively manage resources on projects. You can use several different software packages, including spreadsheets or project management software such as Microsoft Project 2016, to create matrixes and histograms. Many people do not realize that Project 2016 provides a variety of resource management tools, some of which include assigning and tracking resources, resource leveling, resource usage reports, overallocated resource reports, and to-do lists. You can learn how to use many of these functions and features in Appendix A (available on the Companion website for this text).
+
+You can use Project 2016 to assign resources such as equipment, materials, facilities, and people to tasks. It enables you to allocate individual resources to individual projects or to pool resources and share them across multiple projects. By defining and assigning resources in Project 2016, you can
+
+• keep track of resources through stored information and reports on resource assignments;
+
+• identify potential resource shortages that could cause a project to miss scheduled deadlines and possibly extend the duration of a project;
+
+• identify underutilized resources and reassign them, which may enable you to shorten a project’s schedule and reduce costs; and
+
+• use automated leveling to make level resources easier to manage.
+
+01356_ch09_hr_373-424.indd 412
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+413
+
+cOnsideratiOns fOr agiLe/adaptive envirOnments
+
+The PMBOK® Guide – Sixth Edition provides the following information for project resource management:
+
+Projects with high variability benefit from team structures that maximize focus and collaboration, such as self-organizing teams with generalizing specialists.
+
+Collaboration is intended to boost productivity and facilitate innovative problem solving. Collaborative teams may facilitate accelerated integration of distinct work activities, improve communication, increase knowledge sharing, and provide flexibility of work assignments in addition to other advantages.
+
+Although the benefits of collaboration also apply to other project environments, collaborative teams are often critical to the success of projects with a high degree of variability and rapid changes, because there is less time for centralized tasking and decision making.
+
+Planning for physical and human resources is much less predictable in projects with high variability. In these environments, agreements for fast supply and lean methods are critical to controlling costs and achieving the schedule.37
+
+Teams are important on all types of projects, as is collaboration, problem solving, and knowledge sharing. On agile projects, however, team members are usually fully dedicated to a single team. Relationships are based on trust, and collaboration is continuously improved using regular feedback loops. Each delivery of usable product at the end of a sprint, for example, reduces uncertainty and builds team confidence. Another difference with agile teams is that some do not use project managers. They might be self-directing teams, or they might use a Scrum master.
+
+Daily standup meetings are designed to increase the frequency of interaction among project team members, while making these frequent meetings as short as possible and focused on the topic at hand. The co-location of users with development teams is an important form of social needs satisfaction. Communication between the development team and user group is likely to be too little and needs to be encouraged by co-location.
+
+In addition to human resources, physical resources should be managed in an adaptive way. Prototypes, simulations, feasibility studies, and other means of reducing risk are ways to determine what resources work for the given purpose and how best to use them.
+
+This approach requires organizing the work into chunks of work that can be identified with specific resources and costs and implementing them in an order that makes sense as the deliverables take shape within the overall project.
+
+Project resource management involves much more than using software to assess and track resource loading and to level resources. People are the most important asset on most projects, and human resources are very different from other resources. You cannot simply replace people in the same way that you replace a piece of equipment. It is essential to treat people with consideration and respect, to understand what motivates them, and to communicate carefully with them. What makes good project managers great is not their use of tools, but their ability to enable project team members to deliver their best work on a project.
+
+01356_ch09_hr_373-424.indd 413
+
+5/16/18 12:40 PM
+
+414
+
+
+
+* * *
+
+
+
+
+
+Chapter 9
+
+
+c a s e W r a p - u p
+
+After Sarah yelled back at Ben, he said, “You’re the first person who’s had the guts to stand up to me.” After that brief introduction, Sarah, Ben, and the other meeting participants had a good discussion about what was happening on the F-44 upgrade project. Sarah was able to write a justification to get Ben’s group special software and support to download key information from the old system so they could manage their project better. When Sarah stood nose to nose with Ben and yelled at him, she used a technique for establishing rapport called mirroring. Although Sarah was not a loud and obnoxious person, she saw that Ben was and decided to mirror his behavior and attitude.
+
+She put herself in his shoes for a while, which helped break the ice so Sarah, Ben, and the other people at the meeting could start communicating and working together as a team to solve their problems.
+
+01356_ch09_hr_373-424.indd 414
+
+5/16/18 12:40 PM
+
+Project Resource Management
+
+415
+
+
+
+* * *
+Chapter 9 - Chapter Summary start
+
+People are the most important assets in organizations and on projects. Therefore, it is essential for project managers to be good human resource managers. They must also make effective use of physical resources.
+
+The major processes of project resource management include planning resources, estimating activity resources, acquiring resources, developing the team, managing the team, and controlling resources.
+
+Psychosocial issues that affect how people work and how well they work include motivation, influence and power, and effectiveness.
+
+Maslow developed a hierarchy of needs that suggests physiological, safety, social, esteem, and self-actualization needs motivate behavior. Once a need is satisfied, it no longer serves as a motivator.
+
+Herzberg distinguished between motivators and hygiene factors. Hygiene factors such as larger salaries or a more attractive work environment will cause dissatisfaction if not present, but do not motivate workers to do more if present. Achievement, recognition, the work itself, responsibility, and growth are factors that contribute to work satisfaction and motivating workers.
+
+McClelland proposed the acquired-needs theory, suggesting that a person’s needs are acquired or learned over time and shaped by their life experiences. The three types of acquired needs are a need for achievement, a need for affiliation, and a need for power.
+
+McGregor developed Theory X and Theory Y to describe different approaches to managing workers, based on assumptions of worker motivation. Research supports the use of Theory Y, which assumes that people see work as natural and indicates that the most significant rewards are the satisfaction of esteem and self-actualization needs that work can provide. According to Ouchi’s Theory Z, workers can be trusted to do their jobs to their utmost ability as long as management supports them and looks out for their well-being. Theory Z emphasizes job rotation, broadening of skills, generalization versus specialization, and the need for continuous training of workers.
+
+Thamhain and Wilemon identified nine influence bases available to project managers: authority, assignment, budget, promotion, money, penalty, work challenge, expertise, and friendship. Their research found that project success is associated with project managers who use work challenge and expertise to influence workers. Project failure is associated with placing too much emphasis on authority, money, or penalty.
+
+Power is the ability to influence behavior to get people to do things they would not otherwise do. The five main types of power are coercive power, legitimate power, expert power, reward power, and referent power.
+
+Project managers can use Stephen Covey’s seven habits of highly effective people to help themselves and project teams become more effective. The seven habits include being proactive; beginning with the end in mind; putting first things first; thinking win/win; seeking first to understand, then to be understood; achieving synergy; and sharpening the saw. Using empathic listening is a key skill of good project managers.
+
+Emotional intelligence is also an important concept. It involves knowing and managing one’s own emotions and those of others for improved performance.
+
+Chapter 9 - Chapter Summary end
+
+
+* * *

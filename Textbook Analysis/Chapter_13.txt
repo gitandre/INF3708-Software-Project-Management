@@ -1,0 +1,1128 @@
+Opening case
+
+Debra Hughes took the risk of becoming an independent consultant after working her way up the corporate ladder for 10 years. Her last firm was downsizing and cut her entire strategic IT consulting department, but the firm offered her a transfer that would require her to travel about 80 percent of the time. With two small children, she did not want to travel, so she jumped at the chance to work independently. One of her colleagues knew an IT director at a local oil company, and he offered her a contract that paid three times what she received as an employee. The problem was that the initial contract was only for two weeks. However, after she proved her value by successfully managing the first project, the company kept her on, giving her bigger and bigger projects to manage. Her current project was to evaluate and then implement a project management software solution so the new VP of Operations, Stephen, could oversee the upgrade of oil refineries in several countries. The refinery upgrades were estimated to cost over $200 million.
+
+Debra worked with an internal analyst, Ryan, and Stephen to determine requirements and their approach to choosing a new software solution. They needed to award a contract to a supplier within two months and then integrate the new system with their other systems, especially the accounting systems, as quickly as possible.
+
+Unfortunately, Chien, the IT director who hired Debra and authorized her paycheck every week, was very upset with her recommendation. He called her into his office and started yelling at her. “How could you make this recommendation? You know it goes against what I think is best for IT at this company. Ryan made a totally different recommendation than you did. You consultants think you can come in and shake things up, not worrying about what happens to us after you’re gone. Get out of here before I say something I shouldn’t!” Debra quietly left Chien’s office, worrying about what to do next.
+
+She knew that her recommendation would please Stephen and be in the best interest of the entire company, even though it was not the choice that Chien and Ryan were promoting.
+
+the impOrtance Of prOject stakehOLder management
+
+As you learned in Chapter 1, stakeholders are an important part of the project management framework. Stakeholders request projects, approve them, reject them, support them, and oppose them. Because stakeholder management is so important to project success, the Project Management Institute decided to create an entire knowledge area devoted to it in 2013. Many of the concepts related to communications and resource management also apply to stakeholder management, but unique activities are required to perform good stakeholder management. The purpose of project stakeholder management is to identify all people or organizations affected by a project, to analyze stakeholder expectations, and to effectively engage stakeholders in project decisions throughout the life of a project. Project managers and their teams must have a good dialogue with stakeholders and address issues as they occur to ensure stakeholder satisfaction.
+
+Projects often cause changes in organizations, and some people may lose their jobs when a project is completed. For example, a project might create a new system that makes some jobs obsolete, or a project might result in outsourcing work to an external 01356_ch13_hr_539-560.indd 540
+
+5/14/18 6:02 PM
+
+Project Stakeholder Management
+
+541
+
+group to make the organization more efficient. The project managers might be viewed as enemies by these stakeholders and other negatively affected stakeholders. By contrast, some people may view project managers as allies if they lead a project that increases profits, produces new jobs, or increases pay for certain stakeholders. In any case, project managers must learn to identify, understand, and work with a variety of stakeholders.
+
+W h a t W e n t W r O n g ?
+
+Changing the way work is done can send a shock wave through an organization, leaving many people afraid and even thinking about ways to stop or sabotage a project. Donald White, founder and program manager at Defense Systems Leaders in Washington, D.C., described situations that can lead to project sabotage:
+
+• Buy-in blues: Top-down support and early buy-in for projects is crucial. Allowing negativity to fester will decrease the likelihood of project success. Deal with protesters early.
+
+• Short-term profits: Cutting costs by any means possible for immediate payoff will sacrifice the future health of an organization and its employees. Avoid projects that focus only on the short term.
+
+• Overachieving: Trying to do too many things at the same time introduces waste and significantly slows down progress. Focus on the most important projects first.
+
+• Lack of respect: “Disrespect people, and they will retaliate with apathy, bore-dom, absenteeism, make-work [performing tasks of little importance to keep busy], outright sabotage and other maladies. Disrespect customers, and they’ll find someone who will treat them better.”1
+
+The four processes in project stakeholder management include the following: 1. Identifying stakeholders involves identifying everyone involved in the project or affected by it and determining the best ways to manage relationships with them. The main output of this process is a stakeholder register.
+
+2. Planning stakeholder engagement involves determining strategies to effectively engage stakeholders in project decisions and activities based on their needs, interests, and potential impact. The output of this process is a stakeholder engagement plan.
+
+3. Managing stakeholder engagement involves communicating and working with project stakeholders to satisfy their needs and expectations, resolving issues, and fostering engagement in project decisions and activities. The outputs of this process change requests, project management plan updates, and project documents updates.
+
+4. Monitoring stakeholder engagement involves monitoring stakeholder relationships and adjusting plans and strategies for engaging stakeholders as needed. Outputs of this process are work performance information, change requests, project management plan updates, and project documents updates.
+
+01356_ch13_hr_539-560.indd 541
+
+5/14/18 6:02 PM
+
+542
+
+
+
+* * *
+
+
+
+
+
+Chapter 13
+
+
+Project Stakeholder
+
+
+Management Overview
+
+13.1 Identify
+
+13.2 Plan Stakeholder
+
+13.3 Manage Stakeholder
+
+13.4 Monitor Stakeholder
+
+Stakeholders
+
+Engagement
+
+Engagement
+
+Engagement
+
+.1 Inputs
+
+.1 Inputs
+
+.1 Inputs
+
+.1 Inputs
+
+.1 Project charter
+
+.1 Project charter
+
+.1 Project management plan
+
+.1 Project management plan
+
+.2 Business documents
+
+.2 Project management plan
+
+.2 Project documents
+
+.2 Project documents
+
+.3 Project management plan
+
+.3 Project documents
+
+.3 Enterprise environmental
+
+.3 Work performance data
+
+.4 Project documents
+
+.4 Agreements
+
+factors
+
+.4 Enterprise environmental
+
+.5 Agreements
+
+.5 Enterprise environmental
+
+.4 Organizational process
+
+factors
+
+.6 Enterprise environmental
+
+factors
+
+assets
+
+.5 Organizational process
+
+factors
+
+.6 Organizational process
+
+.2 Tools & Techniques
+
+assets
+
+.7 Organizational process
+
+assets
+
+.1 Expert judgment
+
+.2 Tools & Techniques
+
+assets
+
+.2 Tools & Techniques
+
+.2 Communication skills
+
+.1 Data analysis
+
+.2 Tools & Techniques
+
+.1 Expert judgment
+
+.3 Interpersonal and team
+
+.2 Decision making
+
+.1 Expert judgment
+
+.2 Data gathering
+
+skills
+
+.3 Data representation
+
+.2 Data gathering
+
+.3 Data analysis
+
+.4 Ground rules
+
+.4 Communication skills
+
+.3 Data analysis
+
+.4 Decision making
+
+.5 Meetings
+
+.5 Interpersonal and team
+
+.4 Data representation
+
+.5 Data representation
+
+.3 Outputs
+
+skills
+
+.5 Meetings
+
+.6 Meetings
+
+.1 Change requests
+
+.6 Meetings
+
+.3 Outputs
+
+.3 Outputs
+
+.2 Project management
+
+.3 Outputs
+
+.1 Stakeholder register
+
+.1 Stakeholder engagement
+
+plan updates
+
+.1 Work performance
+
+.2 Change requests
+
+plan
+
+.3 Project documents
+
+information
+
+.3 Project management
+
+updates
+
+.2 Change requests
+
+plan updates
+
+.3 Project management
+
+.4 Project documents
+
+plan updates
+
+updates
+
+.4 Project documents
+
+updates
+
+Source: PMBOK® Guide – Sixth Edition. Project Management Institute, Inc. (2017). Copyright and all rights reserved. Material from this publication has been reproduced with permission of PMI.
+
+figure 13-1 Project stakeholder management overview Figure 13-1 summarizes the inputs, tools and techniques, and outputs of project stakeholder management.
+
+identifying stakehOLders
+
+Recall from Chapter 1 that stakeholders are the people involved in project activities or affected by them. The PMBOK® Guide – Sixth Edition, describes an emerging trend as follows: “Broader definitions of stakeholders are being developed that expand the traditional categories of employees, suppliers, and shareholders to include groups such as regulators, lobby groups, environmentalists, financial organizations, the media, and those who simply believe they are stakeholders—they perceive that they will be affected by the work or outcomes of the project.”2 Stakeholders can be internal to the organization or external.
+
+• Internal project stakeholders generally include the project sponsor, project team, support staff, and internal customers for the project. Other internal stakeholders include top management, other functional managers, and other project managers because organizations have limited resources.
+
+• External project stakeholders include the project’s customers (if they are external to the organization), competitors, suppliers, and other external groups that are potentially involved in the project or affected by it, such as government officials and concerned citizens.
+
+01356_ch13_hr_539-560.indd 542
+
+5/14/18 6:02 PM
+
+Project Stakeholder Management
+
+543
+
+Peter Gilliland, a project management tutor and skills coach in the United Kingdom, offers an even more detailed list of potential stakeholders for a project:
+
+• Program director
+
+• Program manager
+
+• Project manager
+
+• Project manager’s family
+
+• Sponsor
+
+• Customer
+
+• Performing organization
+
+• Other employees of the organization
+
+• Labor unions
+
+• Project team members
+
+• Project management office
+
+• Governance board
+
+• Suppliers
+
+• Governmental regulatory agencies
+
+• Competitors
+
+• Potential customers with an interest in the project
+
+• Groups representing consumer, environmental, or other interests
+
+• Groups or individuals who are competing for limited resources
+
+• Groups or individuals who are pursuing goals that conflict with those of the project3
+
+Recall that the ultimate goal of project management is to meet or exceed stakeholder needs and expectations for a project. To do that, you must first identify your particular project stakeholders. Identifying some stakeholders is obvious, but others might be more difficult to identify. For example, some competitors outside the organization or even inside it might be opposed to the project without the project manager’s knowledge.
+
+Stakeholders also might change during a project due to employee turnover, partnerships, and other events. It is important to use formal and informal communications networks to make sure that all key stakeholders are identified.
+
+It is also necessary to focus on stakeholders with the most direct ties to the project. For example, if you listed every single supplier for goods and services used on a project, you would be wasting precious time and resources. If a supplier is just providing an off-the-shelf product, it should need little if any attention. However, if a supplier is providing a customized product or service that is critical to the project’s success, the supplier deserves much more attention.
+
+A simple way to document basic information on project stakeholders is by creating a stakeholder register. This document can take various forms and include the following information:
+
+• Identification information: The stakeholders’ names, positions, locations, roles in the project, and contact information
+
+• Assessment information: The stakeholders’ major requirements and expectations, potential influences, and phases of the project in which stakeholders have the most interest
+
+• Stakeholder classification: Is the stakeholder internal or external to the organization? Is the stakeholder a supporter of the project or resistant to it?
+
+01356_ch13_hr_539-560.indd 543
+
+5/14/18 6:02 PM
+
+544
+
+
+
+* * *
+
+
+
+
+
+Chapter 13
+
+
+Table 13-1 provides an example of part of the stakeholder register for the project described in the chapter’s opening case. Notice that it includes only basic stakeholder information, such as name, position, whether stakeholders are internal or external to the organization, their role on the project, and contact information. Because this document is available to other people in the organization, the project manager must be careful not to include sensitive information, such as how strongly the stakeholders support the project or how much power they have. Also notice that some stakeholders, such as the project manager’s husband and children, are not included on this list, even though they are important stakeholders to Debra!
+
+A stakeholder analysis is a technique for analyzing information to determine which stakeholders’ interests to focus on and how to increase stakeholder support throughout the project. After identifying key project stakeholders, you can use different classification models to determine an approach for managing stakeholder relationships. Be careful to control access to this often sensitive information. For example, you can create a power/interest grid to group stakeholders based on their level of authority (power) and their level of concern (interest) for project outcomes, as shown in Figure 13-2. You should manage relationships very closely with stakeholders 1 and 2
+
+in this example because they have high interest and high power, especially stakeholder 1.
+
+You should keep stakeholders 3 and 4 informed because they have high interest but low power. Stakeholders 5 and 6 should be kept satisfied, perhaps by brief updates on the project, because they have low interest but high power. You should spend the least amount of effort by simply monitoring stakeholders 7 and 8, who both have low interest and low power.
+
+tabLe 13-1 Sample stakeholder register
+
+internal/
+
+name
+
+position
+
+external
+
+project role
+
+contact information
+
+Stephen
+
+VP of Operations
+
+Internal
+
+Project sponsor
+
+stephen@globaloil.com
+
+Betsy
+
+CFO
+
+Internal
+
+Senior manager,
+
+betsy@globaloil.com
+
+approves funds
+
+Chien
+
+CIO
+
+Internal
+
+Senior manager,
+
+chien@globaloil.com
+
+PM’s boss
+
+Ryan
+
+IT analyst
+
+Internal
+
+Team member
+
+ryan@globaloil.com
+
+Lori
+
+Director, Accounting Internal
+
+Senior manager
+
+lori@globaloil.com
+
+Sanjay
+
+Director, Refineries
+
+Internal
+
+Senior manager
+
+sanjay@globaloil.com
+
+of largest refinery
+
+Debra
+
+Consultant
+
+External Project manager
+
+debra@gmail.com
+
+Suppliers Suppliers
+
+External Supply software
+
+suppliers@gmail.com
+
+01356_ch13_hr_539-560.indd 544
+
+5/14/18 6:02 PM
+
+Project Stakeholder Management
+
+545
+
+High
+
+1
+
+5
+
+Low interest/high power High interest/high power
+
+Keep satisfied
+
+Manage closely
+
+2
+
+6
+
+Power
+
+3
+
+7
+
+Low interest/low power High interest/low power
+
+Monitor
+
+Keep informed
+
+8
+
+4
+
+Low
+
+Low
+
+Interest
+
+High
+
+Source: Kathy Schwalbe, An Introduction to Project Management, Fourth Edition (2012)
+
+figure 13-2 Power/interest grid
+
+It is also important to measure the engagement level of stakeholders throughout the project. You can categorize stakeholders as being one of the following:
+
+• Unaware: Unaware of the project and its potential impacts on them
+
+• Resistant: Aware of the project yet resistant to change
+
+• Neutral: Aware of the project yet neither supportive nor resistant
+
+• Supportive: Aware of the project and supportive of change
+
+• Leading: Aware of the project and its potential impacts and actively engaged in helping it succeed
+
+The project team should take corrective action if stakeholders with high interest and high power are also categorized as resistant or unaware. If they are unaware, setting up a short meeting to discuss the importance of the project would be appropriate. The project manager could ask the project sponsor or another senior manager to participate in the meeting. If stakeholders are resistant to the project, you would definitely want a senior-level manager to talk to them directly to understand the reasons for their resistance and develop a strategy to handle potential conflicts. Another common problem with stakeholders, especially project sponsors, is that they support a project but have unreasonable expectations. It can be difficult to say “no” to them, as described in the What Went Right? feature.
+
+01356_ch13_hr_539-560.indd 545
+
+5/14/18 6:02 PM
+
+546
+
+
+
+* * *
+
+
+
+
+
+Chapter 13
+
+
+W h a t W e n t r i g h t ?
+
+Instead of just saying “no” when your project sponsor asks for something unreasonable, it is better to explain what is wrong with the request and then present a realistic way to solve the problem at hand. For example, Christa Ferguson, a PMP® and independent program manager in San Francisco, described how she handled a request from a project sponsor to deliver a new tablet device in two months when she knew she would need more time. Based on her experience, she knew the Request for Quote for the effort alone would take almost a month. Christa quickly researched the facts to propose a realistic delivery schedule.
+
+“I created a timeline for the request for quotation and requested the companies quoting the job to include a breakdown of the work required with a high-level schedule.
+
+Then we could see the project was going to take at least six months to complete. By creating a factual, data-driven picture of the situation, I didn’t have to explain anything other than what work had to be done and how long it would take. Our sponsor reset expectations once he learned what it took to produce the tablets.”4
+
+pLanning stakehOLder engagement
+
+After identifying and analyzing stakeholders, the project manager and team should develop a stakeholder engagement plan to help them effectively engage stakeholders and make sure that good decisions are made throughout the life of the project. This plan may be formal or informal, based on the needs of the project.
+
+In addition to information found in the stakeholder register, such as stakeholder identification information, assessment information, and classification, a stakeholder engagement plan can include the following:
+
+• Current and desired engagement levels: If these levels are not the same, the project team should develop a strategy to align engagement levels.
+
+• Interrelationships between stakeholders: As you learned in earlier chapters, there are many interrelationships between project activities and stakeholders. The project manager must be in tune with the politics of the organization.
+
+• Communication requirements: The communications management plan should specify stakeholder requirements, and the stakeholder register can expand on unique requests from specific people.
+
+• Potential management strategies for each stakeholder: This critical section can contain very sensitive information.
+
+• Methods for updating the stakeholder management plan: All plans need some process for handling changes and updates. Flexibility would be important as stakeholders change on the project.
+
+Because a stakeholder management plan often includes sensitive information, it should not be part of the official project documents, which are normally available for all stakeholders to review. In many cases, only project managers and a few other team 01356_ch13_hr_539-560.indd 546
+
+5/14/18 6:02 PM
+
+Project Stakeholder Management
+
+547
+
+members should prepare the stakeholder management plan. In many cases, parts of the stakeholder management plan are not written down, and if they are, distribution is strictly limited.5
+
+Table 13-2 provides an example of parts of a stakeholder management plan that Debra could use to help manage project stakeholders in this chapter’s opening case. It is important for project managers to take the time to develop this plan, which helps them meet stakeholder needs and expectations. In addition, as new stakeholders are added to tabLe 13-2 Sample stakeholder analysis
+
+current
+
+name
+
+power/interest
+
+engagement
+
+potential management strategies
+
+Stephen
+
+High/high
+
+Leading
+
+Stephen can seem intimidating due to his
+
+physical stature and deep voice, but he has
+
+a great personality and sense of humor. He
+
+previously led a similar refinery upgrade
+
+program at another company and knows
+
+what he wants. Manage closely and ask for
+
+his advice as needed. He likes short, frequent updates in person.
+
+Chien
+
+High/medium
+
+Resistant
+
+Chien is a very organized yet hardheaded
+
+man. He has been pushing corporate IT
+
+standards, and the system the PM and
+
+sponsor (Debra and Stephen) like best
+
+goes against those standards, even though
+
+it’s the best solution for this project and
+
+the company as a whole. Need to convince
+
+him that this is okay and that people still
+
+respect his work and position.
+
+Ryan
+
+Medium/high
+
+Supportive
+
+Ryan has been with the company for several
+
+years and is well respected, but he feels
+
+threatened by Debra. He also resents her
+
+getting paid more than he does. He wants to
+
+please his boss, Chien, first and foremost.
+
+Need to convince him that the suggested
+
+solution is in everyone’s best interest.
+
+Betsy
+
+High/low
+
+Neutral
+
+Very professional, logical person. Gets
+
+along well with Chien. She has supported
+
+Debra in approving past projects with
+
+strong business cases. Provide detailed
+
+financial justification for the suggested
+
+solution to keep her satisfied. Also ask her
+
+to talk to Chien on Debra’s behalf.
+
+01356_ch13_hr_539-560.indd 547
+
+5/14/18 6:02 PM
+
+548
+
+
+
+* * *
+
+
+
+
+
+Chapter 13
+
+
+the project and more information is provided, the plan should be updated. For example, once a supplier is selected for a project, specific supplier names and other information can be added to the list.
+
+managing stakehOLder engagement
+
+Project managers must understand and work with various stakeholders; therefore, they should specifically address how to use various communications methods and their interpersonal and management skills to engage stakeholders. Recall that project success is often measured in different ways, such as meeting scope, time, and cost goals. Many practitioners, however, define project success as satisfying the customer or sponsor, knowing that it’s rare to meet scope, time, and cost goals without modifying at least one goal.
+
+Project sponsors can usually rank scope, time, and cost goals in order of importance and provide guidelines on how to balance the triple constraint. This ranking can be shown in an expectations management matrix, which can help clarify expectations. For example, Table 13-3 shows part of an expectations management matrix that Debra could use to help manage key stakeholders from the chapter’s opening case. The expectations management matrix includes a list of measures of success as well as priorities, expectations, and guidelines related to each measure. You could add other measures of success, such as meeting quality expectations, achieving a certain customer satisfaction rating, and meeting ROI projections after the project is completed, to meet individual project needs. The challenge comes when key stakeholders disagree on priorities. For example, Stephen wants a system that will meet his requirements, so scope is most important to him. Chien wants to enforce corporate standards, so technology/standards are most important to him. Project managers must acknowledge these different priorities and make the tough decisions about what to do. In this example, Debra believes that Stephen’s priorities are most important to the company as a whole, even though it might hurt her relationship with Chien.
+
+Understanding the stakeholders’ expectations can help in managing issues. If the project manager knows that cost is not as high a priority as the schedule, it shouldn’t be difficult to ask the project sponsor for needed funds, as long as the request makes sense.
+
+Issues should be documented in an issue log, a tool used to document, monitor, and track issues that need resolution. Unresolved issues can be a major source of conflict and result in stakeholder expectations not being met. Note that PMI lists issue logs as an output of Project Integration Management, and updating it (one of several project documents updates) is an important output of Project Stakeholder Management. Issues can also be updated in other knowledge areas. For example, issues can be documented for requirements, procurement, staffing, and other areas, but stakeholders must be informed about these issues and engaged in the process of addressing them.
+
+Table 13-4 provides a sample issue log that Debra could use to help document and manage issues on her project. The issue log includes columns for the issue number, the issue description, the impact of the issue on the project, the date the issue was reported, who reported the issue, the person assigned to resolve the issue, the priority of the issue (high, medium, or low), the due date for reporting back on the issue, the status of the issue, and comments related to the issue. Some project management software includes the ability to track issues, or a simple spreadsheet can be used. Many project managers sort issues by priority and focus on resolving the high-priority issues first.
+
+01356_ch13_hr_539-560.indd 548
+
+5/14/18 6:02 PM
+
+Project Stakeholder Management
+
+549
+
+tabLe 13-3 Expectations management matrix
+
+measure of
+
+success
+
+priority
+
+expectations
+
+guidelines
+
+Scope
+
+1
+
+The scope statement
+
+Focus on meeting mandatory
+
+clearly defines mandatory
+
+requirements before consider—
+
+requirements and optional
+
+ing optional ones. In this case,
+
+requirements.
+
+following corporate IT standards is optional.
+
+Time
+
+1
+
+There is little give in the
+
+The project sponsor must be
+
+project completion date.
+
+alerted if any issues might
+
+The schedule is very
+
+affect meeting schedule goals.
+
+realistic.
+
+Cost
+
+3
+
+This project is crucial to
+
+There are strict rules for proj—
+
+the organization. If you can ect expenditures and escala-clearly justify the need for
+
+tion procedures. Cost is very
+
+more funds, they can be
+
+important, but it takes a back
+
+made available.
+
+seat to meeting schedule and
+
+then scope goals.
+
+Technology/
+
+2
+
+There are several potential
+
+While corporate IT standards
+
+standards
+
+solutions available, but
+
+are important, an exception
+
+only one that meets all
+
+makes sense in this case.
+
+of the sponsor’s technical
+
+requirements, especially for
+
+accounting.
+
+tabLe 13-4 Sample issue log
+
+date
+
+reported assigned priority due
+
+issue # description
+
+impact
+
+reported by
+
+to
+
+(h/m/L) date
+
+status comments
+
+1
+
+Need
+
+Cannot
+
+Feb. 4
+
+Ryan
+
+Stephen
+
+H
+
+Feb. 8
+
+Closed Require—
+
+requirements do much
+
+ments clearly
+
+categorized
+
+without it
+
+labeled
+
+as mandatory and
+
+optional
+
+2
+
+Need shorter Will delay Feb. 6
+
+Debra
+
+Ryan
+
+H
+
+Feb. 12 Open
+
+Almost fin—
+
+list of poten-evaluation
+
+ished; needed
+
+tial suppliers without it
+
+requirements
+
+—no more
+
+categorized
+
+than 10
+
+first
+
+Etc.
+
+01356_ch13_hr_539-560.indd 549
+
+5/14/18 6:02 PM
+
+550
+
+
+
+* * *
+
+
+
+
+
+Chapter 13
+
+
+Other outputs of managing stakeholder engagement include change requests and updates to the project management plan and other project documents. For example, after Stephen clarified which requirements were mandatory for the project management system needed to upgrade the oil refineries, it would probably affect which suppliers would meet the criteria for potential selection. If the project included visiting potential suppliers, the schedule and cost might be affected depending on the location of the top suppliers.
+
+In addition, Debra might be able to use these mandatory requirements to argue for using nonstandard technology when talking to Chien. Debra would still need to address this issue carefully with him, and she could benefit from using some of the ideas described in the following Best Practice feature.
+
+b e s t p r a c t i c e
+
+Project managers are often faced with challenges, especially in managing stakeholders.
+
+Sometimes they simply cannot meet requests from important stakeholders. Suggestions for handling these situations include the following:
+
+• Be clear from the start. Project managers should emphasize the importance of their projects to the entire organization. For example, in the chapter’s opening case, the company had to upgrade several oil refineries to stay in business.
+
+IT standards are important, but when a powerful new VP is hired and wants software with specific requirements to get an important job done, you have to consider all options.
+
+• Explain the consequences. Project managers have to be able to explain the consequences of various decisions. Senior managers may not like a decision, but if you present the logic behind it, they are more open to accepting it.
+
+• Have a contingency plan. There are many forms of contingency plans. If a project manager cannot reason with an important stakeholder, a more senior person might be asked to help, for example. In extreme cases, project managers might even move on to other jobs if they feel their work is not appreciated.
+
+• Avoid surprises. It is much better to be honest about project challenges so that actions can be taken. One of the worst situations project managers face is telling sponsors something cannot be done after assuring them that it could.
+
+• Take a stand. Project managers do make a difference in leading their projects, and part of the job is acknowledging the need for a change in course. “If you don’t step it up and say, ‘We cannot get this done and this is the way it is,’ then what are you there for? . . . If a sponsor wants a good, seasoned project manager, that’s what you must do.”6
+
+mOnitOring stakehOLder engagement
+
+You cannot control stakeholders, but you can monitor their level of engagement. Engagement involves a dialogue in which people seek understanding and solutions to issues of mutual concern. Many teachers are familiar with various techniques for engaging students.
+
+01356_ch13_hr_539-560.indd 550
+
+5/14/18 6:02 PM
+
+Project Stakeholder Management
+
+551
+
+It is important to set the proper tone at the start of a class or a project. For example, if a teacher does nothing but lecture on the first day of class or criticizes the first student who offers a comment, students will quickly decide that their best strategy is to keep quiet and maybe not even attend class. On the other hand, if the teacher uses a lot of activities to get all students to speak or use technology to participate, students will expect to be active participants in future classes.
+
+Just like teachers, project managers need to set the stage for engaging project stakeholders early in the project. For example, key stakeholders should be invited to actively participate in a kick-off meeting rather than merely attend it. The project manager should emphasize that a dialogue is expected at the meeting, using whatever means of communication the stakeholders prefer. It is also helpful for the project manager to meet with important stakeholders before the kick-off meeting.
+
+The project schedule should include activities and deliverables related to stakeholder engagement. Surveys, reviews, demonstrations, sign-offs, and other items require stakeholder engagement.
+
+On some IT projects, important stakeholders are invited to be members of the project teams. For example, when Northwest Airlines (now Delta) was developing m e d i a s n a p s h O t
+
+Many students today like to interact via text messages. Parents and teachers have adopted this means of communication as well, especially with young people. Ellen DeGeneres, a popular comedian with her own television show, likes to poke fun at text messages in a segment based on amusing errors caused by cell phone auto-correct features. For example, a father had the following text exchange with his daughter: Message
+
+New Messages
+
+Edit
+
+“Your mom and I are going to divorce next month.”
+
+“What??? Why??? Call me please!”
+
+“I wrote Disney and this phone changed it.
+
+We are going to Disney.”
+
+Message
+
+Send
+
+( continued)
+
+01356_ch13_hr_539-560.indd 551
+
+5/14/18 6:02 PM
+
+552
+
+
+
+* * *
+
+
+
+
+
+Chapter 13
+
+
+In addition to watching out for auto-correct errors when messaging, users must also be careful who they reply to and what they say in reply. The following example comes from an actual college student who forgot about an exam. The professor called the student’s cell phone shortly after the exam started. Her policy was to assign a grade of zero if students did not show up without a valid excuse. The student did not answer the phone call, but he sent the following texts:
+
+Message
+
+New Messages
+
+Edit
+
+Student: “Who is this?”
+
+Professor: “Where are you?”
+
+Student: “In class. Who is this?”
+
+Professor: “Did you drop MIS101? Professor Smith”
+
+Student: “No. I had to give my sister’s fiancé a ride to the veteran’s hospital because he doesn’t have a car and my sister was at work.”
+
+Professor: “You are missing exam 1 right now.”
+
+Student: “Okay. Is it possible to do it during your office hours?”
+
+Professor: “No. Now.”
+
+Message
+
+Send
+
+The professor was surprised when the student walked into her classroom a few seconds later. Apparently he was down the hall working on a campus computer. Even though he lied twice (about being in class and about taking someone to the hospital), the professor let him take the exam and tried not to give him a hard time about his lies. The student was on time for future exams.
+
+a new reservation system called ResNet, it interviewed reservation agents for positions as programmers on the project team. Northwest made sure that user needs were understood by having them actually develop the system’s user interface. See the Companion website for detailed information about how the ResNet team engaged with users.
+
+01356_ch13_hr_539-560.indd 552
+
+5/14/18 6:02 PM
+
+Project Stakeholder Management
+
+553
+
+using sOftWare tO assist in prOject stakehOLder
+
+management
+
+As in the other knowledge areas, software can also assist in project stakeholder management. Productivity software like word processors, spreadsheets, and presentation software can aid in creating various documents related to stakeholder management. Communications software like e-mail, blogs, websites, texts, and tweets can aid in stakeholder communications. Collaboration tools like Google docs, wikis, and virtual meeting software can also promote stakeholder engagement in projects.
+
+A very popular software category today—social media—can also help engage stakeholders. For example, many professionals use LinkedIn to connect with other professionals. Several project management groups are on LinkedIn and other sites where people can share ideas about various topics. In fact, searching LinkedIn groups for the term project management in February 2018 yielded almost 6,000 results, including the following:
+
+• Project Manager Community: This group claims to be the “best group for project management” with over 424,000 members. This community was created by ProjectManager.com.
+
+• PMI Project, Program and Portfolio Management: With over 247,000 members, this official PMI group claims to be #1 for career advancement.
+
+• PMO—Project Management Office: This virtual community has over 134,000
+
+members around the globe.
+
+a d v i c e f O r y O u n g p r O f e s s i O n a L s If you do not yet have an account on LinkedIn, set one up. If you already have one, search for groups that may be of interest and join them. Ask to connect with people you admire. Most LinkedIn users are happy to connect with others.
+
+Also, if you know of ways that social media can assist your project team to improve stakeholder engagement, discuss it with your team. Be sure to research various options before making any recommendations. Also consider setting up online and physical “meet ups” to promote stakeholder engagement.
+
+Although many organizations do not promote the use of Facebook at work, several project management software tools include functionality like Facebook’s to encourage relationship building on projects. For example, some tools allow people to give each other
+
+“high fives” for a job well done. Many include photos of project team members and other stakeholders. Users can also have conversation threads within the tools. In fact, several books and articles are available about using social media to help manage projects.
+
+Elizabeth Harrin, Director of The Otobos Group in London, is the author of Social Media for Project Managers. In the book, Harrin describes the pros and cons of several social media tools, including blogs, collaboration tools, instant messaging, microblogs like Twitter and Facebook, podcasts, RSS, social networks, vodcasts (video podcasts), webinars, 01356_ch13_hr_539-560.indd 553
+
+5/14/18 6:02 PM
+
+554
+
+
+
+* * *
+
+
+
+
+
+Chapter 13
+
+
+and wikis. In the foreword of the book, Len O’Neal, Online Content and Strategy Manager for PMI, stated: “Making social media work on your projects can be a project in itself. . . .
+
+Individual, team, organizational, and cultural biases and influences can play a significant part in how far you explore the road to project-based social media efforts and how successful you are.”7 Harrin provides advice for when to use social media and when not to use it.
+
+As the saying goes, “A fool with a tool is still just a fool.” It is crucial that project managers and their teams focus on monitoring stakeholder engagement to meet their needs and expectations, not to show off the latest technology. A lot of stakeholder engagement requires old-fashioned techniques like talking to someone!
+
+g L O b a L i s s u e s
+
+Not all software implementations go well, and managing stakeholders is a major challenge. The U.K. government scrapped its £11.4 billion national healthcare IT initiative in September 2011 after it failed to deliver the promised benefits. Unfortunately, this project was just one in a series of high-profile failures in the United Kingdom.
+
+In response, the government decided to send its project managers back to school!
+
+The government partnered with the University of Oxford and the Deloitte consulting firm to establish the Major Projects Leadership Academy in Oxford, England. Currently, 300 people are categorized as major project leaders in the British government. The goal of the new academy is to reduce the overreliance on expensive external consultants and build expertise within the civil service. In the future, “no one will be able to lead a major government project without completing the Academy.”8 Project leaders working on the 2012 Olympics and the High Speed Two railway system were the first to benefit from the new program.
+
+The academy enrolls over 100 major project leaders each year. Has it made a difference? According to Paul Chapman, EngD, the head of the academy, it certainly has.
+
+“Three years ago, about one-third of the government’s major projects were delivered on time and to budget . . . now this is nearly two-thirds.”9 You can find more details on the Major Projects Leadership Academy website.
+
+cOnsideratiOns fOr agiLe/adaptive envirOnments
+
+The PMBOK® Guide – Sixth Edition provides the following information for project stakeholder management:
+
+Projects experiencing a high degree of change require active engagement and participation with project stakeholders. To facilitate timely, productive discussion and decision making, adaptive teams engage with stakeholders directly rather than going through layers of management. Often the client, user, and developer exchange information in a dynamic co-creative process that leads to more stakeholder involvement and higher satisfaction. Regular interactions with the stakeholder community throughout the 01356_ch13_hr_539-560.indd 554
+
+5/14/18 6:02 PM
+
+Project Stakeholder Management
+
+555
+
+project mitigate risk, build trust, and support adjustments earlier in the project cycle, thus reducing costs and increasing the likelihood of success for the project.
+
+In order to accelerate the sharing of information within and across the organization, agile methods promote aggressive transparency. The intent of inviting any stakeholders to project meetings and reviews or posting project artifacts in public spaces is to surface as quickly as possible any misalignment, dependency, or other issues related to the changing project.10
+
+As discussed throughout this text, it is important to understand and involve key stakeholders on all projects. The nature of agile/adaptive projects, however, does often require more stakeholder involvement and faster decision making. Product owners create the backlog for each iteration, thereby ensuring that their priorities are clear.
+
+Posting project artifacts in a public space can be done on agile and non-agile projects, based on the sensitivity of the information and type of project. For example, some large construction projects include webcams so viewers can see physical progress at any time.
+
+Also recall that many organizations view agile as a mindset, focusing on driving business value to customers. No matter what product life cycle is used, projects should focus on providing value.
+
+The processes involved in project stakeholder management, as well as the other knowledge areas, follow a clear, logical sequence. However, this may be the most difficult area to master for many project managers. As you learned in this and previous chapters, understanding a wide variety of people and getting them to work together to meet project goals is not an easy undertaking.
+
+c a s e W r a p - u p
+
+Debra let Chien cool down a while before entering his office again. She realized that she needed his signature on an important document.
+
+“Are you going to yell at me again?” she asked.
+
+Chien smiled and apologized for being so upset earlier. He was very happy with Debra’s performance and knew that she was an asset to the company. He explained how hard it was for him to try to develop and enforce IT standards, especially when a new VP
+
+like Stephen comes in and gets what he wants so easily.
+
+Debra explained that the software solution she recommended was the only one that would integrate well with the various accounting systems at refineries in other countries. She described some of the technical details she learned after meeting with the Director of Accounting, and Stephen knew it was essential to keep track of costs well on such a huge project. Chien agreed that upgrading the oil refineries quickly and cost-effectively was the top priority for the company now. He told Debra that he trusted her objective analysis in making the best recommendation. He also told her that it took a lot of guts to go against him and Ryan, but he knew now that it was best for the company as a whole.
+
+
+* * *
+Chapter 13 - Chapter Summary start
+
+
+Managing stakeholders is the tenth knowledge area in the PMBOK® Guide – Sixth Edition.
+
+Project stakeholder management includes identifying stakeholders, planning stakeholder engagement, managing stakeholder engagement, and monitoring stakeholder engagement.
+
+You cannot perform the other stakeholder management processes until you first identify project stakeholders. Stakeholders can be internal or external to the organization, and they might support or oppose your project. The main output of this process is a stakeholder register.
+
+A stakeholder analysis is a key technique used in planning stakeholder engagement. Some information, such as how to manage relationships with stakeholders, might be sensitive, so it must be handled carefully. A stakeholder management plan describes stakeholder engagement levels, interrelationships, communication requirements, management strategies, and a process for updating the plan.
+
+When managing stakeholder engagement, project managers and their teams must understand various expectations of stakeholders and use their communications and interpersonal skills. It is important to encourage engagement early in a project and have deliverables that require engagement. An important output of this process is updating the issue log—a document used to help track and resolve issues on projects.
+
+It is important to monitor stakeholder engagement by having an open dialogue and tracking deliverables related to engagement.
+
+Several types of software can assist in project stakeholder management. In addition to technologies mentioned in other chapters to improve communications and collaboration, social media can also help in developing relationships with stakeholders. Some project management software applications include features inspired by social media, such as giving “high fives” and posting comment threads.
+
+Be sure to consider how project integration management can differ in agile/adaptive environments.
+
+Chapter 13 - Chapter Summary end

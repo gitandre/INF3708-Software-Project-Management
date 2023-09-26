@@ -1,0 +1,4361 @@
+Opening case
+
+Erica Bell is in charge of the Project Management Office (PMO) for her consulting firm, JWD Consulting, which has grown to include more than 200 full-time consultants and even more part-time consultants. JWD Consulting provides a variety of consulting services to assist organizations in selecting and managing IT projects. The firm focuses on finding and managing high-payoff projects and developing strong metrics to measure project performance and benefits to the organization after the project is implemented.
+
+The firm’s emphasis on metrics and working collaboratively with its customers gives it an edge over many competitors.
+
+Joe Fleming, the CEO, wanted his company to continue to grow and become a world-class consulting organization. Because the core of the business is helping other organizations with project management, he felt it was crucial for JWD Consulting to have an exemplary process for managing its own projects. He asked Erica to work with her team and other consultants in the firm to develop several intranet site applications that would allow them to share their project management knowledge. He also thought that the firm should make some of the information available to the firm’s clients. For example, the firm could provide project management templates, tools, articles, links to other sites, and an Ask the Expert feature to help build relationships with current and future clients. Because JWD Consulting emphasizes the importance of high-payoff projects, Joe also wanted to see a business case for this project before proceeding.
+
+Recall from Chapter 1 that project management consists of 10 knowledge areas: integration, scope, schedule, cost, quality, resource, communications, risk, procurement, and stakeholder management. Another important concept to understand is that projects involve five project management process groups: initiating, planning, executing, monitoring and controlling, and closing. Tailoring these process groups to meet individual project needs increases the chance of success in managing projects.
+
+This chapter describes each project management process group in detail through a simulated case study based on JWD Consulting. It also includes samples of typical project documents applied to this case. You can download templates for these and other project documents from the Companion website for this text. Although you will learn more about each knowledge area in Chapters 4 through 13, it is important first to learn how they fit into the big picture of managing a project. Understanding how the knowledge areas and project management process groups function together will lend context to the remaining chapters.
+
+PrOject ManageMent PrOcess grOuPs
+
+Project management is an integrative endeavor. Decisions and actions taken in one knowledge area at a certain time usually affect other knowledge areas. Managing these interactions often requires making trade-offs among the project’s scope, time, and cost—the triple constraint of project management described in Chapter 1. A project manager may also need to make trade-offs between knowledge areas, such as between managing risk and resources. Consequently, you can view project management as a number of related processes.
+
+01356_ch03_hr_085-150.indd 86
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 87
+
+A process is a series of actions directed toward a particular result. Project management process groups progress from initiating activities to planning activities, executing activities, monitoring and controlling activities, and closing activities. Recall that a project can have different combinations of phases. One project might have concept, development, implementation, and closeout phases, and another might have initial, intermediate, and final phases. But all projects and all project phases need to include all five process groups. You cannot equate process groups with project phases. For example, project managers and teams need to reexamine the business need for the project, part of monitoring and controlling activities, during every phase of the project life cycle to determine if the project is worth continuing.
+
+• Initiating processes include defining and authorizing a project or project phase. Initiating processes take place during each phase of a project. For example, in the closeout phase, initiating processes are used to ensure that the project team completes all the work, that someone documents lessons learned, and that the customer accepts the work.
+
+• Planning processes include devising and maintaining a workable scheme to ensure that the project addresses the organization’s needs. Projects include several plans, such as the scope management plan, schedule management plan, cost management plan, and procurement management plan. These plans define each knowledge area as it relates to the project at a particular point in time. For example, a project team must develop a plan to define the work needed for the project, to schedule activities related to that work, to estimate costs for performing the work, and to decide what resources to procure to accomplish the work. To account for changing conditions on the project and in the organization, project teams often revise plans during each phase of the project life cycle. The project management plan, which is described in Chapter 4, coordinates and encompasses information from all other plans.
+
+• Executing processes include coordinating people and other resources to carry out the various plans and create the products, services, or results of the project or phase. Examples of executing processes include directing and managing project work, managing project knowledge, acquiring resources, and conducting procurements.
+
+• Monitoring and controlling processes include regularly measuring and monitoring progress to ensure that the project team meets the project objectives. The project manager and staff monitor and measure progress against the plans and take corrective action when necessary. A common monitoring and controlling process is reporting performance, where project stakeholders can identify any necessary changes that may be required to keep the project on track.
+
+• Closing processes include formalizing acceptance of the project or project phase and ending it efficiently. Administrative activities are often involved in this process group, such as archiving project files, documenting lessons learned, and receiving formal acceptance of the delivered work as part of the phase or project.
+
+01356_ch03_hr_085-150.indd 87
+
+4/28/18 10:53 AM
+
+88
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+The process groups are not mutually exclusive. For example, project managers must perform monitoring and controlling processes throughout the project’s life span. That is, monitoring and controlling processes occur concurrently throughout a project with initiating, planning, executing, and closing processes. Initiating and planning processes can occur concurrently with executing processes, and so on for each process group.
+
+The level of activity and length of each process group varies for every project.
+
+Normally, executing tasks require the most resources and time, followed by planning tasks. Initiating and closing tasks are usually the shortest (at the beginning and end of a project or phase, respectively), and they require the least resources and time. However, every project is unique, so exceptions are possible.
+
+You can apply the process groups for each major phase or iteration of a project, or you can apply the process groups to an entire project. The first example of the JWD Consulting case study applies the process groups to the entire project. The second example shows how you can use a more agile approach to manage the same project; several process groups are repeated for each iteration of the project.
+
+Many people ask for guidelines on how much time to spend in each process group.
+
+In his book Alpha Project Managers: What the Top 2 percent Know That Everyone Else Does Not, Andy Crowe collected data from 860 project managers in various companies and industries in the United States. He found that the best—the alpha—project managers spent more time on every process group, except executing, than their counterparts as shown in Figure 3-1. Notice that the alpha project managers spent almost twice as much time on planning (21 percent versus 11 percent) as other project managers. Spending more time on planning should lead to less time spent on execution, which should reduce the time and money spent on projects. The best project managers know and practice this important concept—do a good job of planning.1
+
+2%
+
+Closing
+
+3%
+
+4%
+
+Monitoring and Controlling
+
+5%
+
+82%
+
+Executing
+
+69%
+
+11%
+
+Planning
+
+21%
+
+Spending more time
+
+on planning should
+
+1%
+
+pay off in execution
+
+1%
+
+pay of
+
+Initiating
+
+2%
+
+Other Project Managers
+
+Alpha Project Managers
+
+Source: Andy Crowe
+
+Figure 3-1 Percentage of time spent on each process group 01356_ch03_hr_085-150.indd 88
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 89
+
+W h a t W e n t W r O n g ?
+
+Many readers of CIO magazine commented on its cover story about problems with information systems at the U.S. Internal Revenue Service (IRS). The article described serious problems the IRS has had in managing IT projects. They failed more than once in projects attempted to modernize their aging systems. Philip A. Pell, PMP®, believes that having a good project manager and following a good project management process would help the IRS and many organizations tremendously. Pell provided the following feedback to the article: Pure and simple, good, methodology-centric, predictable, and repeatable project management is the SINGLE greatest factor in the success (or in this case failure) of any project. When a key stakeholder says, “I didn’t know how bad things were,” it is a direct indictment of the project manager’s communications management plan. 2
+
+The IRS continues to have serious problems in managing its aging IT infrastructure, and lack of proper planning is still being questioned. The IRS spends $2.7 billion annually on IT, with about 70 percent going toward legacy systems, such as the Individual Master File written in the 1960s. The IRS maintains over 20 million lines of assembly code. Their systems are key to collecting over $3 trillion in taxes. During a House Ways and Means subcommittee in late 2017, Rep. Vern Buchanan told IRS
+
+executives that he wanted to see a plan, including solid financial justification, for a recent funding request. “The question is to have a plan, what is the return on that plan in terms of the technology dollars being spent. . . . I’m big on planning, personally, as a business guy, if you don’t have a vision you perish.”3
+
+Each of the five project management process groups is characterized by the completion of certain tasks. While initiating processes for a new project, the organization recognizes that a new project exists and completes a project charter as part of this recognition. (See Chapter 4 for more information on project charters.) Tables are provided later in this chapter with detailed lists of possible outputs for each process group by knowledge area.
+
+For example, Tables 3-3 through 3-7 list potential outputs for the initiating and planning process groups. Samples of some outputs are provided for each process group in a case study of JWD Consulting’s project management intranet site project. Project managers and their teams must decide which outputs are required for their particular projects.
+
+Outputs of the planning process group include completing the project scope statement, the work breakdown structure (WBS), the project schedule, and many other items. Planning processes are especially important for IT projects. Anyone who has ever worked on a large IT project that involves new technology knows the saying, “A dollar spent up front in planning is worth one hundred dollars spent after the system is implemented.” Planning is crucial in IT projects because once a project team implements a new system, considerable effort is needed to change it. Research suggests that companies working to implement best practices should spend at least 20 percent of project time in initiating and planning.4 This percentage is backed up by evidence from Alpha project managers, as described earlier.
+
+01356_ch03_hr_085-150.indd 89
+
+4/28/18 10:53 AM
+
+90
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+The executing process group takes the actions necessary to complete the work described in the planning activities. The main outcome of this process group is delivering the actual work of the project. For example, if an IT project involves providing new hardware, software, and training, the executing processes would include leading the project team and other stakeholders to purchase the hardware, develop and test the software, and deliver and participate in the training. The executing process group should overlap the other process groups, and generally requires the most resources.
+
+Monitoring and controlling processes measure progress toward the project objectives, monitor deviation from the plan, and take corrective action to match progress with the plan. Performance reports are common outputs of monitoring and controlling. The project manager should be monitoring progress closely to ensure that deliverables are being completed and objectives are being met. The project manager must work closely with the project team and other stakeholders and take appropriate actions to keep the project running smoothly. The ideal outcome of the monitoring and controlling process group is to complete a project successfully by delivering the agreed-upon project scope within time, cost, and quality constraints. If changes to project objectives or plans are required, monitoring and controlling processes ensure that these changes are made efficiently and effectively to meet stakeholder needs and expectations. Monitoring and controlling processes overlap all of the other project management process groups because changes can occur at any time.
+
+During the closing processes, the project team works to gain acceptance of the end products, services, or results and bring the phase or project to an orderly end. Key outcomes of this process group are formal acceptance of the work and creation of closing documents, such as a final project report and lessons-learned report.
+
+M e d i a s n a P s h O t
+
+Just as IT projects need to follow the project management process groups, so do other projects, such as the production of a movie. Processes involved in making movies might include screenwriting, producing, acting and directing, editing, and releasing the movie to theaters. Many people enjoy watching the extra features on a DVD that describe how these processes lead to the creation of a movie. For example, the DVD for Lord of the Rings: The Two Towers Extended Edition includes detailed descriptions of how the script was created, how huge structures were built, how special effects were made, and how talented professionals overcame numerous obstacles to complete the project.
+
+This material acted “not as promotional filler but as a serious and meticulously detailed examination of the entire filmmaking process.”5 New Line Cinema made history by shooting all three Lord of the Rings films consecutively during one massive production.
+
+It took three years of preparation to build the sets, find the locations, write the scripts, and cast the actors. Director Peter Jackson said that the amount of early planning they did made it easier than he imagined to produce the films. Project managers in any field know how important it is to have good plans and to follow a good process. Jackson continued his movie making success by directing The Hobbit, produced as a film trilogy, with movies released in 2012, 2013, and 2014.
+
+01356_ch03_hr_085-150.indd 90
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 91
+
+MaPPing the PrOcess grOuPs tO the KnOWLedge areas
+
+You can map the main activities of each project management process group into the 10 project management knowledge areas. Table 3-1 provides a big-picture view of the relationships among the 49 project management activities, the process groups in which tabLe 3-1 Project management process group and knowledge area mapping Project Management Process groups
+
+Monitoring
+
+and
+
+initiating Planning
+
+executing
+
+controlling closing
+
+Knowledge
+
+Process Process
+
+Process
+
+Process
+
+Process
+
+area
+
+group
+
+group
+
+group
+
+group
+
+group
+
+4. Project
+
+4.1
+
+4.2 Develop Project 4.3 Direct and 4.5 Monitor 4.7 Close
+
+Integration
+
+Develop Management Plan
+
+Manage Proj-and Control Project
+
+Management
+
+Project
+
+ect Work
+
+Project
+
+or Phase
+
+Charter
+
+4.4 Manage
+
+Work
+
+Project
+
+4.6 Perform
+
+Knowledge
+
+Integrated
+
+Change
+
+Control
+
+5. Project Scope
+
+5.1 Plan Scope
+
+5.5 Validate
+
+Management
+
+Management
+
+Scope
+
+5.2 Collect
+
+5.6 Control
+
+Requirements
+
+Scope
+
+5.3 Define Scope
+
+5.4 Create WBS
+
+6. Project
+
+6.1 Plan Schedule
+
+6.6 Control
+
+Schedule
+
+Management
+
+Schedule
+
+Management
+
+6.2 Define Activities
+
+6.3 Sequence
+
+Activities
+
+6.4 Estimate
+
+Activity Durations
+
+6.5 Develop
+
+Schedule
+
+7. Project Cost
+
+7.1 Plan Cost
+
+7.4 Control
+
+Management
+
+Management
+
+Costs
+
+7.2 Estimate Costs
+
+7.3 Determine
+
+Budget
+
+( continued)
+
+01356_ch03_hr_085-150.indd 91
+
+4/28/18 10:53 AM
+
+92
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+tabLe 3-1 Project management process group and knowledge area mapping ( continued) Project Management Process groups
+
+Monitoring
+
+and
+
+initiating Planning
+
+executing
+
+controlling closing
+
+Knowledge
+
+Process Process
+
+Process
+
+Process
+
+Process
+
+area
+
+group
+
+group
+
+group
+
+group
+
+group
+
+8. Project
+
+8.1 Plan Quality
+
+8.2 Manage
+
+8.3 Control
+
+Quality
+
+Management
+
+Quality
+
+Quality
+
+Management
+
+9. Project
+
+9.1 Plan Resource 9.3 Acquire
+
+9.6 Control
+
+Resource
+
+Management
+
+Resources
+
+Resources
+
+Management
+
+9.2 Estimate Activ-9.4 Develop
+
+ity Resources
+
+Team
+
+9.5 Manage
+
+Team
+
+10. Project
+
+10.1 Plan
+
+10.2 Manage 10.3 Moni-
+
+Commu-
+
+Communications
+
+Communicator Commu-
+
+nications
+
+Management
+
+tions
+
+nications
+
+Management
+
+11. Project Risk
+
+11.1 Plan Risk
+
+11.6 Imple—
+
+11.7 Moni-
+
+Management
+
+Management
+
+ment Risk
+
+tor Risks
+
+11.2 Identify Risks Responses
+
+11.3 Perform
+
+Qualitative Risk
+
+Analysis
+
+11.4 Perform
+
+Quantitative Risk
+
+Analysis
+
+11.5 Plan Risk
+
+Responses
+
+12. Project
+
+12.1 Plan Procure-12.2 Conduct 12.3 Con-
+
+Procurement
+
+ment Management Procurements trol Pro-
+
+Management
+
+curements
+
+13. Project
+
+13.1
+
+13.2 Plan Stake—
+
+13.3 Manage 13.4 Monitor
+
+Stakeholder Identify holder Engagement Stakeholder Stakeholder
+
+Management Stake—
+
+Engagement
+
+Engagement
+
+holders
+
+Source: Project Management Institute A Guide to the Project Management Body of Knowledge ( PMBOK® Guide) – Sixth Edition, Project Management Institute, Inc., (2017). Copyright and all rights reserved. Material from this publication has been reproduced with the permission of PMI.
+
+01356_ch03_hr_085-150.indd 92
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 93
+
+they are typically completed, and the knowledge areas into which they fit. The activities listed in the table are the main processes for each knowledge area listed in the PMBOK®
+
+Guide – Sixth Edition. Note that the PMBOK® Guide can serve as a guide for all types of projects that use all types of approaches, including Agile. It is up to each project team to decide what processes and outputs are required based on their specific needs.
+
+Several organizations use PMI’s PMBOK® Guide information as a foundation for developing their own project management methodologies, as described in the next section. Notice in Table 3-1 that many of the project management activities occur as part of the planning process group. Because each project is unique, project teams are always trying to do something that has not been done before. To succeed at unique and new activities, project teams must do a fair amount of planning. Recall, however, that the most time and money is normally spent on executing. It is good practice for organizations to determine how project management will work best in their own organizations.
+
+deveLOPing an it PrOject ManageMent MethOdOLOgy
+
+Some organizations spend a great deal of time and money on training efforts for general project management skills, but after the training, project managers may still not know how to tailor their project management skills to the organization’s particular needs. Because of this problem, some organizations develop their own internal IT project management methodologies. The PMBOK® Guide is a standard that describes best practices for what should be done to manage a project. A methodology describes how things should be done, and different organizations often have different ways of doing things.
+
+In addition to using the PMBOK® Guide as a basis for project management methodology, many organizations use other guides or methods, such as the following:
+
+• PRojects IN Controlled Environments (PRINCE2): Originally developed for IT projects, PRINCE2 was released in 1996 as a generic project management methodology by the U.K. Office of Government Commerce (OGC). It is the de facto standard in the United Kingdom and is used in over 50 countries.
+
+(See www.prince2.com for more information.) PRINCE2 defines 45 separate subprocesses and organizes them into eight process groups as follows: 1. Starting up a project
+
+2. Planning
+
+3. Initiating a project
+
+4. Directing a project
+
+5. Controlling a stage
+
+6. Managing product delivery
+
+7. Managing stage boundaries
+
+8. Closing a project
+
+• Agile methods: As described in Chapter 2, agile is an adaptive product life cycle used when deliverables have a high degree of change and a high frequency of delivery. The term agile is often used to describe a variety of methods. For example, the Agile Practice Guide describes agile and Kanban 01356_ch03_hr_085-150.indd 93
+
+4/28/18 10:53 AM
+
+94
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+as subsets of lean. (See Chapter 8, Project Quality Management, for more details on lean.) Agile approaches include Scrum, Scrumban (hybrid of Scrum and Kanban), Extreme Programming (XP), Feature Driven Development (FDD), Crystal, Agile Unified Process (AUP), Dynamic System Development Method (DSDM), and Scaled Agile Framework. See websites like www
+
+.agilealliance.org and www.scaledagileframework.com for more information.
+
+The second case in this chapter provides an example of using Scrum.
+
+g L O b a L i s s u e s
+
+In 2018 PMI published their tenth annual global project management survey (Pulse of the Profession®). Over 5,000 people participated, and respondents reported that 47 percent of the projects completed in their organizations in the past year used a predictive approach, 23 percent used agile, 23 percent used a hybrid of predictive and agile, and 7 percent used other approaches. Most organizations have adopted agile in at least some areas and are mixing hybrid approaches across their project portfolios.6 In the 2015 survey, 27 percent of respondents actually had a formal step of project evaluation where agile or Scrum was overtly determined to be applicable or not to a given project situation.
+
+A 2017 global survey conducted by VersionOne found that 94 percent of respondents said their organizations practiced agile, but 60 percent of their teams were not yet practicing it. 80 percent of respondents also said their organization was at or below a “still maturing” level with agile. The top three benefits of agile listed were the ability to manage changing priorities, increased team productivity, and improved project visibility.7
+
+• Rational Unified Process (RUP) framework: RUP is an iterative software development process created by IBM that focuses on team productivity and enables all team members to deliver software best practices to the organization.
+
+According to RUP expert Bill Cottrell, “RUP embodies industry-standard management and technical methods and techniques to provide a software engineering process particularly suited to creating and maintaining component-based software system solutions.”8 Cottrell explained that you can tailor RUP to include the PMBOK® process groups because several customers asked for that capability. IBM also developed an OpenSource method called OpenUP for the delivery of agile projects. Several other project management methodologies are used specifically for software development projects, such as Joint Application Development (JAD) and Rapid Application Development (RAD).
+
+• Six Sigma methodologies: Many organizations have projects that use Six Sigma methodologies. The work of many project quality experts contributed to the development of today’s Six Sigma principles. Two main methodologies are used on Six Sigma projects: Define, Measure, Analyze, Improve, and Control (DMAIC) is used to improve an existing business process, and Define, Measure, Analyze, Design, and Verify (DMADV) is used to create new product or process designs to achieve predictable, defect-free performance. (See Chapter 8, Project Quality Management, for more information on Six Sigma.) 01356_ch03_hr_085-150.indd 94
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 95
+
+Many organizations tailor a standard or methodology to meet their unique needs.
+
+Even if organizations use the PMBOK® Guide as the basis for their project management methodology, they still have to do a fair amount of work to adapt it to their unique work environment.
+
+W h a t W e n t r i g h t ?
+
+Organizations that excel in project management complete 89 percent of their projects successfully compared to only 36 percent of organizations that do not have good project management processes. PMI estimates that poor project performance costs over $109
+
+million for every $1 billion invested in projects and programs.9
+
+Very large, complex projects often benefit the most from using proven project management methodologies. Several well-respected companies teamed up to bid on a multibillion dollar military health-record contract in 2015. IBM and Epic proposed running an instance of the Epic health-record system (the most popular system on the market) on a secure, IBM-operated data center. PricewaterhouseCoopers (PwC) worked with Google to provide a solution based on an open-source version of the Vista health-record system used by the Department of Veterans Affairs.10 The contract was awarded to the Leidos Partnership for Defense Health—which includes Cerner, an electronic-health-records manager; Accenture Federal; and Leidos, a government contractor based in Reston, Virginia. Their MHS Genesis system has been implemented in many organizations by 2018. If this huge contract is managed well, it will save taxpayers over $1.2 billion in potential wasted dollars.
+
+The following sections present two examples of applying the project management process groups to a project at JWD Consulting. Both examples use some of the ideas from the PMBOK® Guide – Sixth Edition, some ideas from other methodologies, and some new ideas to meet unique project needs. The first case study follows a more predictive or waterfall approach, while the second case study follows a more adaptive approach using Scrum. Even though they are tailored for JWD Consulting’s organizational needs, they both still use the project management process groups and several outputs or deliverables described in the PMBOK® Guide.
+
+case study 1: jWd cOnsuLting’s PrOject ManageMent
+
+intranet site PrOject (Predictive aPPrOach)
+
+The following fictitious case provides an example of the elements involved in managing a project from start to finish. This example also uses Microsoft Project to demonstrate how project management software can assist in several aspects of managing a project. Several templates illustrate how project teams prepare various project management documents.
+
+Files for these and other templates are available on the Companion website for this text.
+
+Details on creating many of the documents shown are provided in later chapters, so do not worry if you do not understand everything right now. These two cases are provided to give you a sense of the big picture of IT project management. You might want to read this section again later to enhance your learning.
+
+01356_ch03_hr_085-150.indd 95
+
+4/28/18 10:53 AM
+
+96
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+Project Pre-initiation and initiation
+
+
+In project management, initiating includes recognizing and starting a new project. An organization should put considerable thought into project selection to ensure that it initiates the right kinds of projects for the right reasons. It is better to have a moderate or even small amount of success on an important project than huge success on a project that is unimportant. The selection of projects for initiation is therefore crucial, as is the selection of project managers. Ideally, the project manager would be involved in initiating a project, but often the project manager is selected after many initiation decisions have already been made.
+
+You will learn more about project selection in Chapter 4, Project Integration Management.
+
+It is important to remember that strategic planning should serve as the foundation for deciding which projects to pursue. The organization’s strategic plan expresses the vision, mission, goals, objectives, and strategies of the organization. It also provides the basis for IT project planning. IT is usually a support function in an organization, so the people who initiate IT projects must understand how those projects relate to current and future needs of the organization. For example, JWD Consulting’s main business is providing consulting services to other organizations, not developing its own intranet site applications.
+
+Information systems, therefore, must support the firm’s business goals, such as providing consulting services more effectively and efficiently.
+
+An organization may initiate IT projects for several reasons, but the most important reason is to support business objectives. As mentioned in the chapter’s opening case, JWD
+
+Consulting wants to follow an exemplary process for managing its projects because its core business is helping other organizations manage projects. Developing an intranet to share its project management knowledge could help JWD Consulting reduce internal costs by working more effectively, and by allowing existing and potential customers to access some of the firm’s information. JWD Consulting could also increase revenues by bringing in more business. Therefore, the firm will use these metrics—reducing internal costs and increasing revenues—to measure its performance on this project.
+
+Pre-initiation tasks
+
+It is good practice to lay the groundwork for a project before it officially starts. Senior managers often perform several tasks to lay the groundwork, sometimes called pre-initiation tasks, including the following:
+
+• Determine the scope, time, and cost constraints for the project.
+
+• Identify the project sponsor.
+
+• Select the project manager.
+
+• Develop a business case for a project.
+
+• Meet with the project manager to review the process and expectations for managing the project.
+
+• Determine if the project should be divided into two or more smaller projects.
+
+As described in the opening case, the CEO of JWD Consulting, Joe Fleming, defined the high-level scope of the project. He wanted to sponsor the project himself because it was his idea and it was strategically important to the business. He wanted Erica Bell, the PMO Director, to manage the project after proving there was a strong business case for 01356_ch03_hr_085-150.indd 96
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 97
+
+it. If there was a strong business case for pursuing the project, then Joe and Erica would meet to review the process and expectations for managing the project. If there was not a strong business case, the project would not continue.
+
+As for the necessity of the last pre-initiation task, many people know from experience that it is easier to successfully complete a small project than a large one, especially for IT
+
+projects. It often makes sense to break large projects down into two or more smaller ones to help increase the odds of success. In this case, however, Joe and Erica decided that the work could be done in one project that would last about six months.
+
+To justify investing in this project, Erica drafted a business case for it, getting input and feedback from Joe, from one of her senior staff members in the PMO, and from a member of the Finance department. She also used a corporate template and sample business cases from past projects as a guide. Table 3-2 provides the business case. (Note that this example and others are abbreviated.) Notice that the following information is included in this business case:
+
+• Introduction/background
+
+• Business objective
+
+• Current situation and problem/opportunity statement
+
+• Critical assumptions and constraints
+
+• Analysis of options and recommendation
+
+• Preliminary project requirements
+
+• Budget estimate and financial analysis
+
+• Schedule estimate
+
+• Potential risks
+
+• Exhibits
+
+Because this project is relatively small and is for an internal sponsor, the business case is not as long as many other business cases. Erica reviewed the business case with Joe, and he agreed that the project was definitely worth pursuing. He was quite pleased tabLe 3-2 JWD Consulting’s business case
+
+1.0 Introduction/Background
+
+JWD Consulting’s core business goal is to provide world-class project management consulting services to various organizations. The firm can streamline operations and increase business by providing information related to project management on its intranet site, making some information and services accessible to current and potential clients.
+
+2.0 Business Objective
+
+JWD Consulting’s strategic goals include continuing growth and profitability. The project management intranet site project will support these goals by increasing visibility of the firm’s expertise to current and potential clients by allowing client and public access to some sections of the intranet. The project will also improve profitability by reducing internal costs by providing standard tools, techniques, templates, and project management knowledge to all internal consultants.
+
+( continued)
+
+01356_ch03_hr_085-150.indd 97
+
+4/28/18 10:53 AM
+
+98
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+tabLe 3-2 JWD Consulting’s business case ( continued) 3.0 Current Situation and Problem/Opportunity Statement JWD Consulting has a corporate website as well as an intranet. The firm currently uses the website for marketing information. The primary use of the intranet is for consultant human resource information, such as entering hours on projects, changing and viewing benefits information, and accessing an online directory and Web-based e-mail system. The firm also uses an enterprise-wide project management system to track all project information, focusing on the status of deliverables and meeting scope, time, and cost goals. There is an opportunity to provide a new section on the intranet dedicated to sharing consultants’ project management knowledge across the organization. JWD Consulting only hires experienced consultants and gives them freedom to manage projects as they see fit. However, as the business grows and projects become more complex, even experienced project managers are looking for suggestions on how to work more effectively.
+
+4.0 Critical Assumptions and Constraints
+
+The proposed intranet site must be a valuable asset for JWD Consulting. Current consultants and clients must actively support the project, and it must pay for itself within one year by reducing internal operating costs and generating new business. The Project Management Office manager must lead the effort, and the project team must include participants from several parts of the company, as well as from current client organizations. The new system must run on existing hardware and software, and it should require minimal technical support. It must be easily accessible by consultants and clients and be secure from unauthorized users.
+
+5.0 Analysis of Options and Recommendation
+
+There are three options for addressing this opportunity: 1. Do nothing. The business is doing well, and we can continue to operate without this new project.
+
+2. Purchase access to specialized software to support this new capability with little in-house development.
+
+3. Design and implement the new intranet capabilities in-house, using mostly existing hardware and software.
+
+Based on discussions with stakeholders, we believe that option 3 is the best option.
+
+6.0 Preliminary Project Requirements
+
+The main features of the project management intranet site include the following: 1. Access to several project management templates and tools. Users must be able to search for templates and tools, read instructions for using these templates and tools, and see examples of how to apply them to real projects. Users must also be able to submit new templates and tools, which should first be screened or edited by the Project Management Office.
+
+( continued)
+
+01356_ch03_hr_085-150.indd 98
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 99
+
+tabLe 3-2 JWD Consulting’s business case ( continued) 2. Access to relevant project management articles. Many consultants sense an information overload when they research project management information. They often waste time they should be spending with their clients. The new intranet should include access to important articles on project management topics, which are searchable by topic, and should allow users to ask the Project Management Office staff to find additional articles to meet their needs.
+
+3. Links to other, up-to-date websites, with brief descriptions of the main features of the external sites.
+
+4. An Ask the Expert feature to help build relationships with current and future clients and share knowledge with internal consultants.
+
+5. Appropriate security to make the entire intranet site accessible to internal consultants and certain sections accessible to others.
+
+6. The ability to charge money for access to some information. Some of the information and features of the intranet site should prompt external users to pay for the information or service. Payment options should include credit card or similar online payment transactions. After the system verifies payment, the user should be able to access or download the desired information.
+
+7. Other features suggested by users, if they add value to the business.
+
+7.0 Budget Estimate and Financial Analysis
+
+A preliminary estimate of costs for the entire project is $140,000. This estimate is based on the project manager working about 20 hours per week for six months and other internal staff working a total of about 60 hours per week for six months. The customer representatives would not be paid for their assistance. A staff project manager would earn $50 per hour. The hourly rate for the other project team members would be $70 per hour, because some hours normally billed to clients may be needed for this project. The initial cost estimate also includes $10,000 for purchasing software and services from suppliers. After the project is completed, maintenance costs of $40,000
+
+are included for each year, primarily to update the information and coordinate the Ask the Expert feature and online articles.
+
+Projected benefits are based on a reduction in hours that consultants spend researching project management information, appropriate tools, and templates. Projected benefits are also based on a small increase in profits due to new business generated by this project. If each of 400 consultants saved just 40 hours each year (less than one hour per week) and could bill that time to projects that generate a conservative estimate of $10 per hour in profits, then the projected benefit would be $160,000 per year. If the new intranet increased business by just 1 percent, using past profit information, increased profits due to new business would be at least $40,000 each year. Total projected benefits, therefore, are about $200,000 per year. Exhibit A summarizes the projected costs and benefits and shows the estimated net present value (NPV), return on investment (ROI), and year in which payback occurs. It also lists assumptions made in performing this preliminary financial analysis. All of the financial estimates are very encouraging. The estimated payback is within one year, as requested by the sponsor. The NPV is $272,800, and the discounted ROI based on a three-year system life is excellent at 112 percent.
+
+( continued)
+
+01356_ch03_hr_085-150.indd 99
+
+4/28/18 10:53 AM
+
+100
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+tabLe 3-2 JWD Consulting’s business case ( continued) 8.0 Schedule Estimate
+
+The sponsor would like to see the project completed within six months, but there is some flexibility in the schedule. We also assume that the new system will have a useful life of at least three years.
+
+9.0 Potential Risks
+
+This project carries several risks. The foremost risk is a lack of interest in the new system by our internal consultants and external clients. User inputs are crucial for populating information into this system and realizing the potential benefits from using the system. There are some technical risks in choosing the type of software used to search the system, implement security, process payments, and so on, but the features of this system all use proven technologies. The main business risk is investing the time and money into this project and not realizing the projected benefits.
+
+10.0 Exhibits
+
+Exhibit A: Financial Analysis for Project Management Intranet Site Project Discount rate
+
+8%
+
+Assume the project is done in about 6 months
+
+Year
+
+0
+
+1
+
+2
+
+3
+
+Total
+
+Costs
+
+140,000
+
+40,000
+
+40,000
+
+40,000
+
+Discount factor
+
+1
+
+0.93
+
+0.86
+
+0.79
+
+Discounted costs
+
+140,000
+
+37,037
+
+34,294
+
+31,753 243,084
+
+Benefits
+
+0
+
+200,000
+
+200,000
+
+200,000
+
+Discount factor
+
+1
+
+0.93
+
+0.86
+
+0.79
+
+Discounted benefits
+
+0
+
+186,185
+
+171,468
+
+158,766 515,419
+
+Discounted benefits - costs
+
+(140,000)
+
+148,148
+
+137,174
+
+127,013
+
+Cumulative benefits - costs
+
+(140,000)
+
+8,148
+
+145,322
+
+272,336
+
+NPV
+
+Payback in Year 1
+
+Discounted life cycle ROI------------>
+
+112%
+
+Assumptions
+
+Costs
+
+# hours
+
+PM (500 hours, $50/hour)
+
+25,000
+
+Staff (1,500 hours, $70/hour)
+
+105,000
+
+Outsourced software and services
+
+10,000
+
+Total project costs (all applied in year 0)
+
+140,000
+
+Benefits
+
+# consultants
+
+400
+
+Hours saved
+
+40
+
+$/hour profit
+
+10
+
+Benefits from saving time
+
+160,000
+
+Benefits from 1% increase in profits
+
+40,000
+
+Total annual projected benefits
+
+200,000
+
+to see that payback was estimated within a year and that the return on investment was projected to be 112 percent. He told Erica to proceed with the formal initiation tasks for this project, which are described in the next section.
+
+01356_ch03_hr_085-150.indd 100
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 101
+
+initiating
+
+To officially initiate the project management intranet site project, Erica knew that the main tasks were to identify all of the project stakeholders and to develop the project charter. Table 3-3 shows these processes and their outputs, based on the PMBOK®
+
+Guide – Sixth Edition. The main outputs are a project charter and a stakeholder register.
+
+Additional outputs that Erica found very useful for initiating projects were a stakeholder management strategy and a formal project kick-off meeting. Descriptions of how these outputs were created and sample documents related to each of them are provided for this project. Recall that every project and every organization is unique, so not all project charters, stakeholder registers, and other outputs will look the same. You will see examples of several of these documents in later chapters.
+
+identifying Project stakeholders
+
+Erica met with Joe Fleming, the project’s sponsor, to help identify key stakeholders. Recall from Chapter 1 that stakeholders are people involved in project activities or affected by them, and include the project sponsor, project team, support staff, customers, users, suppliers, and even opponents to the project. Joe, the project sponsor, knew it would be important to assemble a strong project team, and he was confident in Erica’s ability to lead that team.
+
+They decided that key team members should include one of their full-time consultants with an outstanding record, Michael Chen; one part-time consultant, Jessie Faue, who was new to the company and supported the Project Management Office; and two members of the IT
+
+department who supported the current intranet, Kevin Dodge and Cindy Dawson. They also knew that client inputs would be important, so Joe agreed to ask the CEOs of two of the firm’s largest clients if they would be willing to provide representatives to work on this project at their own expense. All of the internal staff Joe and Erica recommended agreed to work on the project, and the two client representatives were Kim Phuong and Page Miller. Because many other people would be affected by this project as future users of the new intranet, Joe and Erica also identified other key stakeholders, including their directors of IT, Human Resources (HR), and Public Relations (PR), as well as Erica’s administrative assistant.
+
+After Joe and Erica made the preliminary contacts, Erica documented the stakeholders’ roles, names, organizations, and contact information in a stakeholder register, a document that includes details related to the identified project stakeholders.
+
+tabLe 3-3 Project initiation knowledge areas, processes, and outputs Knowledge area
+
+initiating Process
+
+Outputs
+
+Project Integration
+
+Develop project charter
+
+Project charter
+
+Management
+
+Assumption log
+
+Project Stakeholder Identify stakeholders Stakeholder register
+
+Management
+
+Change requests
+
+Project management plan updates
+
+Project documents updates
+
+Source: PMBOK® Guide – Sixth Edition, 2017.
+
+01356_ch03_hr_085-150.indd 101
+
+4/28/18 10:53 AM
+
+102
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+Table 3-4 provides an example of part of the initial stakeholder register. Because this document would be public, Erica was careful not to include information that might be sensitive, such as how strongly the stakeholders supported the project and their potential influence on the project. She would keep these issues in mind discreetly and use them in developing the stakeholder management strategy.
+
+A stakeholder analysis is a technique that project managers can use to help understand and increase the support of stakeholders throughout the project. Results of the stakeholder analysis can be documented in a stakeholder register or in a separate stakeholder management strategy. This strategy includes basic information such as stakeholder names, level of interest in the project, level of influence on the project, and potential management strategies for gaining support or reducing obstacles from each stakeholder. Because much of this information can be sensitive, it should be considered confidential. Some project managers do not even write down this information, but they do consider it because stakeholder management is a crucial part of their jobs. Table 3-5
+
+provides an example of part of Erica’s stakeholder management strategy for the project tabLe 3-4 Stakeholder register
+
+internal/
+
+Project
+
+name
+
+Position
+
+external
+
+role
+
+contact information
+
+Joe Fleming
+
+CEO
+
+Internal
+
+Sponsor
+
+joe_fleming@jwdconsulting.com
+
+Erica Bell
+
+PMO
+
+Internal
+
+Project
+
+erica_bell@jwdconsulting.com
+
+Director
+
+Manager
+
+Michael
+
+Senior
+
+Internal
+
+Team
+
+michael_chen@jwdconsulting.com
+
+Chen
+
+Consultant
+
+Member
+
+Kim Phuong
+
+Business
+
+External
+
+Advisor
+
+kim_phuong@client1.com
+
+Analyst
+
+Louise Mills
+
+PR Director
+
+Internal
+
+Advisor
+
+louise_mills@jwdconsulting.com
+
+tabLe 3-5 Stakeholder management strategy
+
+Level of
+
+Level of
+
+name
+
+interest
+
+influence
+
+Potential Management strategies
+
+Joe
+
+High
+
+High
+
+Joe likes to stay on top of key projects and make
+
+Fleming
+
+money. Have a lot of short, face-to-face meetings
+
+and focus on achieving the financial benefits of the
+
+project.
+
+Louise
+
+Low
+
+High
+
+Louise has a lot of things on her plate, and she does Mills
+
+not seem excited about this project. She may be
+
+looking at other job opportunities. Show her how
+
+this project will help the company and her resume.
+
+01356_ch03_hr_085-150.indd 102
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 103
+
+management intranet site project. You will see other examples of documenting stakeholder information in later chapters.
+
+drafting the Project charter
+
+Erica drafted a project charter and had the project team members review it before showing it to Joe. Joe made a few minor changes, which Erica incorporated. Table 3-6
+
+shows the final project charter. (Charters can include more details than are shown in this example. See Chapter 4 for more information on project charters.) Note the items included in the project charter and its short length. JWD Consulting believes that project charters should be one or two pages long, and they may refer to other documents, such as a business case, as needed. Erica felt that the most important parts of the project charter were the signatures of key stakeholders (not included for brevity) and their individual comments. It is hard to get stakeholders to agree on even a one-page project charter, so everyone has a chance to make their concerns known in the comments section. Note that Michael Chen, the senior consultant asked to work on the project, was concerned about participating when he felt that his other assignments with external clients might have a higher priority. He offered to have an assistant help as needed. The IT staff members mentioned their concerns about testing and security issues. Erica knew that she would have to address these concerns when managing the project.
+
+tabLe 3-6 Project charter
+
+Project Title: Project Management Intranet Site Project Project Start Date:
+
+May
+
+2 Projected Finish Date: November 4
+
+Budget Information: The firm has allocated $140,000 for this project. The majority of costs for this project will be internal labor. An initial estimate provides a total of 80
+
+hours per week.
+
+Project Manager: Erica Bell, (310) 555-5896, erica_bell@jwdconsulting.com Project Objectives: Develop a new capability accessible on JWD Consulting’s intranet site to help internal consultants and external customers manage projects more effectively. The intranet site will include several templates and tools that users can download, examples of completed templates and related project management documents used on real projects, important articles related to recent project management topics, an article retrieval service, links to other sites with useful information, and an Ask the Expert feature, where users can post questions about their projects and receive advice from experts in the field. Some parts of the intranet site will be accessible free to the public, other parts will only be accessible to current customers and internal consultants, and other parts will be accessible for a fee.
+
+Main Project Success Criterion: The project should pay for itself within one year of completion.
+
+( continued)
+
+01356_ch03_hr_085-150.indd 103
+
+4/28/18 10:53 AM
+
+104
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+tabLe 3-6 Project charter ( continued) Approach:
+
+• Develop a survey to determine critical features of the new intranet site and solicit input from consultants and customers.
+
+• Review internal and external templates and examples of project management documents.
+
+• Research software to provide security, manage user inputs, and facilitate the article retrieval and Ask the Expert features.
+
+• Develop the intranet site using an iterative approach, soliciting a great deal of user feedback.
+
+• Develop a way to measure the value of the intranet site in terms of reduced costs and new revenues, both during the project and one year after project completion.
+
+ROLES AND RESPONSIBILITIES (PARTIAL LIST)
+
+name
+
+role
+
+Position
+
+contact information
+
+Joe Fleming
+
+Sponsor
+
+JWD Consulting,
+
+joe_fleming@jwdconsulting.com
+
+CEO
+
+Erica Bell
+
+Project
+
+JWD Consulting,
+
+erica_bell@jwdconsulting.com
+
+Manager
+
+manager
+
+Michael Chen
+
+Team
+
+JWD Consulting,
+
+michael_chen@jwdconsulting.com
+
+Member
+
+senior consultant
+
+Jessie Faue
+
+Team
+
+JWD Consulting,
+
+jessie_faue@jwdconsulting.com
+
+Member
+
+consultant
+
+Kevin Dodge
+
+Team
+
+JWD Consulting, IT
+
+kevin_dodge@jwdconsulting.com
+
+Member
+
+department
+
+Cindy
+
+Team
+
+JWD Consulting, IT
+
+cindy_dawson@jwdconsulting.com
+
+Dawson
+
+Member
+
+department
+
+Kim Phuong
+
+Advisor
+
+Client
+
+kim_phuong@client1.com
+
+representative
+
+Page Miller
+
+Advisor
+
+Client
+
+page_miller@client2.com
+
+representative
+
+Sign-Off: (Signatures of all the above stakeholders) Comments: (Handwritten or typed comments from above stakeholders, if applicable)
+
+“I will support this project as time allows, but I believe my client projects take priority. I will have one of my assistants support the project as needed.”—Michael Chen
+
+“We need to be extremely careful—testing this new system, especially the security in giving access to parts of the intranet site to the public and clients.”—Kevin Dodge and Cindy Dawson 01356_ch03_hr_085-150.indd 104
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 105
+
+holding a Project Kick-Off Meeting
+
+Experienced project managers like Erica know that it is crucial to get projects off to a great start. Holding a good kick-off meeting is an excellent way to do this. A kick-off meeting is a meeting held at the beginning of a project so that stakeholders can meet each other, review the goals of the project, and discuss future plans. The kick-off meeting is often held after the business case and project charter are completed, but it could be held sooner, as needed. Even if some or all project stakeholders must meet virtually, it is still important to have a kick-off meeting.
+
+Erica also knows that all project meetings with major stakeholders should include an agenda. Figure 3-2 shows the agenda that Erica provided for the project management intranet site project kick-off meeting. Notice the main topics in an agenda:
+
+• Meeting objective
+
+• Agenda (lists in order the topics to be discussed)
+
+• A section for documenting action items, who they are assigned to, and when each person will complete the action
+
+• A section to document the date and time of the next meeting
+
+[Date of Meeting]
+
+Project Management Intranet Site Project
+
+Figure 3-2 Kick-off meeting agenda
+
+01356_ch03_hr_085-150.indd 105
+
+4/28/18 10:53 AM
+
+106
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+It is good practice to focus on results of meetings, which is why a good agenda has sections for documenting action items and deciding on the next meeting date and time. It is also good practice to document meeting minutes, focusing on key decisions and action items. Erica planned to send the meeting minutes to all meeting participants and other appropriate stakeholders within a day or two after the meeting.
+
+Project Planning
+
+Planning is often the most difficult and unappreciated process in project management.
+
+Because planning is not always used to facilitate action, many people view planning negatively. The main purpose of project plans, however, is to guide project execution. To guide execution, plans must be realistic and useful, so a fair amount of time and effort must go into the planning process. People who are knowledgeable about the work need to plan the work. Chapter 4, Project Integration Management, provides detailed information on preparing a project management plan, and Chapters 5 through 13 describe planning processes for each of the other knowledge areas.
+
+Table 3-7 lists the project management knowledge areas, processes, and outputs of project planning according to the PMBOK® Guide – Sixth Edition. If you plan to earn PMP® or CAPM® certification, it will be helpful to study this table and similar ones found in this chapter to understand the potential outputs of each process group. There are many potential outputs from the planning process group, and every knowledge area is included. Just a few planning documents from JWD Consulting’s project management intranet site project are provided in this chapter as examples, and later chapters include many more examples.
+
+tabLe 3-7 Planning processes and outputs
+
+Knowledge area
+
+Planning Process
+
+Outputs
+
+Project Integration Develop project
+
+Project management plan
+
+Management
+
+management plan
+
+Project Scope
+
+Plan scope management
+
+Scope management plan
+
+Management
+
+Requirements management plan
+
+Collect requirements
+
+Requirements documentation
+
+Requirements traceability matrix
+
+Define scope
+
+Project scope statement
+
+Project documents updates
+
+Create WBS
+
+Scope baseline
+
+Project documents updates
+
+Project Schedule
+
+Plan schedule
+
+Schedule management plan
+
+Management
+
+management
+
+( continued)
+
+01356_ch03_hr_085-150.indd 106
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 107
+
+tabLe 3-7 Planning processes and outputs ( continued) Knowledge area
+
+Planning Process
+
+Outputs
+
+Define activities
+
+Activity list
+
+Activity attributes
+
+Milestone list
+
+Change requests
+
+Project management plan updates
+
+Sequence activities
+
+Project schedule network diagrams
+
+Project documents updates
+
+Estimate activity
+
+Activity duration estimates
+
+durations
+
+Basis of estimates
+
+Project documents updates
+
+Develop schedule
+
+Schedule baseline
+
+Project schedule
+
+Schedule data
+
+Project calendars
+
+Project management plan updates
+
+Project documents updates
+
+Project Cost
+
+Plan cost management
+
+Cost management plan
+
+Management
+
+Estimate costs
+
+Cost estimates
+
+Basis of estimates
+
+Project documents updates
+
+Determine budget
+
+Cost baseline
+
+Project funding requirements
+
+Project documents updates
+
+Project Quality
+
+Plan quality management
+
+Quality management plan
+
+Management
+
+Quality metrics
+
+Project management plan updates
+
+Project documents updates
+
+Project Resource
+
+Plan resource
+
+Resource management plan
+
+Management
+
+management
+
+Team charter
+
+Estimate activity
+
+Project document updates
+
+resources
+
+Resource requirements
+
+Basis of estimates
+
+Resource breakdown structure
+
+Project documents updates
+
+Project
+
+Plan communications
+
+Communications management plan
+
+Communications
+
+management
+
+Project management plan updates
+
+Management
+
+Project documents updates
+
+( continued)
+
+01356_ch03_hr_085-150.indd 107
+
+4/28/18 10:53 AM
+
+108
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+tabLe 3-7 Planning processes and outputs ( continued) Knowledge area
+
+Planning Process
+
+Outputs
+
+Project Risk
+
+Plan risk management
+
+Risk management plan
+
+Management
+
+Identify risks
+
+Risk register
+
+
+
+Risk report
+
+Perform qualitative risk
+
+Project documents updates
+
+analysis
+
+Project documents updates
+
+Perform quantitative risk
+
+Change requests
+
+analysis
+
+Project management plan updates
+
+Plan risk responses
+
+Project documents updates
+
+Project
+
+Plan procurement
+
+Procurement management plan
+
+Procurement
+
+management
+
+Procurement strategy
+
+Management
+
+Bid documents
+
+Procurement statement of work
+
+Source selection criteria
+
+Make or buy decisions
+
+Independent cost estimates
+
+Change requests
+
+Project documents updates
+
+Organizational process assets
+
+updates
+
+Project
+
+Plan stakeholder
+
+Stakeholder engagement plan
+
+Stakeholder
+
+engagement
+
+Management
+
+Source: PMBOK ® Guide – Sixth Edition, 2017.
+
+Recall that the PMBOK® Guide is only a guide, so many organizations may have different planning outputs based on their particular needs, as is the case in this example.
+
+You can also use many templates for planning; several are listed in the last section of this chapter.
+
+Because the project management intranet site project is relatively small, Erica believes some of the most important planning documents to focus on are the following:
+
+• A team charter, an output of project resource management planning
+
+• A project scope statement
+
+• A work breakdown structure, a key part of the scope baseline
+
+• A project schedule, in the form of a Gantt chart with all dependencies and resources entered
+
+• A list of prioritized risks (part of a risk register) All of these documents, as well as other project-related information, will be available to all team members on a project website. JWD Consulting has used project websites for 01356_ch03_hr_085-150.indd 108
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 109
+
+several years, and has found that they help facilitate communications and document project information. For larger projects, JWD Consulting also creates many of the other outputs listed in Table 3-7. (You will learn more about these documents by knowledge area in the following chapters.)
+
+Soon after the project team signed the project charter, Erica organized a team-building meeting. An important goal of the meeting was helping the project team members get to know each other. Erica had met and talked to each member separately, but this was the first time the project team would spend much time together. Jessie Faue worked in the Project Management Office with Erica, so they knew each other well, but Jessie was new to the company and did not know any of the other team members. Michael Chen was a senior consultant and often worked on the highest-priority projects for external clients. He attended the meeting with his assistant, Jill Anderson, who would support the project when Michael was too busy. Everyone valued Michael’s expertise, and he was extremely straightforward in dealing with people. He also knew both of the client representatives from past projects. Kevin Dodge was JWD
+
+Consulting’s intranet guru, who tended to focus on technical details. Cindy Dawson was also from the IT department and had experience working as a business consultant and negotiating with outside suppliers. Kim Phuong and Page Miller, the two client representatives, were excited about the project, but they were wary of sharing sensitive information about their companies.
+
+Erica knew that it was important to build a strong team and have everyone work well together. She had all participants introduce themselves, and then she led an icebreaking activity so everyone would be more relaxed. She asked all participants to describe their dream vacations, assuming that cost was no issue. This activity helped everyone get to know each other and show different aspects of their personalities.
+
+Erica then explained the importance of the project, again reviewing the signed project charter. She explained that an important tool to help a project team work together was to have members develop a team charter that everyone felt comfortable signing. JWD
+
+Consulting believed in using team charters for all projects to help promote teamwork and clarify team communications. She explained the main topics covered and showed them a team charter template. She then had the team members form two smaller groups, with one consultant, one IT department member, and one client representative in each group.
+
+These smaller groups made it easier for everyone to contribute ideas. Each group shared its ideas for what should go into the charter, and then everyone worked together to form one project team charter. Table 3-8 shows the resulting team charter, which took about 90 minutes to create. Erica could see that there were different personalities on this team, but she felt they all could work together well.
+
+Erica wanted to keep the team-building meeting to its two-hour time limit. The next task would be to clarify the scope of the project by developing a project scope statement and WBS. She knew it would take time and several future meetings to develop these documents, but she wanted to get a feel for what everyone thought were the main deliverables for this project, their roles in producing those deliverables, and what areas of the project scope needed clarification. She reminded everyone what their budget and schedule goals were so they would keep the goals in mind as they discussed the scope of the project. She also asked each person to provide the number of hours he or she would 01356_ch03_hr_085-150.indd 109
+
+4/28/18 10:53 AM
+
+110
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+tabLe 3-8 Team charter
+
+Code of Conduct: As a project team, we will:
+
+• Work proactively, anticipating potential problems and working to prevent them.
+
+• Keep other team members informed of information related to the project.
+
+• Focus on what is best for the entire project team.
+
+Participation: We will:
+
+• Be honest and open during all project activities.
+
+• Encourage diversity in team work.
+
+• Provide the opportunity for equal participation.
+
+• Be open to new approaches and consider new ideas.
+
+• Have one discussion at a time.
+
+• Let the project manager know well in advance if a team member has to miss a meeting or may have trouble meeting a deadline for a given task.
+
+Communication: We will:
+
+• Decide as a team on the best way to communicate. Because a few team members cannot often meet face to face, we will use e-mail, a project website, and other technology to assist in communicating.
+
+• Have the project manager facilitate all meetings and arrange for phone and video conferences, as needed.
+
+• Work together to create the project schedule and enter actuals into the enterprise-wide project management system by 4 p.m. every Friday.
+
+• Present ideas clearly and concisely.
+
+• Keep discussions on track.
+
+Problem Solving: We will:
+
+• Encourage everyone to participate in solving problems.
+
+• Only use constructive criticism and focus on solving problems, not blaming people.
+
+• Strive to build on each other’s ideas.
+
+Meeting Guidelines: We will:
+
+• Have a face-to-face meeting the first and third Tuesday morning of every month.
+
+• Meet more frequently the first month.
+
+• Hold other meetings as needed.
+
+• Record meeting minutes and send them via e-mail within 24 hours of all project meetings, focusing on decisions made and action items from each meeting.
+
+be available to work on this project each month for the next six months. She then had each person write answers to the following questions: 1. List one item that is most unclear to you about the scope of this project.
+
+2. What other questions do you have or issues do you foresee about the scope of the project?
+
+01356_ch03_hr_085-150.indd 110
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 111
+
+3. List what you believe to be the main deliverables for this project.
+
+4. Which deliverables do you think you will help create or review?
+
+Erica collected everyone’s inputs. She explained that she would take this information and work with Jessie to develop the first draft of the scope statement that she would e-mail to everyone by the end of the week. She also suggested that they all meet again in one week to develop the scope statement further and to start creating the WBS for the project.
+
+Erica and Jessie reviewed all the information and created the first draft of the scope statement. At their next team meeting, they discussed the scope statement and got a good start on the WBS. Table 3-9 shows a portion of the scope statement that Erica created after a few more e-mails and another team meeting. Note that the scope statement lists the product characteristics and requirements, summarizes the deliverables, and describes project success criteria in detail.
+
+tabLe 3-9 Scope statement draft
+
+Project Title: Project Management Intranet Site Project Date: May 18
+
+Prepared by: Erica Bell, Project Manager, erica_bell@jwdconsulting.com Project Summary and Justification: Joe Fleming, CEO of JWD Consulting, requested this project to assist the company in meeting its strategic goals. The new intranet site will increase visibility of the company’s expertise to current and potential clients. It will also help reduce internal costs and improve profitability by providing standard tools, techniques, templates, and project management knowledge to all internal consultants.
+
+The budget for the project is $140,000. An additional $40,000 per year will be required for operational expenses after the project is completed. Estimated benefits are $200,000 each year. It is important to focus on the system paying for itself within one year of its completion.
+
+Product Characteristics and Requirements:
+
+1. Templates and tools: The intranet site will allow authorized users to download files they can use to create project management documents and to help them use project management tools. These files will be in Microsoft Word, Excel, Access, Project, or in HTML or PDF format, as appropriate.
+
+2. User submissions: Users will be encouraged to e-mail files with sample templates and tools to the Webmaster. The Webmaster will forward the files to the appropriate person for review and then post the files to the intranet site, if desired.
+
+3. Articles: Articles posted on the intranet site will have appropriate copyright permission. The preferred format for articles will be PDF. The project manager may approve other formats.
+
+4. Requests for articles: The intranet site will include a section for users to ask someone from the Project Management Office (PMO) at JWD Consulting to research appropriate articles for them. The PMO manager must first approve the request and negotiate payments, if appropriate.
+
+( continued)
+
+01356_ch03_hr_085-150.indd 111
+
+4/28/18 10:53 AM
+
+112
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+tabLe 3-9 Scope statement draft ( continued) 5. Links: All links to external sites will be tested on a weekly basis. Broken links will be fixed or removed within five working days of discovery.
+
+6. The Ask the Expert feature must be user-friendly and capable of soliciting questions and immediately acknowledging that the question has been received in the proper format. The feature must also be capable of forwarding the question to the appropriate expert (as maintained in the system’s expert database) and capable of providing the status of questions that are answered. The system must also allow for payment for advice, if appropriate.
+
+7. Security: The intranet site must provide several levels of security. All internal employees will have access to the entire intranet site when they enter their security information to access the main, corporate intranet. Part of the intranet will be available to the public from the corporate website. Other portions of the intranet will be available to current clients based on verification with the current client database. Other portions of the intranet will be available after negotiating a fee or entering a fixed payment using pre-authorized payment methods.
+
+8. Search feature: The intranet site must include a search feature for users to search by topic and key words.
+
+9. The intranet site must be accessible using a company-approved Internet browser.
+
+Users must have appropriate application software to open several of the templates and tools.
+
+10. The intranet site must be available 24 hours a day, 7 days a week, with one hour per week for system maintenance and other periodic maintenance, as appropriate.
+
+Summary of Project Deliverables
+
+Project management–related deliverables: Business case, project charter, team charter, scope statement, WBS, schedule, cost baseline, progress reports, final project presentation, final project report, lessons-learned report, and any other documents required to manage the project.
+
+Product-related deliverables:
+
+1. Survey: Survey current consultants and clients to help determine desired content and features for the intranet site.
+
+2. Files for templates: The intranet site will include templates for at least 20 documents when the system is first implemented, and it will have the capacity to store up to 100 documents. The project team will decide on the initial 20 templates based on survey results.
+
+3. Examples of completed templates: The intranet site will include examples of projects that have used the templates available on the site. For example, if there is a template for a business case, there will also be an example of a real business case that uses the template.
+
+( continued)
+
+01356_ch03_hr_085-150.indd 112
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 113
+
+tabLe 3-9 Scope statement draft ( continued) 4. Instructions for using project management tools: The intranet site will include information on how to use several project management tools, including the following as a minimum: work breakdown structures, Gantt charts, network diagrams, cost estimates, and earned value management. Where appropriate, sample files will be provided in the application software appropriate for the tool. For example, Microsoft Project files will be available to show sample work breakdown structures, Gantt charts, network diagrams, cost estimates, and applications of earned value management. Excel files will be available for sample cost estimates and earned value management charts.
+
+5. Example applications of tools: The intranet site will include examples of real projects that have applied the tools listed in number 4.
+
+6. Articles: The intranet site will include at least 10 useful articles about relevant topics in project management. The intranet site will have the capacity to store at least 1,000 articles in PDF format with an average length of 10 pages each.
+
+7. Links: The intranet site will include links with brief descriptions for at least 20
+
+useful sites. The links will be categorized into meaningful groups.
+
+8. Expert database: In order to deliver an Ask the Expert feature, the system must include and access a database of approved experts and their contact information.
+
+Users will be able to search for experts by predefined topics.
+
+9. User Requests feature: The intranet site will include an application to solicit and process requests from users.
+
+10. Intranet site design: An initial design of the new intranet site will include a site map, suggested formats, and appropriate graphics. The final design will incorporate comments from users on the initial design.
+
+11. Intranet site content: The intranet site will include content for the templates and tools sections, articles section, article retrieval section, links section, Ask the Expert section, User Requests feature, security, and payment features.
+
+12. Test plan: The test plan will document how the intranet site will be tested, who will do the testing, and how bugs will be reported.
+
+13. Promotion: A plan for promoting the intranet site internally and externally will describe various approaches for soliciting inputs during design. The promotion plan will also announce the availability of the new intranet site.
+
+14. Project benefit measurement plan: A project benefit plan will measure the financial value of the intranet site.
+
+Project Success Criteria: Our goal is to complete this project within six months for no more than $140,000. The project sponsor, Joe Fleming, has emphasized the importance of the project paying for itself within one year after the site is complete. To meet this financial goal, the intranet site must have strong user inputs. We must also develop a method for capturing the benefits while the intranet site is being developed and tested, and after it is rolled out. If the project takes a little longer to complete or costs a little more than planned, the firm will still view it as a success if it has a good payback and helps promote the firm’s image as an excellent consulting organization.
+
+01356_ch03_hr_085-150.indd 113
+
+4/28/18 10:53 AM
+
+114
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+As the project team worked on the scope statement, it also developed the WBS
+
+for the project. The WBS is a very important tool in project management because it provides the basis for deciding how to do the work. The WBS also provides a basis for creating the project schedule and for measuring and forecasting project performance.
+
+Erica and her team decided to use the project management process groups as the main categories for the WBS, as shown in Figure 3-3. They included completed work from the initiating process to provide a complete picture of the project’s scope. The team members also wanted to list several milestones on their schedule, such as the completion of key deliverables, so they prepared a separate list of milestones that they would include on the Gantt chart. You will learn more about creating a WBS in Chapter 5, Project Scope Management.
+
+After preparing the WBS, the project team held another face-to-face meeting to develop the project schedule, following the steps outlined in Section 2.5 of the WBS.
+
+Several of the project schedule tasks are dependent on one another. For example, the intranet site testing was dependent on the construction and completion of the content tasks. Everyone participated in the development of the schedule, especially the tasks on which each member would be working. Some of the tasks were broken down further so the team members had a better understanding of what they had to do and when.
+
+They also kept their workloads and cost constraints in mind when developing the duration estimates. For example, Erica was scheduled to work 20 hours per week on this project, and the other project team members combined should not spend more than 60 hours per week on average for the project. As team members provided duration estimates, they also estimated how many work hours they would spend on each task.
+
+After the meeting, Erica worked with Jessie to enter all of the information into Microsoft Project. Erica was using the intranet site project to train Jessie in applying several project management tools and templates. They entered all of the tasks, duration estimates, and dependencies to develop the Gantt chart. Their initial inputs resulted in a completion date that was a few weeks later than planned. Erica and Jessie reviewed the critical path for the project, and Erica had to shorten the duration estimates for a few critical tasks to meet their schedule goal of completing the project within six months. She talked to the team members working on those tasks, and they agreed that they could plan to work more hours each week on those tasks, if required, to complete them on time. Figure 3-4 shows the resulting Gantt chart created in Microsoft Project. Only the executing tasks are expanded to show the subtasks under that category. (You will learn how to use Project 2016 in Appendix A, which is available on the Companion website for this text. Chapter 6, Project Schedule Management, explains Gantt charts and other schedule management tools.) The baseline schedule projects a completion date of November 1. Also notice that there is only one delivery of the software, shown as a milestone near the end of the project, on October 17. The project charter had a planned completion date of November 4. Erica wanted to complete the project on time, and although three extra days was not much of a buffer, she felt that the baseline schedule was realistic. She would do her best to help everyone meet their deadlines.
+
+Erica decided to enter the resource and cost information after reviewing the schedule because the majority of the costs for this project were internal labor. Aware 01356_ch03_hr_085-150.indd 114
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 115
+
+1.0 Initiating
+
+1.1 Stakeholder identification
+
+1.2 Project charter
+
+1.3 Kick-off meeting
+
+2.0 Planning
+
+2.1 Team planning meeting
+
+2.2 Team charter
+
+2.3 Scope statement
+
+2.4 WBS
+
+2.5 Schedule and cost baseline
+
+2.5.1 Task resources
+
+2.5.2 Task durations
+
+2.5.3 Task dependencies
+
+2.5.4 Draft Gantt chart
+
+2.5.5 Final Gantt chart
+
+2.6 Risk prioritization
+
+3.0 Executing
+
+3.1 Survey
+
+3.2 User inputs
+
+3.3 Intranet site content
+
+3.3.1 Templates and tools
+
+3.3.2 Articles
+
+3.3.3 Links
+
+3.3.4 Ask the Expert
+
+3.3.5 User Requests feature
+
+3.4 Intranet site design
+
+3.5 Intranet site construction
+
+3.6 Intranet site testing
+
+3.7 Intranet site promotion
+
+3.8 Intranet site rollout
+
+3.9 Project benefits measurement
+
+4.0 Monitoring and Controlling
+
+4.1 Progress reports
+
+4.2 Change requests
+
+5.0 Closing
+
+5.1 Final project report
+
+5.2 Final project presentation
+
+5.3 Lessons learned
+
+Figure 3-3 JWD Consulting intranet project work breakdown structure (WBS) 01356_ch03_hr_085-150.indd 115
+
+4/28/18 10:53 AM
+
+
+
+116
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+Figure 3-4 JWD Consulting intranet site project baseline Gantt chart of the connection between time spent and cost on the project, the team kept its labor hour constraints in mind when developing task duration estimates. Erica and Jessie entered each project team member’s name and labor rate in the resource sheet for their Microsoft Project file. The client representatives were not being paid for their time, so she left their labor rates at the default value of zero. Erica had also included $10,000 for procurement in the financial analysis she prepared for the business case. She showed Jessie how to enter that amount as a fixed cost split equally between the Ask the Expert and User Requests features, because she thought they would have to purchase external software and services for those. Erica then helped Jessie assign resources to tasks, which involved entering the projected number of hours everyone planned to work each week on each task. They then ran several cost reports and made a few minor adjustments to resource assignments to make their planned total cost meet their budget constraints. Their cost baseline was very close to their planned budget of $140,000.
+
+The last deliverable her team needed to create within the planning process group was a list of prioritized risks. As the project progresses, this information will be updated and expanded in a risk register, which also includes information on root causes of the risks, warning signs that potential risks might occur, and response strategies for the risks.
+
+(See Chapter 11, Project Risk Management, for more information on risk registers.) Erica reviewed the risks she had mentioned in the business case as well as the comments team members made on the project charter and in their team meetings. She held a special meeting for everyone to brainstorm and discuss potential risks. They listed all of the risks they identified and then categorized them to analyze how likely (high, medium, or low probability) each was and how big an impact (high, medium, or low) each could have.
+
+Only one risk was in the high-probability and high-impact category, and several had medium impact. They chose not to list the low-probability and low-impact risks. After some discussion, the team developed the list of prioritized risks shown in Table 3-10.
+
+01356_ch03_hr_085-150.indd 116
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 117
+
+tabLe 3-10 List of prioritized risks
+
+ranking
+
+Potential risk
+
+1
+
+Lack of inputs from internal consultants
+
+2
+
+Lack of inputs from client representatives
+
+3
+
+Security of new system
+
+4
+
+Outsourcing/purchasing for the article retrieval and Ask the Expert features
+
+5
+
+Outsourcing/purchasing for processing online payment transactions 6
+
+Organizing the templates and examples in a useful fashion 7
+
+Providing an efficient search feature
+
+8
+
+Getting good feedback from Michael Chen and other senior consultants 9
+
+Effectively promoting the new system
+
+10
+
+Realizing the benefits of the new system within one year Project execution
+
+Executing the project involves taking the necessary actions to complete the activities in the project plan. The products of the project are created during project execution, and it usually takes the most resources to accomplish this process. Table 3-11 lists the knowledge areas, executing processes, and outputs of project execution from the PMBOK®
+
+Guide – Sixth Edition.
+
+Many project sponsors and customers focus on deliverables related to providing the products, services, or results desired from the project. However, it is equally important to document change requests and update planning documents as part of execution.
+
+Templates related to this process group are listed later in this chapter.
+
+Erica knew that providing strong leadership and using good communication skills were crucial to good project execution. For this relatively small project, she was able to work closely with all the team members to make sure they were producing the desired work results. She also used her networking skills to get input from other people in the firm and from external sources at no additional cost to the project. She made sure that everyone who would use the resulting intranet application understood what the team was producing as part of the project and how the intranet application would help them in the future.
+
+Erica also knew that working efficiently was critical for successful execution, regardless of the size of the project. Therefore, she used resources throughout the company when they were available. For example, she used the firm’s formal change request form, even though it had primarily been used for external projects. The firm also had contract specialists and templates for several procurement documents that the project team members would use for the portions of the project it planned to outsource.
+
+Erica kept in mind that Joe, the CEO and project sponsor, liked to see work performance data through milestone reports. He also wanted Erica to alert him to any 01356_ch03_hr_085-150.indd 117
+
+4/28/18 10:53 AM
+
+118
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+tabLe 3-11 Executing processes and outputs
+
+Knowledge area
+
+executing Process
+
+Outputs
+
+Project Integration
+
+Direct and manage
+
+Deliverables
+
+Management
+
+project work
+
+Work performance data
+
+
+
+Issue log
+
+
+
+Change requests
+
+
+
+Project management plan updates
+
+
+
+Project documents updates
+
+
+
+Organizational process assets updates
+
+Manage project
+
+Lessons-learned register
+
+knowledge
+
+Project management plan updates
+
+Organizational process assets updates
+
+Project Quality
+
+Manage quality
+
+Quality report
+
+Management
+
+Test and evaluation documents
+
+Change requests
+
+Project management plan updates
+
+Project documents updates
+
+Project Resource
+
+Acquire resources
+
+Physical resource assignments
+
+Management
+
+
+
+Project team assignments
+
+
+
+Resource calendars
+
+
+
+Change requests
+
+Project management plan updates
+
+
+
+Project documents updates
+
+
+
+Enterprise environmental factors
+
+
+
+updates
+
+Organizational process assets updates
+
+Team performance assessments
+
+Develop team
+
+Change requests
+
+Project management plan updates
+
+Project documents updates
+
+Enterprise environmental factors updates
+
+Organizational process assets updates
+
+Manage team
+
+Change requests
+
+Project management plan updates
+
+Project documents updates
+
+Enterprise environmental factors updates
+
+Project
+
+Manage
+
+Project communications
+
+Communications
+
+communications
+
+Project management plan updates
+
+Management
+
+Project documents updates
+
+Organizational process assets updates
+
+( continued)
+
+01356_ch03_hr_085-150.indd 118
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 119
+
+tabLe 3-11 Executing processes and outputs ( continued) Knowledge area
+
+executing Process
+
+Outputs
+
+Project Risk
+
+Implement risk
+
+Change requests
+
+Management
+
+responses
+
+Project documents updates
+
+Project
+
+Conduct
+
+Selected sellers
+
+Procurement
+
+procurements
+
+Agreements
+
+Management
+
+Change requests
+
+Project management plan updates
+
+Project documents updates
+
+Organizational process assets updates
+
+Project
+
+Manage stakeholder
+
+Change requests
+
+Stakeholder
+
+engagement
+
+Project management plan updates
+
+Management
+
+Project documents updates
+
+Organizational process assets updates
+
+Source: PMBOK® Guide – Sixth Edition, 2017.
+
+potential issues or problems. Erica met with most of her project team members often, and she talked to Joe about once a week to review progress on completing milestones and to discuss any other project issues. Although Erica could have used project management software to create milestone reports, she used word-processing software instead because this project was small and she could more easily manipulate the report format. Table 3-12
+
+shows a sample of a milestone report for the project management intranet site project that Erica reviewed with Joe in mid-June.
+
+Human resource issues often occur during project execution, especially conflicts. At several of the team meetings, Erica could see that Michael seemed to be bored and often left the room to make phone calls to clients. She talked to Michael about the situation, and she discovered that Michael was supportive of the project, but he knew he could only spend a minimal amount of time on it. He was much more productive outside of meetings, so Erica agreed to have Michael attend a minimal number of project team meetings.
+
+She could see that Michael was contributing to the team by the feedback he provided and his leadership on the Ask the Expert feature for the intranet site. Erica adjusted her communication style to meet his specific needs.
+
+Another problem occurred when Cindy was contacting potential suppliers for software to help with the Ask the Expert and User Requests features. Kevin wanted to write all of the software for the project himself, but Cindy knew it made better business sense to purchase these new software capabilities from a reliable source. Cindy had to convince Kevin that it was worth buying some software from other sources.
+
+Cindy also discovered that their estimate of $10,000 was only about half the amount they needed for software services. She discussed the problem with Erica, explaining the need for some custom development no matter which supplier they chose. Erica agreed that they should go with an outside source, and she asked their sponsor to approve the additional funds. Joe agreed, but he stressed the importance of still having the system pay for itself within a year.
+
+01356_ch03_hr_085-150.indd 119
+
+4/28/18 10:53 AM
+
+120
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+tabLe 3-12 Milestone report as of June 17
+
+issues/
+
+Milestone
+
+date
+
+status
+
+responsible
+
+comments
+
+Initiating
+
+May 2
+
+Completed
+
+Erica and Joe
+
+Stakeholders
+
+identified
+
+Project charter
+
+May 10
+
+Completed
+
+Erica
+
+signed
+
+Project kick-off
+
+May 13
+
+Completed
+
+Erica
+
+Went very well
+
+meeting held
+
+Planning
+
+May 13
+
+Completed
+
+Erica
+
+Team charter signed
+
+Scope statement
+
+May 27
+
+Completed
+
+Erica
+
+completed
+
+WBS completed
+
+May 31
+
+Completed
+
+Erica
+
+List of prioritized
+
+June 3
+
+Completed
+
+Erica
+
+Reviewed with
+
+risks completed
+
+sponsor and
+
+team
+
+Schedule and cost
+
+June 13
+
+Completed
+
+Erica
+
+baseline completed
+
+Executing
+
+June 28
+
+Erica
+
+Poor response
+
+Survey and analysis
+
+so far!
+
+completed
+
+Intranet site design
+
+July 26
+
+Kevin
+
+completed
+
+Project ben—
+
+August 9
+
+Erica
+
+efits measurement
+
+completed
+
+User inputs
+
+August 9
+
+Jessie
+
+collected
+
+Articles completed
+
+August 23
+
+Jessie
+
+Templates and tools
+
+September 6
+
+Erica
+
+completed
+
+Ask the Expert
+
+September 6
+
+Michael
+
+completed
+
+( continued)
+
+01356_ch03_hr_085-150.indd 120
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 121
+
+tabLe 3-12 Milestone report as of June 17 ( continued) issues/
+
+Milestone
+
+date
+
+status
+
+responsible
+
+comments
+
+User Requests
+
+September 6
+
+Cindy
+
+feature completed
+
+Links completed
+
+September 13
+
+Kevin
+
+Intranet site
+
+October 4
+
+Kevin
+
+construction
+
+completed
+
+Intranet site testing
+
+October 18
+
+Cindy
+
+completed
+
+Intranet site
+
+October 25
+
+Erica
+
+promotion
+
+completed
+
+Intranet site rollout October 25
+
+Kevin
+
+completed
+
+Monitoring and
+
+Every
+
+All
+
+Controlling
+
+Friday
+
+Progress reports
+
+Closing
+
+Final project
+
+October 27
+
+Erica
+
+presentation
+
+completed
+
+Sponsor sign-off on
+
+October 27
+
+Joe
+
+project completed
+
+Final project report
+
+October 28
+
+Erica
+
+completed
+
+Lessons-learned
+
+November 1
+
+All
+
+reports submitted
+
+Even near the beginning of the project, Erica had tapped Joe for help when the team received a low response rate to their survey and requests for user inputs. Joe sent an e-mail to all of JWD Consulting’s consultants describing the importance of the project. He also offered five extra vacation days to the person who provided the best examples of how they used tools and templates to manage their projects. Erica then received informative input from the consultants. Having effective communication skills and strong top management support are essential to good project execution.
+
+01356_ch03_hr_085-150.indd 121
+
+4/28/18 10:53 AM
+
+122
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+b e s t P r a c t i c e
+
+One way to learn about best practices in project management is by studying recipients of PMI’s Project of the Year award. The Quartier International de Montréal (QIM), Montreal’s international district, was a 66-acre urban revitalization project in the heart of downtown Montreal. This $90 million, five-year project turned a once unpopular area into a thriving section of the city with a booming real estate market, and has generated $770 million in related construction. Clement Demers, PMP®, was the director general for the QIM project. He said the team “took a unique project execution approach by dividing work into packages that allowed for smaller-scale testing of management techniques and contract awards. Benefiting from experience gained in each stage, managers could then adjust future work segments and management styles accordingly.”11
+
+Other strategies that helped the team succeed included the following:
+
+• The team identified champions in each stakeholder group to help inspire others to achieve project goals.
+
+• The team’s communications plan included a website dedicated to public concerns.
+
+• There were two-day reviews at the beginning of each project phase to discuss problems and develop solutions to prevent conflict.
+
+• Financial investors were asked for input to increase their stake in the project.
+
+• The team recognized the value of hiring high-quality experts, such as architects, engineers, lawyers, and urban planners. They paid all professionals a fixed price for their services and paid their fees quickly.
+
+• Another Canadian firm won the Project of the Year award in 2014. The CA $1.3 billion AP60 Phase 1 Project produced an upgraded aluminum smelting facility in Jonquiere, Quebec. In 2013, the Adelaide desalination project in Adelaide, Australia, won the award. This project, which supplies water during times of drought, was completed early and within 1 percent of its AU$1.4
+
+billion budget.12 The 2017 award went to the U.S. firm Washington River Protection Solutions, LLC for their work on the Hanford Double Shell Tank AY-102 Recovery Project. The project involved removing and transferring nuclear waste to a double-shell tank for safe storage. The project closed ahead of scheduled and over 8 percent under budget.13 See PMI’s website for more information on award criteria and winners.
+
+Project Monitoring and controlling
+
+Monitoring and controlling is the process of measuring progress toward project objectives, monitoring deviation from the current plan, and taking corrective action to match progress with the current plan. Monitoring and controlling is done throughout the life of a project and involves all 10 project management knowledge areas. Table 3-13 lists the knowledge areas, monitoring and controlling processes, and outputs, according to the PMBOK® Guide – Sixth Edition. Templates related to this process group are listed later in this chapter.
+
+01356_ch03_hr_085-150.indd 122
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 123
+
+tabLe 3-13 Monitoring and controlling processes and outputs Monitoring and
+
+Knowledge area
+
+controlling Process
+
+Outputs
+
+Project Integration
+
+Monitor and control Work performance reports
+
+Management
+
+project work
+
+Change requests
+
+
+
+Project management plan
+
+
+
+updates
+
+Project documents updates
+
+Perform integrated
+
+Approved change requests
+
+change control
+
+Project management plan updates
+
+Project documents updates
+
+Project Scope
+
+Validate scope
+
+Accepted deliverables
+
+Management
+
+
+
+Work performance information
+
+
+
+Change requests
+
+
+
+Project documents updates
+
+Control scope
+
+Work performance information
+
+Change requests
+
+Project management plan updates
+
+Project documents updates
+
+Project Schedule
+
+Control schedule
+
+Work performance information
+
+Management
+
+Schedule forecasts
+
+Change requests
+
+Project management plan updates
+
+Project documents updates
+
+Project Cost
+
+Control cost
+
+Work performance information
+
+Management
+
+Cost forecasts
+
+Change requests
+
+Project management plan updates
+
+Project documents updates
+
+Project Quality
+
+Control quality
+
+Quality control measurements
+
+Management
+
+Verified deliverables
+
+Work performance information
+
+Change requests
+
+Project management plan updates
+
+Project documents updates
+
+Project Resource
+
+Control resources
+
+Work performance information
+
+Management
+
+Change requests
+
+Project management plan updates
+
+Project documents updates
+
+( continued)
+
+01356_ch03_hr_085-150.indd 123
+
+4/28/18 10:53 AM
+
+124
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+tabLe 3-13 Monitoring and controlling processes and outputs ( continued) Monitoring and
+
+Knowledge area
+
+controlling Process
+
+Outputs
+
+Project Communica-
+
+Monitor
+
+Work performance information
+
+tions Management
+
+communications
+
+Change requests
+
+Project management plan updates
+
+Project documents updates
+
+Project Stakeholder
+
+Monitor stakeholder Work performance information
+
+Management
+
+engagement
+
+Change requests
+
+Project management plan updates
+
+Project documents updates
+
+Project Risk
+
+Monitor risks
+
+Work performance information
+
+Management
+
+Change requests
+
+Project management plan updates
+
+Project documents updates
+
+Organizational process assets updates
+
+Project Procurement
+
+Control
+
+Closed procurements
+
+Management
+
+procurements
+
+Work performance information
+
+Procurement documentation updates
+
+Change requests
+
+Project management plan updates
+
+Project documents updates
+
+Organizational process assets updates
+
+Source: PMBOK® Guide – Sixth Edition, 2017.
+
+On the project management intranet site project, several updates to the project management plan were made to reflect changes made to the project scope, schedule, and budget. Erica and other project team members took corrective action when necessary.
+
+For example, when they were not getting many responses to their survey, Erica asked Joe for help. When Cindy had trouble negotiating with a supplier, she got help from another senior consultant who had worked with that supplier in the past. Erica also had to request more funds for that part of the project.
+
+Project team members submitted a brief progress report every Friday to show work performance information. They were originally using a company template for progress reports, but Erica found that by modifying the old template, she received better information, which then helped her team work more effectively. She wanted team members not only to report what they did but also to focus on what was going well or not going well, and why. This extra information helped team members reflect on the project’s progress and identify areas in need of improvement. Table 3-14 is an example of one of Cindy’s progress reports.
+
+01356_ch03_hr_085-150.indd 124
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 125
+
+tabLe 3-14 Sample weekly progress report
+
+Project Name: Project Management Intranet Project Team Member Name: Cindy Dawson, cindy_dawson@jwdconsulting.com Date: August 5
+
+Work completed this week:
+
+–Worked with Kevin to start the intranet site construction
+
+–Organized all the content files
+
+–Started developing a file naming scheme for content files
+
+–Continued work on Ask the Expert and User Requests features
+
+–Met with preferred supplier
+
+–Verified that their software would meet our needs
+
+–Discovered the need for some customization
+
+Work to complete next week:
+
+–Continue work on intranet site construction
+
+–Prepare draft contract for preferred supplier
+
+–Develop new cost estimate for outsourced work
+
+What’s going well and why:
+
+The intranet site construction started well. The design was very clear and easy to follow. Kevin really knows what he’s doing.
+
+What’s not going well and why:
+
+It is difficult to decide how to organize the templates and examples. Need more input from senior consultants and clients.
+
+Suggestions/Issues:
+
+– Hold a special meeting to decide how to organize the templates and examples on the intranet site.
+
+–Get some sample contracts and help in negotiating with the preferred supplier.
+
+Project changes:
+
+I think we can stay on schedule, but it looks like we’ll need about $10,000 more for outsourcing. That’s doubling our budget in that area.
+
+In addition to progress reports, an important tool for monitoring and controlling the project was using project management software. All team members submitted their actual hours worked on tasks each Friday afternoon by 4 p.m. via the firm’s enterprise-wide project management software. They were using the enterprise version of Microsoft Project 2016, so they could easily update their task information via the Web. Erica worked with Jessie to analyze the information, paying special attention to the critical path and earned value data. (See Chapter 6, Project Schedule Management, for more information on critical path analysis; Chapter 7, Project Cost Management, for a description of earned value management; and Appendix A, available on the Companion website for this text, for more information on using Project 2016 to help control projects.) Erica wanted to 01356_ch03_hr_085-150.indd 125
+
+4/28/18 10:53 AM
+
+126
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+finish the project on time, even if it meant spending more money. Joe agreed with that approach, and approved the additional funding Erica projected they would need based on the earned value projections and the need to make up a little time on critical tasks.
+
+Joe again emphasized the importance of the new system paying for itself within a year. Erica was confident that they could exceed the projected financial benefits, and she decided to begin capturing benefits as soon as the project team began testing the system. When she was not working on this project, Erica was managing JWD
+
+Consulting’s Project Management Office (PMO), and she could already see how the intranet site would help her staff save time and make their consultants more productive.
+
+One of her staff members wanted to move into the consulting group, and she believed the PMO could continue to provide its current services with one less person due to this new system—a benefit Erica had not considered before. Several of the firm’s client contracts were based on performance and not hours billed, so she was excited to start measuring the value of the new intranet site to their consultants as well.
+
+Project closing
+
+The closing process involves gaining stakeholder and customer acceptance of the final products and services and then bringing the project or project phase to an orderly end.
+
+It includes verifying that all of the deliverables are complete, and it often includes a final project report and presentation. Even though many IT projects are canceled before completion, it is still important to formally close any project and reflect on what can be learned to improve future projects. As philosopher George Santayana said, “Those who cannot remember the past are condemned to repeat it.”14
+
+It is also important to plan for and execute a smooth transition of the project into the normal operations of the company. Most projects produce results that are integrated into the existing organizational structure. For example, JWD Consulting’s project management intranet site project will require staff to support the intranet site after it is operational. Erica included support costs of $40,000 per year for the projected three-year life of the new system. She also created a transition plan as part of the final report to provide for a smooth transition of the system into the firm’s operations. The plan included a list of issues that had to be resolved before the firm could put the new intranet site into production. For example, Michael Chen would not be available to work on the intranet site after the six-month project was complete, so the team had to know who would support the Ask the Expert feature and plan some time for Michael to work with that person.
+
+Table 3-15 lists the knowledge areas, processes, and outputs of project closing based on the PMBOK® Guide – Sixth Edition. During the closing processes of any project, project team members must deliver the final product, service, or result of the project and update organizational process assets, such as project files and a lessons-learned report. If project team members procured items during the project, they must formally complete or close out all contracts. Templates related to project closing are listed later in this chapter.
+
+Erica and her team prepared a final report, final presentation, and lessons-learned report in closing the project. Erica reviewed the confidential, individual lessons-learned reports from each team member and wrote one summary 01356_ch03_hr_085-150.indd 126
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 127
+
+lessons-learned report to include in the final documentation, part of which is provided in Table 3-16. Notice the bulleted items in the fourth question, such as the importance of having a good kick-off meeting, working together to develop a team charter, using project management software, and communicating well with the project team and sponsor.
+
+Erica also had Joe sign a client acceptance form, one of the sample templates on the new intranet site that the project team suggested all consultants use when closing tabLe 3-15 Closing processes and output
+
+Knowledge area
+
+closing Process
+
+Outputs
+
+Project Integration Close project or Project documents updates
+
+Management
+
+phase
+
+Final product, service, or result transition
+
+Final report
+
+Organizational process assets updates
+
+Source: PMBOK® Guide – Sixth Edition, 2017.
+
+tabLe 3-16 Lessons-learned report (abbreviated) Project Name:
+
+JWD Consulting Project Management Intranet Site Project Project Sponsor:
+
+Joe Fleming
+
+Project Manager:
+
+Erica Bell
+
+Project Dates:
+
+May 2–November 4
+
+Final Budget:
+
+$150,000
+
+1. Did the project meet scope, time, and cost goals?
+
+We did meet scope and time goals, but we had to request an additional $10,000, which the sponsor approved.
+
+2. What were the success criteria listed in the project scope statement?
+
+Below is what we put in our project scope statement under project success criteria:
+
+“Our goal is to complete this project within six months for no more than $140,000.
+
+The project sponsor, Joe Fleming, has emphasized the importance of the project paying for itself within one year after the intranet site is complete. To meet this financial goal, the intranet site must have strong user input. We must also develop a method for capturing the benefits while the intranet site is being developed and tested, and after it is rolled out. If the project takes a little longer to complete or costs a little more than planned, the firm will still view it as a success if it has a good payback and helps promote the firm’s image as an excellent consulting organization.”
+
+( continued)
+
+01356_ch03_hr_085-150.indd 127
+
+4/28/18 10:53 AM
+
+128
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+tabLe 3-16 Lessons-learned report (abbreviated) ( continued) 3. Reflect on whether you met the project success criteria.
+
+As stated above, the sponsor was not too concerned about going over budget as long as the system would have a good payback period and help promote our firm’s image. We have already documented some financial and image benefits of the new intranet site. For example, we have decided that we can staff the PMO with one less person, resulting in substantial cost savings. We have also received excellent feedback from several of our clients about the new intranet site.
+
+4. What were the main lessons your team learned from managing this project?
+
+The main lessons we learned include the following:
+
+• Having a good project sponsor was instrumental to project success. We ran into a couple of difficult situations, and Joe was very creative in helping us solve problems.
+
+• Teamwork was essential. It really helped to take time for everyone to get to know each other at the kick-off meeting. It was also helpful to develop and follow a team charter.
+
+• Good planning paid off in execution. We spent a fair amount of time developing a good project charter, scope statement, WBS, schedules, and so on. Everyone worked together to develop these planning documents, and there was strong buy-in.
+
+• Project management software was very helpful throughout the project.
+
+5. Describe one example of what went right on this project.
+
+6. Describe one example of what went wrong on this project.
+
+7. What will you do differently on the next project based on your experience working on this project?
+
+their projects. (You can find this and other templates on the Companion website for this text.)
+
+Table 3-17 provides the table of contents for the final project report. The cover page included the project title, date, and team member names. Notice the inclusion of a transition plan and a plan to analyze the benefits of the system each year in the final report. Also, notice that the final report includes attachments for all the project management and product-related documents. Erica knew how important it was to provide good final documentation on projects. The project team produced a hard copy of the final documentation and an electronic copy to store on the new intranet site for other consultants to use as desired.
+
+Erica also organized a project closure luncheon for the project team right after the final project presentation. She used the luncheon to share lessons learned and celebrate a job well done.
+
+01356_ch03_hr_085-150.indd 128
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 129
+
+tabLe 3-17 Final project report table of contents 1. Project Objectives
+
+2. Summary of Project Results
+
+3. Original and Actual Start and End Dates
+
+4. Original and Actual Budget
+
+5. Project Assessment (Why did you do this project? What did you produce? Was the project a success? What went right and wrong on the project?) 6. Transition Plan
+
+7. Annual Project Benefits Measurement Approach
+
+Attachments:
+
+A Project Management Documentation
+
+• Business case
+
+• Project charter
+
+• Team charter
+
+• Scope statement
+
+• WBS and WBS dictionary
+
+• Baseline and actual Gantt chart
+
+• List of prioritized risks
+
+• Milestone reports
+
+• Progress reports
+
+• Contract files
+
+• Lessons-learned reports
+
+• Final presentation
+
+• Client acceptance form
+
+B Product-Related Documentation
+
+• Survey and results
+
+• Summary of user inputs
+
+• Intranet site content
+
+• Intranet site design documents
+
+• Test plans and reports
+
+• Intranet site promotion information
+
+• Intranet site rollout information
+
+• Project benefits measurement information
+
+case study 2: jWd cOnsuLting’s PrOject ManageMent
+
+intranet site PrOject (agiLe aPPrOach)
+
+This section demonstrates an agile approach to managing JWD Consulting’s project management intranet site project. Instead of repeating the sample documents shown in the first, predictive case study, this section emphasizes the differences of using an agile approach in each process group. Recall that an agile approach is often used for projects in 01356_ch03_hr_085-150.indd 129
+
+4/28/18 10:53 AM
+
+130
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+which the business team cannot clearly express the scope early in the product life cycle, but the team wants to provide a potentially shippable product earlier rather than later.
+
+An agile project team typically uses several iterations or deliveries of software instead of waiting until the end of the project to provide one product.
+
+Note that teams do not normally make a snap decision about whether to manage a project using an agile approach or not. Likewise, you don’t just decide whether to take a plane or a car on a long trip without specific logic. If you need to get somewhere quickly, have little concern for sightseeing along the way, and have no problems with flying, you will probably take a plane. If you want to take your time getting somewhere, see sights along the way, and enjoy driving, you will take a car. Likewise, organizations should use logic to decide when to use a predictive approach or an agile approach to managing specific projects. Projects with heavy constraints, inexperienced and dispersed teams, large risks, generally clear up-front requirements, and a fairly rigid completion date are best done using a predictive approach.
+
+In contrast, projects with less rigid constraints, experienced and preferably co-located teams, smaller risks, unclear requirements, and more flexible scheduling would be more compatible with an agile approach. The same project is used in this section to highlight the main differences between the processes and outputs of these two approaches.
+
+When using agile techniques and its most popular method, Scrum, a team uses specific roles, artifacts, and ceremonies.
+
+scrum roles, artifacts, and ceremonies
+
+Recall from Chapter 2 that Scrum includes three main roles for project participants:
+
+• Product owner: The person responsible for the business value of the project and for deciding what work to do and in what order, as documented in the product backlog. In this case, Joe Fleming is the product owner. He is the CEO of JWD Consulting and the person who suggested the project.
+
+• ScrumMaster: The person who ensures that the team is productive, facilitates the daily Scrum, enables close cooperation across all roles and functions, and removes barriers that prevent the team from being effective. ScrumMasters have authority over the process but not the people on the team. They must be comfortable surrendering control to the product owner and team. Some experts suggest that traditional project managers do not make great ScrumMasters. In this case, Erica Bell will take on the challenge and serve as the ScrumMaster.
+
+• Scrum team or development team: A cross-functional team of five to nine people who organize themselves and the work to produce the desired results for each sprint. A sprint normally lasts two to four weeks, during which specific work must be completed and made ready for review. Large projects might require teams of teams. In this case, Michael Chen, Jessie Faue, Kevin Dodge, Cindy Dawson, Kim Phuong, and Page Miller are development team members. Their positions are listed in the project charter shown earlier in Table 3-6. Kim and Page are client representatives who do not work for JWD
+
+Consulting, but they are key team members, especially for developing the parts of the intranet that external clients would use.
+
+01356_ch03_hr_085-150.indd 130
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 131
+
+In Scrum, an artifact is a useful object created by people. An artifact can be called a deliverable in other project management approaches. The following three artifacts are created with Scrum:
+
+• Product backlog: A list of features prioritized by business value. The highest-priority items should be broken down in enough detail for the team to estimate the effort involved in developing them. Some experts suggest scheduling about 10 workdays for each item. Size and complexity of the work dictates the estimate.
+
+• Sprint backlog: The highest-priority items from the product backlog to be completed within a sprint. The Scrum team breaks down the highest-priority items into smaller tasks that take about 12 to 16 hours to complete.
+
+Examples of a sprint backlog and product backlog are provided later in this section under Planning.
+
+• Burndown chart: Shows the cumulative work remaining in a sprint on a day-by-day basis. An example burndown chart is provided later in this section under Monitoring and Controlling.
+
+The ScrumMaster facilitates four ceremonies or meetings when using Scrum methods:
+
+• Sprint planning session: A meeting with the team to select a set of work from the product backlog to deliver during a sprint. This meeting takes about four hours to a full day.
+
+• Daily Scrum: A short meeting for the development team to share progress and challenges and plan work for the day. Ideally the team members are in the same place, the meeting usually lasts no more than 15 minutes, and it is held at the same time and place each day. If that is not possible, teams can use videoconferencing to have short virtual meetings. The ScrumMaster asks what work has been done since yesterday, what work is planned for today, and what impediments or stumbling blocks might hamper the team’s efforts. The ScrumMaster documents these stumbling blocks and works with key stakeholders to resolve them after the daily Scrum. Many teams use the term issues for items that do not have to be solved in the next 24 hours and blockers for items that need to be addressed immediately. This allows a ScrumMaster to maintain focus on highest-priority items (blockers) first and then manage the resolution of other issues over the next day or so.
+
+• Sprint reviews: A meeting in which the team demonstrates to the product owner what it has completed during the sprint.
+
+• Sprint retrospectives: A meeting in which the team looks for ways to improve the product and the process based on a review of the actual performance of the development team.
+
+Figure 3-5 displays how you can view the Scrum framework shown in Chapter 2
+
+in terms of the project management process groups. Creating the product backlog, developing the sprint backlog, and discussing plans during the daily Scrum would fall under planning. Performing the daily work and sprint, and creating the potentially shippable product increment would fit under executing. Holding the sprint review 01356_ch03_hr_085-150.indd 131
+
+4/28/18 10:53 AM
+
+132
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+and discussing challenges as part of the daily Scrum can be viewed as monitoring and controlling. Reflecting during the sprint retrospective would fit under closing. Initiating the entire project is a phase that falls outside the Scrum framework in this example.
+
+Table 3-18 summarizes some of the unique Scrum activities by each process group.
+
+The following sections provide more detail on these activities.
+
+Repeat steps 1–4 until complete
+
+1.
+
+Daily Scrum
+
+Monitoring and
+
+24
+
+2.
+
+controlling
+
+hours
+
+3.
+
+4.
+
+5.
+
+Potentially
+
+Sprint
+
+6.
+
+1.
+
+shippable
+
+2–4
+
+etc.
+
+2.
+
+product
+
+weeks
+
+increment
+
+Product
+
+Sprint
+
+backlog
+
+Sprint
+
+backlog
+
+review
+
+1. Product owner
+
+2. Project team
+
+3. Teams have daily
+
+4. Sprint results and
+
+creates
+
+creates sprint
+
+Scrum meetings
+
+in a useful
+
+Sprint
+
+prioritized wish
+
+backlog
+
+during each 2–4
+
+product
+
+retro—
+
+list or backlog
+
+week sprint
+
+spective
+
+Planning
+
+Executing
+
+Closing
+
+Figure 3-5 Scrum framework and the process groups tabLe 3-18 Unique Scrum activities by process group Initiating:
+
+• Determine roles.
+
+• Decide how many sprints will compose each release and the scope of software to deliver.
+
+Planning:
+
+• Create product backlog.
+
+• Create sprint backlog.
+
+• Create release backlog.
+
+• Plan work each day in the daily Scrum.
+
+• Document stumbling blocks in a list.
+
+Executing:
+
+• Complete tasks each day during sprints.
+
+• Produce a shippable product at the end of each sprint.
+
+( continued)
+
+01356_ch03_hr_085-150.indd 132
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 133
+
+tabLe 3-18 Unique Scrum activities by process group ( continued) Monitoring and Controlling:
+
+• Resolve issues and blockers.
+
+• Create and update burndown chart.
+
+• Demonstrate the completed product during the sprint review meeting.
+
+Closing:
+
+• Reflect on how to improve the product and process during the sprint retrospective meeting.
+
+Project Pre-initiation and initiation
+
+The main differences between pre-initiation in this case and the first case would be determining roles and deciding what functionality would be delivered as part of each release, how many sprints will be required to complete a release, and how many releases of software to deliver. This is similar to dividing the project into several smaller projects.
+
+A project charter, stakeholder register, stakeholder management strategy, and kick-off meeting would still be created as part of initiation, just as they were in the predictive version of this case. Using the Scrum roles, however, Joe Fleming would be the product owner, Erica Bell the ScrumMaster, and the other people listed in the project charter would be team members.
+
+Joe met with Erica to discuss what functionality would be delivered in each release, how many sprints would be needed for each release, how many software releases would be required, and the approach required to complete the project. They realized that before they could pin down functionality, releases, and sprints, they needed to survey potential users to collect requirements for the new software and determine a way to measure the value of the intranet site after it was implemented. They estimated that collecting and analyzing information from potential users would take about two months.
+
+Working together, Joe and Erica would create a survey that specifically asks potential users which features would provide the most value. For example, instead of listing general ideas, they would list specific features and have respondents rank them in order of importance. They would also ask survey respondents to submit sample templates, tools, and other useful information to Cindy Dawson, a project team member in the IT department. Collecting this information up front would streamline the software development process.
+
+Joe and Erica decided that three software releases would be realistic, given the time and cost constraints. Each sprint would be targeted to last four weeks, and reviews and creation of the product and sprint backlogs would be an ongoing activity within each sprint.
+
+Joe and Erica met with Cindy and other team members several times. Cindy had the most experience working on agile projects. She discussed the importance of submitting several graphical user interface designs to prospective users to gain their feedback. This approach was extremely useful in the past, based on Cindy’s experience, and it would save a lot of rework during development. For example, a team member would create one to four designs of a particular interface for prospective users to review in sessions hosted 01356_ch03_hr_085-150.indd 133
+
+4/28/18 10:53 AM
+
+134
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+by a marketing team. Cindy explained that the feedback would help lead to a better, more intuitive user interface. Also, asking prospective users to rate the “look and feel” would be very beneficial. Users may be distracted by a selected color scheme, for example, so team members should craft the same interface in various color schemes to gauge which one has the greatest appeal and generates the most positive usability score. Cindy explained that user interface designers are not normally development team members, but organizations might use them to provide detailed design specifications that provide a consistent user interface. Erica and Joe learned a lot from Cindy and would incorporate her recommendations into future plans.
+
+Planning
+
+Instead of creating a team charter, WBS, Gantt chart, and list of prioritized risks for the whole project, the team follows the Scrum method. A preliminary scope statement for the entire project can still be a useful tool for planning, even though the team knows that more details will be added and changes will be made. Because Scrum implies that team members work as a self-directed group, coached by the ScrumMaster, a team charter should not be necessary.
+
+In place of a WBS, high-level descriptions of the work to be completed would be identified in the product and sprint backlogs. The team would develop a more detailed list of technical stories and associated tasks to complete during each sprint. The team must also establish a velocity (or capacity) estimate for each sprint based on team member availability each day of the sprint. Estimates can be provided as hours of work, assuming that all developers are contractors who can code eight hours per day. Estimates can also be provided as points, assuming that developers are employees who code less than eight hours per day. For example, six hours per day would equal a point, so 36 hours of effort would equal 6 points.
+
+A Gantt chart for the entire project could still be created, as shown in Figure 3-6. Notice that the process groups do not follow a simple linear pattern. Several process groups are repeated for each sprint, resulting in several releases of a usable software product, as shown by the milestones. Recall that in the predictive version of this case, there was only one release or delivery of software near the end of the project, on October 17. In this case, two additional deliveries of software are scheduled, one on August 3 and one on September 11.
+
+Some teams create a release road map, as described later in this section, for each software release. The entire project is still scheduled for completion on November 1.
+
+In addition to listing all of the preliminary project requirements in a scope statement, as shown in section 6.0 of the business case (see Table 3-2), Joe, the product owner, created a product backlog to prioritize the most important functions of the new intranet software in terms of adding value to the business. Joe created the product backlog after analyzing the survey results and discussing options with several people. He included separate items for the most important templates and tools, instead of grouping them in one item, and requested a point person from their firm’s pool of consultants to contact for questions about each template or tool as well. Notice that this approach combined a few items in the scope statement shown in the first case to focus on what would add the most value. Having a point person would be useful before the team developed the more complex Ask the Expert feature. After reviewing the product 01356_ch03_hr_085-150.indd 134
+
+4/28/18 10:53 AM
+
+
+
+The Project Management Process Groups
+
+135
+
+Figure 3-6 Intranet site project baseline Gantt chart using Scrum approach backlog, the Scrum team would do its planning and update the sprint backlog based on the items the team could complete in the first sprint. Table 3-19 provides an example of the product backlog and a sprint backlog for the first sprint. The team would then have its first daily Scrum meeting to plan the day.
+
+The Scrum team breaks down the items in the sprint backlog into more specific work items, often in the form of user stories, technical stories, and related tasks. User stories are short descriptions written by customers of what they need a system to do for them. These descriptions should be about three sentences long. They provide the basis for time estimates for the sprint planning meeting. User stories should be testable and small enough that programmers can complete and unit test their code in a timely manner.
+
+Developers break down user stories into technical stories. Then they use technical stories to translate user requirements into the technical specifications necessary to create the defined user functionality. The technical stories can contain one or more technical tasks that developers use to chart progress on a sprint board as work is conducted throughout a sprint. A task should fit within a day. One item in the sprint backlog may or may not be documented in one user story, one technical story, and one task, based on its complexity. There could be a one-to-one relationship or a many-to-one relationship if the item is highly complex.
+
+For example, someone in the finance area of the company could write a user story called “Ability to charge customers for some intranet products and services.” It might read as follows: “As a financial manager, I want our site to use Company B to process payments so that we save money on transaction and customer service costs.” User stories are broken down into a detailed technical story and then into tasks, similar to tasks in a WBS.
+
+01356_ch03_hr_085-150.indd 135
+
+4/28/18 10:53 AM
+
+136
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+tabLe 3-19 Product and Sprint Backlogs
+
+Product backlog
+
+sprint backlog
+
+1. User story templates, samples, and
+
+1. User story templates, samples, and
+
+point person
+
+point person
+
+2. WBS templates, samples, and point
+
+2. WBS templates, samples, and point
+
+person
+
+person
+
+3. Project schedule templates, samples,
+
+3. Project schedule templates, samples,
+
+and point person
+
+and point person
+
+4. Ability to charge customers for some
+
+4. Ability to charge customers for some
+
+intranet products and services
+
+intranet products and services
+
+5. Ability to collect user suggestions
+
+5. Ability to collect user suggestions
+
+6. Business case templates, samples,
+
+and point person
+
+7. Ask the Expert feature
+
+8. Stakeholder management strategy
+
+templates, samples, and point person
+
+9. Risk register templates, samples, and
+
+point person
+
+10. Etc.
+
+Some organizations use a release road map to lay out all the work for an entire release, which can include more than one sprint. This road map is usually represented as a chart consisting of several columns. The release road map provides a clear picture of what stories (scope) will be contained in each sprint. This tool enables the Scrum team to easily review and update velocity estimates versus actuals. A release road map should be derived from data in the Project Management Information System (PMIS) or a related agile management system, such as Microsoft’s Team Foundation Server, Rally, VersionOne, or JIRA.
+
+executing
+
+As discussed earlier in this chapter, the most time and money should be spent on executing, when plans are implemented to create the desired product. The team would complete tasks each day, as it would in the predictive version of this case. But by using an agile approach, the team would produce several iterations of a potentially shippable product. For example, at the end of the first sprint, JWD Consulting would have some functionality available on its new project management intranet site. Users would be able to access templates, samples, and a point person for user stories, WBSs, and project schedules, as listed in the first sprint backlog. Users would also be able to make suggestions for functionality they would like to see in the intranet site as it was being developed. The first iteration of the software would also provide the ability to charge customers for some products and services. By using Scrum methods, the business could benefit from these new features a few months earlier than they could using the predictive approach described in the first case.
+
+01356_ch03_hr_085-150.indd 136
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 137
+
+Because Erica and some of the project team would be inexperienced in using Scrum, they would have to work out several challenges. For example, communications are very different because the project team meets every morning, physically or virtually. There would also be communications issues with users of the new intranet site, who might be confused by getting three iterations of the product instead of just one. See Chapter 10, Project Communications Management, and Chapter 13, Project Stakeholder Management, for additional information.
+
+Monitoring and controlling
+
+The two main tools for monitoring and controlling in the Scrum framework are the daily Scrum and the sprint review. Daily Scrums are held each morning to plan and communicate work for the day and discuss any risks, issues, or blockers. The daily Scrum includes a brief discussion of any issues and blockers the team is facing. The ScrumMaster would work with the appropriate stakeholders to address these problems as part of monitoring and controlling. Removing obstacles so the team can perform well is one of the main job duties of the ScrumMaster. The ScrumMaster documents issues and blockers, similar to a list of prioritized risks.
+
+The work progress within a sprint can be represented on a sprint board maintained by the ScrumMaster. The sprint board contains a card to represent each task to be worked on during the sprint. Each task card contains the control number, task name, estimated time to complete, rank or priority number, and team member assigned. As tasks are opened, worked on, and closed, their cards are moved physically to the appropriate section on the board. These sections include Not Started, In Progress, Ready to Test, Tested, and Closed.
+
+Developers update the status of tasks in the Not Started, In Progress, and Ready to Test sections. Testers update the status for tasks in the Tested section. The product owner is responsible for reviewing functionality, confirming that it is working as expected, and changing a task’s status to Closed.
+
+A burndown chart is an important artifact used to graphically display progress on each sprint. The burndown chart in Figure 3-7 shows progress during the first sprint for the JWD
+
+Consulting intranet project, which was scheduled to last four weeks and produce five items or user stories listed in the sprint backlog. Remember that during planning, each user story was broken down into specific tasks, and the team estimated how long it would take to complete each task for each user story. During the daily Scrum meeting, the work a team member claims should fit within a day. Each day, the team should again estimate the number of hours or points remaining for each task. Some tasks might be added and some might be dropped as the scope becomes clearer. It does not matter how many hours have been spent; what matters is how many hours of work remain to complete the user stories for that sprint.
+
+The burndown chart plots each day’s sum of estimated hours or points remaining.
+
+It also shows an idealized burndown line, as if the team were completing an equal amount of work each day, or 10 tasks each day in this example. The chart then clearly shows whether the team is doing well in that sprint or if there is potential for trouble.
+
+Burndown charts help the team understand whether user stories might not be completed within that sprint. The chart provides an indicator that stories are at risk and should be removed. If progress is better than anticipated, the burndown chart can indicate that stories should be added to the sprint.
+
+01356_ch03_hr_085-150.indd 137
+
+4/28/18 10:53 AM
+
+138
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+Sprint 1 Burndown Chart
+
+
+200
+
+150
+
+100
+
+50
+
+Work to Complete
+
+0
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+Days
+
+Remaining
+
+Ideal Velocity
+
+Figure 3-7 Burndown chart
+
+At the end of each sprint, the ScrumMaster—Erica in this example—leads the sprint demonstration review meeting. The team demonstrates to the product owner what it has completed during the sprint. In this case, Joe would review the five features created during the first sprint. After the sprint demonstration review, he would update the product backlog based on the latest information and business needs, and the next sprint cycle would begin.
+
+closing
+
+After the sprint review, the ScrumMaster leads a sprint retrospective. During this short meeting (about half an hour), the team reflects on what happened during the sprint. The ScrumMaster normally solicits team member feedback via e-mail first and collates these results before the meeting. This saves time and focuses the discussion on items that are most important. The retrospective is similar to a lessons-learned report, but it focuses on a shorter period of time. The sprint retrospective is intended to answer two fundamental questions:
+
+• What went well during the last sprint that we should continue doing?
+
+• What could we do differently to improve the product or process?
+
+The sprint retrospective meeting is usually led by the ScrumMaster, who documents a list of action items for implementation. Those items may be added to the product backlog if the product owner agrees with them. For example, after the first sprint for the JWD
+
+project management intranet site project, the team might suggest that the site be mobile enabled. This new requirement could be added to the product backlog and selected as an item for the next sprint. Recall that an agile approach welcomes new requirements as long as they focus on business value.
+
+01356_ch03_hr_085-150.indd 138
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 139
+
+As demonstrated in the two cases on the same project, the agile approach and predictive approach have similarities and differences. If done well, an agile method can produce several releases of useful software. This approach allows the organization to work together quickly to address changing business needs.
+
+teMPLates by PrOcess grOuP
+
+As you can see, project teams prepare many documents throughout the life of a project.
+
+Many people use templates to apply a standard format for preparing those documents.
+
+Table 3-20 lists several templates used to prepare the documents shown in this chapter and later chapters. The table lists the template name, chapter number, process group(s) in which you normally use the template, the application software used to create it, and the file name for the template. You can download these and additional templates in one compressed file from the Companion website for this text or from the author’s website at www.kathyschwalbe.com. Feel free to modify the templates to meet your needs.
+
+a d v i c e F O r y O u n g P r O F e s s i O n a L s Most organizations have templates for many different kinds of documents. Be sure to ask your boss, coworkers, and other colleagues for templates before trying to reinvent the wheel. If you don’t like the templates you find, look at other sources. If you can improve them, share your work with others. No one wants to waste time creating project documents.
+
+If you are doing work for outside sponsors, be sure to ask them for their templates. If they don’t have any or you think yours are better, be willing to share with them as well.
+
+Templates are great, but completed templates with good information are even more useful. Hopefully the examples in this chapter and throughout the text will help you in creating good project documents. As you find good examples from other sources, try to file them away for future reference.
+
+tabLe 3-20 Templates by process group
+
+chapter(s)
+
+Where
+
+application
+
+template name
+
+Process group
+
+used
+
+software
+
+File name
+
+Business Case
+
+Pre-initiating
+
+3
+
+Word
+
+business case.doc
+
+Business Case
+
+Pre-initiating
+
+3, 4
+
+Excel
+
+business case
+
+Financials
+
+financials.xls
+
+Stakeholder
+
+Initiating
+
+3, 13
+
+Word
+
+stakeholder register.doc
+
+Register
+
+( continued)
+
+01356_ch03_hr_085-150.indd 139
+
+4/28/18 10:53 AM
+
+140
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+tabLe 3-20 Templates by process group ( continued) chapter(s)
+
+Where
+
+application
+
+template name
+
+Process group
+
+used
+
+software
+
+File name
+
+Stakeholder
+
+Initiating
+
+3, 13
+
+Word
+
+stakeholder manage—
+
+Management
+
+ment strategy.doc
+
+Strategy
+
+Kick-off Meeting
+
+Initiating
+
+3
+
+Word
+
+kick-off meeting
+
+Agenda
+
+agenda.doc
+
+Payback Period
+
+Initiating
+
+4
+
+Excel
+
+payback period
+
+Chart
+
+chart.xls
+
+Weighted
+
+Initiating
+
+4, 12
+
+Excel
+
+weighted scoring
+
+Scoring Model
+
+model.xls
+
+Project Charter
+
+Initiating
+
+3, 4, 5
+
+Word
+
+charter.doc
+
+Assumption Log
+
+Initiating
+
+3, 4
+
+Excel
+
+assumption log.xlsx
+
+Team Charter
+
+Planning
+
+3, 9
+
+Word
+
+team charter.doc
+
+Requirements
+
+Planning
+
+5
+
+Word
+
+requirements
+
+Traceability
+
+traceability
+
+Matrix
+
+matrix.doc
+
+Scope
+
+Planning
+
+3, 4, 5
+
+Word
+
+scope statement.doc
+
+Statement
+
+Contract State—
+
+Planning
+
+12
+
+Word
+
+contract statement
+
+ment of Work
+
+of work.doc
+
+Request for
+
+Planning
+
+12
+
+Word
+
+request for proposal.
+
+Proposal
+
+doc
+
+Project Manage—
+
+Planning
+
+4
+
+Word
+
+project management
+
+ment Plan
+
+plan.doc
+
+Work Break—
+
+Planning
+
+3, 5, 6
+
+Word
+
+wbs.doc
+
+down Structure
+
+(WBS)
+
+WBS Dictionary
+
+Planning
+
+5
+
+WBS dictionary
+
+Entry
+
+description.doc
+
+Cost Estimate
+
+Planning
+
+7
+
+Excel
+
+cost estimate.xls
+
+Earned Value
+
+Monitoring and 7
+
+Excel
+
+earned value chart.xls
+
+Chart
+
+Controlling
+
+( continued)
+
+01356_ch03_hr_085-150.indd 140
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 141
+
+tabLe 3-20 Templates by process group ( continued) chapter(s)
+
+Where
+
+application
+
+template name
+
+Process group
+
+used
+
+software
+
+File name
+
+Burndown
+
+Monitoring and 3, 7
+
+Excel
+
+burndownchart.xls
+
+Chart
+
+Controlling
+
+Quality Metrics
+
+Executing
+
+8
+
+Word
+
+quality metrics.doc
+
+Pareto Chart
+
+Monitoring and 8
+
+Excel
+
+pareto chart.xls
+
+Controlling
+
+Project Organi—
+
+Planning,
+
+9
+
+Power—
+
+project organizational
+
+zational Chart
+
+Executing
+
+Point
+
+chart.ppt
+
+Responsibil—
+
+Planning,
+
+9
+
+Excel
+
+RACI chart.xls
+
+ity Assignment
+
+Executing
+
+Matrix
+
+Resource
+
+Planning,
+
+9
+
+Excel
+
+resource histogram.xls
+
+Histogram
+
+Executing
+
+Communica—
+
+Planning
+
+10
+
+Word
+
+communications
+
+tions Manage—
+
+managemnt plan.doc
+
+ment Plan
+
+Lessons-learned
+
+Executing
+
+4
+
+Excel
+
+lessons-learned
+
+Register
+
+register.xlsx
+
+Milestone Report
+
+Executing
+
+3, 6
+
+Word
+
+milestone report.doc
+
+Change Request Planning,
+
+4
+
+Word
+
+change request.doc
+
+Form
+
+Monitoring and
+
+Controlling
+
+Performance
+
+Monitoring and 3, 4
+
+Word
+
+performance report.doc
+
+Report
+
+Controlling
+
+Probability/
+
+Planning,
+
+11
+
+Power—
+
+probability impact
+
+Impact Matrix
+
+Executing,
+
+Point
+
+matrix.ppt
+
+Monitoring and
+
+Controlling
+
+Risk Register
+
+Planning,
+
+11
+
+Excel
+
+risk register.xls
+
+Monitoring and
+
+Controlling
+
+Breakeven/Sen—
+
+Planning
+
+11
+
+Excel
+
+breakeven.xls
+
+sitivity Analysis
+
+( continued)
+
+01356_ch03_hr_085-150.indd 141
+
+4/28/18 10:53 AM
+
+142
+
+
+
+* * *
+
+
+
+
+
+Chapter 3
+
+
+tabLe 3-20 Templates by process group ( continued) chapter(s)
+
+Where
+
+application
+
+template name
+
+Process group
+
+used
+
+software
+
+File name
+
+Contract
+
+Planning
+
+12
+
+Word
+
+contract.doc
+
+Request for
+
+Planning
+
+12
+
+Word
+
+request for proposal
+
+Proposal
+
+.doc
+
+Issue Log
+
+Monitoring and 13
+
+Word
+
+issue log.doc
+
+Controlling
+
+Customer
+
+Closing
+
+10
+
+Word
+
+customer acceptance
+
+Acceptance
+
+form.doc
+
+Form
+
+Lessons—
+
+Closing
+
+3, 10
+
+Word
+
+lessons-learned
+
+Learned Report
+
+report.doc
+
+Final Project
+
+Closing
+
+3, 10
+
+Word
+
+final project report
+
+Report Table of
+
+table of contents.doc
+
+Contents
+
+The project management process groups—initiating, planning, executing, monitoring and controlling, and closing—provide a useful framework for understanding project management. They apply to most projects, both IT and non-IT, and along with the project management knowledge areas, help project managers see the big picture of managing a project in their organization.
+
+01356_ch03_hr_085-150.indd 142
+
+4/28/18 10:53 AM
+
+The Project Management Process Groups 143
+
+c a s e W r a P - u P
+
+Erica Bell and her team finished the project management intranet site project on November 4, as planned in their project charter. They went over budget, but Joe had approved Erica’s request for additional funds, primarily for purchasing external software and customization. Like any project, they had a few challenges, but they worked together as a team and used good project management to meet their sponsor’s and users’
+
+needs. They received positive initial feedback from internal consultants and some of their clients on the new intranet site. People were asking for templates, examples, and expert advice even before the system was ready. (If they had used an agile approach, these features could have been delivered earlier.) About a year after the project was completed, Erica worked with a member of the Finance department to review the benefits of the new system. Although the Project Management Office lost one of its staff members, it did not request a replacement because the new system helped reduce its workload. This saved the firm about $70,000 a year for the salary and benefits of that staff position. The team also had data to show that the firm saved more than $180,000
+
+on contracts with clients because of the new system, compared with their projection of $160,000. The firm was breaking even with the Ask the Expert feature during the first year, and Erica estimated that the system provided $30,000 in additional profits the first year by generating new business, instead of the $40,000 the team had projected.
+
+However, savings from the PMO staff position salary and the extra savings on contracts more than made up for the $10,000 difference. Joe was proud of the project team and the system they produced to help make JWD Consulting a world-class organization.
+
+01356_ch03_hr_085-150.indd 143
+
+4/28/18 10:53 AM
+
+144
+
+Chapter 3
+
+
+
+* * *
+
+Chapter 3 - Chapter Summary start
+
+
+Project management involves a number of interlinked processes. The five project management process groups are initiating, planning, executing, monitoring and controlling, and closing. These processes occur at varying levels of intensity throughout each phase of a project, and specific outcomes are produced as a result of each process. Normally the executing processes require the most resources and time, followed by the planning processes. Spending adequate time in planning pays off in execution.
+
+Mapping the main activities of each project management process group into the 10 project management knowledge areas provides a big picture of what activities are involved in project management.
+
+It is important to tailor project management methodologies to meet an organization’s particular needs. Some organizations develop their own IT project management methodologies, often using the standards in the PMBOK® Guide as a foundation. Popular methods like PRINCE2, Agile, RUP, and Six Sigma include project management processes.
+
+The JWD Consulting case study demonstrates how one organization managed an IT project from start to finish. The case study provides samples of outputs produced for initiating, planning, executing, monitoring and controlling, and closing:
+
+•
+
+Business case
+
+•
+
+Stakeholder register
+
+•
+
+Stakeholder management strategy
+
+•
+
+Project charter
+
+•
+
+Kick-off meeting agenda
+
+•
+
+Team charter
+
+•
+
+Work breakdown structure
+
+•
+
+Gantt chart
+
+•
+
+List of prioritized risks
+
+•
+
+Milestone report
+
+•
+
+Progress report
+
+•
+
+Lessons-learned report
+
+•
+
+Final project report
+
+The second version of the same case study illustrates how to use Scrum, the leading agile method, to manage the project. Instead of releasing the new intranet software just once near the end of the project, the team could release three iterations of the software. This version of the case study introduced some new tools, including a product backlog, sprint backlog, and burndown chart. Later chapters provide detailed information for creating these and other project management documents and using several of the tools and techniques described in both versions of this case study.
+
+Chapter 3 - Chapter Summary end
+
+
+* * *

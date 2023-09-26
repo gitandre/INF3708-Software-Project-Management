@@ -1,0 +1,1952 @@
+Opening case
+
+Anne Roberts, the director of the Project Management Office for Information Technology at a large retail chain, stood in front of 500 people in the large corporate auditorium to explain the company’s new strategies during a monthly all-hands meeting. She was also streaming live video to thousands of other employees at other locations, suppliers, and stockholders throughout the world. The company had come a long way in implementing new information systems to improve inventory control, sell products online, streamline the sales and distribution processes, and improve customer service. However, a recent security breach had alarmed investors and the stock price plummeted. People were anxious to hear about the company’s new strategies.
+
+Anne began to address the audience, “Good morning. As you know, competition is fierce in our industry. We have made a lot of progress the last few years to become a more agile organization, especially in valuing people over process and responding to change over following a plan. We all have to work together to overcome recent problems.
+
+Our two most important goals include providing the best computer security possible and improving online collaboration tools for our employees, suppliers, and customers.
+
+Our challenge is to work even smarter to deliver solutions that provide the most benefit for the company by leveraging the power of information technology. If we succeed, we’ll continue to be a world-class corporation.”
+
+“And if we fail?” someone asked from the audience.
+
+“Let’s just say that failure is not an option,” Anne replied.
+
+
+
+
+
+Introduction
+
+
+Many people and organizations today have a new—or renewed—interest in project management. Until the 1980s, project management primarily focused on providing schedule and resource data to top management in the military, computer, and construction industries. Today’s project management involves much more, and people in every industry and every country manage projects. Project management is a distinct profession with degree programs, certifications, and excellent career opportunities.
+
+New technologies have become a significant factor in many businesses. Computer hardware, software, networks, and the use of interdisciplinary and global work teams have radically changed the work environment. The following statistics demonstrate the significance of project management in today’s society, especially for projects involving information technology (IT):
+
+• Worldwide IT spending was $3.5 trillion in 2017, a 2.4 percent increase from 2016 spending. Communications services accounted for 40 percent of the spending.1
+
+• The Project Management Institute reported that the number of project-related jobs reached almost 66 million in 2017, and demand continues to increase. “By 2027, employers will need 87.7 million individuals working in project management–oriented roles.”2
+
+01356_ch01_hr_001-046.indd 2
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+3
+
+• The unemployment rate for IT professionals is generally half the rate of the overall labor market in the United States. The U.S. Bureau of Labor Statistics estimates the rate to be only 2 percent, and project management is one of the ten hottest tech skills.3
+
+• In 2017, the average annual salary (without bonuses) for someone in the project management profession was $112,00 per year in the United States and $130,866 in Switzerland, the highest-paid country. Salaries of survey respondents across 37 counties were 23 percent higher for those with the Project Management Professional (PMP®) credential than those without it.4
+
+• The top skills employers look for in new college graduates are all related to project management: team work, decision making, problem-solving, and verbal communications.5
+
+• Organizations waste $97 million for every $1 billion spent on projects, according to PMI’s Pulse of the Profession® report. Excelling at project management definitely affects the bottom line.6
+
+The complexity and importance of IT projects, which involve using hardware, software, and networks to create a product, service, or result, have evolved dramatically.
+
+Today’s companies, governments, and nonprofit organizations are recognizing that to be successful, they need to use modern project management techniques, especially for IT
+
+projects. Individuals are realizing that to remain competitive in the workplace, they must develop skills to become good project team members and project managers. They also realize that many of the concepts of project management will help them in their everyday lives as they work with people and technology on a day-to-day basis.
+
+W h a t W e n t W r O n g ?
+
+In 1995, the Standish Group published an often-quoted study titled “The CHAOS
+
+Report.” This consulting firm surveyed 365 IT executive managers in the United States who managed more than 8,380 IT application projects. As the title of the study suggests, the projects were in a state of chaos. U.S. companies spent more than $250 billion each year in the early 1990s on approximately 175,000 IT application development projects.
+
+Examples of these projects included creating a new database for a state department of motor vehicles, developing a new system for car rental and hotel reservations, and implementing a client-server architecture for the banking industry. The study reported that the overall success rate of IT projects was only 16.2 percent. The surveyors defined success as meeting project goals on time and on budget. The study also found that more than 31 percent of IT projects were canceled before completion, costing U.S. companies and government agencies more than $81 billion. The study authors were adamant about the need for better project management in the IT industry. They explained,
+
+“Software development projects are in chaos, and we can no longer imitate the three monkeys—hear no failures, see no failures, speak no failures.”7 Although this study was ( continued)
+
+01356_ch01_hr_001-046.indd 3
+
+5/15/18 10:30 AM
+
+4
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+done 20 years ago, it was significant in making senior executives pay attention to the importance of IT project management.
+
+In another large study, PricewaterhouseCoopers surveyed 200 companies from 30
+
+different countries about their project management maturity and found that over half of all projects fail. The study also found that only 2.5 percent of corporations consistently meet their targets for scope, time, and cost goals for all types of projects.8
+
+Although several researchers question the methodology of such studies, the results have prompted managers throughout the world to examine ways to improve their practices in managing projects. Many organizations assert that using project management techniques provides advantages, such as the following:
+
+• Better control of financial, physical, and human resources
+
+• Improved customer relations
+
+• Shorter development times
+
+• Lower costs and improved productivity
+
+• Higher quality and increased reliability
+
+• Higher profit margins
+
+• Better internal coordination
+
+• Positive impact on meeting strategic goals
+
+• Higher worker morale
+
+This chapter introduces projects and project management, explains how projects fit into programs and portfolio management, discusses the role of the project manager, and provides important background information on this growing profession. Although project management applies to many different industries and types of projects, this text focuses on applying project management to IT projects.
+
+What is a prOject?
+
+To discuss project management, it is important to understand the concept of a project.
+
+A project is “a temporary endeavor undertaken to create a unique product, service, or result.”9 Operations, on the other hand, is work done in organizations to sustain the business. It focuses on the ongoing production of goods and services. Projects are different from operations in that they end when their objectives have been reached or the project has been terminated. It is important to note that people focusing on operations and projects must work together for a smooth transition. For example, in software development, DevOps is a fairly new term used to describe a culture of collaboration between software development and operations teams to build, test, and release reliable software more quickly.
+
+examples of it projects
+
+Projects can be large or small and involve one person or thousands of people. They can be done in one day or take years to complete. As described earlier, IT projects involve using hardware, software, and networks to create a product, service, or result. Examples of IT
+
+projects include the following:
+
+01356_ch01_hr_001-046.indd 4
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+5
+
+• A large network of healthcare providers updates its information systems and procedures to reduce hospital acquired diseases.
+
+• A team of students creates a smartphone application and sells it online.
+
+• A company develops a driverless car.
+
+• A college upgrades its technology infrastructure to provide wireless Internet access across the whole campus as well as online access to all academic and student service information.
+
+• A company implements a new system to increase sales force productivity and customer relationship management that will work on various laptops, smartphones, and tablets.
+
+• A television network implements a system to allow viewers to vote for contestants and provide other feedback on programs via social media sites.
+
+• A government group develops a system to track child immunizations.
+
+• A large group of volunteers from organizations throughout the world develops standards for environmentally friendly or green IT.
+
+• A global bank acquires other financial institutions and needs to consolidate systems and procedures.
+
+• Government regulations require monitoring of pollutants in air and water.
+
+• A multinational firm decides to consolidate its information systems into an integrated enterprise resource management approach.
+
+Gartner, Inc., a prestigious consulting firm, identified the top 10 strategic technologies for 2018. A few of these technologies include the following:
+
+• Artificial Intelligence (AI) Foundation: Creating systems that learn, adapt, and potentially act autonomously can enhance decision making and improve the customer experience.
+
+• Intelligent Things: AI is driving advances for new intelligent things, including autonomous vehicles, robots, and drones as well as Internet of Things like thermostats, lights, and home appliances.
+
+• Cloud to the Edge: Edge computing pushes data handling to the edge of the network, closer to the source of the data. Instead of sending data to the cloud server or central data center for processing, the device connects through a local gateway device, allowing faster analytics and reduced network pressure.
+
+• Immersive Experience: Virtual, augmented, and mixed reality are changing the way that people perceive and interact with the digital world. “The virtual reality (VR) and augmented reality (AR) market is currently adolescent and fragmented. Interest is high, resulting in many novelty VR applications that deliver little real business value outside of advanced entertainment, such as video games and 360-degree spherical videos. To drive real tangible business benefit, enterprises must examine specific real-life scenarios where VR and AR
+
+can be applied to make employees more productive and enhance the design, training and visualization processes.”10
+
+01356_ch01_hr_001-046.indd 5
+
+5/15/18 10:30 AM
+
+6
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+As you can see, a wide variety of projects use information technologies, and organizations rely on them for success.
+
+M e d i a s n a p s h O t
+
+One of Gartner’s top 10 strategic technologies for 2012 included application stores and marketplaces for smartphones and tablets. Gartner predicted that by 2014 there would be more than 70 billion mobile application downloads every year, but the actual number was almost double!11 Facebook is by far the most downloaded app, and the most popular category of all apps continues to be games.
+
+As of March 2017, Android users could download 2.8 million different apps, and Apple users could download 2.2 million.“In 2016, the global mobile internet user penetration has exceeded half the world’s population, while the average daily time spent accessing online content from a mobile device, such as a smartphone, a tablet computer or wearable, has reached 185 minutes daily among Millennials, 110 minutes for Generation X and 43 daily minutes for Boomers.”12
+
+project attributes
+
+Projects come in all shapes and sizes. The following attributes help define a project further:
+
+• A project has a unique purpose. Every project should have a well-defined objective. For example, Anne Roberts, the director of the Project Management Office in the chapter’s opening case, might sponsor an IT
+
+collaboration project to develop a list and initial analysis of potential IT
+
+projects that might improve operations for the company. The unique purpose of this project would be to create a collaborative report with ideas from people throughout the company. The results would provide the basis for further discussions and selecting projects to implement. As you can see from this example, projects result in a unique product, service, or result.
+
+• A project is temporary. A project has a definite beginning and end. In the IT
+
+collaboration project, Anne might form a team of people to work immediately on the project, and then expect a report and an executive presentation of the results in one month.
+
+• A project drives change and enables value creation. A project is initiated to bring about a change in order to meet a need or desire. Its purpose is to achieve a specific objective which changes the context (a living situation, in this house project example) from a current state to a more desired or valued future state.
+
+• A project is developed using progressive elaboration. Projects are often defined broadly when they begin, and as time passes, the specific details of the project become clearer. Therefore, projects should be developed in increments. A project team should develop initial plans and then update them with more detail based on new information.
+
+01356_ch01_hr_001-046.indd 6
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+7
+
+• A project requires resources, often from various areas. Resources include people, hardware, software, and other assets. Many projects cross departmental or other boundaries to achieve their unique purposes. For the IT collaboration project, people from IT, marketing, sales, distribution, and other areas of the company would need to work together to develop ideas.
+
+• A project should have a primary customer or sponsor. Most projects have many interested parties or stakeholders, but for a project to succeed someone must take the primary role of sponsorship. The project sponsor usually provides the direction and funding for the project. Executive support is crucial to project success, as described in later chapters. Anne Roberts would be the sponsor for the IT collaboration project.
+
+• A project involves uncertainty. Because every project is unique, it is sometimes difficult to define its objectives clearly, estimate how long it will take to complete, or determine how much it will cost. External factors also cause uncertainty, such as a supplier going out of business or a project team member needing unplanned time off. This uncertainty is one of the main reasons project management is so challenging, especially on projects involving new technologies.
+
+An effective project manager is crucial to a project’s success. Project managers work with the project sponsors, team, and the other people involved to achieve project goals.
+
+project constraints
+
+Every project is constrained in different ways, often by its scope, time, and cost goals.
+
+These limitations are sometimes referred to in project management as the triple constraint. To create a successful project, a project manager must consider scope, time, and cost and balance these three often-competing goals:
+
+• Scope: What work will be done as part of the project? What unique product, service, or result does the customer or sponsor expect from the project? How will the scope be verified?
+
+• Time: How long should it take to complete the project? What is the project’s schedule? How will the team track actual schedule performance? Who can approve changes to the schedule?
+
+• Cost: What should it cost to complete the project? What is the project’s budget? How will costs be tracked? Who can authorize changes to the budget?
+
+Figure 1-1 illustrates the three dimensions of the triple constraint. Each area—
+
+scope, time, and cost—has a target at the beginning of the project. For example, the IT
+
+collaboration project might have an initial scope of producing a 40-to 50-page report and a one-hour presentation on about 30 potential IT projects. The project manager might further define project scope to include providing a description of each potential project, an investigation of what other companies have implemented for similar projects, a rough time and cost estimate, and assessments of the risk and potential payoff as high, medium, or low. The initial time estimate for this project might be one month, and the cost estimate might be $45,000–$50,000. These expectations provide targets for the scope, time, and cost dimensions of the project.
+
+01356_ch01_hr_001-046.indd 7
+
+5/15/18 10:30 AM
+
+8
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+Successful project
+
+
+management means
+
+meeting all three
+
+goals (scope, time,
+
+and cost)—and
+
+satisfying the project’s
+
+Target
+
+sponsor!
+
+Figure 1-1 Project constraints
+
+Note that the scope and cost goals in this example include ranges—the report can be 40 to 50 pages long and the project can cost between $45,000 and $50,000. Because projects involve uncertainty and limited resources, projects rarely finish according to their original scope, time, and cost goals. Instead of discrete target goals, it is often more realistic to set a range for goals, such as spending between $45,000 and $50,000 and having a 40-to 50-page report. These goals might require hitting the target, but not the bull’s eye.
+
+Managing the triple constraint involves making trade-offs between scope, time, and cost goals for a project. For example, you might need to increase the budget for a project to meet scope and time goals. Alternatively, you might have to reduce the scope of a project to meet time and cost goals. Experienced project managers know that you must decide which aspect of the triple constraint is most important. If time is most important, you must often change the initial scope and cost goals to meet the schedule. If scope goals are most important, you may need to adjust time and cost goals.
+
+To generate project ideas for the IT collaboration project, suppose that the project manager sent an e-mail survey to all employees, as planned. The initial time and cost estimate may have been one week and $5,000 to collect ideas using this e-mail survey. Now, suppose that the e-mail survey generated only a few good project ideas, but the scope goal was to collect at least 30 good ideas. Should the project team use a different method like 01356_ch01_hr_001-046.indd 8
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+9
+
+focus groups or interviews to collect ideas? Even though it was not in the initial scope, time, or cost estimates, it would really help the project. Because good ideas are crucial to project success, it would make sense to inform the project sponsor that adjustments are needed.
+
+Although the triple constraint describes how the basic elements of a project interrelate, other elements can also play significant roles. Quality is often a key factor in projects, as is customer or sponsor satisfaction. Some people, in fact, refer to the quadruple constraint of project management, which includes quality as well as scope, time, and cost. A project team may meet scope, time, and cost goals but might fail to meet quality standards and satisfy the sponsor. For example, Anne Roberts may receive a 50-page report describing 30 potential IT projects and hear a presentation that summarizes the report. The project team may have completed the work on time and within the cost constraint, but the quality may have been unacceptable.
+
+Other factors might also be crucial to a particular project. On some projects, resources are the main concern. For example, the entertainment industry often needs particular actors for movies or television shows. Project goals must be adjusted based on when particular people are available. Risk can also affect major project decisions.
+
+A company might wait to start a project until the risks are at an acceptable level. The project manager should be communicating with the sponsor throughout the project to make sure it is meeting expectations. Chapter 10, Project Communications Management, and Chapter 13, Project Stakeholder Management, address communicating with stakeholders and understanding their expectations in greater detail.
+
+How can you avoid the problems that occur when you meet scope, time, and cost goals, but lose sight of customer satisfaction? The answer is good project management, which includes more than managing project constraints.
+
+What is prOject ManageMent?
+
+Project management is “the application of knowledge, skills, tools, and techniques to project activities to meet project requirements.”13 Project managers must not only strive to meet specific scope, time, cost, and quality goals of projects, but also facilitate the entire process to meet the needs and expectations of people involved in project activities or affected by them.
+
+Figure 1-2 illustrates a framework to help you understand project management.
+
+Key elements of this framework include the project stakeholders, project management knowledge areas, project management tools and techniques, and the contribution of successful projects to the enterprise.
+
+project stakeholders
+
+Stakeholders are the people involved in or affected by project activities, and include the project sponsor, project team, support staff, customers, users, suppliers, and even opponents of the project. These stakeholders often have very different needs and expectations. A familiar example of a project is building a new house. There are several stakeholders in a home construction project.
+
+• The project sponsors would be the potential new homeowners who would be paying for the house. They could be on a very tight budget, so would expect the contractor to provide a realistic idea of what type of home they 01356_ch01_hr_001-046.indd 9
+
+5/15/18 10:30 AM
+
+
+
+10
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+Project portfolio
+
+
+Project 1
+
+10 Knowledge areas
+
+Tools and
+
+Project 2
+
+Enterprise
+
+techniques Project 3
+
+success
+
+Project 4
+
+Scope
+
+Schedule
+
+Cost
+
+Quality
+
+management
+
+management
+
+management
+
+management
+
+Project
+
+Project integration management
+
+success
+
+Stakeholders’
+
+needs and
+
+expectations
+
+Resource
+
+Communications
+
+Risk
+
+Procurement
+
+Stakeholder
+
+management
+
+management
+
+management
+
+management
+
+management
+
+Figure 1-2 Project management framework
+
+could afford given their budget constraints. They would also need a realistic idea of when they could move in. Regardless of budget, they would expect the contractor to provide accurate estimates for the building costs. The new homeowners would have to make important decisions to keep the costs of the house within their budget. Can they afford to finish the basement right away? If they can afford to finish the basement, will it affect the projected move-in date? In this example, the project sponsors are also the customers and users of the product, which is the house.
+
+• The house may require financing by a bank or other financial institution like a credit union, which will secure a legal interest (lien) in the property and the finished home. This institution is an example of a legal stakeholder who must be informed of any changes to the plans or schedule because the project is part of a legal contract.
+
+• The project manager in this example would normally be the general contractor responsible for building the house. The project manager needs to work with all the project stakeholders to meet their needs and expectations.
+
+• The project team for building the house would include several construction workers, electricians, and carpenters. These stakeholders would need to know exactly what work they must do and when they need to do it.
+
+They would need to know if the required materials and equipment will be at the construction site or if they are expected to provide the materials and equipment. Their work would need to be coordinated because many interrelated factors are involved. For example, the carpenter cannot put in kitchen cabinets until the walls are completed.
+
+• Support staff might include the buyers’ employers, the general contractor’s administrative assistant, and people who support other stakeholders. The buyers’ employers might expect their employees to complete their work but allow some flexibility so they can visit the building site or take phone 01356_ch01_hr_001-046.indd 10
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+11
+
+calls related to building the house. The contractor’s administrative assistant would support the project by coordinating meetings between the buyers, the contractor, suppliers, and other parties.
+
+• Building a house requires many suppliers. The suppliers would provide the wood, windows, flooring, appliances, and other materials. Suppliers would expect exact details on the items they need to provide, and where and when to deliver those items.
+
+• A project might have opponents. In this example, a neighbor might oppose the project because the workers make so much noise that she cannot concentrate on her work at home, or the noise might wake her sleeping children. She might interrupt the workers to voice her complaints or even file a formal complaint. Or, the neighborhood might have association rules concerning new home design and construction. If the homeowners do not follow these rules, they might have to halt construction due to legal issues.
+
+Even without such complaints, the home must comply with certain building codes and other restrictions; these considerations may also result in changes to the project’s requirements, making the local government a stakeholder in the project.
+
+As you can see from this example, projects have many different stakeholders, and they often have different interests. Stakeholders’ needs and expectations are important in the beginning and throughout the life of a project. Successful project managers develop good relationships with project stakeholders to understand and meet their needs and expectations.
+
+project Management Knowledge areas
+
+Project management knowledge areas describe the key competencies that project managers must develop. The center of Figure 1-2 shows the 10 knowledge areas of project management.
+
+1. Project scope management involves defining and managing all the work required to complete the project successfully.
+
+2. Project schedule management (formerly called project time management) includes estimating how long it will take to complete the work, developing an acceptable project schedule, and ensuring timely completion of the project.
+
+3. Project cost management consists of preparing and managing the budget for the project.
+
+4. Project quality management ensures that the project will satisfy the stated or implied needs for which it was undertaken.
+
+5. Project resource management is concerned with making effective use of the people and physical resources involved with the project.
+
+6. Project communications management involves generating, collecting, disseminating, and storing project information.
+
+7. Project risk management includes identifying, analyzing, and responding to risks related to the project.
+
+01356_ch01_hr_001-046.indd 11
+
+5/15/18 10:30 AM
+
+12
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+8. Project procurement management involves acquiring or procuring goods and services for a project from outside the performing organization.
+
+9. Project stakeholder management includes identifying and analyzing stakeholder needs while managing and controlling their engagement throughout the life of the project.
+
+10. Project integration management is an overarching function that affects and is affected by all of the other knowledge areas.
+
+Project managers must have knowledge and skills in all 10 of these areas. This text includes an entire chapter on each of these knowledge areas because all of them are crucial to project success.
+
+project Management tools and techniques
+
+Thomas Carlyle, a famous historian and author, stated, “Man is a tool-using animal. Without tools he is nothing, with tools he is all.” As the world continues to become more complex, it is even more important for people to develop and use tools, especially for managing important projects. Project management tools and techniques assist project managers and their teams in carrying out work in all 10 knowledge areas. For example, some popular time-management tools and techniques include Gantt charts, project network diagrams, and critical path analysis. Table 1-1 lists some commonly used tools and techniques by knowledge area. You will learn more about these and other tools and techniques throughout this text.
+
+A survey of 753 project and program managers was conducted to rate several project management tools. Respondents rated tools on a scale of 1–5 (low to high) based on the extent of their use and the potential of the tools to help improve project success.
+
+“Super tools” were defined as those that had high use and high potential for improving project success. These super tools included software for task scheduling (such as project management software), scope statements, requirement analyses, and lessons-learned reports. Tools that are already used extensively and have been found to improve project performance include progress reports, kick-off meetings, Gantt charts, and change requests.
+
+These super tools appear in column 3 of Table 1-1.14 Note that project stakeholder management was not a separate knowledge area at the time of this survey.
+
+The PMBOK® Guide – Sixth Edition now lists tools and techniques based on their purpose, as follows:
+
+• Data gathering: benchmarking, brainstorming, check sheets, checklists, focus groups, interviews, market research, questionnaires and surveys, and statistical sampling
+
+• Data analysis: alternatives analysis, assessment of other risk parameters, assumption and constraint analysis, cost of quality, cost-benefit analysis, decision tree analysis, document analysis, earned value analysis, and several other tools fit in this category
+
+01356_ch01_hr_001-046.indd 12
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+13
+
+tabLe 1-1 Common project management tools and techniques by knowledge area Knowledge
+
+area/category
+
+tools and techniques
+
+super tools
+
+Integration
+
+Project selection methods
+
+Project management
+
+management
+
+Project management methodologies
+
+software
+
+Stakeholder analyses
+
+Change requests
+
+Work requests
+
+Lessons-learned
+
+Project charters
+
+reports
+
+Project management plans
+
+Change control boards
+
+Project review meetings
+
+Scope management
+
+Statements of work
+
+Scope statements
+
+Scope management plans
+
+Work breakdown
+
+Scope verification techniques
+
+structures
+
+Scope change controls
+
+Requirements
+
+analyses
+
+Schedule management
+
+Project network diagrams
+
+Gantt charts
+
+Critical path analysis
+
+Crashing
+
+Fast tracking
+
+Schedule performance
+
+measurements
+
+Cost management
+
+Project budgets
+
+Net present value
+
+Return on investment
+
+Payback analysis
+
+Earned value management
+
+Project portfolio management
+
+Cost estimates
+
+Cost management plans
+
+Cost baselines
+
+Quality management
+
+Quality metrics
+
+Checklists
+
+Quality control charts
+
+Pareto diagrams
+
+Fishbone diagrams
+
+Maturity models
+
+Statistical methods
+
+Test plans
+
+( continued)
+
+01356_ch01_hr_001-046.indd 13
+
+5/15/18 10:30 AM
+
+14
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+tabLe 1-1 Common project management tools and techniques by knowledge area ( continued )
+
+Knowledge
+
+area/category
+
+tools and techniques
+
+super tools
+
+Resource management
+
+Motivation techniques
+
+Empathic listening
+
+Responsibility assignment matrices
+
+Project organizational charts
+
+Resource histograms
+
+Team building exercises
+
+Communications
+
+Communications management plans
+
+Kick-off meetings
+
+management
+
+Conflict management
+
+Progress reports
+
+Communications media selection
+
+Status reports
+
+Virtual communications
+
+Templates
+
+Project websites
+
+Risk management
+
+Risk management plans
+
+Risk registers
+
+Probability/impact matrices
+
+Risk rankings
+
+Procurement
+
+Make-or-buy analyses
+
+management
+
+Contracts
+
+Requests for proposals or quotes
+
+Source selections
+
+Supplier evaluation matrices
+
+• Data representation: affinity diagrams, cause-and-effect diagrams, control charts, flow charts, hierarchical charts, histograms, logical data models, matrix diagrams, matrix-based charts, mind mapping, probability and impact matrix, scatter diagrams, stakeholder engagement assessment matrix, stakeholder mapping/representation, and text-oriented formats
+
+• Decision making: multi-criteria decision analysis and voting
+
+• Communication: feedback and presentations
+
+• Interpersonal and team skills: active listening, communication styles assessment, conflict management, cultural awareness, decision making, emotional intelligence, facilitation, influencing, leadership, meeting management, motivation, negotiation, networking, nominal group, observation/conversation, political awareness, team building
+
+• Ungrouped: several other tools fit in this category These long lists of tools and techniques can be overwhelming. This text will focus on those used most often and with the most potential, providing the context and detailed examples for using them. It is crucial for project managers and their team members to 01356_ch01_hr_001-046.indd 14
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+15
+
+determine which tools will be most useful for their particular projects. Selecting the appropriate tools and techniques (as well the processes, inputs, outputs, and life cycle phases, discussed later in this book) is part of project tailoring. Project management should be tailored to meet the unique needs of projects, organizations, and most importantly, people. After all, projects are done by, and for, people.
+
+Despite its advantages, project management is not a silver bullet that guarantees success on all projects. Some projects, such as those involving new technologies, have a higher degree of uncertainty, so it is more difficult to meet their scope, schedule, and cost goals. Project management is a very broad, often complex discipline. What works on one project may not work on another, so it is essential for project managers to continue to develop their knowledge and skills in managing projects. It is also important to learn from the mistakes and successes of past projects.
+
+W h a t W e n t r i g h t ?
+
+Follow-up studies by the Standish Group (see the previously quoted “CHAOS” study in the What Went Wrong? passage) showed improvement in the statistics for IT projects:
+
+• The number of successful projects (those completed on time, on budget with a satisfactory result) was 29 percent in 2015 based on a sample of over 50,000 software development projects worldwide. The number of failed projects (those canceled or not used after implementation) was 19 percent. That leaves 52 percent of projects as challenged (over budget, late, and/or poorly implemented). These numbers include projects of all sizes and methodologies.
+
+• The 2015 CHAOS study also summarized the success rates of projects by size, showing that 62 percent of small projects were successful from 2011 to 2015
+
+compared to only 2 percent of grand, 6 percent of large, 9 percent of medium, and 21 percent of moderate size projects. Small projects are obviously easier to complete successfully.
+
+• Agile approaches were also measured across all project sizes from 2011 to 2015, showing that 39 percent of all agile projects were successful compared to 11 percent of waterfall projects. For small projects, 58 percent of agile projects were successful compared to 44 percent of waterfall projects. About 10,000 projects were included for these statistics.15
+
+According to the PMI research, across all industries, the average percentage of projects that are deemed failures is 14 percent; the average for IT projects deemed failures in 2016 also is 14 percent.16
+
+project success
+
+How do you define the success or failure of a project? The list that follows outlines a few common criteria for measuring the success of a project, illustrating each with an example of upgrading 500 desktop computers within three months for $300,000: 1. The project met scope, time, and cost goals. If all 500 computers were upgraded and met other scope requirements, the work was completed in three months or less, and the cost was $300,000 or less, you could consider 01356_ch01_hr_001-046.indd 15
+
+5/15/18 10:30 AM
+
+16
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+the project successful. The Standish Group studies used this definition of success, but several people question this simple definition of project success and the methods used for collecting the data. (Search for articles by Robert L. Glass to read more about this debate.)
+
+2. The project satisfied the customer/sponsor. Even if the project met initial scope, time, and cost goals, the users of the computers or their managers might not be satisfied. Perhaps the project manager or team members never returned calls or were rude. Perhaps users had their daily work disrupted during the upgrades or had to work extra hours due to the upgrades. If the customers were not happy with important aspects of the project, it would be deemed a failure. Conversely, a project might not meet initial scope, time, and cost goals, but the customer could still be very satisfied. Perhaps the project team took longer and spent more money than planned, but they were very polite and helped the users and managers solve several work-related problems. Many organizations implement a customer satisfaction rating system to measure project success instead of tracking only scope, time, and cost performance.
+
+3. The results of the project met its main objective, such as making or saving a certain amount of money, providing a good return on investment, or simply making the sponsors happy. Even if the project cost more than estimated, it took longer to complete, and the project team was hard to work with, the project would be successful if users were happy with the upgraded computers, based on this criterion. As another example, suppose that the sponsor approved the upgrade project to provide a good return on investment by speeding up work and therefore generating more profits. If those goals were met, the sponsor would deem the project a success, regardless of other factors involved.
+
+Why do some IT projects succeed and others fail? Table 1-2 summarizes the results of the 2015 CHAOS study. The factors that contribute most to the success of IT projects are listed in order of importance. Executive sponsorship is the most important factor, followed by emotional maturity of the organization. A few of the top success factors relate to good scope management, such as having clear business objectives and optimization. Project management expertise continues to be a key success factor. In fact, experienced project managers, who can often help influence all of these factors to improve the probability of project success, led 97 percent of successful projects, based on an earlier CHAOS study.
+
+A U.S. government report listed the top three reasons why federal technology projects succeed:
+
+1. Adequate funding
+
+2. Staff expertise
+
+3. Engagement from all stakeholders
+
+Notice that the CHAOS study list does not include adequate funding. Most nongovernment companies must either find adequate funds for important projects or 01356_ch01_hr_001-046.indd 16
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+17
+
+tabLe 1-2 What helps projects succeed?
+
+Factors of success
+
+points
+
+Executive sponsorship
+
+15
+
+Emotional maturity
+
+15
+
+User involvement
+
+15
+
+Optimization
+
+15
+
+Skilled resources
+
+10
+
+Agile process
+
+7
+
+Modest execution
+
+6
+
+Project management expertise
+
+5
+
+Clear business objectives
+
+4
+
+Source: The Standish Group, “CHAOS Manifesto 2015” (2015).
+
+cancel projects if they cannot be funded or get an adequate return. Government projects often require that funds be allocated a year or more before they even start, and estimates often fall short. “The government has struggled when acquiring technology thanks to the convoluted nature of the federal contracting process and the shortage of qualified contracting officers and technical personnel. Critics argue that federal agencies get little return for the $80 billion the government spends annually on IT. . . . ‘History has shown that government IT projects frequently face challenges of meeting cost, schedule or performance goals,’ said Sen. Susan Collins (R-Maine) in a statement.”17
+
+It is interesting to compare success factors for IT projects in the United States with those in other countries. A survey of 247 information systems project practitioners in mainland found that relationship management is viewed as a top success factor for information systems in China, while it is not mentioned in U.S. studies. The study also suggested that having competent team members is less important in China than in the United States. The Chinese, like the Americans, included top management support, user involvement, and a competent project manager as vital to project success.18
+
+It is also important to look beyond individual project success rates and focus on how organizations as a whole can improve project performance. Research comparing companies that excel in project delivery—the “winners”—with those that do not found four significant best practices:
+
+1. Use an integrated toolbox. Companies that consistently succeed in managing projects clearly define what needs to be done in a project, by whom, when, and how. They use an integrated toolbox, including project management tools, methods, and techniques. They carefully select tools, align them with project and business goals, link them to metrics, and provide them to project managers to deliver positive results.
+
+01356_ch01_hr_001-046.indd 17
+
+5/15/18 10:30 AM
+
+18
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+2. Grow project leaders. The winners know that strong project managers—
+
+referred to as project leaders—are crucial to project success. They also know that a good project leader needs to be a business leader as well, with strong interpersonal and intrapersonal skills. Companies that excel in project management often grow or develop their project leaders internally, providing them with career opportunities, training, and mentoring.
+
+3. Develop a streamlined project delivery process. Winning companies have examined every step in the project delivery process, analyzed fluctuations in workloads, searched for ways to reduce variation, and eliminated bottlenecks to create a repeatable delivery process. All projects go through clear stages and clearly define key milestones. All project leaders use a shared road map, focusing on key business aspects of their projects while integrating goals across all parts of the organization.
+
+4. Measure project health using metrics. Companies that excel in project delivery use performance metrics to quantify progress. They focus on a handful of important measurements and apply them to all projects. Metrics often include customer satisfaction, return on investment, and percentage of schedule buffer consumed.19
+
+Project managers play an important role in making projects, and therefore organizations, successful. Project managers work with the project sponsors, the project team, and other stakeholders to meet project goals. They also work with sponsors to define success for particular projects. Good project managers do not assume that their definition of success is the same as the sponsors’. They take the time to understand their sponsors’
+
+expectations and then track project performance based on important success criteria.
+
+prOgraM and prOject pOrtFOLiO ManageMent
+
+About one-quarter of the world’s gross domestic product is spent on projects. Projects make up a significant portion of work in most business organizations or enterprises, and managing those projects successfully is crucial to enterprise success. Two important concepts that help projects meet enterprise goals are the use of programs and project portfolio management.
+
+programs
+
+A program is “a group of related projects, subsidiary programs, and program activities managed in a coordinated manner to obtain benefits and control not available from managing them individually.”20 As you can imagine, it is often more economical to group projects together to help streamline management, staffing, purchasing, and other work. Programs are not large projects; a megaproject is a very large project that typically costs over US$1 billion, affects over one million people, and lasts several years.
+
+For examples, the Panama Canal Expansion Project was a megaproject that took 11 years and $5.25 billion to complete. The following are examples of common programs in the IT field.
+
+01356_ch01_hr_001-046.indd 18
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+19
+
+• Infrastructure: An IT department often has a program for IT infrastructure projects. This program could encompass several projects, such as providing more wireless Internet access, upgrading hardware and software, enhancing computer security, and developing and maintaining corporate standards for IT.
+
+• Applications development: This program could include several projects, such as updating an enterprise resource planning (ERP) system, purchasing a new off-the-shelf billing system, or developing a new capability for a customer relationship management system.
+
+• User support: In addition to the many operational tasks related to user support, many IT departments have several projects to support users. For example, a project might provide a better e-mail system or develop technical training for users.
+
+A program manager provides leadership and direction for the project managers heading the projects within a program. Program managers also coordinate the efforts of project teams, functional groups, suppliers, and operations staff supporting the projects to ensure that products and processes are implemented to maximize benefits. Program managers are responsible for more than the delivery of project results; they are change agents responsible for the success of products and processes developed by those projects.
+
+For example, the NASA International Space Station Program is led by a program manager who oversees all U.S. projects involved with the station and is accountable for achieving their objectives, funding, and contribution to scientific knowledge.
+
+Program managers often have review meetings with all their project managers to share important information and coordinate important aspects of each project. Many program managers worked as project managers earlier in their careers, and they enjoy sharing their wisdom and expertise with their project managers. Effective program managers recognize that managing a program is much more complex than managing a single project.
+
+They recognize that technical and project management skills are not enough—program managers must also possess strong business knowledge, leadership capabilities, and communication skills.
+
+project portfolio Management
+
+In many organizations, project managers also support an emerging business strategy of project portfolio management or portfolio management, as called in this text, in which organizations group and manage projects and programs as a portfolio of investments that contribute to the entire enterprise’s success. Portfolio managers help their organizations make wise investment decisions by helping to select and analyze projects from a strategic perspective. Portfolio managers may or may not have previous experience as project or program managers. It is most important that they have strong financial and analytical skills and understand how projects and programs can contribute to meeting strategic goals.
+
+Figure 1-3 illustrates the differences between project management and project portfolio management. Notice that the main distinction is a focus on meeting tactical or strategic goals. Tactical goals are generally more specific and short term than strategic goals, which emphasize long-term goals for an organization. Individual projects often address tactical goals, whereas portfolio management addresses strategic goals. Project 01356_ch01_hr_001-046.indd 19
+
+5/15/18 10:30 AM
+
+20
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+Project portfolio management
+
+
+• Are we working on the right projects?
+
+Strategic goals
+
+• Are we investing in the right areas?
+
+• Do we have the right resources to be
+
+competitive?
+
+Project management
+
+• Are we carrying out projects well?
+
+• Are projects on time and on budget?
+
+Tactical
+
+• Do project stakeholders know
+
+goals
+
+what they should be doing?
+
+Figure 1-3 Project management compared to project portfolio management
+
+management addresses questions like “Are we carrying out projects well?”, “Are projects on time and on budget?”, and “Do project stakeholders know what they should be doing?”
+
+Portfolio management addresses questions like “Are we working on the right projects?”, “Are we investing in the right areas?”, and “Do we have the right resources to be competitive?” PMI defines a portfolio as “projects, programs, subsidiary portfolios, and operations managed as a group to achieve strategic objectives.”21
+
+Many organizations use a more disciplined approach to portfolio management by developing guidelines and software tools to assist in it. The Project Management Institute (described later in this chapter) first published the Organizational Project Management Maturity Model (OPM3®) Knowledge Foundation in 2003.22 OPM3® describes the importance of not only managing individual projects or programs well but also following organizational project management to align projects, programs, and portfolios with strategic goals. OPM3® is a standard that organizations can use to measure their organizational project management maturity against a comprehensive set of best practices.
+
+b e s t p r a c t i c e
+
+A best practice is “an optimal way recognized by industry to achieve a stated goal or objective.”23 Rosabeth Moss Kanter, a professor at Harvard Business School and well-known author and consultant, says that visionary leaders know “the best practice secret: Stretching to learn from the best of the best in any sector can make a big vision more likely to succeed.”24 Kanter also emphasizes the need to have measurable standards for best practices. An organization can measure performance against its own past, against ( continued)
+
+01356_ch01_hr_001-046.indd 20
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+21
+
+peers, and, even better, against potential. Kanter suggests that organizations need to continue to reach for higher standards. She suggests the following exercise regimen for business leaders who want to adapt best practices in an intelligent way to help their own organizations:
+
+• Reach high. Stretch. Raise standards and aspirations. Find the best of the best and then use it as inspiration for reaching full potential.
+
+• Help everyone in your organization become a professional. Empower people to manage themselves through benchmarks and standards based on best practice exchange.
+
+• Look everywhere. Go far afield. Think of the whole world as your laboratory for learning.
+
+Robert Butrick, author of The Project Workout, wrote an article on best practices in project management for the Ultimate Business Library’s Best Practice book. He suggests that organizations need to follow basic principles of project management, including these two mentioned earlier in this chapter:
+
+• Make sure your projects are driven by your strategy. Be able to demonstrate how each project you undertake fits your business strategy, and screen out unwanted projects as soon as possible.
+
+• Engage your stakeholders. Ignoring stakeholders often leads to project failure.
+
+Be sure to engage stakeholders at all stages of a project, and encourage teamwork and commitment at all times.25
+
+Table 1-3 provides a comparative overview of project, program, and portfolio management. Organizational project management is a “framework in which portfolio, program, and project management are integrated with organizational enablers in order to achieve strategic objectives.”26
+
+Organizational project Management
+
+Organizations group projects into portfolios to help them make better investment decisions, such as increasing, decreasing, discontinuing, or changing specific projects or programs based on their financial performance, risks, resource utilization, and similar factors that affect business value. If a construction firm has much higher profit margins on apartment buildings than single-family homes, for example, it might choose to pursue more apartment building projects. The firm might also create a new project to investigate ways to increase profits for single-family home projects. On the other hand, if the company has too many projects focused on financial performance and not enough focused on improving its work force, the portfolio manager might suggest initiating more projects to support that strategic goal. Just like a personal financial portfolio, a business’s portfolio should be diversified to account for risk.
+
+By grouping projects into portfolios, organizations can better tie their projects to meeting strategic goals. Portfolio management can also help organizations do a better job of managing its human resources by hiring, training, and retaining workers to support 01356_ch01_hr_001-046.indd 21
+
+5/15/18 10:30 AM
+
+22
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+tabLe 1-3 Comparative Overview of Portfolios, Programs, and Projects projects
+
+programs
+
+portfolios
+
+Definition
+
+A project is a temA program is a group of
+
+A portfolio is a col—
+
+porary endeavor
+
+related projects, subsid—
+
+lection of projects,
+
+undertaken to
+
+iary programs, and pro—
+
+programs, subsid—
+
+create a unique
+
+gram activities that are
+
+iary portfolios, and
+
+product, service,
+
+managed in a coordinated
+
+operations managed
+
+or result.
+
+way to obtain benefits not
+
+as a group to achieve
+
+available from managing
+
+strategic objectives.
+
+them individually.
+
+Management
+
+Project manag—
+
+Programs are managed
+
+Portfolio managers manage the
+
+by program managers
+
+ers may manage or
+
+project team to
+
+who ensure that program
+
+coordinate portfolio
+
+meet the project
+
+benefits are delivered as
+
+management staff, or
+
+objectives.
+
+expected, by coordinating
+
+program and project
+
+the activities of a pro—
+
+staff that may have
+
+gram’s components.
+
+reporting responsibilities into the
+
+aggregate portfolio.
+
+Monitoring
+
+Project manag—
+
+Program managers
+
+Portfolio managers
+
+ers monitor and
+
+monitor the progress of
+
+monitor strategic
+
+control the work
+
+program components to
+
+changes and aggre—
+
+of producing the
+
+ensure that the overall
+
+gate resource alloca—
+
+products, services, goals, schedules, budget,
+
+tion, performance
+
+or results that the
+
+and benefits of the pro—
+
+results, and risk of
+
+project was under—
+
+gram are met.
+
+the portfolio.
+
+taken to produce.
+
+Success
+
+Success is mea—
+
+A program’s success is
+
+Success is measured
+
+sured by product
+
+measured by the pro—
+
+in terms of the
+
+and project qual—
+
+gram’s ability to deliver
+
+aggregate investment
+
+ity, timeliness,
+
+its intended benefits to an performance and
+
+budget compli—
+
+organization, and by the
+
+benefit realization of
+
+ance, and degree
+
+program’ efficiency and
+
+the portfolio.
+
+of customer
+
+effectiveness in delivering
+
+satisfaction.
+
+those benefits.
+
+Source: Project Management Institute, Inc., A Guide to the Project Management Body of Knowledge (PMBOK® Guide) – Sixth Edition (2017).
+
+the projects in the organization’s portfolio. For example, if the construction firm needs more people with experience in building apartment buildings, they can make necessary adjustments by hiring or training current workers in the necessary skills.
+
+01356_ch01_hr_001-046.indd 22
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+23
+
+As you can imagine, project portfolio management is not an easy task. Figure 1-4
+
+illustrates one approach for project portfolio management in which one large portfolio exists for the entire organization. This allows top management to view and manage all projects at an enterprise level. Sections of the portfolio are then broken down to improve the management of projects in each sector. For example, a company might have the main portfolio categories shown in the left part of Figure 1-4—marketing, materials, IT, and human resources (HR)—and divide each of those categories further to address its unique concerns. The right part of this figure shows how the IT projects could be categorized in more detail to assist in their management. In this example, there are three basic IT
+
+project portfolio categories:
+
+• Venture: Projects in this category help transform the business. For example, the large retail chain described in the opening case might have an IT project to provide kiosks in stores and similar functionality on the Internet where customers and suppliers could quickly provide feedback on products or services. This project could help transform the business by developing closer partnerships with customers and suppliers.
+
+• Growth: Projects in this category would help the company increase its revenues.
+
+For example, a company might have an IT project to provide information on its corporate website in a new language, such as Chinese or Japanese. This capability could help the company grow its business in those countries.
+
+• Core: Projects in this category must be accomplished to run the business. For example, an IT project to provide computers for new employees would fall under this category.
+
+In Figure 1-4, the costs of Core IT projects are nondiscretionary, which means that the company has no choice in whether to fund them. Core IT Projects must be funded for the company to stay in business. Projects in the Venture or Growth category are Overall project portfolio categories
+
+IT project portfolio categories
+
+Venture:
+
+Transform
+
+HR
+
+the business
+
+Marketing
+
+Discretionary
+
+costs
+
+Growth:
+
+Grow the
+
+lue, Timing
+
+business
+
+Va
+
+IT
+
+Materials
+
+Core:
+
+Risks,
+
+Run the
+
+Nondiscretionary
+
+business
+
+costs
+
+Figure 1-4 Sample project portfolio approach
+
+01356_ch01_hr_001-046.indd 23
+
+5/15/18 10:30 AM
+
+24
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+discretionary costs because the company can use its own discretion or judgment in deciding whether to fund them; these projects are not critical to the company fulfilling its mission. The arrow in the center of Figure 1-4 indicates that the risks and value of projects normally increase as you move from Core to Growth to Venture projects. In addition, timeliness becomes increasingly important; growth and venture projects, more than core projects, must be done within a certain time frame to be effective. However, some core projects can also be high risk, have high value, and require good timing. As you can see, many factors are involved in portfolio management.
+
+the rOLe OF the prOject Manager
+
+You have already read that project managers must work closely with the other stakeholders on a project, especially the sponsor and project team. They are also more effective if they are familiar with the 10 project management knowledge areas and the various tools and techniques related to project management. Experienced project managers help projects succeed. But what do project managers do, exactly? What skills do they really need to do a good job? What is PMI’s talent triangle? The next section provides brief answers to these questions, and the rest of this book gives more insight into the role of the project manager. Even if you never become a project manager, you will probably be part of a project team, and it is important for team members to help their project managers.
+
+project Manager job description
+
+A project manager can have many different job descriptions, which can vary tremendously based on the organization and the project. In fact, PMI includes a page on their website to answer the question, “Who are project managers?” In addition to saying that project managers are organized, passionate, and goal-oriented individuals who drive business results by leading projects, PMI emphasizes that they are also change agents who work well under pressure and enjoy challenging work environments.
+
+Project management jobs can be found in every country and every industry. Sites like indeed.com listed hundreds of thousands of job openings in 2018. Monster.com has a job category for project management, and their site says that project managers “smoothly link management, clients and staff to keep projects rolling. To be successful in a project management job, you’ll need people skills, business acumen and technical competence.”27
+
+Here are a few edited postings:
+
+• Project manager for a consulting firm: Plans, schedules, and controls activities to fulfill identified objectives applying technical, theoretical, and managerial skills to satisfy project requirements. Coordinates and integrates team and individual efforts and builds positive professional relationships with clients and associates.
+
+• Project manager for a computer systems firm: Works independently within established practices to assist in the development and implementation process of projects involving departmental, vendor relationships, and/or cross-functional teams. Coordinates with internal/external clients to gather 01356_ch01_hr_001-046.indd 24
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+25
+
+business requirements and coordinate project plans. Monitor projects from initiation through delivery ensuring completion of the project on schedule.
+
+• IT project manager for a nonprofit consulting firm: Responsibilities include business analysis, requirements gathering, project planning, budget estimating, development, testing, and implementation. Responsible for working with various resource providers to ensure that development is completed in a timely, high-quality, and cost-effective manner.
+
+The job description for a project manager can vary by industry and by organization, but most project managers perform similar tasks regardless of these differences. In fact, project management is a skill needed in every major IT field, from database administrator to network specialist to technical writer. Because demand for project managers is high, some organizations have hired new college graduates to fill positions normally held by experienced professionals. For example, Boom Lab, a consulting company named by the Star Tribune as a top workplace in 2017, is growing quickly by finding, training, and placing talented people as project coordinators. As new project coordinators gain experience and credentials, they often continue their careers by managing larger projects, becoming program managers, or transitioning into other management positions.
+
+a d v i c e F O r Y O u n g p r O F e s s i O n a L s How do you know if you would be a good project manager? Being a project manager is a demanding yet rewarding profession, for the right person. Below are a few questions to ask yourself:
+
+• Do you get frustrated by bad bosses? Do you think you could do a better job?
+
+• Are you interested in understanding the big picture of how organizations work and how your individual work or your project fits in?
+
+• Have you had other leadership roles, such as being a team captain, president of a club, or entrepreneur of a small business? Did you enjoy it? Did others think you did a good job?
+
+• Are you good at mentoring others? Do people ask you for help in developing their skills or your advice on what to do?
+
+If you answered “yes” to most of these questions, you should consider being a project manager. If you prefer just focusing on your own work and want to remain in a technical position, there’s absolutely nothing wrong with that. Just remember that it will help you in the long run if you at least understand what project managers do and assist them as needed doing things like creating estimates, identifying risks, etc.
+
+What if you try it but no longer want to stay in a project management career path?
+
+You can often go back to your former, more technical role, and move along that career path. Or, many ex-project managers move into higher level management positions, such as director, vice president, or even CEO. Some become consultants, educators, or entrepreneurs. Their experience leading projects makes them marketable in several different professions.
+
+01356_ch01_hr_001-046.indd 25
+
+5/15/18 10:30 AM
+
+26
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+suggested skills for project Managers
+
+
+Project managers need to have a wide variety of skills and be able to decide which skills are more important in different situations. A Guide to the Project Management Body of Knowledge— the PMBOK® Guide— now includes a chapter called “The Role of the Project Manager.” It uses the analogy of a project manager being like a conductor or a large orchestra. Conductors are not expected to be able to play every instrument in the orchestra, but they should possess musical knowledge, understanding, and experience required to conduct an orchestra. Similarly, a project manager in IT should possess project management and IT knowledge, understanding of the project and how it will fit into the organization, and experience in general management and human relations or soft skills needed to guide the project team.
+
+This chapter introduced the 10 project management knowledge areas, as well as some general tools and techniques project managers use. The following section focuses on the IT application area, including skills required in the project environment, general management, and soft skills. Note that the PMBOK® Guide – Sixth Edition describes project management competencies based on the talent triangle, described in the following section.
+
+The project environment differs from organization to organization and project to project, but some skills will help in almost all project environments. These skills include understanding change and understanding how organizations work within their social, political, and physical environments. Project managers must be comfortable leading and handling change, because most projects introduce changes in organizations and involve changes within the projects themselves. Project managers need to understand the organization in which they work and how that organization develops products and provides services. The skills and behavior needed to manage a project for a Fortune 100 company in the United States may differ greatly from those needed to manage a government project in Poland. Chapter 2, The Project Management and Information Technology Context, provides detailed information on these topics.
+
+Project managers should also possess general management knowledge and skills.
+
+They should understand important topics related to financial management, accounting, procurement, sales, marketing, contracts, manufacturing, distribution, logistics, the supply chain, strategic planning, tactical planning, operations management, organizational structures and behavior, personnel administration, compensation, benefits, career paths, and health and safety practices. On some projects, it will be critical for the project manager to have a lot of experience in one or several of these general management areas.
+
+On other projects, the project manager can delegate detailed responsibility for some of these areas to a team member, support staff, or even a supplier. Even so, the project manager must be intelligent and experienced enough to know which of these areas are most important and who is qualified to do the work. The project manager must make all key project decisions and take responsibility for them.
+
+Achieving high performance on projects requires soft skills, otherwise called human relations skills. Some of these soft skills include effective communication, influencing the organization to get things done, leadership, motivation, negotiation, conflict management, and problem-solving. Why do project managers need good soft skills? One reason is that 01356_ch01_hr_001-046.indd 26
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+27
+
+to understand, navigate, and meet stakeholders’ needs and expectations, project managers need to lead, communicate, negotiate, solve problems, and influence the organization at large. They need to be able to listen actively to what others are saying, help develop new approaches for solving problems, and then persuade others to work toward achieving project goals. Project managers must lead their project teams by providing vision, delegating work, creating an energetic and positive environment, and setting an example of appropriate and effective behavior. Project managers must focus on teamwork skills to employ people effectively. They need to be able to motivate different types of people and develop esprit de corps within the project team and with other project stakeholders.
+
+Because most projects involve changes and trade-offs between competing goals, it is important for project managers to have strong coping skills as well. Project managers need to be able to cope with criticism and constant change. Project managers must be flexible, creative, and sometimes patient in working toward project goals; they must also be persistent in making project needs known.
+
+Finally, project managers, especially those managing IT projects, must be able to make effective use of technology as it relates to the specific project. Making effective use of technology often includes special product knowledge or experience with a particular industry.
+
+Project managers must make many decisions and deal with people in a wide variety of disciplines, so it helps tremendously to have a project manager who is confident in using the special tools or technologies that are the most effective in particular settings.
+
+Project managers do not normally have to be experts on any specific technology, but they have to know enough to build a strong team and ask the right questions to keep things on track. For example, project managers for large IT projects do not have to be experts in the field of IT, but they must have working knowledge of various technologies and understand how the project would enhance the business. Many companies have found that good business managers can be very good IT project managers because they focus on meeting business needs and rely on key project members to handle the technical details.
+
+A 2017 article published by CIO.com listed the six traits of highly effective project managers as follows:
+
+1. Be a strategic business partner.
+
+2. Encourage and recognize valuable contributions.
+
+3. Respect and motivate stakeholders.
+
+4. Be fully vested in success.
+
+5. Stress integrity and accountability.
+
+6. Work in the gray/Be able to deal with ambiguity.28
+
+All project managers should continue to develop their knowledge and experience in project management, general management, soft skills, and the industries they support.
+
+IT project managers must be willing to develop more than their technical skills to be productive team members and successful project managers. Everyone, no matter how technical they are, should develop business and soft skills.
+
+01356_ch01_hr_001-046.indd 27
+
+5/15/18 10:30 AM
+
+28
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+pMi talent triangle® and the importance of Leadership skills*
+
+PMI developed a talent triangle to emphasize the types of skills project managers need to continuously develop. The talent triangle includes the following: 1. Technical project management skills: Understanding the knowledge areas, process groups, and project management tools and techniques fall into this category.
+
+2. Strategic and business management skills: Topics include strategic planning and financial management (described in more detail in Chapter 4), accounting, marketing, and other topics listed in the previous section.
+
+3. Leadership skills: Leadership and management are terms often used interchangeably, although there are differences. Generally, a leader focuses on long-term goals and big-picture objectives, while inspiring people to reach those goals. A manager often deals with the day-to-day details of meeting specific goals. Some people say that, “Managers do things right, and leaders do the right things.” “Leaders determine the vision, and managers achieve the vision.” “You lead people and manage things.”
+
+Leadership is a soft skill, and there is no one best way to be a leader. Peter Northouse, author of a popular text called Leadership: Theory and Practice, says, “In the past 60
+
+years, as many as 65 different classification systems have been developed to define the dimensions of leadership.”29 Some classification systems focus on group processes, while others focus on personality traits or behaviors. For example, the PMBOK® Guide – Sixth Edition briefly describes the following leadership styles: 1. Laissez-faire: Meaning “let go,” this hands-off approach lets teams determine their own goals and how to achieve them.
+
+2. Transactional: This management by exception approach focuses on achieving goals or compliance by offering team members appropriate rewards and punishments.
+
+3. Servant leader: People using this approach focus on relationships and community first and leadership is secondary.
+
+4. Transformational: By working with others to identify needed changes, these leaders empower others and guide changes through inspiration.
+
+5. Charismatic: These people can inspire others based on their enthusiasm and confidence.
+
+6. Interactional: This leadership style is a combination of transactional, transformational, and charismatic.
+
+There are many different leadership styles in addition to the six listed above, and the one thing most experts agree on is that the best leaders are able to adapt their style to the needs of the situation. Also, while it may seem from the above list that such styles are mutually exclusive, the fact is that most leaders exhibit more than one leadership style as they adapt to their situations. Finally, the names of these styles should not be interpreted as either good or bad by their labels—they can each be appropriate and effective given the circumstances of a situation.
+
+01356_ch01_hr_001-046.indd 28
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+29
+
+Daniel Goleman, author of Emotional Intelligence, also wrote a book called Primal Leadership, which describes six different styles of leadership and situations where they are most appropriate:
+
+1. Visionary: Needed when an organization needs a new direction, and the goal is to move people toward a new set of shared dreams. The leader articulates where the group is going, but lets them decide how to get there by being free to innovate, experiment, and take calculated risks.
+
+2. Coaching: One-on-one style that focuses on developing individuals, showing them how to improve their performance. This approach works best with workers who show initiative and request assistance.
+
+3. Affiliative: Emphasizes the importance of teamwork and creating harmony by connecting people to each other. This approach is effective when trying to increase morale, improve communication, or repair broken trust.
+
+4. Democratic: Focuses on people’s knowledge and skills and creates a commitment to reaching shared goals. This leadership style works best when the leader needs the collective wisdom of the group to decide on the best direction to take for the organization.
+
+5. Pacesetting: Used to set high standards for performance. The leader wants work to be done better and faster and expects everyone to put forth their best effort.
+
+6. Commanding: Most often used, also called autocratic or military style leadership.
+
+This style is most effective in a crisis or when a turnaround is needed.
+
+“The goal for leaders should be to develop a solid understanding of the different styles of leadership and their implications, and reach the point where choosing the right one for the situation becomes second nature to them.”30
+
+Project managers often take on the role of both leader and manager. Good project managers know that people make or break projects, so they must set a good example to lead their team to success. They are aware of the greater needs of their stakeholders and organizations, so they are visionary in guiding their current projects and in suggesting future ones.
+
+As mentioned earlier, program managers need the same skills as project managers.
+
+They often rely on their past experience as project managers, strong business knowledge, leadership capability, and communication skills to handle the responsibility of overseeing the multiple projects that make up their programs. It is most important that portfolio managers have strong financial and analytical skills and understand how projects and programs can contribute to meeting strategic goals.
+
+Companies that excel in project, program, and portfolio management grow project leaders, emphasizing development of business and leadership skills. Instead of thinking of leaders and managers as specific people, it is better to think of people as having leadership skills, such as being visionary and inspiring, and management skills, such as being organized and effective. Therefore, the best project, program, and portfolio managers have leadership and management characteristics; they are visionary yet focused on the bottom line. Above all else, they focus on achieving positive results!
+
+01356_ch01_hr_001-046.indd 29
+
+5/15/18 10:30 AM
+
+30
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+tabLe 1-4 Ten hot tech skills for 2017
+
+1. Full-stack software development
+
+2. Project management
+
+3. Cyber-security
+
+4. Networking
+
+5. User experience/user interface (UX/UI) design
+
+6. Quality assurance (QA)/testing
+
+7. Cloud engineering
+
+8. Big data
+
+9. Machine learning/artificial intelligence
+
+10. DevOps
+
+Source: Sharon Florentine, “10 IT skills that employers need in 2017,” CIO from IDG
+
+(February 1, 2017).
+
+careers for it project Managers
+
+As shown earlier, the IT industry continues to grow, and the need for people to lead IT
+
+projects has remained solid. Most IT workers will be involved in project work, so it’s important to understand basic concepts of project management to help those projects succeed.
+
+IT executives listed the “ten hot tech skills” they planned to hire for in 2017. Full-stack software development took first place, replacing programming and application development. Full-stack developers are familiar with all layers in computer software development and have experience in several programming languages and platforms.
+
+They also understand different roles in IT (DevOps, design, quality assurance, database administration, analytics, etc.) to effectively solve business problems. Project management again came in second, as shown in Table 1-4.
+
+the prOject ManageMent prOFessiOn
+
+The project management profession is growing at a very rapid pace. To understand this line of work, it is helpful to briefly review the history of project management, learn about the Project Management Institute and some of its services (such as certification), and examine the growth in project management software.
+
+history of project Management
+
+Most people think that project management is a 20th century invention. But Mark Kozak-Holland, certified PMP® and author of books that mine history for insight about project management, says that’s wrong. He notes that major historical projects closely resemble today’s project management best practices. About his 2011 book The History of Project Management, he said, “The general perception of most people is that project management started in the mid-20th century, or started earlier with Henry Gantt and his charts. . . .
+
+Yet, how were all the great projects of the past delivered? Think about the Giza Pyramid, the Parthenon, the Coliseum, the Gothic Cathedrals of Medieval Europe, the great voyages 01356_ch01_hr_001-046.indd 30
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+31
+
+of exploration, the Taj Mahal, and the mega projects of the industrial revolutions. Was project management used on these projects? Were the concepts of project management even understood? Can we connect modern and ancient project management?” Kozak-Holland’s answer to these questions is “yes.” You can see the PMBOK® process groups and techniques from the knowledge areas in all of these historical projects. Project management has been around since 2550 B.C.E.31
+
+Although people have worked on projects for centuries, most agree that the modern concept of project management began with the Manhattan Project, which the U.S. military led to develop the atomic bomb in World War II. The Manhattan Project involved many people with different skills at several different locations. It also clearly separated the overall management of the project’s mission, schedule, and budget under General Leslie R. Groves and the technical management of the project under the lead scientist, Dr. Robert Oppenheimer. The Manhattan Project lasted about three years and cost almost $2 billion in 1946.
+
+In developing the project, the military realized that scientists and other technical specialists often did not have the desire or the necessary skills to manage large projects.
+
+For example, after being asked several times for each team member’s responsibilities at the new Los Alamos laboratory in 1943, Dr. Oppenheimer tossed the project organization chart at his director and said, “Here’s your damn organization chart.”32 Project management was recognized as a distinct discipline requiring people with special skills and, more importantly, the desire to lead project teams.
+
+In 1917, long before the Manhattan project, Henry Gantt developed the famous Gantt chart for scheduling work in factories. A Gantt chart is a standard format for displaying project schedule information by listing project activities and their corresponding start and finish dates in calendar form. Initially, managers drew Gantt charts by hand to show project tasks and schedule information. This tool provided a standard format for planning and reviewing all the work on early military projects.
+
+Today’s project managers still use the Gantt chart as the primary tool to communicate project schedule information, but with the aid of computers, it is no longer necessary to draw the charts by hand, and they are easier to share and disseminate to project stakeholders. Figure 1-5 displays a Gantt chart created with Project 2016, the most widely used project management software today. You will learn more about using Project 2016 in Appendix A, which is available on the Companion website for this text.
+
+During the Cold War years of the 1950s and 1960s, the military continued to play an important role in refining several project management techniques. Members of the U.S. Navy Polaris missile/submarine project first used network diagrams in 1958. These diagrams helped managers model the relationships among project tasks, which allowed them to create schedules that were more realistic. You will learn more about Gantt charts, network diagrams, and other time management concepts in Chapter 6, Project Schedule Management.
+
+By the 1970s, the U.S. military and its civilian suppliers had developed software to assist in managing large projects. Early project management software was very expensive to purchase, and it ran exclusively on mainframe computers. For example, Artemis was an early project management software product that helped managers analyze complex schedules for designing aircraft. A full-time employee was often required to run the 01356_ch01_hr_001-046.indd 31
+
+5/15/18 10:30 AM
+
+
+
+32
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+Figure 1-5 Sample Gantt chart from Project 2016 software development plan template complicated software, and expensive pen plotters were used to draw network diagrams and Gantt charts.
+
+As computer hardware became smaller and more affordable and software companies developed graphical, easy-to-use interfaces, project management software became less expensive and more widely used. This made it possible—and affordable—for many industries worldwide to use project management software on all types and sizes of projects. New software makes basic tools such as Gantt charts and network diagrams inexpensive, easy to create, and available for anyone to update. See the section later in this chapter on project management software for more information.
+
+In the 1990s, many companies began creating Project Management Offices to help them handle the increasing number and complexity of projects. A Project Management Office (PMO) is an organizational group responsible for coordinating the project management function throughout an organization. A 2016 study found that 85 percent of U.S. organizations reported having PMOs. Figure 1-6 shows the percentage based on size. Small organizations were defined as those having revenues less than $100 million; mid-size between $100 million and $1 billion, and large over $1 billion. These percentages have grown from previous surveys, showing the growing importance of using standard project management processes in organizations of all sizes. The study also found that PMOs in high-performing organizations were twice as old, on average, as those in low performers (6 vs. 3 years old).33
+
+There are different ways to structure a PMO, and they can have various roles and responsibilities. Organizations continue to modify their PMOs to ensure they add value to their unique situations. For some organizations with very mature project management processes and experienced managers, a small PMO focusing on organizing all project data 01356_ch01_hr_001-046.indd 32
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+33
+
+Percentage of Organizations with PMOs
+
+100
+
+95
+
+90
+
+83
+
+80
+
+75
+
+70
+
+60
+
+50
+
+40
+
+Percentage
+
+30
+
+20
+
+10
+
+0
+
+Small
+
+Mid-size
+
+Large
+
+Source: PM Solutions, “The State of the Project Management Office (PMO) 2016,” 2016.
+
+Figure 1-6 Percentage of organizations with PMOs by size might be all that is needed. For an organization new to project management, a larger PMO
+
+might be needed focusing on training and standards. PM Solutions identified three key factors that are playing major roles in the growth of PMOs: 1. The growing strategic value of the PMO
+
+2. The increased role of the PMO in training
+
+3. The ever-present challenge of resource management Below are possible goals of a PMO:
+
+• Collect, organize, and integrate project data for the entire organization.
+
+• Ensure that the organization’s approaches for project management include accepted and validated best practices.
+
+• Audit project documentation and offer feedback on project managers’
+
+approaches and compliance with standards.
+
+• Develop and maintain templates, tools, and standards for project documents and project methodologies to be used.
+
+• Develop or coordinate training in various project management topics.
+
+• Provide a formal career path for project managers.
+
+• Provide project management consulting services.
+
+• Provide a structure or department that project managers belong to while they are assigned to a project or are between projects.
+
+By the end of the 20th century, people in virtually every industry around the globe began to investigate and apply different aspects of project management to their projects.
+
+The sophistication and effectiveness with which project management tools are being applied and used today is enabling companies to do business, use resources, and respond to market requirements with greater speed and accuracy.
+
+01356_ch01_hr_001-046.indd 33
+
+5/15/18 10:30 AM
+
+34
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+Many colleges, universities, and companies around the world now offer courses related to different aspects of project management. You can even earn bachelor’s, master’s, and doctoral degrees in project management. PMI reported that formal education programs in project management continue to grow, especially in China and India, where many infrastructure projects are needed. “In China, for example, the 104 institutions offering project management programs receive more than 20,000 applications each year.”
+
+As projects become more global and teams are no longer stationed in the same city or even country, students are learning a common project management language no matter where they seek their education.34
+
+The problems organizations have in managing projects, increasing education in project management, and the belief that it can make a difference continue to contribute to the growth of this field.
+
+the project Management institute
+
+Although many professional societies suffer from declining membership, the Project Management Institute (PMI), an international professional society for project managers founded in 1969, has continued to attract and retain members, reporting more than 500,000 members worldwide by the end of 2017. Because so many people work on projects in different industries throughout the world, PMI has parternered with projectmanagement.com to create a global online community. The site provides over 14,000 articles by industry experts, over 1,000 templates to save you time and effort, and over 8,000 peer connections through a social networking system and discussion forums.
+
+g L O b a L i s s u e s
+
+Based on a survey of more than 1,000 project management leaders across a variety of experience levels and industries, several global dynamics are forcing organizations to rethink their practices:
+
+• Talent development for project and program managers is a top concern.
+
+Seventy percent of organizations have a career path for project and program management, but most are still informal and not documented.
+
+• Basic project management techniques are core competencies. Seventy percent of organizations said that they always or often use basic practices like change management and risk management on their projects.
+
+• Organizations want to use more agile approaches to project management.
+
+One-quarter of survey respondents said they now use agile techniques, and agile project management was the most requested article topic.
+
+• Benefits realization of projects is a key metric. Organizations know that they need to align projects and programs with the organization’s business strategy.35
+
+01356_ch01_hr_001-046.indd 34
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+35
+
+p M i s t u d e n t M e M b e r s h i p
+
+As a student, you can join PMI for a reduced fee ($32 versus $139 in 2018). Consult PMI’s website (www.pmi.org) for more information. With student membership, you can network with other project management students by joining a local PMI chapter. Many welcome students to attend free events, including talks and job networking. You can volunteer your services to help develop your skills and serve your community. You can also qualify for the Certified Associate in Project Management (CAPM®) certification without work experience. However, if you do have enough experience, the PMP® is more marketable, as described in the next section. Even if you intend to eventually achieve a PMP® certification, achieving an initial CAPM® certification while you are gaining the needed additional experience indicates to many employers that you are serious about project management as a career and that you already know the fundamentals of the profession. This can often result in your being among their preferred choices for appointment to a PM role when it becomes available.
+
+project Management certification
+
+Professional certification is an important factor in recognizing and ensuring quality in a profession. PMI provides certification as a Project Management Professional (PMP®)—
+
+someone who has documented sufficient project experience and education, agreed to follow the PMI code of professional conduct, and demonstrated knowledge of project management by passing a comprehensive examination. Note that you do not need work experience to qualify for CompTIA’s Project+ certification or PMI’s CAPM® certification, so college graduates just entering the workforce can earn these certifications and become more marketable.
+
+The number of people earning PMP® certification continues to increase. In 1993, there were about 1,000 certified project management professionals. At the end of December 2017, there were 827,960 active PMP®s.36 Figure 1-7 shows the rapid growth in the number of people earning PMP® certification from 1993 to 2017.
+
+Several studies show that organizations supporting technical certification programs tend to operate in more complex IT environments and are more efficient than organizations that do not support certification. Likewise, organizations that support PMP® certification see the value of investing in programs to improve their employees’ knowledge in project management. Many employers today require specific certifications to ensure that their workers have current skills, and job seekers find that they often have an advantage when they earn and maintain marketable certifications. Global Knowledge listed PMP® certification as number 5 in their list of top-paying certifications for 2017.37
+
+As IT projects become more complex and global in nature, the need for people with demonstrated knowledge and skills in project management will continue. Just as passing the CPA exam is a standard for accountants, passing the PMP® exam is becoming a standard for project managers. Some companies require that all project managers 01356_ch01_hr_001-046.indd 35
+
+5/15/18 10:30 AM
+
+36
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+Growth in PMP® Certification 1993–2017
+
+900,000
+
+800,000
+
+700,000
+
+s® 600,000
+
+MP
+
+f P 500,000
+
+er o 400,000
+
+bmu 300,000
+
+N
+
+200,000
+
+100,000
+
+–
+
+7
+
+1993
+
+1994
+
+1995
+
+1996
+
+199
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Year
+
+Source: Data points from Project Management Institute, PMI Today® (annual issues).
+
+Figure 1-7 Growth in PMP® certification, 1993–2017
+
+be PMP® certified. Project management certification is also enabling professionals in the field to share a common base of knowledge. For example, any person with PMP®
+
+certification can list, describe, and use the 10 project management knowledge areas.
+
+Sharing a common base of knowledge is important because it helps advance the theory and practice of project management. PMI also offers additional certifications, including agile techniques, scheduling, risk, program management, portfolio management, and business analysis.
+
+ethics in project Management
+
+Ethics, loosely defined, is a set of principles that guides decision making based on personal values of what is considered right and wrong. Making ethical decisions is an important part of project managers’ personal and professional lives because it generates trust and respect with other people. Project managers often face ethical dilemmas. If project managers can make more money by taking bribes, should they? No! Should project managers accept subpar work to meet a deadline? No! Ethics guide us in making these types of decisions.
+
+PMI approved a Code of Ethics and Professional Conduct that took effect in January 2007. This code applies not only to PMP®s but to all PMI members who hold a PMI certification, apply for a PMI certification, or serve PMI in a volunteer capacity.
+
+01356_ch01_hr_001-046.indd 36
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+37
+
+It is vital for project management practitioners to conduct their work in an ethical manner. Even if you are not affiliated with PMI, these guidelines can help you conduct your work in an ethical manner, which helps the profession earn the confidence of the public, employers, employees, and all project stakeholders. The PMI Code of Ethics and Professional Conduct includes short chapters addressing vision and applicability, responsibility, respect, fairness, and honesty. A few excerpts from this document include the following:
+
+“As practitioners in the global project management community: 2.2.1
+
+We make decisions and take actions based on the best interests of society, public safety, and the environment.
+
+2.2.2
+
+We accept only those assignments that are consistent with our background, experience, skills, and qualifications.
+
+2.2.3
+
+We fulfill the commitments that we undertake—we do what we say we will do.
+
+3.2.1
+
+We inform ourselves about the norms and customs of others and avoid engaging in behaviors they might consider disrespectful.
+
+3.2.2
+
+We listen to others’ points of view, seeking to understand them.
+
+3.2.3
+
+We approach directly those persons with whom we have a conflict or disagreement.
+
+4.2.1
+
+We demonstrate transparency in our decision-making process.
+
+4.2.2
+
+We constantly reexamine our impartiality and objectivity, taking corrective action as appropriate.
+
+4.3.1
+
+We proactively and fully disclose any real or potential conflicts of interest to appropriate stakeholders.
+
+5.2.1
+
+We earnestly seek to understand the truth.
+
+5.2.2
+
+We are truthful in our communications and in our conduct.”38
+
+In addition, PMI added a new series of questions to the PMP® certification exam in March 2002 and continues to include this topic to emphasize the importance of ethics and professional responsibility.
+
+project Management software*
+
+The project management and software development communities have definitely responded to the need to provide more software to assist in managing projects. There are hundreds of tools available, ranging from free online or smartphone apps to enterprise tools costing thousands of dollars to implement and high monthly fees per user. Deciding which project management software to use has become a project in itself. Microsoft Project continues to lead the Project Portfolio Management (PPM) market with 35 percent of the $874 million market, followed by Oracle (19 percent), ServiceNow, Inc. (7 percent), and SAP and Autodesk (5 percent each).39
+
+See Appendix A (which is available on the Companion website for this text) for details on the various configurations available for Microsoft Project and detailed instructions for using Project Professional 2016. This section provides a summary of the basic types of project management software available and references for finding more information.
+
+01356_ch01_hr_001-046.indd 37
+
+5/15/18 10:30 AM
+
+38
+
+
+
+* * *
+
+
+
+
+
+Chapter 1
+
+
+F r e e t r i a L s a n d i n F O r M a t i O n O n u s i n g p r O j e c t 2 0 1 6 , M i n d v i e W , b a s e c a M p , a n d O t h e r s O F t W a r e A 30-day evaluation copy of “Project Online Professional” is available from Microsoft’s website. You can also access a 30-day trial version of MindView software for PCs, Macs, or an online version at www.matchware.com. Basecamp is a totally online project management tool. Educators can request a free Basecamp account without a time restriction from www.basecamp.com.
+
+Note that Appendix A: Brief Guide to Microsoft Project Professional 2016 is available on the Companion website for this text.
+
+Many people still use basic productivity software such as Microsoft Word and Excel to perform many project management functions, including determining project scope, schedule, and cost, assigning resources, and preparing project documentation. People often use productivity software instead of specialized project management software because they already have it and know how to use it. However, there are hundreds of project management software tools that provide specific functionality for managing projects. These project management software tools can be divided into three general categories based on functionality and price:
+
+• Low-end tools: These tools provide basic project management features and generally cost less than $200 per user or a low monthly fee for online software. They are often recommended for small projects and single users.
+
+Most of these tools allow users to create Gantt charts, which cannot be done easily using current productivity software. Some of these tools are available online while others are stand-alone desktop applications. There are also several smartphone applications, and many online tools include smartphone integration. Examples of popular low-end tools include Basecamp, Smartsheet, and Zoho Projects.
+
+• Midrange tools: A step up from low-end tools, midrange tools are designed to handle larger projects, multiple users, and multiple projects. All of these tools can produce Gantt charts and network diagrams, and can assist in critical path analysis, resource allocation, project tracking, status reporting, and other tasks. Prices range from about $200 to $600 per user or require a monthly fee per user. Microsoft Project (Professional, to be specific) is still the most widely used project management software today in this category and in general. There is also an enterprise or PPM version of Microsoft Project, as described briefly below and in more detail from Microsoft’s website.
+
+• High-end tools: Another category of project management software is high-end tools, sometimes referred to as PPM or enterprise project management 01356_ch01_hr_001-046.indd 38
+
+5/15/18 10:30 AM
+
+Introduction to Project Management
+
+39
+
+software, as described earlier. These tools provide robust capabilities to handle very large projects, dispersed workgroups, and enterprise and portfolio management functions that summarize and combine individual project information to provide an enterprise view of all projects. These products are generally licensed on a per-user basis, integrate with enterprise database management software, and are accessible via the Internet and smartphones. In mid-2002, Microsoft introduced the first version of its Enterprise Project Management software, and in 2003, it introduced the Microsoft Enterprise Project Management solution, which was updated several times since then. In 2008, Oracle acquired Primavera Software, Inc., another popular tool for project-intensive industries.
+
+Several free or open-source tools are also available. For example, ProjectLibre, LibrePlan, and OpenProject are all free open-source project management tools.
+
+Remember, however, that these tools are developed, managed, and maintained by volunteers and may not be well supported.
+
+There are also several software tools that focus on managing agile projects. A January 2018 Google search found a list of 55 agile project management solutions from the site www.softwareadvice.com. Tools listed included Asana, Trello, Jira, Wrike, and VersionOne, to name a few. Of course Microsoft Project and other tools listed earlier can also be used to manage agile projects.
+
+Remember that there is much more to managing successful projects than using software.
+
+There are many reasons to study project management, particularly as it relates to IT projects. The number of IT projects continues to grow in almost every industry, the complexity of these projects continues to increase, and the profession of project management continues to expand and mature. As more people study and work in this important field, the success rate of IT projects should continue to improve.
+
+c a s e W r a p - u p
+
+In addition to overseeing their two high-priority projects (computer security and online collaboration) Anne Roberts worked with the VPs and the CEO to form teams to help identify other potential IT projects that would support their business strategies. They formed a project team to implement a portfolio project management software tool across the organization. They formed another team to develop project-based reward systems for all employees. They also authorized funds for a project to educate all employees in project management and agile, to help people earn PMP® and related certifications, and to develop a mentoring program. Anne had successfully convinced everyone that effectively managing projects was crucial to their company’s future.
+
+01356_ch01_hr_001-046.indd 39
+
+5/15/18 10:30 AM
+
+40
+
+Chapter 1
+
+
+
+* * *
+Chapter 1 - Chapter Summary start
+
+
+Many people and organizations have a new or renewed interest in project management as the number of projects continues to grow and their complexity continues to increase. The success rate of IT projects has more than doubled since 1995, but still only about one-third are successful in meeting scope, time, and cost goals. Using a more disciplined approach to managing projects can help projects and organizations succeed.
+
+A project is a temporary endeavor undertaken to create a unique product, service, or result. An IT project involves the use of hardware, software, and networks. Projects are unique, temporary, and developed incrementally; they require resources, have a sponsor, and involve uncertainty. The triple constraint of project management refers to managing the scope, time, and cost dimensions of a project. It is important to address these dimensions as well as other constraints (such as quality, resources, and risks) and to satisfy the project sponsor.
+
+Project management is the application of knowledge, skills, tools, and techniques to project activities to meet project requirements. Stakeholders are the people involved in or affected by project activities. A framework for project management includes the project stakeholders, project management knowledge areas, and project management tools and techniques. The 10
+
+knowledge areas are project integration management, scope, schedule, cost, quality, resource, communications, risk, procurement, and stakeholder management. There are many tools and techniques in each knowledge area. There are different ways to define project success, and project managers must understand the criteria that define success for their unique projects.
+
+A program is a group of related projects, subsidiary programs, and program activities managed in a coordinated way to obtain benefits and control that are not available from managing the projects individually. Project portfolio management involves organizing and managing projects and programs as a portfolio of investments that contribute to the entire enterprise’s success. Portfolio management emphasizes meeting strategic goals, while project management focuses on tactical goals. Studies show that user involvement is crucial to project success, as are other factors like executive support and clear business objectives.
+
+Project managers play a key role in helping projects and organizations succeed. They must perform various job duties, possess many skills, and continue to develop skills in project management, general management, and their application area, such as IT. Soft skills, especially leadership, are particularly important for project managers.
+
+The profession of project management continues to grow and mature. In the United States, the military took the lead in project management and developed many tools such as Gantt charts and network diagrams, but today people use project management in virtually every industry around the globe. The Project Management Institute (PMI) is an international professional society that provides several certifications and upholds a code of ethics. Today, hundreds of project management software products are available to assist people in managing projects.
+
+Chapter 1 - Chapter Summary end
+
+* * *

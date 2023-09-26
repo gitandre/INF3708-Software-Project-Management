@@ -1,0 +1,1987 @@
+Opening case
+
+Juan Gonzales was a systems analyst and network specialist for the waterworks department of a major Mexican city. He enjoyed helping the city develop its infrastructure. His next career objective was to become a project manager so he could have even more influence.
+
+One of his colleagues invited him to attend an important project review meeting for large government projects, including the Surveyor Pro project, in which Juan was most interested. The Surveyor Pro project was a concept for developing a sophisticated information system that included expert systems, object-oriented databases, and wireless communications. The system would provide instant, graphical information to help government surveyors do their jobs. For example, after a surveyor touched a map on the screen of a handheld device, the system would prompt the surveyor to enter the type of information needed for that area. This system would help in planning and implementing many projects, from laying fiber-optic cable to installing water lines.
+
+Juan was very surprised, however, that the majority of the meeting was spent discussing cost-related issues. The government officials were reviewing many existing projects to evaluate their performance and the potential impact on the government’s budget before discussing funding for any new projects. Juan did not understand many of the terms and charts being presented. What was this “earned value” they kept referring to? How were they estimating what it would cost to complete projects or how long it would take? Juan thought he would learn more about the new technologies the Surveyor Pro project would use, but he discovered that the cost estimates and projected benefits were of most interest to the government officials at the meeting. It also seemed that considerable effort would go toward detailed financial studies before any technical work could even start. Juan wished he had taken some accounting and finance courses so he could understand the acronyms and concepts people were discussing. Although Juan had a degree in electrical engineering, he had no formal education in finance and little experience with it. However, if Juan could understand information systems and networks, he was confident that he could understand financial issues on projects as well.
+
+He jotted down questions to discuss with his colleagues after the meeting.
+
+The ImporTance of projecT cosT managemenT
+
+IT projects have a poor track record in meeting budget goals. A 2011 study published in the Harvard Business Review examined IT change initiatives in almost 1,500 projects and reported an average cost overrun of 27 percent. Cost overrun is the additional percentage or dollar amount by which actual costs exceed estimates. The study was considered the largest ever to analyze IT projects. The projects ranged from enterprise resource planning to management information and customer relationship management systems. Most projects incurred high expenses, with an average cost of $167 million; the largest project cost $33 billion.1
+
+The most important finding in the study, however, was the discovery of a large number of gigantic overages when analyzing the project overrun data. One in six of all projects studied contained a “black swan”: a high-impact event that is rare and unpredictable, but not improbable in retrospect. These IT black swan projects had an average cost overrun of 200 percent and a schedule overrun of almost 70 percent. “This highlights the true pitfall of IT change initiatives: It’s not that they’re particularly prone 01356_ch07_hr_285-326.indd 286
+
+6/18/18 4:17 PM
+
+Project Cost Management
+
+287
+
+to high cost overruns on average, as management consultants and academic studies have previously suggested. It’s that an unusually large proportion of them incur massive overages—that is, there are a disproportionate number of black swans. By focusing on averages instead of the more damaging outliers, most managers and consultants have been missing the real problem.”2
+
+Obviously, IT projects have room for improvement in meeting cost goals. This chapter describes important concepts in project cost management, particularly planning cost management, creating good estimates, and using earned value management (EVM) to assist in cost control.
+
+W h a t W e n t W r O n g ?
+
+The United Kingdom’s National Health Service (NHS) IT modernization program was called “the greatest IT disaster in history” by one London columnist. This 10-year program, which started in 2002, was created to provide an electronic patient records system, appointment booking, and a prescription drug system in England and Wales.
+
+Britain’s Labor government estimates that the program will eventually cost more than $55 billion, a $26 billion overrun. The program has been plagued by technical problems due to incompatible systems, resistance from physicians who say they were not adequately consulted about system features, and arguments among contractors about who’s responsible for what.3 A government audit in June 2006 found that the program, one of the largest civilian IT projects undertaken worldwide, was progressing despite high-profile problems. In an effort to reduce cost overruns, the NHS program would no longer pay for products until delivery, shifting some financial responsibility to prime contractors, including BT Group, Accenture, and Fujitsu Services.4 On September 22, 2011, government officials in the United Kingdom announced that they were scrapping the National Programme for Health IT. Health Secretary Andrew Lansley said that the program “let down the NHS and wasted taxpayers’ money.”5
+
+What is cost?
+
+A popular cost accounting textbook states, “Accountants usually define cost as a resource sacrificed or foregone to achieve a specific objective.”6 Webster’s dictionary defines cost as “something given up in exchange.” Costs are often measured in monetary amounts, such as dollars, that must be paid to acquire goods and services. (For convenience, the examples in this chapter use dollars for monetary amounts.) Because projects cost money and consume resources that could be used elsewhere, it is very important for project managers to understand project cost management.
+
+Many IT professionals, however, often react to cost overrun information with a smirk.
+
+They know that many of the original cost estimates for IT projects are low or based on unclear project requirements, so naturally there will be cost overruns. Not emphasizing the importance of realistic project cost estimates from the outset is only one part of the problem. In addition, many IT professionals think that preparing cost estimates is a job for accountants. On the contrary, preparing good cost estimates is a demanding, important skill that many professionals need to acquire, including project managers.
+
+01356_ch07_hr_285-326.indd 287
+
+5/15/18 10:41 AM
+
+288
+
+
+
+* * *
+
+
+
+
+
+Chapter 7
+
+
+Another perceived reason for cost overruns is that many IT projects involve new technology or business processes. Any new technology or business process is untested and has inherent risks. Thus, costs grow and failures are to be expected, right? Wrong. Using good project cost management can change this false perception.
+
+What is project cost management?
+
+Recall from Chapter 1 that the triple constraint of project management involves balancing scope, schedule, and cost goals. Chapters 5 and 6 discuss project scope and schedule management, and this chapter describes project cost management. Project cost management includes the processes required to ensure that a project team completes a project within an approved budget. Notice two crucial phrases in this definition: “a project” and “approved budget.” Project managers must make sure their projects are well defined, have accurate schedule and cost estimates, and have a realistic budget that they were involved in approving.
+
+It is the project manager’s job to satisfy project stakeholders while continuously striving to reduce and control costs. There are four processes for project cost management: 1. Planning cost management involves determining the policies, procedures, and documentation that will be used for planning, executing, and controlling project cost. The main output of this process is a cost management plan.
+
+2. Estimating costs involves developing an approximation or estimate of the costs of the resources needed to complete a project. The main outputs of the cost estimating process are activity cost estimates, basis of estimates, and project documents updates.
+
+3. Determining the budget involves allocating the overall cost estimate to individual work items to establish a baseline for measuring performance.
+
+The main outputs of the cost budgeting process are a cost baseline, project funding requirements, and project documents updates.
+
+4. Controlling costs involves controlling changes to the project budget. The main outputs of the cost control process are work performance information, cost forecasts, change requests, and project management plan updates, and project documents updates.
+
+Figure 7-1 summarizes the inputs, tools and techniques, and outputs of project cost management.
+
+To understand each of the project cost management processes, you must first understand the basic principles of cost management. Many of these principles are not unique to project management; however, project managers need to understand how these principles relate to their specific projects.
+
+basic principLes Of cOst management
+
+Many IT projects are never initiated because IT professionals do not know how to develop a financial justification for them. Important concepts such as net present value analysis, return on investment, and payback analysis were discussed in Chapter 4, Project Integration Management. Likewise, many projects that are started never finish because of cost management problems. Most members of an executive board have a 01356_ch07_hr_285-326.indd 288
+
+5/15/18 10:41 AM
+
+Project Cost Management
+
+289
+
+Project Cost
+
+Management Overview
+
+7.1 Plan Cost
+
+Management
+
+7.2 Estimate Costs
+
+7.3 Determine Budget
+
+.1 Inputs
+
+.1 Inputs
+
+.1 Inputs
+
+.1 Project charter
+
+.1 Project management plan
+
+.1 Project management plan
+
+.2 Project management plan
+
+.2 Project documents
+
+.2 Project documents
+
+.3 Enterprise environmental
+
+.3 Enterprise environmental
+
+.3 Business documents
+
+factors
+
+factors
+
+.4 Agreements
+
+.4 Organizational process
+
+.4 Organizational process
+
+.5 Enterprise environmental
+
+assets
+
+assets
+
+factors
+
+.2 Tools & Techniques
+
+.6 Organizational process
+
+.2 Tools & Techniques
+
+.1 Expert judgment
+
+assets
+
+.1 Expert judgment
+
+.2 Data analysis
+
+.2 Analogous estimating
+
+.2 Tools & Techniques
+
+.3 Meetings
+
+.3 Parametric estimating
+
+.1 Expert judgment
+
+.3 Outputs
+
+.4 Bottom-up estimating
+
+.2 Cost aggregation
+
+.1 Cost management plan
+
+.5 Three-point estimating
+
+.3 Data analysis
+
+.6 Data analysis
+
+.4 Historical information
+
+.7 Project management
+
+review
+
+information system
+
+.5 Funding limit reconciliation
+
+.8 Decision making
+
+.6 Financing
+
+.3 Outputs
+
+.3 Outputs
+
+.1 Cost estimates
+
+.1 Cost baseline
+
+.2 Basis of estimates
+
+.2 Project funding require-
+
+.3 Project documents updates
+
+ments
+
+.3 Project documents updates
+
+7.4 Control Costs
+
+.1 Inputs
+
+.1 Project management plan
+
+.2 Project documents
+
+.3 Project funding requirements
+
+.4 Work performance data
+
+.5 Organizational process
+
+assets
+
+.2 Tools & Techniques
+
+.1 Expert judgment
+
+.2 Data analysis
+
+.3 To-complete performance
+
+index
+
+.4 Project management
+
+information system
+
+.3 Outputs
+
+.1 Work performance
+
+information
+
+.2 Cost forecasts
+
+.3 Change requests
+
+.4 Project management plan
+
+updates
+
+.5 Project documents updates
+
+Source: PMBOK® Guide – Sixth Edition. Project Management Institute, Inc. (2017). Copyright and all rights reserved. Material from this publication has been reproduced with permission of PMI.
+
+figure 7-1 Project cost management overview
+
+01356_ch07_hr_285-326.indd 289
+
+5/15/18 10:41 AM
+
+290
+
+
+
+* * *
+
+
+
+
+
+Chapter 7
+
+
+better understanding of financial terms than IT terms, and are more interested in finance.
+
+Therefore, IT project managers need to be able to present and discuss project information both in financial terms and technical terms. In addition to net present value analysis, return on investment, and payback analysis, project managers must understand several other cost management principles, concepts, and terms. This section describes general topics such as profits, life cycle costing, cash flow analysis, tangible and intangible costs and benefits, direct costs, sunk costs, learning curve theory, and reserves. Another important topic—earned value management—is one of the key tools and techniques for controlling project costs; it is described in detail in the section on cost control.
+
+Profits are revenues minus expenditures. To increase profits, a company can increase revenues, decrease expenses, or try to do both. Most executives are more concerned with profits than with other issues. When justifying investments in new information systems and technology, it is important to focus on the impact on profits, not just revenues or expenses. Consider an e-commerce application that you estimate will increase revenues for a $100 million company by 10 percent. You cannot measure the potential benefits of the application without knowing the profit margin. Profit margin is the ratio of profits to revenues. If revenues of $100 generate $2 in profits, there is a 2 percent profit margin. If the company loses $2 for every $100 in revenue, there is a 22 percent profit margin.
+
+Life cycle costing provides a big-picture view of the cost of a project throughout its life cycle. This helps you develop an accurate projection of a project’s financial costs and benefits. Life cycle costing considers the total cost of ownership, or development plus support costs, for a project. For example, a company might complete a project to develop and implement a new customer service system in 1 or 2 years, but the new system could be in place for 10 years. Project managers, with assistance from financial experts in their organizations, should create estimates of the costs and benefits of the project for its entire life cycle (10 years in the preceding example). Recall from Chapter 4 that the net present value analysis for the project would include the entire 10-year period of costs and benefits.
+
+Top management and project managers need to consider the life cycle costs of projects when they make financial decisions.
+
+m e d i a s n a p s h O t
+
+A primary goal of many projects is to achieve some type of financial benefits, measured using life cycle costing. Project success criteria often include reaching a certain return on investment (ROI) over the life cycle. You cannot measure ROI for projects if you do not have a benefits measurement process in place. How do you know if you earned or saved a certain amount each year after the project was completed if you do not have a way to measure it? According to a 2015 report by PMI:
+
+• Many organizations do not have a benefits measurement process at all.
+
+• Only twenty percent of organizations report having a high level of benefits realization maturity.
+
+• Thirty-nine percent of high-performing organizations report high benefits realization maturity compared to nine percent of low performers.
+
+( continued)
+
+01356_ch07_hr_285-326.indd 290
+
+5/15/18 10:41 AM
+
+Project Cost Management
+
+291
+
+“Organizations with mature benefits realization processes can benefit from:
+
+• Clearly identifying the strategic rewards prior to starting a project
+
+• Effectively assessing and monitoring risks to project success
+
+• Proactively planning for making necessary changes in the organization
+
+• Explicitly defining accountability for project success
+
+• Routinely extending responsibility for integration to the project team.”7
+
+Organizations have a history of not spending enough money in the early phases of projects, which affects total cost of ownership. For example, it is much more cost-effective to spend money on defining user requirements and doing early testing on IT projects than to wait for problems to appear after implementation. Recall from Chapter 5 that correcting a software defect late in a project costs much more than fixing the defect early.
+
+Because organizations depend on reliable IT, huge costs are associated with downtime.
+
+• When Facebook was down for 20 minutes on September 3, 2014, they lost a little more than $22,453 for every minute or more than $500,000.8
+
+• On August 19, 2013, Amazon.com went down for about 30 minutes, costing them $66,240 per minute or nearly $2 million.9
+
+• For Fortune 1000 companies, the average cost of an infrastructure failure is $100,000 per hour; the average cost of a critical application failure is $500,000 to $1 million per hour, or $8,300 to $16,600 per minute.10
+
+• In 2014, the average annual cost of unplanned application downtime in Fortune 1000 companies was $1.25 billion to $2.5 billion.11
+
+W h a t W e n t r i g h t ?
+
+An important cost-cutting strategy has been inspired by the global emphasis on improving the environment. Investing in green IT and other initiatives has helped both the environment and companies’ bottom lines. Michael Dell, CEO of Dell, said he aimed to make his company “carbon neutral” in 2008. “The computer giant is looking to zero-out its carbon emissions through a number of initiatives, such as offering small businesses and consumers curbside recycling of their old computers, stuffing small recycling bags with free postage into new printer-ink cartridge boxes, and operating a ‘Plant a Tree for Me’ program.”12 Dell did reach his goal; as of March 2012, Dell had helped its customers save almost $7 billion in energy costs.
+
+Dell continues to practice corporate responsibility by helping the environment. In 2014, it reported the following progress:
+
+• Recovered 230.9 million pounds of used electronics and are on track to reach our goal of 2 billion pounds by 2020
+
+• Reduced the average energy intensity of our product line by 23.2 percent compared to FY12
+
+• Decreased operational emissions by 10 percent
+
+• Used more than 10 million pounds of post-consumer recycled plastics in our products13
+
+01356_ch07_hr_285-326.indd 291
+
+5/15/18 10:41 AM
+
+292
+
+
+
+* * *
+
+
+
+
+
+Chapter 7
+
+
+Cash flow analysis is a method for determining the estimated annual costs and benefits for a project and the resulting annual cash flow. Project managers must conduct cash flow analysis to determine net present value. Most consumers understand the basic concept of cash flow: If they do not have enough money in their wallets or bank accounts, they cannot purchase something. Top management must consider cash flow concerns when selecting projects in which to invest. If top management selects too many projects that have high cash flow needs in the same year, the company will not be able to support all of its projects and maintain its profitability. It is also important to clarify the year used to analyze dollar amounts. For example, if a company bases all costs on 2018 estimates, it would need to account for inflation and other factors when projecting costs and benefits in future-year dollars.
+
+Tangible and intangible costs and benefits are categories for determining how well an organization can define the estimated costs and benefits for a project. Tangible costs or benefits are easy to measure in dollars. For example, suppose that the Surveyor Pro project described in the chapter’s opening case included a preliminary feasibility study. If a company completed this study for $100,000, its tangible cost is $100,000. If a government agency estimated that it could have done the study for $150,000, the tangible benefits of the study would be $50,000 to the government: It could pay for the study and then assign the government workers who would have done the study to other projects.
+
+In contrast, intangible costs or benefits are difficult to measure in dollars. Suppose that Juan and a few other people spent their own personal time using government-owned computers, books, and other resources to research areas related to the study. Although their hours and the government-owned materials would not be billed to the project, they could be considered intangible costs. Intangible benefits for projects often include items like goodwill, prestige, and general statements of improved productivity that an organization cannot easily translate into dollar amounts. Because intangible costs and benefits are difficult to quantify, they are often harder to justify.
+
+Direct costs can be directly related to creating the products and services of the project. You can attribute direct costs to a particular project. For example, direct costs include the salaries of people working full time on the project and the cost of hardware and software purchased specifically for the project. Project managers should focus on direct costs because they can be controlled.
+
+Indirect costs are not directly related to the products or services of the project, but are indirectly related to performing work on the project. For example, indirect costs would include the cost of electricity, paper towels, and other necessities in a large building that houses 1,000 employees who work on many projects. Indirect costs are allocated to projects, and project managers have very little control over them.
+
+Sunk cost is money that has been spent in the past. Consider it gone, like a sunken ship that can never be raised. When deciding what projects to invest in or continue, you should not include sunk costs. For example, in the chapter’s opening case, suppose that Juan’s office had spent $1 million on a project over the past three years to create a geographic information system, but had never produced anything valuable. If his government were evaluating what projects to fund next year and an official suggested continuing to fund the geographic information system project because $1 million had been spent on it already, the official would incorrectly be making sunk cost a key factor in the project selection decision. Many people fall into the trap of continuing to spend 01356_ch07_hr_285-326.indd 292
+
+5/15/18 10:41 AM
+
+Project Cost Management
+
+293
+
+money on a failing project because so much money has been spent on it already. This trap is similar to gamblers who continue betting because they have already lost money. Sunk costs should be forgotten, even though it is often difficult to think that way.
+
+Learning curve theory states that when many items are produced repetitively, the unit cost of those items decreases in a regular pattern as more units are produced. For example, suppose that the Surveyor Pro project would potentially produce 1,000 handheld devices that could run the new software and access information via satellite. The cost of the first handheld unit would be much higher than the cost of the thousandth unit.
+
+Learning curve theory can help estimate costs on projects that involve the production of large quantities of items.
+
+Learning curve theory also applies to the amount of time required to complete some tasks. For example, the first time a new employee performs a specific task, it will probably take longer than the tenth time that employee performs a very similar task. Effort estimates, therefore, should be lower for more experienced workers.
+
+Reserves are dollar amounts included in a cost estimate to mitigate cost risk by allowing for future situations that are difficult to predict. Contingency reserves allow for future situations that may be partially planned for (sometimes called known unknowns) and are included in the project cost baseline. For example, if an organization knows it has a 20 percent rate of turnover for IT personnel, it should include contingency reserves to pay for recruiting and training costs of IT personnel. Management reserves allow for future situations that are unpredictable (sometimes called unknown unknowns). For example, if a project manager gets sick for two weeks or an important supplier goes out of business, management reserve could be set aside to cover the resulting costs. Management reserves are not included in a cost baseline, as you will learn later in this chapter.
+
+a d v i c e f O r Y O u n g p r O f e s s i O n a L s If you have never done so, take a class or do self-study in accounting, financial statements, or financial management. There are many online resources and short books available on the topics of finance for the non-financial manager, how to use financial statements, or similar content. A project manager in IT will often encounter such concepts as capital costs vs. operational costs; leasing vs. purchasing equipment or other information assets; cost reduction strategies based on process improvements or automation; and other common business uses of financial management terminology.
+
+Project managers need to be able to converse with their business counterparts who are expecting certain financial benefits from the project, who want a certain strategy to manage costs, or who want to know the relationship between expenses and benefits as the project unfolds. Financial specialists are often willing to help less-experienced people better understand the key terminology of the financial field. These concepts are not difficult to learn, and if you put forth the effort now to acquire confidence in these topics, you will become a valuable partner in helping others to understand how your project’s expenses and benefits will fit into the organization’s overall financial strategy.
+
+Also remember to practice ethical decision making when dealing with project cost management by being a good financial steward.
+
+01356_ch07_hr_285-326.indd 293
+
+5/15/18 10:41 AM
+
+294
+
+
+
+* * *
+
+
+
+
+
+Chapter 7
+
+
+pLanning cOst management
+
+
+The first step in project cost management is planning how the costs will be managed throughout the life of the project. Project costs, like project schedules, grow out of the basic documents that initiate a project, like the project charter. The project manager and other stakeholders use expert judgment, data analysis, and meetings to produce the cost management plan.
+
+The cost management plan, like the scope and schedule management plans, can be informal and broad or formal and detailed, based on the needs of the project. In general, a cost management plan includes the following information:
+
+• Level of accuracy: Activity cost estimates normally have rounding guidelines, such as rounding to the nearest $100. There may also be guidelines for the amount of contingency funds to include, such as 10 or 20 percent.
+
+• Units of measure: Each unit used in cost measurements, such as labor hours or days, should be defined.
+
+• Organizational procedures links: Many organizations refer to the work breakdown structure (WBS) component used for project cost accounting as the control account (CA). Each control account is often assigned a unique code that is used in the organization’s accounting system. Project teams must understand and use these codes properly.
+
+• Control thresholds: Similar to schedule variance, costs often have a specified amount of variation allowed before action needs to be taken, such as 10 percent of the baseline cost.
+
+• Rules of performance measurement: If the project uses EVM, as described later in this chapter, the cost management plan would define measurement rules, such as how often actual costs will be tracked and to what level of detail.
+
+• Reporting formats: This section would describe the format and frequency of cost reports required for the project.
+
+• Process descriptions: The cost management plan would also describe how to perform all of the cost management processes.
+
+estimating cOsts
+
+Project managers must take cost estimates seriously if they want to complete projects within budget constraints. After developing a good resource requirements list, project managers and their project teams must develop several estimates of the costs for these resources. For example, if an activity for a project is to perform a particular type of test, the list of activity resource requirements would describe the skill level of the people needed to perform the test, the number of people and hours suggested to perform the test, the need for special software or equipment, and other requirements. All of this information is required to develop a good cost estimate. Chapter 9, Project Resource Management, describes the process of estimating activity resources in more detail.
+
+01356_ch07_hr_285-326.indd 294
+
+5/15/18 10:41 AM
+
+Project Cost Management
+
+295
+
+This section describes various types of cost estimates, tools and techniques for estimating costs, typical problems associated with IT cost estimates, and a detailed example of a cost estimate for an IT project.
+
+types of cost estimates
+
+The main outputs of project cost management are cost estimates and basis of estimates.
+
+Project managers normally prepare several types of cost estimates for most projects.
+
+Three basic types of estimates include the following:
+
+• A rough order of magnitude (ROM) estimate provides an estimate of what a project will cost. A ROM estimate can also be referred to as a ballpark estimate, a guesstimate, a swag, or a broad gauge. This type of estimate is done very early in a project or even before a project is officially started.
+
+Project managers and top management use this estimate to help make project selection decisions. The time frame for this type of estimate is often three or more years prior to project completion. A ROM estimate’s accuracy is typically 250 percent to 1100 percent, meaning the project’s actual costs could be 50 percent below the ROM estimate or 100 percent above. For example, the actual cost for a project with a ROM estimate of $100,000 could range from $50,000 to $200,000. For IT project estimates, this accuracy range is often much wider. Many IT professionals automatically double estimates for software development because of the history of cost overruns on IT projects.
+
+• A budgetary estimate is used to allocate money into an organization’s budget. Many organizations develop budgets at least two years into the future. Budgetary estimates are made one to two years prior to project completion. The accuracy of budgetary estimates is typically 210 percent to 125 percent, meaning the actual costs could be 10 percent less or 25
+
+percent more than the budgetary estimate. For example, the actual cost for a project with a budgetary estimate of $100,000 could range from $90,000 to $125,000.
+
+• A definitive estimate provides an accurate estimate of project costs.
+
+Definitive estimates are used for making many purchasing decisions for which accurate estimates are required and for estimating final project costs. For example, if a project involves purchasing 1,000 personal computers from an outside supplier in the next three months, a definitive estimate would be required to aid in evaluating supplier proposals and allocating the funds to pay the chosen supplier. Definitive estimates are made one year or less prior to project completion. A definitive estimate should be the most accurate of the three types of estimates. The accuracy of this type of estimate is normally 25 percent to 110 percent, meaning the actual costs could be 5 percent less or 10 percent more than the definitive estimate. For example, the actual cost for a project with a definitive estimate of $100,000 could range from $95,000 to $110,000.
+
+Table 7-1 summarizes the three basic types of cost estimates.
+
+01356_ch07_hr_285-326.indd 295
+
+5/15/18 10:41 AM
+
+296
+
+
+
+* * *
+
+
+
+
+
+Chapter 7
+
+
+tabLe 7-1 Types of cost estimates
+
+type of estimate
+
+When done
+
+Why done
+
+typical range
+
+Rough order of
+
+Very early in the
+
+Provides estimate
+
+250% to 1100%
+
+magnitude (ROM)
+
+project life cycle,
+
+of cost for selection
+
+often 3–5 years
+
+decisions
+
+before project
+
+completion
+
+Budgetary
+
+Early, 1–2 years out
+
+Puts dollars in the
+
+210% to 125%
+
+budget plans
+
+Definitive
+
+Later in the project,
+
+Provides details for
+
+25% to 110%
+
+less than 1 year out
+
+purchases, estimates
+
+actual costs
+
+The number and type of cost estimates vary by application area. For example, the Association for the Advancement of Cost Engineering (AACE) International identifies five types of cost estimates for construction projects: order of magnitude, conceptual, preliminary, definitive, and control. The main point is that estimates are usually done at various stages of a project and should become more accurate as time progresses.
+
+In addition to creating cost estimates for the entire project and activity cost estimates, it is also important to provide supporting details for the estimates and updates to project documents. The supporting details include the ground rules and assumptions used in creating the estimate, a description of the project (such as scope statement and WBS) used as a basis for the estimate, and details on the cost estimation tools and techniques used to create the estimate. These supporting details should make it easier to prepare an updated estimate or similar estimate as needed.
+
+Another important consideration in preparing cost estimates is labor costs, because a large percentage of total project costs are often labor costs. Many organizations estimate the number of people or hours they need by department or skill over the life cycle of a project. For example, when Northwest Airlines developed initial cost estimates for its reservation system project, ResNet, it determined the maximum number of full-time equivalent (FTE) staff it could assign to the project each year by department. Table 7-2
+
+shows this information. FTE, as described in more detail under determining the budget, is a standard way to refer to the total staffing required for a project regardless of whether people work full time or part-time. Note the small number of contractors that Northwest Airlines planned to use. Labor costs are often much higher for contractors, so it is important to distinguish between internal and external resources. (See the Companion website for this text to read the detailed case study on ResNet, including cost estimates.) cost estimation tools and techniques
+
+As you can imagine, developing a good cost estimate is difficult. Fortunately, several tools and techniques are available to assist in creating one. Some of these tools and techniques include expert judgment, analogous cost estimating, bottom-up estimating, three-point 01356_ch07_hr_285-326.indd 296
+
+5/15/18 10:41 AM
+
+Project Cost Management
+
+297
+
+tabLe 7-2 Maximum FTE by department by year
+
+department
+
+Year 1
+
+Year 2
+
+Year 3
+
+Year 4
+
+Year 5
+
+totals
+
+Information
+
+24
+
+31
+
+35
+
+13
+
+13
+
+116
+
+systems
+
+Marketing
+
+3
+
+3
+
+3
+
+3
+
+3
+
+15
+
+systems
+
+Reservations
+
+12
+
+29
+
+33
+
+9
+
+7
+
+90
+
+Contractors
+
+2
+
+3
+
+1
+
+0
+
+0
+
+6
+
+Totals
+
+41
+
+66
+
+72
+
+25
+
+23
+
+227
+
+estimating, parametric estimating, the cost of quality, project management estimating software, vendor bid analysis, and reserve analysis.
+
+Analogous estimates, also called top-down estimates, use the actual cost of a previous, similar project as the basis for estimating the cost of the current project. This technique requires a good deal of expert judgment and is generally less costly than other techniques, but it is also less accurate. Analogous estimates are most reliable when the previous projects are similar in fact, not just in appearance. In addition, the groups preparing cost estimates must have the needed expertise to determine whether certain parts of the project will be more or less expensive than analogous projects. For example, estimators often try to find a similar project and then customize or modify it for known differences. However, if the project to be estimated involves a new programming language or working with a new type of hardware or network, the analogous estimate technique could easily result in too low an estimate.
+
+Bottom-up estimates involve estimating the costs of individual work items or activities and summing them to get a project total. This approach is sometimes referred to as activity-based costing. The size of the individual work items and the experience of the estimators drive the accuracy of the estimates. If a detailed WBS is available for a project, the project manager could require each person who is responsible for a work package to develop a cost estimate for that work package, or at least an estimate of the amount of resources required. Someone in the financial area of an organization often provides resource cost rates, such as labor rates or costs per pound of materials, which can be entered into project management software to calculate costs. The software automatically calculates information to create cost estimates for each level of the WBS and finally for the entire project. Using smaller work items increases the accuracy of the cost estimate because the people assigned to do the work develop the cost estimate instead of someone unfamiliar with the work. The drawback with bottom-up estimates is that they are usually time-intensive and therefore expensive to develop.
+
+Three-point estimates involve estimating the most likely, optimistic, and pessimistic costs for items. You can use a formula like the PERT weighted average described in Chapter 6, Project Schedule Management, to calculate cost estimates or use a Monte Carlo simulation, described in Chapter 11, Project Risk Management.
+
+01356_ch07_hr_285-326.indd 297
+
+5/15/18 10:41 AM
+
+298
+
+
+
+* * *
+
+
+
+
+
+Chapter 7
+
+
+Parametric estimating uses project characteristics (parameters) in a mathematical model to estimate project costs. For example, a parametric model might provide an estimate of $50 per line of code for a software development project based on the programming language the project is using, the level of expertise of the programmers, the size and complexity of the data involved, and so on. Parametric models are most reliable when the historical information used to create the model is accurate, the parameters are readily quantifiable, and the model is flexible in terms of the project’s size. Many projects involving building construction use parametric estimates based on cost per square foot. The costs vary based on the quality of construction, location, materials, and other factors. In practice, many people find that using a combination or hybrid approach with analogous, bottom-up, three-point, and parametric estimating provides the best cost estimates.
+
+Other considerations when preparing cost estimates are how much to include in reserves, as described earlier; the cost of quality, as described in Chapter 8, Project Quality Management; and other cost estimating methods such as vendor bid analysis, as described in Chapter 12, Project Procurement Management. Using software to assist in cost estimating is described later in this chapter.
+
+typical problems with it cost estimates
+
+Although many tools and techniques can assist in creating project cost estimates, many IT project cost estimates are still very inaccurate, especially those for new technologies or software development. Tom DeMarco, a well-known author on software development, suggests four reasons for these inaccuracies and some ways to overcome them.14
+
+• Estimates are done too quickly. Developing an estimate for a large software project is a complex task that requires significant effort. Many estimates must be done quickly and before clear system requirements have been produced.
+
+For example, the Surveyor Pro project described in the opening case involves a lot of complex software development. Before fully understanding what information surveyors need in the system, someone would have to create a ROM estimate and budgetary estimates for this project. Rarely are the more precise, later cost estimates less than the earlier estimates for IT projects.
+
+It is important to remember that estimates are done at various stages of the project, and project managers need to explain the rationale for each estimate.
+
+• People lack estimating experience. The people who develop software cost estimates often do not have much experience with cost estimation, especially for large projects. They also do not have enough accurate, reliable project data on which to base estimates. If an organization uses good project management techniques and develops a history of keeping reliable project information, including estimates, the organization’s estimates should improve. Enabling IT people to receive training and mentoring on cost estimating will also improve cost estimates.
+
+• Human beings are biased toward underestimation. For example, senior IT
+
+professionals or project managers might make estimates based on their own abilities and forget that many younger people will be working on a project.
+
+01356_ch07_hr_285-326.indd 298
+
+5/15/18 10:41 AM
+
+Project Cost Management
+
+299
+
+Estimators might also forget to allow for extra costs needed for integration and testing on large IT projects. It is important for project managers and top management to review estimates and ask important questions to make sure the estimates are not biased.
+
+• Management desires accuracy. Management might ask for an estimate but really want a more accurate number to help them create a bid to win a major contract or get internal funding. This problem is similar to the situation discussed in Chapter 6, Project schedule management, in which top managers or other stakeholders want project schedules to be shorter than the estimates. It is important for project managers to help develop good cost and schedule estimates and to use their leadership and negotiation skills to stand by those estimates.
+
+It is also important to be cautious with initial estimates. Top management never forgets the first estimate and rarely, if ever, remembers how approved changes affect the estimate. It is a never-ending and crucial process to keep top management informed about revised cost estimates. It should be a formal process, albeit a possibly painful one.
+
+how to develop a cost estimate and basis of estimates One of the best ways to learn how the cost estimating process works is by studying sample cost estimates. Every cost estimate is unique, just as every project is unique. You can see a short sample cost estimate in Chapter 3 for JWD Consulting’s project management intranet site project. You can also view the ResNet cost estimate on the Companion website for this text.
+
+This section includes a step-by-step approach for developing a cost estimate for the Surveyor Pro project described in the opening case. Of course, it is much shorter and simpler than a real cost estimate, but it illustrates a process to follow and uses several of the tools and techniques described earlier.
+
+Before beginning a cost estimate, you must gather as much information as possible about the project and ask how the organization plans to use the cost estimate. If the cost estimate will be the basis for contract awards and performance reporting, it should be a definitive estimate and as accurate as possible, as described earlier.
+
+It is also important to clarify the ground rules and assumptions for the estimate. This information should be documented in the basis of estimates, along with ground rules and assumptions, known constraints, identified risks, and confidence level of the final estimate. The Surveyor Pro project cost estimate includes the following ground rules and assumptions:
+
+• This project was preceded by a detailed study and proof of concept to show that it was possible to develop the hardware and software needed by surveyors and link the new devices to existing information systems. The proof of concept project produced a prototype handheld device and much of the software to provide basic functionality and link to the Global Positioning System (GPS) and other government databases used by surveyors. Some data is available to help estimate future labor costs, especially for the software development, and to help estimate the cost of the handheld devices.
+
+01356_ch07_hr_285-326.indd 299
+
+5/15/18 10:41 AM
+
+300
+
+
+
+* * *
+
+
+
+
+
+Chapter 7
+
+
+• The main goal of this project is to produce 100 handheld devices, continue developing the software (especially the user interface), test the new system in the field, and train 100 surveyors in selected cities to use the new system.
+
+A follow-up contract is expected for a much larger number of devices based on the success of this project.
+
+• The project has the following WBS:
+
+1. Project management
+
+2. Hardware
+
+2.1 Handheld devices
+
+2.2 Servers
+
+3. Software
+
+3.1 Licensed software
+
+3.2 Software development
+
+4. Testing
+
+5. Training and support
+
+6. Reserves
+
+• Costs must be estimated by WBS and by month. The project manager will report progress on the project using earned value analysis, which requires this type of estimate.
+
+• Costs will be provided in U.S. dollars. Because the project length is one year, inflation will not be included.
+
+• The project will be managed by the government’s project office. The project will require a part-time project manager and four team members. The team members will help manage various parts of the project and provide their expertise in the areas of software development, training, and support. Their total hours will be allocated as follows: 25 percent to project management, 25 percent to software development, 25 percent to training and support, and 25 percent to non-project work.
+
+• The project involves purchasing the handheld devices from the same company that developed the prototype device. Based on producing 100
+
+devices, the cost rate is estimated to be $600 per unit. The project will require four additional servers to run the software required for the devices and for managing the project.
+
+• The project requires purchased software licenses for accessing the GPS and three other external systems. Software development includes developing a graphical user interface for the devices, an online help system, and a new module for tracking surveyor performance using the device.
+
+• Testing costs should be low due to the success of the prototype project. An estimate based on multiplying the total hardware and software estimates by 10 percent should be sufficient.
+
+• Training will include instructor-led classes in five different locations. The project team believes it will be best to outsource most of the training, including developing course materials, holding the sessions, and providing 01356_ch07_hr_285-326.indd 300
+
+5/15/18 10:41 AM
+
+Project Cost Management
+
+301
+
+help desk support for three months as the surveyors start using their devices in the field.
+
+• Because several risks are related to this project, include 20 percent of the total estimate as reserves.
+
+• You must develop a computer model for the estimate so that you can easily change several inputs, such as the number of labor hours for various activities or labor rates.
+
+Fortunately, the project team can easily access cost estimates and actual information from similar projects. A great deal of information is available from the proof of concept project, and the team can also talk to contractors from the past project to help them develop the estimate. Computer models are also available, such as a software-estimating tool based on function points. Function points are a means of measuring software size based on what the software does for end users. Function points are comprised of inputs, outputs, inquiries, internal data, and external interface data. Allen Albrecht initially defined this metric in the 1970s, and today it is the international standard used to measure software size. It is the most commonly used software size metric, followed by lines of code.15
+
+Because the estimate must be provided by WBS and by month, the team first reviews a draft of the project schedule. The team decides to begin by estimating the cost of each WBS item and then determine when the work will be performed, even though costs may be incurred at different times than when the work is performed. The team’s budget expert has approved this approach for the estimate. The team has further assumptions and information for estimating the costs for each WBS category: 1. Project management: Estimate based on compensation for the part-time project manager and 25 percent of the four team members’ time. The budget expert for this project suggested using a labor rate of $100/hour for the project manager and $75/hour for each team member, based on working an average of 160 hours per month, full time. Therefore, the total hours for the project manager under this category are 960 (160/2 12 5 960). Costs are also included for the four project team members who are each working 25 percent of their time: a total of 160 hours per month for all project personnel (160 12 5 1,920). An additional amount for all contracted labor is estimated by multiplying 10 percent of the total estimates for software development and testing costs (10%* ($594,000 1 $69,000)).
+
+2. Hardware
+
+2.1 Handheld devices: 100 devices estimated by contractor at $600 per unit.
+
+2.2
+
+Servers: Four servers estimated at $4,000 each, based on recent server purchases.
+
+3. Software
+
+3.1
+
+Licensed software: License costs will be negotiated with each supplier.
+
+Because there is a strong probability of large future contracts and great publicity if the system works well, costs are expected to be lower than usual. A cost of $200/handheld device will be used.
+
+01356_ch07_hr_285-326.indd 301
+
+5/15/18 10:41 AM
+
+302
+
+
+
+* * *
+
+
+
+
+
+Chapter 7
+
+
+3.2
+
+Software development: This estimate will include two approaches: a labor estimate and a function point estimate. The higher estimate will be used. If the estimates differ by more than 20 percent, the project will require a third estimation approach. The supplier who developed the proof of concept project will provide the labor estimate input, and local technical experts will make the function point estimates.
+
+4. Testing: Based on similar projects, testing will be estimated as 10 percent of the total hardware and software cost.
+
+5. Training and support: Based on similar projects, training will be estimated on a per-trainee basis, plus travel costs. The cost per trainee (100 total) will be $500, and travel will cost $700/day/person for the instructors and project team members. The team estimates that the project will require a total of 12 travel days. Labor costs for the project team members will be added to this estimate because they will assist in training and providing support after the training.
+
+The labor hours estimate for team members is 1,920 hours total.
+
+6. Reserves: As directed, reserves will be estimated at 20 percent of the total estimate.
+
+The project team then develops a cost model using the preceding information.
+
+Figure 7-2 shows a spreadsheet that summarizes the costs by WBS item. Notice that the Surveyor Pro Project Cost Estimate Created October 5
+
+# Units/Hrs. Cost/Unit/Hr. Subtotals WBS Level 2 Totals % of Total WBS Items
+
+1. Project Management
+
+$306,300
+
+20%
+
+Project manager
+
+960
+
+$100
+
+$96,000
+
+Project team members
+
+1,920
+
+$75
+
+$144,000
+
+Contractors (10% of software
+
+development and testing)
+
+$66,300
+
+2. Hardware
+
+$76,000
+
+5%
+
+2.1 Handheld devices
+
+100
+
+$600
+
+$60,000
+
+2.2 Servers
+
+4
+
+$4,000
+
+$16,000
+
+3. Software
+
+$614,000
+
+40%
+
+3.1 Licensed software
+
+100
+
+$200
+
+$20,000
+
+3.2 Software development*
+
+$594,000
+
+4. Testing (10% of total hardware
+
+and software costs)
+
+$69,000
+
+$69,000
+
+5%
+
+5. Training and Support
+
+$202,400
+
+13%
+
+Trainee cost
+
+100
+
+$500
+
+$50,000
+
+Travel cost
+
+12
+
+$700
+
+$8,400
+
+Project team members
+
+1,920
+
+$75
+
+$144,000
+
+Subtotal
+
+$1,267,700
+
+6. Reserves (20% of total estimate)
+
+$253,540
+
+$253,540
+
+17%
+
+Total project cost estimate
+
+$1,521,240
+
+*See software development estimate.
+
+figure 7-2 Surveyor Pro project cost estimate 01356_ch07_hr_285-326.indd 302
+
+5/15/18 10:41 AM
+
+Project Cost Management
+
+303
+
+WBS items are listed in the first column, and some are broken down into more detail based on how the costs are estimated. For example, the project management category is broken down into three subcategories because the project manager, team members, and contractors will each perform project management activities that must be accounted for in the costs. Also notice the columns for entering the number of units or hours and the cost per unit or hour. Several items are estimated using this approach. The estimate includes some short comments, such as reserves being 20 percent of the total estimate. Also notice that you can easily change several input variables, such as number of hours or cost per hour, to revise the estimate.
+
+The asterisk by the software development item in Figure 7-2 provides reference for detailed information on how this more complicated estimate was made. Recall the assumption that software development must be estimated using two approaches, and that the higher estimate would be used as long as both estimates differed by no more than 20 percent. The labor estimate was used in this case because it was slightly higher than the function point estimate ($594,000 versus $567,000). Figure 7-3
+
+shows how the function point estimate was made, and the Best Practice feature provides more information on function point estimates. As you can see, many assumptions were made in producing the function point estimate. By putting the information into a cost model, you can easily change several inputs to adjust the estimate.
+
+Also note that this sample estimate provides a discrete value of $1,521,240 for the total project cost estimate. The project team might round this number to $1.5 million, and suggest to senior management that it could be 10 percent above or below this number.
+
+Surveyor Pro Software Development Estimate Created October 5
+
+1. Labor Estimate
+
+# Units/Hrs. Cost/Unit/Hr. Subtotals
+
+Calculations
+
+Contractor labor estimate
+
+3,000
+
+$150
+
+$450,000 3,000 ∗ 150
+
+Project team member estimate
+
+1,920
+
+$75
+
+$144,000 1,920 ∗ 75
+
+Total labor estimate
+
+$594,000 Sum above two values
+
+2. Function point estimate
+
+Quantity
+
+Conversion
+
+Function
+
+Calculations
+
+Factor
+
+Points
+
+External inputs
+
+10
+
+4
+
+40 10 ∗ 4
+
+External interface files
+
+3
+
+7
+
+21 3 ∗ 7
+
+External outputs
+
+4
+
+5
+
+20 4 ∗ 5
+
+External queries
+
+6
+
+4
+
+24 6 ∗ 4
+
+Logical internal tables
+
+7
+
+10
+
+70 7 ∗ 10
+
+Total function points
+
+175 Sum above function point
+
+values
+
+Java 2 language equivalency
+
+46 Assumed value from
+
+value
+
+reference
+
+Source lines of code (SLOC) estimate
+
+8,050 175 ∗ 46
+
+Productivity×KSLOC^Penalty
+
+29.28 3.13 ∗ 8.05^1.072
+
+(in months)
+
+(see reference)
+
+Total labor hours
+
+(27 hours/function point)*
+
+4,725 27*175
+
+Cost/labor hour ($120/hour)
+
+$120 Assumed value from
+
+budget expert
+
+Total function point estimate
+
+$567,000 4,725 ∗120
+
+* Based on historical data
+
+figure 7-3 Surveyor pro software development estimate 01356_ch07_hr_285-326.indd 303
+
+5/15/18 10:41 AM
+
+304
+
+
+
+* * *
+
+
+
+
+
+Chapter 7
+
+
+b e s t p r a c t i c e
+
+Software expert and author Alvin Alexander shared his knowledge on the challenging topic of estimating software development costs in several presentations and a book called Cost Estimating in an Agile Development Environment (2015). Alexander describes how to use Function Point Analysis (FPA) techniques based on his personal experience working on a multimillion-dollar software project over five years. (Recall that function points are a means of measuring software size in terms that are meaningful to end users.) The project initially used a more traditional, waterfall approach but later moved to a more agile approach.
+
+Alexander explained that at the beginning of the project, when requirements documents were very long and detailed, the programming work took about three times the amount of time that was required to create the requirements (a ratio of 3:1). Later in the project, after their client trusted them more and actually knew the developers by name, the requirements were much shorter (more like user stories), and the ratio of programming work to requirements work was much higher—6:1 to 9.5:1. User stories describe what users do or need to do as part of their job function, focusing on the “who,”
+
+“what,” and “why” of a requirement in a simple, concise way. Developers can analyze user stories to estimate the number of internal logical files (ILFs)—a group of logically related data that resides entirely within the application boundary and is maintained through external inputs. You can then use the ILFs to approximate the number of function points, and then multiply by a certain number of hours/function point to estimate the person-hours needed to develop the software.16
+
+World-class organizations take about half as long as average organizations (19 versus 35 hours) to develop one function point. They use consistent documentation (for requirements, analysis, and use cases), they follow consistent processes for developing software, and their technical staff focus on business instead of technology. “It is impossible to separate world-class organizations from world-class metrics organizations.”17
+
+It is very important to have several people review the project cost estimate. It is also helpful to analyze the total dollar value as well as the percentage of the total amount for each major WBS category. For example, a senior executive could quickly look at the Surveyor Pro project cost estimate and decide if the numbers are reasonable and the assumptions are well documented. In this case, the government had budgeted $1.5 million for the project, so the estimate was in line with that amount. The WBS Level 2 items, such as project management, hardware, software, and testing, also seemed to be at appropriate percentages of the total cost based on similar past projects. In some cases, a project team might also be asked to provide a range estimate for each item instead of one discrete amount. For example, the team might estimate that the testing costs will be between $60,000 and $80,000 and document their assumptions in determining those values. It is also important to update cost estimates, especially if any major changes occur on a project.
+
+After the total cost estimate and basis of estimates are approved, the team can then allocate costs for each month based on the project schedule and when costs will be incurred. Many organizations also require that the estimated costs be allocated into certain budget categories, as described in the next section.
+
+01356_ch07_hr_285-326.indd 304
+
+5/15/18 10:41 AM
+
+Project Cost Management
+
+305
+
+determining the budget
+
+Determining the budget involves allocating the project cost estimate to individual material resources or work items over time. These material resources or work items are based on the activities in the WBS for the project. The project management plan, project documents, business documents, agreements, enterprise environmental factors and organizational process assets are all inputs for determining the budget. The main goal of the cost budgeting process is to produce a cost baseline for measuring project performance and to determine project funding requirements. The process may also result in project documents updates, such as items being added, removed, or modified in the scope statement or project schedule.
+
+The Surveyor Pro project team would use the cost estimate from Figure 7-2 along with the project schedule and other information to allocate costs for each month. Figure 7-4
+
+provides an example of a cost baseline for this project. A cost baseline is a time-phased budget that project managers use to measure and monitor cost performance. It does include contingency reserves but does not include management reserves. Recall that contingency reserves are for known unknowns while management reserves are for unknown unknowns.
+
+Figure 7-5 shows the various components of the project budget. The project budget is composed of the cost baseline plus management reserve. Control accounts are work package cost estimates plus contingency reserve. Work package cost estimates are activity cost estimates plus activity contingency reserve.
+
+Most organizations have a well-established process for preparing budgets. For example, many organizations require budget estimates to include the number of FTE
+
+for each month of the project. One FTE normally means 40 hours of work. One person could be assigned full time to a project to provide one FTE, or two people could be assigned half-time to provide one FTE. This number provides the basis for estimating total compensation costs each year. Many organizations also want to know the amount of money projected to be paid to suppliers for their labor costs or other purchased goods and services. Other common budget categories include travel, depreciation, rents and leases, Surveyor Pro Project Cost Baseline Created October 10*
+
+Months
+
+WBS Items
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+Totals
+
+1. Project Management
+
+1.1 Project manager
+
+8,000
+
+8,000
+
+8,000
+
+8,000
+
+8,000
+
+8,000
+
+8,000
+
+8,000
+
+8,000
+
+8,000
+
+8,000
+
+8,000
+
+96,000
+
+1.2 Project team members 12,000 12,000 12,000
+
+12,000
+
+12,000
+
+12,000
+
+12,000
+
+12,000
+
+12,000
+
+12,000 12,000 12,000
+
+144,000
+
+1.3 Contractors
+
+6,027
+
+6,027
+
+6,027
+
+6,027
+
+6,027
+
+6,027
+
+6,027
+
+6,027
+
+6,027
+
+6,027
+
+6,027
+
+66,300
+
+2. Hardware
+
+2.1 Handheld devices
+
+30,000
+
+30,000
+
+60,000
+
+2.2 Servers
+
+8,000
+
+8,000
+
+16,000
+
+3. Software
+
+3.1 Licensed software
+
+10,000
+
+10,000
+
+20,000
+
+3.2 Software development
+
+60,000 60,000
+
+80,000 127,000 127,000
+
+90,000
+
+50,000
+
+594,000
+
+4. Testing
+
+6,000
+
+8,000
+
+12,000
+
+15,000
+
+15,000
+
+13,000
+
+69,000
+
+5. Training and Support
+
+5.1 Trainee cost
+
+50,000
+
+50,000
+
+5.2 Travel cost
+
+8,400
+
+8,400
+
+5.3 Project team members
+
+24,000
+
+24,000
+
+24,000
+
+24,000 24,000 24,000
+
+144,000
+
+6. Reserves
+
+10,000
+
+10,000
+
+30,000
+
+30,000
+
+60,000
+
+40,000
+
+40,000 30,000
+
+3,540
+
+253,540
+
+Totals
+
+20,000 86,027 92,027 172,027 223,027 198,027 185,027 173,027 148,427
+
+90,027 80,027 53,567 1,521,240
+
+*See the lecture slides for this chapter on the Instructor website for a larger view of this and other figures in this chapter. Numbers are rounded, so some totals appear to be off.
+
+figure 7-4 Surveyor Pro project cost baseline 01356_ch07_hr_285-326.indd 305
+
+5/15/18 10:41 AM
+
+306
+
+
+
+* * *
+
+
+
+
+
+Chapter 7
+
+
+Project
+
+
+Management
+
+Budget
+
+Reserve
+
+Contingency
+
+Cost
+
+Control
+
+Reserve
+
+Baseline
+
+Accounts
+
+Activity
+
+Work Package
+
+Contingency Reserve
+
+Cost Estimates
+
+Activity Cost
+
+Estimates
+
+Total Amount
+
+Project Budget Component
+
+Source: PMBOK® Guide – Sixth Edition. Project Management Institute, Inc. (2017). Copyright and all rights reserved. Material from this publication has been reproduced with permission of PMI.
+
+figure 7-5 Project budget components
+
+and other supplies and expenses. It is important to understand these budget categories before developing an estimate to make sure data is collected accordingly. Organizations use this information to track costs across projects and non-project work and to look for ways to reduce costs. They also use the information for legal and tax purposes.
+
+In addition to providing a cost baseline, estimating costs for each major project activity over time provides project managers and top management with a foundation for project cost control, as described in the next section. Cost budgeting, as well as requested changes or clarifications, may result in updates to the cost management plan, which is a subsidiary part of the project management plan. See Appendix A (available on the Companion website for this text) for information on using Project 2016 for cost control.
+
+Cost budgeting also provides information for project funding requirements. Some projects have all funds available when the project begins, but others must rely on periodic funding to avoid cash flow problems. If the cost baseline shows that more funds are required in certain months than are expected to be available, the organization must make adjustments to avoid financial problems.
+
+cOntrOLLing cOsts
+
+Controlling project costs includes monitoring cost performance, ensuring that only appropriate project changes are included in a revised cost baseline, and informing project stakeholders of authorized changes to the project that will affect costs. The project 01356_ch07_hr_285-326.indd 306
+
+5/15/18 10:41 AM
+
+Project Cost Management
+
+307
+
+management plan, project documents, project funding requirements, work performance data, and organizational process assets are inputs for controlling costs. Outputs of this process are work performance information, cost forecasts, change requests, project management plan updates, and project documents updates.
+
+Several tools and techniques assist in project cost control, including expert judgment, data analysis, project management information systems, and the to-complete performance index (described in the next section on earned value management).
+
+earned value management
+
+Earned value management (EVM) is a project performance measurement technique that integrates scope, time, and cost data. Given a cost performance baseline, project managers and their teams can determine how well the project is meeting scope, time, and cost goals by entering actual information and then comparing it to the baseline. As defined in Chapter 4, a baseline is a starting point, a measurement, or an observation that is documented so that it can be used for future comparison. Actual information includes whether or not a WBS item was completed, approximately how much of the work was completed, when the work actually started and ended, and how much the completed work actually cost.
+
+Earned value management involves calculating three values for each activity or summary activity from a project’s WBS.
+
+1. The planned value (PV) is the authorized budget assigned to scheduled work. Table 7-3 shows an example of earned value calculations. Suppose that a project included a summary activity of purchasing and installing a new web server. Suppose further that, according to the plan, it would take one week and cost a total of $10,000 for the labor hours, hardware, and software. Therefore, the planned value (PV) for the activity that week is $10,000.
+
+2. The actual cost (AC) is the realized cost incurred for the work performed on an activity during a specific time period. For example, suppose that it actually took two weeks and cost $20,000 to purchase and install the new web server. Assume that $15,000 of these actual costs were incurred during Week 1 and $5,000 was incurred during Week 2. These amounts are the actual cost (AC) for the activity each week.
+
+3. The earned value (EV) is the measure of work performed expressed in terms of the budget authorized for that work. It cannot be greater than the authorized PV budget for a component as it is calculated as the sum of the PV of the completed work. In Table 7-3, the earned value after one week is $5,000.18
+
+The earned value calculations in Table 7-4 are carried out as follows: CV 55,000 215,000 5210,000
+
+SV 55,000 210,000 525,000
+
+CPI 5 5,000/15,000 5 33%
+
+SPI 55,000/10,000 550%
+
+01356_ch07_hr_285-326.indd 307
+
+5/15/18 10:41 AM
+
+308
+
+
+
+* * *
+
+
+
+
+
+Chapter 7
+
+
+tabLe 7-3 Earned value calculations for one activity after week 1
+
+activity
+
+Week 1
+
+Earned value (EV)
+
+5,000
+
+Planned value (PV)
+
+10,000
+
+Actual cost (AC)
+
+15,000
+
+Cost variance (CV)
+
+210,000
+
+Schedule variance (SV)
+
+25,000
+
+Cost performance index (CPI)
+
+33%
+
+Schedule performance index (SPI)
+
+50%
+
+tabLe 7-4 Earned value formulas
+
+term
+
+formula
+
+Earned value (EV)
+
+EV 5 PV of all completed work
+
+Cost variance (CV)
+
+CV 5 EV 2 AC
+
+Schedule variance (SV)
+
+SV 5 EV 2 PV
+
+Cost performance index (CPI)
+
+CPI 5 EV/AC
+
+Schedule performance index (SPI)
+
+SPI 5 EV/ PV
+
+Estimate at completion (EAC)
+
+EAC 5 BAC/CPI
+
+Estimated to Complete (ETC)
+
+ETC 5 EAC 2 AC
+
+Table 7-4 summarizes the formulas used in EVM. Note that the formulas for variances and indexes start with EV, the earned value. Variances are calculated by subtracting the actual cost or planned value from EV, and indexes are calculated by dividing EV by the actual cost or planned value. After you total the EV, AC, and PV data for all activities on a project, you can use the CPI and SPI to project how much it will cost and how long it will take to finish the project based on performance to date. Given the budget at completion and original time estimate, you can divide by the appropriate index to calculate the estimate at completion (EAC) and estimated time to complete, assuming that performance remains the same. There are no standard acronyms for the terms estimated time to complete or original time estimate.
+
+Cost variance (CV) is the earned value minus the actual cost. If cost variance is a negative number, it means that performing the work cost more than planned. If cost variance is a positive number, performing the work cost less than planned.
+
+Schedule variance (SV) is the earned value minus the planned value. A negative schedule variance means that it took longer than planned to perform the work, and a positive schedule variance means that the work took less time than planned.
+
+01356_ch07_hr_285-326.indd 308
+
+5/15/18 10:41 AM
+
+Project Cost Management
+
+309
+
+The cost performance index (CPI) is the ratio of earned value to actual cost; it can be used to estimate the projected cost of completing the project. If the CPI is equal to one, or 100 percent, then the planned and actual costs are equal—the costs are exactly as budgeted. If the CPI is less than one or less than 100 percent, the project is over budget. If the CPI is greater than one or more than 100 percent, the project is under budget.
+
+The schedule performance index (SPI) is the ratio of earned value to planned value; it can be used to estimate the projected time to complete the project. Similar to the cost performance index, an SPI of one, or 100 percent, means the project is on schedule. If the SPI is greater than one or 100 percent, then the project is ahead of schedule. If the SPI is less than one or 100 percent, the project is behind schedule.
+
+Note that in general, negative numbers for cost and schedule variance indicate problems in those areas. Negative numbers mean the project is costing more than planned or taking longer than planned. Likewise, a CPI and an SPI of less than one or less than 100 percent also indicate problems.
+
+The cost performance index can be used to calculate the estimate at completion (EAC)—an estimated cost of completing a project based on performance to date.
+
+Similarly, the schedule performance index can be used to calculate an estimated time to complete the project. You can also calculate the to-complete performance index (TCPI), a measure of the cost performance that must be achieved with the remaining resources to meet a specific goal, such as the BAC or EAC. There are two formulas based on each goal: To complete on plan or meet the BAC: TCPI 5 (BAC2EV)/(BAC2 AC) To meet the current EAC: TCPI5(BAC2EV)/(EAC2 AC)
+
+You can graph earned value information to track project performance. Figure 7-6
+
+shows an earned value chart for a one-year project after five months. Note that the An EAC
+
+Estimate at completion (EAC)
+
+point above
+
+120,000
+
+and to the
+
+Budget at completion (BAC)
+
+right of the
+
+100,000
+
+BAC point
+
+means the
+
+80,000
+
+project is
+
+projected to
+
+$
+
+Planned value (PV)
+
+cost more
+
+60,000
+
+and take
+
+longer than
+
+Actual cost (AC)
+
+40,000
+
+planned.
+
+Earned value (EV)
+
+20,000
+
+-
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10 11 12 13
+
+Month
+
+Actual cost (AC)
+
+Planned value (PV)
+
+Earned value (EV)
+
+figure 7-6 Earned value chart for project after five months 01356_ch07_hr_285-326.indd 309
+
+5/15/18 10:41 AM
+
+310
+
+
+
+* * *
+
+
+
+
+
+Chapter 7
+
+
+actual cost and earned value lines end at five months because the data were collected or estimated at that point. The chart includes three lines and two points, as follows:
+
+• Planned value (PV), the cumulative planned amounts for all activities by month. Note that the planned value line extends for the estimated length of the project and ends at the BAC point.
+
+• Actual cost (AC), the cumulative actual amounts for all activities by month.
+
+• Earned value (EV), the cumulative earned value amounts for all activities by month.
+
+• Budget at completion (BAC), the original total budget for the project, or $100,000 in this example. The BAC point is plotted on the chart at the original time estimate of 12 months.
+
+• Estimate at completion (EAC), estimated to be $122,308 in this example.
+
+This number is calculated by taking the BAC, or $100,000 in this case, and dividing by the CPI, which was 81.761 percent. This EAC point is plotted on the chart at the estimated time to complete of 12.74 months.
+
+This number is calculated by taking the original time estimate, or 12 months in this case, and dividing by the SPI, which in this example was 94.203 percent.
+
+Viewing earned value information in chart form helps you visualize how the project is performing. For example, you can see the planned performance by looking at the planned value line. If the project goes as planned, it will finish in 12 months and cost $100,000.
+
+Notice in the example in Figure 7-6 that the actual cost line is always on or above the earned value line, which indicates that costs are equal to or more than planned. The planned value line is close to the earned value line and is slightly higher in the last month.
+
+This relationship means that the project has been on schedule until the last month, when the project fell behind schedule.
+
+Top managers who oversee multiple projects often like to see performance information in a graphical form, such as the earned value chart in Figure 7-6.
+
+For example, in the opening case, the government officials were reviewing earned value charts and EACs for several different projects. Earned value charts allow you to see quickly how projects are performing. If there are serious cost and schedule performance problems, top management may decide to terminate projects or take other corrective action. The EACs are important inputs to budget decisions, especially if total funds are limited. Earned value management is an important technique when used effectively, because it helps top management and project managers evaluate progress and make sound management decisions. Consult the PMBOK® Guide – Sixth Edition and other resources for more information and calculations about earned value.
+
+If earned value management is such a powerful cost control tool, then why doesn’t every organization use it? Why do many government projects require it, but many commercial projects don’t? Two reasons are EVM’s focus on tracking 01356_ch07_hr_285-326.indd 310
+
+5/15/18 10:41 AM
+
+Project Cost Management
+
+311
+
+actual performance versus planned performance and the importance of percentage completion data in making calculations. Many projects, particularly IT projects, do not have good planning information, so tracking performance against a plan might produce misleading information. Several cost estimates are usually made on IT projects, and keeping track of the most recent cost estimate and the associated actual costs could be cumbersome. In addition, estimating percentage completion of tasks might produce misleading information. What does it mean to say that a task is actually 75 percent complete after three months? Such a statement is often not synonymous with saying the task will be finished in one more month or after spending an additional 25 percent of the planned budget.
+
+To make EVM simpler to use, organizations can modify the level of detail and still reap the benefits of the technique. For example, you can use percentage completion data such as 0 percent for items not yet started, 50 percent for items in progress, and 100 percent for completed tasks. As long as the project is defined in enough detail, this simplified percentage completion data should provide enough summary information to allow managers to see how well a project is doing overall. You can get very accurate total project performance information using these simple percentage complete amounts.
+
+For example, using simplified percentage complete amounts for a one-year project with weekly reporting and an average task size of one week, you can expect about a 1 percent error rate.19
+
+You can enter and collect earned value data only at summary levels of the WBS. Quentin Fleming, author of the book Earned Value Project Management,20
+
+often gives presentations about EVM. Many people express their frustration in trying to collect such detailed information. Fleming explains that you do not have to collect information at the work package level to use EVM. It is most important to have a deliverable-oriented WBS, and many WBS items can summarize several subdeliverables. For example, you might have a WBS for a house that includes items for each room in the house. Collecting earned value data for each room would provide meaningful information instead of trying to collect detailed information for each component in the room, such as flooring, furniture, and lighting.
+
+It is important to remember that the heart and soul of EVM are estimates, which are used to determine baselines. The entire EVM process begins with an estimate; when the estimate is off, all the calculations will be off. Before an organization attempts to use EVM, it must learn to develop good estimates.
+
+Earned value management is the primary method available for integrating performance, cost, and schedule data. It can be a powerful tool for project managers and top management to use in evaluating project performance. Project management software, such as Project 2016, includes tables for collecting earned value data and reports that calculate variance information. Project 2016 also allows you to easily produce an earned value chart, similar to the one in Figure 7-6, without importing the data into Microsoft Excel. See the project cost management section of Appendix A for an example of using EVM.
+
+Another approach to evaluating the performance of multiple projects is project portfolio management, as described in the next section.
+
+01356_ch07_hr_285-326.indd 311
+
+5/15/18 10:41 AM
+
+312
+
+
+
+* * *
+
+
+
+
+
+Chapter 7
+
+
+g L O b a L i s s u e s
+
+The Project Management Institute conducted a major study in 2011 to help understand and gauge the current level of EVM practice. The researchers surveyed more than 600
+
+project management practitioners in 61 countries, providing a cross-sectional view of the most current EVM practices. Respondents were classified by industry sector, motivation for EVM usage, organizational role, and geographic location. The study included the following key findings:
+
+• EVM is used worldwide, and it is particularly popular in the Middle East, South Asia, Canada, and Europe.
+
+• Most countries require EVM for large defense or government projects, as shown in Figure 7-7.
+
+• EVM is also used in such private-industry sectors as IT, construction, energy, and manufacturing. However, most private companies have not yet applied EVM to their projects because management does not require it, feeling it is too complex and not cost effective.
+
+• The level of EVM use and maturity varies among organizations and projects, but budget size appears to be the most important decision factor.
+
+• EVM’s contributions and cost effectiveness are widely recognized; most respondents said they agree or strongly agree that EVM provides early warning signs, helping them to control project scope, time, and cost.
+
+EVM’s contribution to cost performance was ranked higher than schedule performance, and the difference was statistically significant.
+
+• Top barriers to enhanced use of EVM were lack of motivation and lack of expertise.
+
+• Top management support, buy-in of project staff, training, organizational culture and leadership, and maturity of the project management system were the most important factors in successful use of EVM.21
+
+project portfolio management
+
+As you saw in Chapter 1, many organizations now collect and control an entire suite of projects or investments as one set of interrelated activities in one place—a portfolio.
+
+Several software tools provide graphics to summarize performance on a portfolio of projects, as shown in Chapter 4. Key metrics, including cost performance, are often shown in green, yellow, or red, indicating that things are going as planned, that problems exist, or that major problems exist, respectively. Project managers need to understand how their projects fit into the bigger picture. For example, there can be a portfolio for IT projects and portfolios for other types of projects. Looking at broad categories of similar projects enables project managers to help their organizations make wise investment decisions.
+
+An organization can view project portfolio management as having five levels, from simplest to most complex, as follows:
+
+1. Put all your projects in one database.
+
+2. Prioritize the projects in your database.
+
+01356_ch07_hr_285-326.indd 312
+
+5/15/18 10:41 AM
+
+Project Cost Management
+
+313
+
+60
+
+51.3
+
+50
+
+40
+
+35.8
+
+31.9
+
+32.2
+
+29.2
+
+30
+
+Percentage
+
+19.5
+
+20
+
+10
+
+0
+
+A few pilot
+
+Large and critical
+
+Organization-wide
+
+projects
+
+projects
+
+standard for
+
+all projects
+
+Defense/Government
+
+Private industry
+
+Source: Lingguang Song, “Earned Value Management: A Global and Cross-Industry Perspective on Current EVM Practice,” PMI (2011), p. 36.
+
+figure 7-7 Earned value usage
+
+3. Divide your projects into two or three budgets based on type of investment, such as utilities or required systems to keep things running, incremental upgrades, and strategic investments.
+
+4. Automate the repository.
+
+5. Apply modern portfolio theory, including risk-return tools that map project risk on a curve.
+
+Many project managers also want to move on to manage larger projects, become program managers, then vice presidents, and eventually CEOs. Understanding project portfolio management, therefore is important for both project and organizational success.
+
+Jane Walton, the project portfolio manager for IT projects at Schlumberger, saved the company $3 million in one year by organizing the organization’s 120 IT projects into a portfolio. Manufacturing companies have used project portfolio management since the 1960s, and Walton anticipated the need to justify investments in IT projects just as managers have to justify capital investment projects. She found that 80 percent of the organization’s projects overlapped, and that 14 separate projects were trying to accomplish the same thing. Other managers, such as Douglas Hubbard, president of a consulting firm, see the need to use project portfolio management, especially for IT
+
+projects. Hubbard suggests, “IT investments are huge, risky investments. It’s time we do this.”22
+
+01356_ch07_hr_285-326.indd 313
+
+5/15/18 10:41 AM
+
+314
+
+
+
+* * *
+
+
+
+
+
+Chapter 7
+
+
+Project portfolio managers can start by using spreadsheet software to develop and manage project portfolios, or they can use sophisticated software designed to help manage project portfolios. Several software tools available today help project portfolio managers summarize earned value and project portfolio information, as described in the following section.
+
+using prOject management sOftWare tO assist
+
+in prOject cOst management
+
+Most organizations use software to assist with project cost management. Spreadsheets are a common tool for cost estimating, cost budgeting, and cost control. Many companies also use more sophisticated and centralized financial software to provide important cost-related information to accounting and finance personnel. This section focuses on how you can use project management software in cost management. Appendix A includes a section on using the cost management features in Project 2016.
+
+Project management software can increase a project manager’s effectiveness during each process of project cost management. It can help you study overall project information or identify and focus on tasks that are over a specified cost limit. You can use the software to assign costs to resources and tasks, prepare cost estimates, develop cost budgets, and monitor cost performance. Project 2016 has several standard cost reports: cash flow, budget, over-budget tasks, over-budget resources, and earned value reports. For several of these reports, you must enter percentage completion information and actual costs, just as you do when manually calculating earned value or other analyses.
+
+Many IT project managers use other tools to manage cost information because they do not know that they can use project management software, or they do not track costs based on a WBS, as most project management software does. Instead of using dedicated project management software for cost management, some IT project managers use company accounting systems; others use spreadsheet software to achieve more flexibility.
+
+Project managers who use other software often do so because these other systems are more generally accepted in their organizations and more people know how to use them.
+
+To improve project cost management, several companies have developed methods to link data between their project management software and their main accounting software.
+
+Regardless, users need training to use dedicated project management software and understand the available features.
+
+Many organizations are using software to organize and analyze all types of project data into project portfolios and across the entire enterprise. Enterprise or project portfolio management (PPM) tools integrate information from multiple projects to show the projects’ status and health. Over half of the respondents in two different studies (PMI’s PMI Pulse of the Profession™ and a PricewaterhouseCoopers survey) reported frequent use of PPM. The highest adoption rates were reported by organizations in retail, insurance, auto, banking and capital markets, telecommunications, manufacturing, energy, and defense. The main reasons organizations use PPM included customer satisfaction, cost reduction, and revenue growth.23
+
+01356_ch07_hr_285-326.indd 314
+
+5/15/18 10:41 AM
+
+Project Cost Management
+
+315
+
+More recently, a 2017 report from Gartner says that the market for PPM software continues to grow, with annual sales over $2.3 billion. “Organizations are driving toward growth, innovation, and transformation at a faster pace than ever before, requiring PMOs to evolve beyond on-time, on-budget project delivery to realize the full potential of their resources and deliver portfolios with higher strategic value,” said Patrick Tickle, Planview chief product officer.24
+
+A study by Forrester estimates that companies are achieving returns of 250 percent from their investments in PPM tools. At a Planisware PPM Solutions Summit in 2014, customers shared examples of their success stories in achieving even higher returns:
+
+• Pfizer uses PPM software to accelerate innovation and improve transparency and accountability of resources to deliver scientific excellence. Pfizer can quickly access trusted data analytics to make strategic resource allocations that maximize portfolio value.
+
+• Ford uses Planisware to gain greater transparency over their portfolio of projects. Greater transparency gives management a better understanding of resources shared across projects, and enhances communication about statuses. They can quickly alert affected program managers and product development teams of potential risks so they can implement risk management strategies.25
+
+As with using any software, however, managers must make sure that the data is accurate and up to date, and ask pertinent questions before making any major decisions.
+
+cOnsideratiOns fOr agiLe/adaptive envirOnments
+
+The PMBOK® Guide – Sixth Edition provides the following information for project cost management:
+
+Projects with high degrees of uncertainty or those where the scope is not yet fully defined may not benefit from detailed cost calculations due to frequent changes.
+
+Instead, lightweight estimation methods can be used to generate a fast, high-level forecast of project labor costs, which can then be easily adjusted as changes arise.
+
+Detailed estimates are reserved for short-term planning horizons in a just-in-time fashion.
+
+In cases where high-variability projects are also subject to strict budgets, the scope and schedule are more often adjusted to stay within cost constraints.26
+
+Remember that projects are usually part of a program and portfolio. Senior managers in charge of the programs and portfolios are making high-level budget decisions. Most programs include projects with a variety of product life cycles (predictive, iterative, incremental, adaptive, and hybrid, as described in Chapter 2). For those projects or parts of projects using an adaptive or agile approach, the product owner secures funding, sometimes one release at a time. Agile teams, therefore, focus on completing requirements based on their priority (from the product backlog).
+
+01356_ch07_hr_285-326.indd 315
+
+5/15/18 10:41 AM
+
+316
+
+
+
+* * *
+
+
+
+
+
+Chapter 7
+
+
+Can you use EVM on Agile projects? Yes, you can use an adaptation of EVM, as described below. Read the referenced article and other sources for more details on this topic.
+
+AgileEVM is an adapted implementation of EVM that uses the Scrum framework artifacts as inputs, uses traditional EVM calculations, and is expressed in traditional EVM metrics. AgileEVM requires a minimal set of input parameters: the actual cost of a project, an estimated product backlog, a release plan that provides information on the number of iterations in the release and the assumed velocity. All estimates can be in hours, story-points, team days or any other consistent estimate of size. The critical factor is that it must be a numerical estimate of some kind.27
+
+c a s e W r a p - u p
+
+After talking to his colleagues about the meeting, Juan had a better idea about the importance of project cost management. He understood the value of doing detailed studies before making major expenditures on new projects, especially after learning about the high cost of correcting defects late in a project. He also learned the importance of developing good cost estimates and keeping costs on track. He enjoyed seeing how the cost estimate was developed for the Surveyor Pro project, and was eager to learn more about various estimating tools and techniques.
+
+At the meeting, government officials canceled several projects when the project managers showed how poorly the projects were performing and admitted that they did not do much planning and analysis early in the projects. Juan knew that he could not focus on just the technical aspects of projects if he wanted to move ahead in his career.
+
+He began to wonder whether several projects the city was considering were really worth the taxpayers’ money. Issues of cost management added a new dimension to Juan’s job.
+
+01356_ch07_hr_285-326.indd 316
+
+5/15/18 10:41 AM
+
+Project Cost Management
+
+317
+
+
+
+* * *
+Chapter 7 - Chapter Summary start
+
+Project cost management is traditionally a weak area of IT projects. IT project managers must acknowledge the importance of cost management and take responsibility for understanding basic cost concepts, cost estimating, budgeting, and cost control.
+
+Project managers must understand several basic principles of cost management to be effective in managing project costs. Important concepts include profits and profit margins, life cycle costing, cash flow analysis, sunk costs, and learning curve theory.
+
+Planning cost management involves determining the policies, procedures, and documentation that will be used for planning, executing, and controlling project cost. The main output of this process is a cost management plan.
+
+Estimating costs is a very important part of project cost management. There are several types of cost estimates, including rough order of magnitude (ROM), budgetary, and definitive.
+
+Each type of estimate is done during different stages of the project life cycle, and each has a different level of accuracy. Several tools and techniques can help you develop cost estimates, including analogous estimating, bottom-up estimating, parametric estimating, and computerized tools. Function point analysis can also be used to estimate software development costs.
+
+Determining the budget involves allocating costs to individual work items over time. It is important to understand how particular organizations prepare budgets so estimates are made accordingly.
+
+Controlling costs includes monitoring cost performance, reviewing changes, and notifying project stakeholders of changes related to costs. Many basic accounting and finance principles relate to project cost management. Earned value management is an important method used for measuring project performance. Earned value management integrates scope, cost, and schedule information. Project portfolio management allows organizations to collect and control an entire suite of projects or investments as one set of interrelated activities.
+
+Several software products can assist with project cost management. Project 2016 has many cost management features, including earned value management. Enterprise project management software and portfolio management software can help managers evaluate data on multiple projects.
+
+Be sure to consider how project cost management can differ in agile/adaptive environments.
+
+Chapter 7 - Chapter Summary end
+
+* * *

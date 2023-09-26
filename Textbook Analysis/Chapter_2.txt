@@ -1,0 +1,1410 @@
+Structural frame: Roles
+
+Human resources frame:
+
+and responsibilities,
+
+Providing harmony
+
+coordination, and control.
+
+between needs of the
+
+Organizational charts help
+
+organization and needs
+
+describe this frame.
+
+of people.
+
+Political frame: Coalitions
+
+Symbolic frame: Symbols
+
+composed of varied
+
+and meanings related to
+
+individuals and interest
+
+events. Culture, language,
+
+groups. Conflict and
+
+traditions, and image are
+
+power are key issues.
+
+all parts of this frame.
+
+Source: Bolman and Deal.
+
+figure 2-2 Perspectives on organizations2
+
+• The structural frame deals with how the organization is structured (usually depicted in an organizational chart) and focuses on different groups’ roles and responsibilities to meet the goals and policies set by top management. This frame is very rational and focuses on coordination and control. For example, within the structural frame, a key IT issue is whether a company should centralize the IT personnel in one department or decentralize across several departments. You will learn more about organizational structures in the next section.
+
+• The human resources (HR) frame focuses on producing harmony between the needs of the organization and the needs of people. It recognizes that mismatches can occur between the needs of the organization and those of individuals and groups, and works to resolve any potential problems.
+
+For example, many projects might be more efficient for the organization if employees worked 80 or more hours a week for several months. However, this work schedule would conflict with the personal lives and health of many employees. Important IT issues related to the human resources frame are the shortage of skilled IT workers within the organization and unrealistic schedules imposed on many projects.
+
+• The political frame addresses organizational and personal politics. Politics in organizations take the form of competition among groups or individuals for power, resources, and leadership. The political frame emphasizes that organizations are coalitions composed of varied individuals and interest groups. Often, important decisions need to be made about the allocation of scarce resources. Competition for resources makes conflict a central issue in organizations, and power improves the ability to obtain those resources.
+
+Project managers must pay attention to politics and power if they are to be effective. It is important to know who opposes your projects as well as who supports them. Important IT issues related to the political frame are the differences in power between central functions and operating units or between functional managers and project managers.
+
+01356_ch02_hr_047-084.indd 52
+
+5/15/18 10:33 AM
+
+The Project Management and Information Technology Context 53
+
+• The symbolic frame focuses on symbols and meanings. In this frame, the most important aspect of any event in an organization is not what actually happened, but what it means. Was it a good sign that the CEO came to a kick-off meeting for a project, or was it a threat? The symbolic frame also relates to the company’s culture. How do people dress? How many hours do they work? How do they run meetings? Many IT projects are international and include stakeholders from various cultures. Understanding those cultures is also a crucial part of the symbolic frame.
+
+Project managers must learn to work within all four frames to function well in organizations. Organizational issues are discussed further in Chapter 9, Project Resource Management, Chapter 10, Project Communications Management, and Chapter 13, Project Stakeholder Management. The following sections on organizational structures, organizational culture, stakeholder management, and the need for top management commitment provide additional information related to the structural and political frames.
+
+w h a t w e n t w r O n g ?
+
+In a paper titled “A Study in Project Failure,” two researchers examined the success and failure of 214 IT projects over an eight-year period in several European countries.
+
+The researchers found that only one in eight (12.5 percent) were considered successful in terms of meeting scope, time, and cost goals. The authors made the following conclusions about factors that contribute to a project’s failure:
+
+“Our evidence suggests that the culture within many organisations is often such that leadership, stakeholder and risk management issues are not factored into projects early on and in many instances cannot formally be written down for political reasons and are rarely discussed openly at project board or steering group meetings although they may be discussed at length behind closed doors. . . . Despite attempts to make software development and project delivery more rigorous, a considerable proportion of delivery effort results in systems that do not meet user expectations and are subsequently cancelled. In our view this is attributed to the fact that very few organisations have the infrastructure, education, training, or management discipline to bring projects to successful completion.”3
+
+Organizational structures
+
+Many discussions of organizations focus on their structure, which can take many forms.
+
+Three general classifications of organizational structures are functional, project or project-oriented, and matrix. Figure 2-3 portrays these three structures, and Table 2-1 describes several more. A functional organizational structure is the hierarchy most people think of when picturing an organizational chart. Functional managers or vice presidents in spe-cialties such as engineering, manufacturing, IT, and human resources report to the chief executive officer (CEO). Their staffs have specialized skills in their respective disciplines.
+
+01356_ch02_hr_047-084.indd 53
+
+5/15/18 10:33 AM
+
+54
+
+
+
+* * *
+
+
+
+
+
+Chapter 2
+
+
+Functional
+
+
+CEO
+
+VP Engineering
+
+VP Manufacturing
+
+VP IT
+
+VP HR
+
+Staff
+
+Staff
+
+Staff
+
+Staff
+
+Project
+
+CEO
+
+Program Manager A
+
+Program Manager B
+
+Program Manager C
+
+Staff
+
+Staff
+
+Staff
+
+Matrix
+
+CEO
+
+Program Managers VP Engineering
+
+VP Manufacturing
+
+VP IT
+
+VP HR
+
+Staff
+
+Staff
+
+Staff
+
+Staff
+
+Staff
+
+Project Manager A:
+
+2 engineering
+
+1
+
+1 manufacturing
+
+31/2 IT
+
+/2 HR
+
+Project Manager B:
+
+5 engineering
+
+3 manufacturing
+
+10 IT
+
+1 HR
+
+Project Manager C:
+
+1 engineering
+
+1
+
+0 manufacturing
+
+4 IT
+
+/10 HR
+
+figure 2-3 Functional, project, and matrix organizational structures For example, most colleges and universities have very strong functional organizations.
+
+Only faculty members in the business department teach business courses; faculty in the history department teach history; faculty in the art department teach art, and so on. If the college or university offers graduate and undergraduate programs, they might also have a divisional structure to further distinguish roles and responsibilities for those programs.
+
+A project organizational structure also is hierarchical, but instead of functional managers or vice presidents reporting to the CEO, program managers report to the CEO. Their staffs have a variety of skills needed to complete the projects within their programs. An organization that uses this structure earns its revenue primarily from performing projects 01356_ch02_hr_047-084.indd 54
+
+5/15/18 10:33 AM
+
+The Project Management and Information Technology Context 55
+
+for other groups under contract. For example, many defense, architectural, engineering, and consulting companies use a project organizational structure. These companies often hire people specifically to work on particular projects.
+
+A matrix organizational structure represents the middle ground between functional and project structures. Personnel often report both to a functional manager and to one or more project managers. For example, IT personnel at many companies often split their time between two or more projects, but they report to their manager in the IT
+
+department. Project managers in matrix organizations have staff from various functional areas working on their projects, as shown in Figure 2-3. Matrix organizational structures can be strong, weak, or balanced, based on the amount of control exerted by the project managers. Problems can occur if project team members are assigned to several projects in a matrix structure and the project manager does not have adequate control of their time.
+
+Table 2-1 summarizes how organizational structures influence projects and project managers, based on the PMBOK® Guide – Sixth Edition. Note that several additional organizational structures (besides functional, project oriented, and matrix) are listed, including organic or simple, multi-divisional, virtual, hybrid, and PMO. Project managers have the most authority in a pure project-oriented or PMO organizational structure and the least amount of authority in a pure functional, organic/simple, or multi-divisional organizational structure. It is important that project managers understand their current organizational structure. For example, if someone in a functional organization is asked to lead a project that requires strong support from several different functional areas, he or she should ask for top management sponsorship. This sponsor should solicit support from all relevant functional managers to ensure that they cooperate on the project and that qualified people are available to work as needed. The project manager might also ask for a separate budget to pay for project-related trips, meetings, and training or to provide financial incentives to the people supporting the project.
+
+Even though project managers have the most authority in the project and PMO
+
+organizational structures, this type of organization can be inefficient for the company as a whole. Assigning staff full time to the project often creates underutilization and misallocation of staff resources. For example, if a technical writer is assigned full time to a project, but has no project work on a particular day, the organization is wasting money by paying that person a full-time wage. Project organizations may also miss economies of scale that are available through pooling requests for materials with other projects. Most large organizations, therefore, use a variety of structures. For example, General Motors is first organized divisionally by Global Market (North America, Asia, Europe, etc.), then divisionally by consumer product (Chevy, Buick, Cadillac, etc.), and then within those by function (Marketing, Manufacturing, IT, Accounting, Design, Sales, Quality, Engineering, etc.), and finally within each of those by project. No wonder project managers struggle to understand their organizations!
+
+Disadvantages such as these illustrate the benefit of using a systems approach to managing projects. For example, the project manager might suggest hiring an independent contractor to do the technical writing work instead of using a full-time employee. This approach would save the organization money while still meeting the needs of the project.
+
+When project managers use a systems approach, they are better able to make decisions that address the needs of the entire organization.
+
+01356_ch02_hr_047-084.indd 55
+
+5/15/18 10:33 AM
+
+56
+
+
+
+* * *
+
+
+
+
+
+Chapter 2
+
+
+tabLe 2-1 Influences of organizational structures on projects project characteristics
+
+project
+
+who man-manage-
+
+Organiza-
+
+project
+
+resource ages the
+
+ment
+
+tional struc-
+
+work groups
+
+manager’s
+
+project manager’s
+
+avail-
+
+project
+
+adminis-
+
+ture type
+
+arranged by:
+
+authority
+
+role
+
+ability
+
+budget?
+
+trative staff
+
+Organic or
+
+Flexible;
+
+Little or
+
+Part-time; may or
+
+Little or
+
+Owner or Little or
+
+Simple
+
+people working none
+
+may not be a des—
+
+none
+
+operator
+
+none
+
+side-by-side
+
+ignated job role
+
+like coordinator
+
+Functional
+
+Job being
+
+Little or
+
+Part-time; may or
+
+Little or
+
+Func-
+
+
+
+
+
+Part-time
+
+
+(centralized)
+
+done (e.g.,
+
+none
+
+may not be a des—
+
+none
+
+tional
+
+engineering,
+
+ignated job role
+
+manager
+
+manufacturing)
+
+like coordinator
+
+Multi-divi-
+
+One of: prod—
+
+Little or
+
+Part-time; may or
+
+Little or
+
+Func-
+
+
+
+
+
+Part-time
+
+
+sional ( may uct; produc—
+
+none
+
+may not be a des—
+
+none
+
+tional
+
+replicate
+
+tion processes;
+
+ignated job role
+
+manager
+
+functions for portfolio;
+
+like coordinator
+
+each divi-
+
+program; geo-
+
+sion with
+
+graphic region;
+
+little cen-
+
+customer type
+
+tralization)
+
+Matrix
+
+By job func—
+
+Moderate to Full-time
+
+Moder—
+
+Project
+
+Full-time
+
+- strong
+
+tion, with proj—
+
+high
+
+designated job
+
+ate to
+
+manager
+
+ect manager as
+
+role
+
+high
+
+a function
+
+Matrix
+
+Job function
+
+Low
+
+Part-time; done
+
+Low
+
+Func-
+
+
+
+
+
+Part-time
+
+
+- weak
+
+as part of another
+
+tional
+
+job and not a
+
+manager
+
+designated job role
+
+like coordinator
+
+Matrix
+
+Job function
+
+Low to
+
+Part-time; embed—
+
+Low to
+
+Mixed
+
+
+
+
+
+Part-time
+
+
+- balanced
+
+moderate
+
+ded in the func—
+
+moderate
+
+tions as a skill and
+
+may not be a designated job role
+
+like coordinator
+
+Project-
+
+Project
+
+High to
+
+Full-time desig—
+
+High to
+
+Project
+
+Full-time
+
+oriented
+
+almost total
+
+nated job role
+
+almost
+
+manager
+
+(composite,
+
+total
+
+hybrid)
+
+Virtual
+
+Network
+
+Low to
+
+Full-time or
+
+Low to
+
+Mixed
+
+Could
+
+structure with
+
+moderate
+
+
+
+
+
+part-time
+
+
+moderate
+
+
+be full—
+
+nodes at points
+
+time or
+
+of contact with
+
+
+
+
+
+part-time
+
+
+other people
+
+
+01356_ch02_hr_047-084.indd 56
+
+5/15/18 10:33 AM
+
+The Project Management and Information Technology Context 57
+
+tabLe 2-1 Influences of organizational structures on projects ( continued)
+
+Hybrid
+
+Mix of other
+
+Mixed
+
+Mixed
+
+Mixed
+
+Mixed
+
+Mixed
+
+types
+
+PMO*
+
+Mix of other
+
+High to
+
+Full-time desig—
+
+High to
+
+Project
+
+Full-time
+
+types
+
+almost total
+
+nated job role
+
+almost
+
+manager
+
+total
+
+*PMO refers to a portfolio, program, or project management office or organization.
+
+Source: Project Management Institute, Inc., A Guide to the Project Management Body of Knowledge ( PMBOK® Guide – Sixth Edition) (2017).
+
+Organizational culture
+
+Just as an organization’s structure affects its ability to manage projects, so does its culture. Organizational culture is a set of shared assumptions, values, and behaviors that characterize the functioning of an organization. It often includes elements of all four frames described previously. Organizational culture is very powerful, and many people believe that the underlying causes of many companies’ problems are not in the organizational structure or staff; they are in the culture. It is also important to note that the same organization can have different subcultures. The IT department may have a different organizational culture than the finance department, for example. Some organizational cultures make it easier to manage projects.
+
+According to Stephen P. Robbins and Timothy Judge, authors of a popular textbook on organizational behavior, there are 10 characteristics of organizational culture: 1. Member identity: The degree to which employees identify with the organization as a whole rather than with their type of job or profession. For example, project managers or team members might feel more dedicated to their company or project team than to their job or profession, or they might not have any loyalty to a particular company or team. As you can guess, an organizational culture in which employees identify more with the whole organization are more conducive to a good project culture.
+
+2. Group emphasis: The degree to which work activities are organized around groups or teams, rather than individuals. An organizational culture that emphasizes group work is best for managing projects.
+
+3. People focus: The degree to which management’s decisions take into account the effect of outcomes on people within the organization. A project manager might assign tasks to certain people without considering their individual needs, or the project manager might know each person very well and focus on individual needs when assigning work or making other decisions. Good project managers often balance the needs of individuals and the organization.
+
+4. Unit integration: The degree to which units or departments within an organization are encouraged to coordinate with each other. Most project managers strive for strong unit integration to deliver a successful product, service, or result. An organizational culture with strong unit integration makes the project manager’s job easier.
+
+01356_ch02_hr_047-084.indd 57
+
+5/15/18 10:33 AM
+
+58
+
+
+
+* * *
+
+
+
+
+
+Chapter 2
+
+
+5. Control: The degree to which rules, policies, and direct supervision are used to oversee and control employee behavior. Experienced project managers know it is often best to balance the degree of control to get good project results.
+
+6. Risk tolerance: The degree to which employees are encouraged to be aggressive, innovative, and risk seeking. An organizational culture with a higher risk tolerance is often best for project management because projects often involve new technologies, ideas, and processes.
+
+7. Reward criteria: The degree to which rewards, such as promotions and salary increases, are allocated according to employee performance rather than senior-ity, favoritism, or other nonperformance factors. Project managers and their teams often perform best when rewards are based mostly on performance.
+
+8. Conflict tolerance: The degree to which employees are encouraged to air conflicts and criticism openly. It is very important for all project stakeholders to have good communications, so it is best to work in an organization where people feel comfortable discussing differences openly.
+
+9. Means-ends orientation: The degree to which management focuses on outcomes rather than on techniques and processes used to achieve results. An organization with a balanced approach in this area is often best for project work.
+
+10. Open-systems focus: The degree to which the organization monitors and responds to changes in the external environment. As you learned earlier in this chapter, projects are part of a larger organizational environment, so it is best to have a strong open-systems focus.4
+
+As you can see, there is a definite relationship between organizational culture and successful project management. Project work is most successful in an organizational culture where employees identify more with the organization, where work activities emphasize groups, and where there is strong unit integration, high risk tolerance, performance-based rewards, high conflict tolerance, an open-systems focus, and a balanced focus on people, control, and means orientation.
+
+Focusing on stakeholder needs
+
+Recall from Chapter 1 that project stakeholders are the people involved in or affected by project activities. Stakeholders can be internal or external to the organization, directly involved in the project, or simply affected by the project. Internal project stakeholders include the project sponsor, project team, support staff, and internal customers of the project. Other internal stakeholders include top management, other functional managers, and other project managers. Projects affect these additional internal stakeholders because they use the organization's limited resources. Thus, while additional internal stakeholders may not be directly involved in the project, they are still stakeholders because the project affects them in some way. External project stakeholders include the project’s customers (if they are external to the organization), competitors, suppliers, and other external groups potentially involved in the project or affected by it, such as government officials or concerned citizens.
+
+Because the purpose of project management is to meet project requirements and satisfy stakeholders, it is critical that project managers take adequate time to identify, 01356_ch02_hr_047-084.indd 58
+
+6/18/18 4:16 PM
+
+The Project Management and Information Technology Context 59
+
+understand, and manage relationships with all project stakeholders. Using the four frames of organizations to think about project stakeholders can help you meet their expectations.
+
+See Chapter 13, Project Stakeholder Management, for more information.
+
+Consider again the tablet project from the opening case. Tom Walters seemed to focus on just a few internal project stakeholders. He viewed only part of the structural frame of the college. Because his department would do most of the work in administering the tablet project, he concentrated on those stakeholders. He did not even involve the main customers for this project—the students at the college. Even though Tom sent an e-mail to faculty and staff, he did not hold meetings with senior administrators or faculty at the college.
+
+Tom’s view of the project stakeholders was very limited.
+
+During the faculty meeting, it became evident that the tablet project had many stakeholders in addition to the IT department and students. If Tom had expanded his view of the structural frame of his organization by reviewing an organizational chart for the entire college, he could have identified other key stakeholders. He would have been able to see that the project would affect academic department heads and members of different administrative areas, especially if he wanted faculty members to develop customized course materials themselves.
+
+If Tom had focused on the human resources frame, he would have been able to tap into his knowledge of the school and identify people who would most support or oppose requiring tablets. By using the political frame, Tom could have considered the main interest groups that would be most affected by the project’s outcome. Had he used the symbolic frame, Tom could have tried to address what moving to a tablet environment would really mean for the college.
+
+He then could have anticipated some of the opposition from people who were not in favor of increasing the use of technology on campus. He also could have solicited a strong endorse-ment from the college president or dean before talking at the faculty meeting.
+
+Tom Walters, like many new project managers, learned the hard way that technical and analytical skills were not enough to guarantee success in project management. To be more effective, he had to identify and address the needs of different stakeholders and understand how his project related to the entire organization. And unlike the NFL, his college was not being paid to use tablets, as described in the following Media Snapshot.
+
+M e d i a S n a p S h o t
+
+Prior to the 2014 football season, Microsoft paid the NFL $400 million as part of a five-year deal to use their Surface as “the official tablet of the NFL.” The Microsoft logo is on the tablets as well as the replay monitors used by officials. The Surfaces replaced banks of printers used in the past to print out images of each play, a slow, wasteful process. The Surfaces run a special app that links with cameras to provide instant video of plays. Users can review plays over and over again and mark up images with a stylus.
+
+All 32 NFL teams were involved, and the deal was renewed for a sixth year in 2017.
+
+Yusuf Mehdi, corporate vice president at Microsoft, said, “We’re excited to help the NFL
+
+change the game with Surface devices being used by players and coaches on the sidelines ( continued)
+
+01356_ch02_hr_047-084.indd 59
+
+6/23/18 11:42 AM
+
+60
+
+
+
+* * *
+
+
+
+
+
+Chapter 2
+
+
+to make more informed decisions, referees using Surface for instant replay to enhance the speed of the game, and teams using Microsoft products in their business and football operations.”5
+
+Was it a smooth transition to using the tablets? Not quite. During week one of the season at least two television announcers mistakenly referred to the tablets as iPads, giving Apple unexpected exposure. Microsoft also had to defend the use of tablets after the New England Patriots stopped using them. Coach Bill Belichick “ranted that he was
+
+‘done with the tablets’ during a five-minute-long expression of pure frustration at the Surface tablets and the technology surrounding them. ‘I’m going to stick with pictures, which several of our other coaches do, as well, because there just isn’t enough consistency in the performance of the tablets. I just can’t take it anymore,’ said Belichick, weeks after smashing a Surface tablet on the sidelines.”6
+
+the importance of top management commitment
+
+A very important factor in helping project managers successfully lead projects is the level of commitment and support they receive from top management. Without this commitment, many projects will fail. Some projects have a senior manager called a champion who acts as a key advocate for a project. The sponsor can serve as the champion, but often another manager can more successfully take on this role. As described earlier, projects are part of the larger organizational environment, and many factors that might affect a project are out of the project manager’s control. Several studies cite executive support as one of the key factors associated with virtually all project success.
+
+Top management commitment is crucial to project managers for the following reasons:
+
+• Project managers need adequate resources. The best way to kill a project is to withhold the required money, human resources, and visibility. If project managers have top management commitment, they will also have adequate resources and not be distracted by events that do not affect their specific projects.
+
+• Project managers often require approval for unique project needs in a timely manner. For example, on large IT projects, top management must understand that unexpected problems may result from the nature of the products being developed and the specific skills of people on the project team. The team might need additional hardware and software halfway through the project for proper testing, or the project manager might need to offer special pay and benefits to attract and retain key project personnel. With top management commitment, project managers can meet these needs.
+
+• Project managers must have cooperation from people in other parts of the organization. Because most IT projects cut across functional areas, top management must help project managers deal with the political issues that often arise. If certain functional managers are not responding to project managers’ requests for necessary information, top management must step in to encourage the functional managers to cooperate.
+
+• Project managers often need someone to mentor and coach them on leadership issues. Many IT project managers come from technical positions 01356_ch02_hr_047-084.indd 60
+
+5/15/18 10:33 AM
+
+The Project Management and Information Technology Context 61
+
+and are inexperienced as managers. Senior managers should take the time to give advice on how to be good leaders. They should encourage new project managers to take classes to develop leadership skills and allocate the time and funds for managers to do so.
+
+IT project managers work best in an environment in which top management values IT.
+
+Working in an organization that values good project management and sets standards for its use also helps project managers succeed.
+
+the need for Organizational commitment to information technology Another factor that affects the success of IT projects is the organization’s commitment to IT in general. It is very difficult for an IT project to be successful if the organization itself does not value IT. Many companies have realized that IT is integral to their business and have created a vice president or equivalent position for the head of IT, often called the Chief Information Officer (CIO). Some companies assign people from non-IT areas to work full time on large projects and increase involvement from end users of the systems.
+
+Some CEOs even take a strong leadership role in promoting the use of IT in their organizations and empower employees to use IT effectively.
+
+b e s t p r a c t i c e
+
+A major element of good practice concerns IT governance, which addresses the authority for and control of key IT activities in organizations, including IT infrastructure, IT use, and project management. (The term project governance can also be used to describe a uniform method of controlling all types of projects.) The IT Governance Institute (ITGI) was established in 1998 to advance international thinking and standards in directing and controlling an organization’s use of technology. Effective IT governance helps ensure that IT supports business goals, maximizes investment in IT, and addresses IT-related risks and opportunities. A 2004 book by Peter Weill and Jeanne Ross titled IT Governance: How Top Performers Manage IT Decision Rights for Superior Results 7
+
+includes research indicating that firms with superior IT governance systems have 20 percent higher profits than firms with poor governance.
+
+A lack of IT governance can be dangerous, as evidenced by three well-publicized IT
+
+project failures in Australia: Sydney Water’s customer relationship management system, the Royal Melbourne Institute of Technology’s academic management system, and One.
+
+Tel’s billing system. Researchers explained how these projects were catastrophic for their organizations, primarily due to a severe lack of IT governance, which the researchers dubbed managerial IT unconsciousness in a subsequent article:
+
+“All three projects suffered from poor IT governance. Senior management in all three organizations had not ensured that prudent checks and balances were in place to enable them to monitor either the progress of the projects or the alignment and impact of the new systems on their business. Proper governance, particularly with respect to financial matters, auditing, and contract management, was not evident. Also, project-level planning and control were notably absent or inadequate—with the result that project status reports to management were unrealistic, inaccurate, and misleading.”8
+
+01356_ch02_hr_047-084.indd 61
+
+5/15/18 10:33 AM
+
+62
+
+
+
+* * *
+
+
+
+
+
+Chapter 2
+
+
+The leadership style of the CIO plays a crucial role in gaining organizational commitment to IT as well as motivation and support for IT workers. A survey found that 76 percent of CIOs in companies in Europe, the Middle East, and Africa (EMEA) need to adapt their leadership style to fully embrace digital business. “Command-and-control leadership doesn’t suit this digital world,” said Dave Aron, vice president and Gartner Fellow. “In fact, it can be an obstacle. Vision and inspiration are typically the most powerful attributes of digital leaders. CIOs must accept to flip from ‘control first’ to vision first. In EMEA, 65 percent of CIOs said that they need to decrease their time on commanding IT, while 45 percent of them said they need to increase their visionary leadership.”9
+
+Empowering employees at all levels to effectively use IT is also crucial. For example, Hilton Worldwide won a prestigious Customer Relationship Management (CRM) award by enabling its employees to create their own solution for improving customer service and loyalty. In addition to using the company’s Satisfaction and Loyalty Tracking (SALT) customer analytics software to deliver key information in a timely manner, team members created a more personal process to focus on using data to improve the guest experience called HEART: Hear the Guest; Empathize with the Guest; Apologize to the Guest; Resolve the Issue; and Thank the Guest. By following this process along with timely data, Hilton Worldwide dramatically increased its customer loyalty score, which leads to higher profits.10
+
+the need for Organizational standards
+
+Another problem in most organizations is a lack of standards or guidelines to follow when performing project management. These standards or guidelines might be as simple as providing standard forms or templates for common project documents, examples of good project management plans, or guidelines for how project managers should provide status information to top management. The content of a project management plan and instructions for providing status information might seem like common sense to senior managers, but many new IT project managers have never created plans or created a nontechnical status report. Top management must support the development of these standards and guidelines, and encourage or even enforce their use. For example, an organization might require all potential project information to be reported in a standard format to make project portfolio management decisions. If a project manager does not submit a potential project in the proper format, it could be rejected.
+
+As you saw in Chapter 1, some organizations invest heavily in project management by creating a project management office or center of excellence, which assists project managers in achieving project goals and maintaining project governance. Rachel Hollstadt, founder and retired CEO of a project management consulting firm, suggests that organizations consider adding a new position, a Chief Project Officer (CPO). Some organizations develop career paths for project managers; some require that all project managers have Project Management Professional (PMP®) certification and that all employees have some type of project management training. The implementation of such standards demonstrates an organization’s commitment to project management.
+
+prOject and prOduct Life cycLes
+
+Because projects operate as part of a system and involve uncertainty, it is good practice to divide projects into several phases. The same can be said for developing products. This section describes the various project and product life cycles.
+
+01356_ch02_hr_047-084.indd 62
+
+5/15/18 10:33 AM
+
+The Project Management and Information Technology Context 63
+
+project Life cycle
+
+A project life cycle is a collection of project phases. Projects pass through these phases from their start to their completion. The PMBOK® Guide – Sixth Edition describes the generic life cycle to include the following four phases: 1. Starting the project
+
+2. Organizing and preparing
+
+3. Carrying out the work
+
+4. Finishing the project
+
+These phases should not be confused with the project management process groups of initiating, planning, executing, monitoring and controlling, and closing, as described in Chapter 3.
+
+In general, project life cycles define what work will be performed in each phase, what deliverables will be produced and when, who is involved in each phase, and how management will control and approve work produced in each phase. A deliverable is a product or service, such as a technical report, a training session, a piece of hardware, or a segment of software code, produced or provided as part of a project. (See Chapter 5, Project Scope Management, for detailed information on deliverables.) In early phases of a project life cycle, resource needs are usually lowest and the level of uncertainty is highest. Project stakeholders have the greatest opportunity to influence the final characteristics of the project’s products, services, or results during the early phases of a project life cycle. It is much more expensive to make major changes to a project during latter phases. During the middle phases of a project life cycle, the certainty of completing the project improves as it continues, and as more information is known about the project requirements and objectives. Also, more resources are usually needed than during the initial or final phase. The final phase of a project focuses on ensuring that project requirements were met and that the project sponsor approves completion of the project.
+
+product Life cycles
+
+Just as a project has a life cycle, so does a product. IT projects help develop products and services such as new software, hardware, networks, research reports, and training on new systems. A product life cycle is a process used to define, create, and deliver products.
+
+Developing a product, such as a new information system, a car, a building, and so on, often involves many projects.
+
+All products follow some type of life cycle—cars, buildings, even amusement parks.
+
+The Walt Disney Company, for example, follows a rigorous process to design, build, and test new products. Disney assigns project managers to oversee the development of all new products, such as rides, parks, and cruise lines. Likewise, major automotive companies follow product life cycles to create new cars, trucks, and other products.
+
+Most IT professionals are familiar with the concept of a product life cycle, especially for developing software. Software development projects are one subset of IT projects.
+
+Many IT projects involve researching, analyzing, and then purchasing and installing new hardware and software with little or no actual software development required. However, some projects involve minor modifications to enhance existing software or to integrate one application with another. Other projects involve a major amount of software 01356_ch02_hr_047-084.indd 63
+
+5/15/18 10:33 AM
+
+64
+
+
+
+* * *
+
+
+
+
+
+Chapter 2
+
+
+development. A systems development life cycle (SDLC) is a framework for describing the phases of developing information systems.
+
+The PMBOK® Guide – Sixth Edition briefly describes five product or development life cycles. Two factors are important in deciding which life cycle to use: the degree of change in requirements and the frequency of delivery of useful results. For example, for a product with a low degree of change in requirements and low frequency of delivery, a predictive life cycle would be appropriate.
+
+1. Predictive life cycle: The scope, schedule, and cost are determined early, and changes to scope are carefully managed. PMI also refers to predictive life cycles as waterfall.
+
+2. Iterative life cycle: The scope is determined early, but time and cost estimates are modified as the understanding of the product increases. Iterations are used to develop the product through a series of repeated cycles to add to the functionality of the product. This approach works best when there is a high degree of change and a low frequency of delivery.
+
+3. Incremental life cycle: Deliverables are produced through a series of iterations that add functionality within a set time frame. The deliverable is not complete until after the final iteration. This approach works best when there is a low degree of change and a high frequency of delivery.
+
+4. Adaptive life cycle: Stakeholders define and approve the detailed scope before the start of an iteration, producing a useable product at the end of each iteration. PMI also refers to adaptive life cycles as agile or change-driven. This approach works best when there is a high degree of change and a high frequency of delivery.
+
+5. Hybrid life cycle: A combination of approaches is used based on the nature of the work. For example, some deliverables might have a low degree of change and low frequency of delivery such as weekly progress reports, a high degree of change and a high frequency of delivery such as certain software features, and so on.
+
+Many organizations today use a hybrid approach to product development where a predictive set of steps is used as an overall means to coordinate more detailed steps that are adaptively managed. Predictive and adaptive approaches are not a mutually exclusive choice.
+
+In addition to the waterfall model for the SDLC, other predictive life cycles include the spiral model, the prototyping model, and the Rapid Application Development (RAD) model. The project team spends a large portion of the project attempting to clarify the requirements of the entire system and then producing a design. Users are often unable to see any tangible results in terms of working software for an extended period. Below are brief descriptions of several predictive SDLC models.11
+
+• The waterfall life cycle model has well-defined, linear stages of systems analysis, design, construction, testing, and support. This life cycle model assumes that requirements will remain stable after they are defined. The waterfall life cycle model is used when risk must be tightly controlled and when changes must be restricted after the requirements are defined. The waterfall approach is used in many large-scale systems projects where complexity and cost 01356_ch02_hr_047-084.indd 64
+
+5/15/18 10:33 AM
+
+The Project Management and Information Technology Context 65
+
+are so high that the more rigid steps of the approach help to ensure careful completion of all deliverables. The waterfall approach also makes sense for IT
+
+projects that do not involve software development, such as upgrading all the routers and switches in a company to support VoIP phones.12
+
+• The spiral life cycle model was developed based on refinements of the waterfall model as applied to large government software projects. It recognizes the fact that most software is developed using an iterative or spiral approach rather than a linear approach. The project team is open to changes and revisions later in the project life cycle, and returns to the requirements phase to more carefully clarify and design the revisions. This approach is suitable for projects in which changes can be incorporated with reasonable cost increases or with acceptable time delays. Figure 2-4 illustrates the differences between the waterfall and spiral life cycle models.
+
+• The prototyping life cycle model is used for developing software prototypes to clarify user requirements for operational software. It requires heavy user involvement, and developers use a model to generate functional requirements and physical design specifications simultaneously. Developers can throw away or keep prototypes, depending on the project. This approach is often used in systems that involve a great deal of user interface design, such as website projects, in systems that automate previously manual functions, or in systems that change the nature of how something is done, such as mobile applications.
+
+• The RAD life cycle model uses an approach in which developers work with an evolving prototype. This life cycle model also requires heavy user involvement and helps produce systems quickly without sacrificing quality. Developers use RAD tools such as CASE (computer-aided software engineering), JRP
+
+(joint requirements planning), and JAD (joint application design) to facilitate rapid prototyping and code generation. These tools are often used in reporting Waterfall model
+
+Spiral model
+
+Implementation
+
+Design
+
+Analysis
+
+Design
+
+Construction
+
+Testing
+
+Support
+
+Testing
+
+Analysis
+
+figure 2-4 Waterfall and spiral life cycle models 01356_ch02_hr_047-084.indd 65
+
+5/15/18 10:33 AM
+
+66
+
+
+
+* * *
+
+
+
+
+
+Chapter 2
+
+
+systems in which programmers enter parameters into software to generate reports for user approval. When approved, the same parameters will generate the final production system without further modification by the programmer.
+
+the importance of project phases and management reviews Due to the complexity and importance of many IT projects and their resulting products, it is important to take time to review the status of a project at each phase. A project should successfully pass through each of the main project phases before continuing to the next.
+
+Because the organization usually commits more money as a project continues, a management review should occur after each phase to evaluate progress, potential success, and continued compatibility with organizational goals.
+
+Management reviews, called phase exits, phase gate reviews, or kill points, are very important for keeping projects on track and determining if they should be continued, redirected, or terminated. Recall that projects are just one part of the entire system of an organization. Changes in other parts of the organization might affect a project’s status, and a project’s status might likewise affect events in other parts of the organization. By breaking projects into phases, top management can make sure that the projects are still compatible with other needs of the organization.
+
+Take another look at the opening case. Suppose Tom Walters’ college conducted a study sponsored by the college president on increasing the use of technology. At the end of the concept phase, the project team could have presented information to the president, faculty, and other staff members that described different options for increasing the use of technology, an analysis of what competing colleges were doing, and results of a survey of local stakeholders’ opinions on the subject. This presentation at the end of the concept phase represents one form of a management review. Suppose the study reported that 90 percent of surveyed students, faculty, and staff strongly opposed the idea of requiring all students to have tablets, and that many adult students said they would attend other colleges if they were required to pay for the additional technology. The college would probably decide not to pursue the idea any further. Had Tom taken a phased approach, he and his staff would not have wasted time and money developing detailed plans.
+
+In addition to formal management reviews, it is important to have top management involvement throughout the life cycle of most projects. It is unwise to wait until the end of project or product phases to have management inputs. Many projects are reviewed by management on a regular basis, such as weekly or even daily, to make sure they are progressing well. Everyone wants to be successful in accomplishing goals at work, and having management involvement ensures that a company can accomplish its project and organizational goals.
+
+w h a t w e n t r i g h t ?
+
+Having specific deliverables and kill points at the end of project or product phases helps managers make better decisions about whether to proceed, redefine, or kill a project.
+
+Improvement in IT project success rates reported by the Standish Group has been due in part to an increased ability to know when to cancel failing projects. Standish Group 01356_ch02_hr_047-084.indd 66
+
+5/15/18 10:33 AM
+
+The Project Management and Information Technology Context 67
+
+Chairman Jim Johnson made the following observation: “The real improvement that I saw was in our ability to—in the words of Thomas Edison—know when to stop beating a dead horse. . . . Edison’s key to success was that he failed fairly often; but as he said, he could recognize a dead horse before it started to smell. . . . In information technology we ride dead horses—failing projects—a long time before we give up. But what we are seeing now is that we are able to get off them; able to reduce cost overrun and time overrun. That’s where the major impact came on the success rate”13
+
+Another example of the power of management oversight comes from Huntington Bancshares, Inc. This company, like many others, has an executive steering committee, a group of senior executives from various parts of the organization who regularly review important corporate projects and issues. The Ohio-based, $26 billion bank holding company completed a year-long website redesign using XML technology to give its online customers access to real-time account information as well as other banking services. The CIO, Joe Gottron, said there were “four or five very intense moments” when the whole project was almost stopped due to its complexity. The executive steering committee met weekly to review the project’s progress and discuss work planned for the following week. Gottron said the meetings ensured that “if we were missing a beat on the project, no matter which company [was responsible], we were on top of it and adding additional resources to make up for it.”14
+
+Some projects still go on for a long time before being killed. Blizzard, producer of the popular massive multiplayer online (MMO) game World of Warcraft, decided to cancel the Titan game project after spending over seven years in development. According to Blizzard cofounder and CEO Mike Morhaime, “We set out to make the most ambitious thing that you could possibly imagine. And it didn’t come together. We didn’t find the fun. We didn’t find the passion. . . . We’d rather cut out a game we put a lot of time and resources into than put out something that might. . . .” Chris Metzen, Blizzard’s senior vice president of story and franchise development, finished Morhaime’s sentence: “
+
+Damage the relationship. Smash the trust.”15
+
+the cOntext Of infOrmatiOn technOLOgy prOjects
+
+The project context has a critical impact on which product development life cycle will be most effective for a particular software development project. Likewise, several issues unique to the IT industry have a critical impact on managing IT projects. These include the nature of projects, the characteristics of project team members, and the diverse nature of technologies involved.
+
+the nature of it projects
+
+Unlike projects in many other industries, IT projects are diverse. Some involve a small number of people installing off-the-shelf hardware and associated software. Others involve hundreds of people analyzing several organizations’ business processes and then developing new software in a collaborative effort with users to meet business needs. Even for small hardware-oriented projects, a wide diversity of hardware types can be involved—personal computers, mainframe computers, network equipment, kiosks, laptops, tablets, or smartphones. The network equipment might be wireless, cellular based, or cable based, or might require a satellite connection. The nature of software development projects is even more diverse than 01356_ch02_hr_047-084.indd 67
+
+5/15/18 10:33 AM
+
+68
+
+
+
+* * *
+
+
+
+
+
+Chapter 2
+
+
+hardware-oriented projects. A software development project might include creating a simple, stand-alone Microsoft Excel or Access application or a sophisticated, global e-commerce system that uses state-of-the-art programming languages and runs on multiple platforms.
+
+IT projects also support every possible industry and business function. Managing an IT project for a film company’s animation department requires different knowledge and skills than a project to improve a federal tax collection system or to install a communication infrastructure in a third-world country. Because of the diversity of IT projects and the newness of the field, it is important to develop and follow best practices in managing these varied projects. Developing best practices gives IT project managers a common starting point and method to follow with every project.
+
+characteristics of it project team members
+
+Because IT projects are diverse, the people involved come from diverse backgrounds and possess different skills. The resulting diverse project teams provide a significant advantage because they can analyze project requirements from a more robust systems view.
+
+Many companies purposely hire graduates with degrees in other fields such as business, mathematics, or the liberal arts to provide different perspectives on IT projects. Even with these different educational backgrounds, however, there are common job titles for people working on most IT projects, such as business analyst, programmer, network specialist, database analyst, quality assurance expert, technical writer, security specialist, hardware engineer, software engineer, and system architect. Within the category of programmer, several other job titles describe the specific technologies used, such as Java programmer, PHP programmer, and C/C++/C# programmer.
+
+Some IT projects require the skills of people in just a few job functions, but some require inputs from many or all of them. Occasionally, IT professionals move between these job functions, but more often people become technical experts in one area or they decide to move into a management position. It is also rare for technical specialists or project managers to remain with the same company for a long time. In fact, many IT
+
+projects include a large number of contract workers. Working with this “army of free agents,” as author Rob Thomsett calls them, creates special challenges.
+
+diverse technologies
+
+Many of the job titles for IT professionals reflect the different technologies required to hold those positions. Differences in technical knowledge can make communication between professionals challenging. Hardware specialists might not understand the language of database analysts, and vice versa. Security specialists may have a hard time communicating with business analysts. People within the same IT job function often do not understand each other because they use different technology. For example, someone with the title of programmer can often use several different programming languages. However, if programmers are limited in their ability to work in multiple languages, project managers might find it more difficult to form and lead more versatile project teams.
+
+Another problem with diverse technologies is that many of them change rapidly.
+
+A project team might be close to finishing a project when it discovers a new technology 01356_ch02_hr_047-084.indd 68
+
+5/15/18 10:33 AM
+
+The Project Management and Information Technology Context 69
+
+that can greatly enhance the project and better meet long-term business needs. New technologies have also shortened the time frame many businesses have to develop, produce, and distribute new products and services. This fast-paced environment requires equally fast-paced processes to manage and produce IT projects and products.
+
+recent trends affecting infOrmatiOn technOLOgy
+
+prOject management
+
+Recent trends such as increased globalization, outsourcing, virtual teams, and agile project management are creating additional challenges and opportunities for IT project managers and their teams. Each of these trends and suggestions for addressing them are discussed in this section.
+
+globalization
+
+In his popular book The World Is Flat, Thomas L. Friedman describes the effects of globalization, which has created a “flat” world where everyone is connected and the
+
+“playing field” is level for many more participants.16 Lower trade and political barriers and the digital revolution have made it possible to interact almost instantaneously with billions of other people across the planet, and for individuals and small companies to compete with large corporations. Friedman also discusses the increase in “uploading,” in which people share information through blogging, podcasts, and open-source software.
+
+IT is a key enabler of globalization, as shown in the following statistics. Note that total worldwide population was over 7.6 billion at the end of 2017.
+
+• “The internet has 3.5 billion users
+
+• There are 3.03 billion active social media users
+
+• 91% of retail brands use 2 or more social media channels
+
+• 81% of all small and medium businesses use some kind of social platform
+
+• Internet users have an average of 7.6 social media accounts
+
+• Social media users grew by 121 million between Q2 2017 and Q3 2017
+
+• That works out at a new social media user every 15 seconds
+
+• Facebook Messenger and Whatsapp handle 60 billion messages a day”17
+
+Globalization has significantly affected the field of IT. Even though major IT
+
+companies such as Microsoft and IBM started in the United States, much of their business is global—indeed, companies and individuals throughout the world contribute to the growth of information technologies, and work and collaborate on various IT projects.
+
+It is important for project managers to address several key issues when working on global projects:
+
+• Communications: Because people work in different time zones, speak different languages, have different cultural backgrounds, and celebrate different holidays, it is important to address how people will communicate in an efficient and timely manner. A communications management plan is vital.
+
+For details, see the plan described in Chapter 10, Project Communications Management.
+
+01356_ch02_hr_047-084.indd 69
+
+5/15/18 10:33 AM
+
+70
+
+
+
+* * *
+
+
+
+
+
+Chapter 2
+
+
+• Trust: Trust is an important issue for all teams, especially when they are global teams. It is important to start building trust immediately by recognizing and respecting others’ differences and the value they add to the project.
+
+• Common work practices: It is important to align work processes and develop a modus operandi with which everyone agrees and is comfortable.
+
+Project managers must allow time for the team to develop these common work practices. Using special tools, as described next, can facilitate this process.
+
+• Tools: IT plays a vital role in globalization, especially in enhancing communications and work practices. Many people use free tools such as Skype, Google Docs, or social media to communicate. Many project management software tools include their own communications and collaboration features in an integrated package. IBM continues to be the leader in providing collaboration tools to businesses in over 175 companies, followed by Oracle in 145 countries, SAP in 130 countries, and Microsoft in 113 countries.18 Work groups must investigate options and decide which tools will work best for their projects. Security is often a key factor in deciding which tools to use.
+
+After researching over 600 global organizations, KPMG International summarized several suggestions for managing global project teams:
+
+• Employ greater project discipline for global projects; otherwise, weaknesses within the traditional project disciplines may be amplified by geographical differences.
+
+• Think globally but act locally to align and integrate stakeholders at all project levels.
+
+• Consider collaboration over standardization to help balance the goals and project approach.
+
+• Keep momentum going for projects, which will typically have a long duration.
+
+• Consider the use of newer, perhaps more innovative, tools and technology.19
+
+Outsourcing
+
+As described in detail in Chapter 12, Project Procurement Management, outsourcing is an organization’s acquisition of goods and services from an outside source. The term offshoring is sometimes used to describe outsourcing from another country. Offshoring is a natural outgrowth of globalization. IT projects continue to rely more and more on outsourcing, both within and outside their country boundaries.
+
+Some organizations remain competitive by using outsourcing to their advantage.
+
+Many organizations have found ways to reduce costs by outsourcing, even though the practice can be unpopular in their home countries. For example, outsourcing was an important topic in the 2012 U.S. Republican presidential debates, as candidates discussed why Apple hires half a million low-paid workers in the Far East to assemble its products.
+
+A New York Times article explained that outsourcing is not just about low costs. “One former executive described how [Apple] relied upon a Chinese factory to revamp iPhone 01356_ch02_hr_047-084.indd 70
+
+5/15/18 10:33 AM
+
+The Project Management and Information Technology Context 71
+
+manufacturing just weeks before the device was due on shelves. Apple had redesigned the iPhone’s screen at the last minute, forcing an assembly line overhaul. New screens began arriving at the plant near midnight. A foreman immediately roused 8,000 workers inside the company’s dormitories, according to the executive. Each employee was given a biscuit and a cup of tea, guided to a workstation and within half an hour started a 12-hour shift fitting glass screens into beveled frames. Within 96 hours, the plant was producing over 10,000 iPhones a day. ‘The speed and flexibility is breathtaking,’ the executive said.
+
+‘There’s no American plant that can match that.’”20
+
+Because of the increased use of outsourcing for IT projects, project managers need to become more familiar with many global and procurement issues, including working on and managing virtual teams.
+
+virtual teams
+
+Several factors, such as the cost and time required for travel or employee relocation, the ability to communicate and work across vast distances, the advantages of hiring people in locations that have a lower cost of living, and worker preferences for flexible work hours, have contributed to a significant increase in virtual project teams. A virtual team is a group of people who work together despite time and space boundaries using communication technologies. Team members might all work for the same company in the same country, or they might include employees as well as independent consultants, suppliers, or even volunteers providing their expertise from around the globe.
+
+The main advantages of virtual teams include the following:
+
+• Lowering costs because many virtual workers do not require office space or support beyond their home offices
+
+• Providing more expertise and flexibility or increasing competitiveness and responsiveness by having team members across the globe working any time of day or night
+
+• Improving the balance between work and life for team members by eliminating fixed office hours and the need to travel to work g L O b a L i s s u e s
+
+Outsourcing also has disadvantages. For example, Apple benefits from manufacturing products in China, but it had big problems there after its iPhone 4S launch in January 2012 caused fighting between migrant workers who were hired by scalpers to stand in line to buy the phones. When Apple said it would not open its store in Beijing, riots resulted and people attacked security guards. The Beijing Apple Store has had problems before. In May 2011, four people were injured when a crowd waiting to buy the iPad 2 turned ugly. Market analysts blamed Apple for not marketing or distributing its products well in China.21 In 2017, Apple continued to have problems with China as sales and market share there have been declining.
+
+01356_ch02_hr_047-084.indd 71
+
+5/15/18 10:33 AM
+
+72
+
+
+
+* * *
+
+
+
+
+
+Chapter 2
+
+
+Disadvantages of virtual teams include the following:
+
+• Isolating team members who may not adjust well to working in a virtual environment
+
+• Increasing the potential for communications problems because team members cannot use body language or other nonverbal communications to understand each other and build relationships and trust
+
+• Reducing the ability for team members to network and transfer information informally
+
+• Increasing the dependence on technology to accomplish work Like any team, a virtual team should focus on achieving a common goal. Research on virtual teams reveals a growing list of factors that influence their success:
+
+• Team processes: It is important to define how the virtual team will operate.
+
+For example, teams must agree on how and when work will be done, what technologies will be used, how decisions will be made, and other important process issues.
+
+• Leadership style: The project manager’s leadership style affects all teams, especially virtual ones.
+
+• Trust and relationships: Many virtual teams fail because of a lack of trust.
+
+It is difficult to build relationships and trust from a distance. Some project managers like to have a face-to-face meeting so team members can get to know each other and build trust. If such a meeting is not possible, phone or video conferences can help.
+
+•
+
+Team member selection and role preferences: Dr. Meredith Belbin defined a team role as “a tendency to behave, contribute and interrelate with others in a particular way.”22 It is important to select team members carefully and to form a team in which all roles are covered. All virtual team members must also understand their roles on the team. (Visit www.belbin.com for more information on this topic.)
+
+• Task-technology fit: IT is more likely to have a positive impact on individual performance if the capabilities of the technologies match the tasks that the user must perform.
+
+• Cultural differences: It is important to address cultural differences, including how people with authority are viewed, how decisions are made, how requests or questions are communicated, and how workers prefer to operate (in collaboration or individually). These cultural differences vary from location to location and affect many aspects of the team.
+
+• Computer-mediated communication: It is crucial to provide reliable and appropriate computer-mediated communication to virtual team members, including e-mail, instant messaging, text messaging, and chat rooms. If you rely on these technologies to bring the virtual team together, you need to ensure that they actually work, or you risk increasing the distance that can exist across virtual boundaries.
+
+• Team life cycles: Just as projects and products have life cycles, so do teams.
+
+Project managers must address the team life cycle, especially when assigning team members and determining deliverable schedules.
+
+01356_ch02_hr_047-084.indd 72
+
+5/15/18 10:33 AM
+
+The Project Management and Information Technology Context 73
+
+• Incentives: Virtual teams may require different types of incentives to accomplish high-quality work on time. They do not have the benefit of physical contact with their project managers or other team members, so it is important to provide frequent positive incentives, such as a thank-you via e-mail or phone, or even a bonus on occasion. Negative incentives, such as fines or withholding payment, can also be effective if virtual team members are not being productive.
+
+• Conflict management: Even though they might never physically meet, virtual teams still have conflicts. It is important to address conflict management, as described in more detail in Chapter 9, Project Resource Management.
+
+Several studies have tried to determine factors that are correlated positively to the effectiveness of virtual teams. Research suggests that team processes, trusting relationships, leadership style, and team member selection provide the strongest correlations to team performance and team member satisfaction.23
+
+agile
+
+Earlier the adaptive or agile approach to product development was discussed. Agile means being able to move quickly and easily, but some people feel that project management, as they have seen it used, does not allow people to work quickly or easily. Early software development projects often used a waterfall approach, but as technology and businesses became more complex, the approach often became difficult to use because requirements were unknown or continuously changing. Agile today means using an approach where requirements and solutions evolve through collaboration. Agile can be used for software development or in any environment in which the requirements are unknown or change quickly.
+
+Interest in agile continues to increase in the project management community. The PMBOK® Guide – Sixth Edition includes brief information describing considerations for agile/adaptive environments for each knowledge area. The Standard for Project Management includes an appendix called Agile, Iterative, Adaptive, and Hybrid Project Environments.
+
+PMI also partnered with the Agile Alliance® to publish the Agile Practice Guide in 2017.
+
+It is interesting to note that PMI and many other sources now focus on organizational agility, not just specific agile techniques, like Scrum, described later in this section.
+
+“Organizational agility is not just about being fast, it also implies the capacity to remain in touch with customer needs. Transforming is much more than the technology going agile. It is a change in mindset across the organization to focus on becoming adaptable and driving business value to customers.…People and processes are important for higher levels of agility, and culture is the key that unlocks agility’s value.”24
+
+As emphasized in this chapter and hopefully throughout the text, projects are not done in isolation. Project managers and their teams must use a systems view to make their projects and their organizations successful.
+
+the manifesto for agile software development
+
+In the business world, the term agile was first applied to software development projects.
+
+In February 2001, a group of 17 people that called itself the Agile Alliance developed and agreed on the Manifesto for Agile Software Development, as follows: 01356_ch02_hr_047-084.indd 73
+
+5/15/18 10:33 AM
+
+74
+
+
+
+* * *
+
+
+
+
+
+Chapter 2
+
+
+We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value the following:
+
+• Individuals and interactions over processes and tools
+
+• Working software over comprehensive documentation
+
+• Customer collaboration over contract negotiation
+
+• Responding to change over following a plan25
+
+The person or organization that implements Agile is responsible for interpreting and applying the preceding values.
+
+Some people associate Agile with specific techniques such as Scrum.
+
+scrum
+
+According to the Scrum Alliance, Scrum is the leading agile development method for completing projects with a complex, innovative scope of work. The term was coined in 1986 in a Harvard Business Review study that compared high-performing, cross-functional teams to the Scrum formation used by rugby teams. The basic Scrum framework is summarized in the following list and illustrated in Figure 2-5:
+
+• A product owner creates a prioritized wish list called a product backlog.
+
+• During sprint planning, the team pulls a small chunk from the top of that wish list, a sprint backlog, and decides how to implement those pieces.
+
+• The team has a certain amount of time, a sprint, to complete its work—
+
+usually two to four weeks—but meets each day to assess its progress ( daily Scrum).
+
+• Along the way, the ScrumMaster keeps the team focused on its goal.
+
+• At the end of the sprint, the work should be potentially shippable, as in ready to hand to a customer, put on a store shelf, or show to a stakeholder.
+
+Repeat steps 1–4
+
+1.
+
+until complete
+
+Daily Scrum
+
+2.
+
+3.
+
+4.
+
+5.
+
+Potentially
+
+Sprint
+
+6.
+
+1.
+
+shippable
+
+2–4
+
+etc.
+
+2.
+
+product
+
+Sprint
+
+weeks
+
+increment
+
+review
+
+Product
+
+Sprint
+
+backlog
+
+backlog
+
+1. Product owner
+
+2. Project team
+
+3. Teams have daily
+
+4. Sprint results
+
+creates
+
+creates sprint
+
+Scrum meetings
+
+in a useful
+
+prioritized wish
+
+backlog
+
+during each 2–4
+
+product
+
+list or backlog
+
+week sprint
+
+figure 2-5 Scrum framework
+
+01356_ch02_hr_047-084.indd 74
+
+5/15/18 10:33 AM
+
+The Project Management and Information Technology Context 75
+
+• The sprint ends with a sprint review and retrospective.
+
+• As the next sprint begins, the team chooses another chunk of the product backlog and begins working again.
+
+The cycle repeats until enough items in the product backlog have been completed, the budget is depleted, or a deadline arrives. Which of these milestones marks the end of the work is entirely specific to the project. No matter which of these reasons stops work, Scrum ensures that the most valuable work has been completed when the project ends.26
+
+In the Axosoft video “Scrum in 10 Minutes,” Hamid Shojaee, an experienced software developer who has worked with several major corporations, briefly explains key concepts like product backlogs, team roles, sprints, and burndown charts.27 Techniques from the just-in-time inventory control method Kanban can be used in conjunction with Scrum.
+
+Kanban was developed in Japan by Toyota Motor Corporation. It uses visual cues to guide workflow. For example, teams can place cards on boards to show the status of work in the backlog, such as new, in progress, and complete. Cards on the board are moved to the right to show progress in completing work. Kanban also helps limit work in progress by making a bottleneck visible so people can collaborate to solve problems that created the bottleneck. Kanban helps improve day-to-day workflow, while Scrum provides the structure for improving the organization of projects.28 Scrum was initially applied to software development projects, but today other types of projects use this technique to help focus on teamwork, complete the most important work first, and add business value.
+
+agile, the PMBOK® Guide, and a new certification The PMBOK® Guide describes best practices for what should be done to manage projects. Agile is a methodology that describes how to manage projects. One could view Agile and the Scrum framework as methods that break down a big project into several smaller projects, defining the scope for each one. Project teams can have brief meetings each day to decide how to get the most important work done first without calling the meetings
+
+“Scrums.”
+
+As stated earlier in the chapter, several different methods are related to developing information systems and other products. Because projects are unique, someone must decide what processes are needed and how they should be performed. Project teams can follow one specific process, a hybrid of several, or their own customized approach. Organizations must also address the larger topic of organizational agility.
+
+The Project Management Institute (PMI) recognized the increased interest in Agile, and introduced a new certification in 2011 called Agile Certified Practitioner (ACP). As stated on the PMI website in early 2018, “The PMI-ACP® is our fastest growing certification, and it’s no wonder. Organizations that are highly agile and responsive to market dynamics complete more of their projects successfully than their slower-moving counterparts—75 percent versus 56 percent—as shown in our 2015 Pulse of the Profession® report.”29 At the end of November 2017, there were 18,329 people who earned the ACP Certification.30
+
+One reason for increased interest in Agile is the hope that it will somehow make project management easier. Many books, courses, and consultants are capitalizing on this “new” approach. However, seasoned project managers understand that they have always had the option of customizing how they run projects. They also know that project 01356_ch02_hr_047-084.indd 75
+
+5/15/18 10:33 AM
+
+76
+
+
+
+* * *
+
+
+
+
+
+Chapter 2
+
+
+management is not easy, even when using Agile. Organizations have also understood that they need to strive for a culture that allows them to move quickly to succeed in a rapidly changing world.
+
+As you can see, working as an IT project manager or team member is an exciting and challenging job. The excitement and challenge come from the focus on successfully completing projects that will have a positive impact on the organization as a whole.
+
+c a s e w r a p - u p
+
+When the Super Bowl ended, Tom told his friends how the tablet idea for his college was killed. After several people voiced concerns about the idea at the faculty meeting, the president of the college directed that a committee be created to formally review the concept of requiring students to have tablets. Because the college was dealing with several important enrollment-related issues, the president named the vice president of enrollment to head the committee. Other people soon volunteered or were assigned to the committee, including Tom Walters as head of Information Technology, the director of the adult education program, the chair of the Computer Science department, and the chair of the History department. The president also insisted that the committee include at least two members of the student body. The president knew everyone was busy, and he questioned whether the tablet idea was a high-priority issue for the college. He directed the committee to present a proposal at next month’s faculty meeting, either to recommend creating a formal project team to fully investigate requiring tablets or to recommend terminating the concept. At the next faculty meeting, few people were surprised to hear the recommendation to terminate the concept. Tom Walters learned that he had to pay much more attention to the needs of the entire college before proceeding with detailed IT plans. Tom and his friends found several articles online about the NFL’s use of Microsoft Surface tablets. They laughed when they read about the Patriots refusing to use them after a while and their coach smashing one on the sidelines. Tom said, “If Coach Belichick had one at the end of this game, he would have smashed another one!”
+
+01356_ch02_hr_047-084.indd 76
+
+5/15/18 10:33 AM
+
+The Project Management and Information Technology Context 77
+
+
+
+* * *
+Chapter 2 - Chapter Summary start
+
+
+Projects operate in an environment broader than the project itself. Project managers need to take a systems approach in order to successfully manage projects; they need to consider projects within the greater organizational context. To ensure project success, IT project managers need to integrate business and organizational issues as well as technology into project planning.
+
+Organizations have four different frames: structural, human resources, political, and symbolic.
+
+Project managers need to understand all of these aspects of organizations to be successful.
+
+The structural frame focuses on different groups’ roles and responsibilities to meet the goals and policies set by top management. The human resources frame focuses on producing harmony between the needs of the organization and the needs of people. The political frame addresses organizational and personal politics. The symbolic frame focuses on symbols and meanings.
+
+The structure of an organization has strong implications for project managers, especially regarding the amount of authority they have. The three basic organizational structures are functional, matrix, and project. Project managers have the most authority in a pure project organization, an intermediate amount of authority in a matrix organization, and the least amount of authority in a pure functional organization.
+
+Organizational culture also affects project management. Projects are more likely to succeed in a culture where employees have a strong identity with the organization, where work activities emphasize groups, and where there is strong unit integration, high risk tolerance, performance-based rewards, high conflict tolerance, an open-systems focus, and a balance among the dimensions of people focus, control, and means orientation.
+
+Project stakeholders are individuals and organizations who are actively involved in the project or whose interests may be positively or negatively affected by the project’s execution or successful completion. Project managers must identify and understand the different needs of all stakeholders involved with their projects.
+
+Top management commitment is crucial for project success. Because projects often affect many areas in an organization, top management must assist project managers if they are to do a good job of project integration. Organizational commitment to IT is also important to the success of IT projects. Development standards and guidelines assist most organizations in managing projects.
+
+A project life cycle is a collection of phases. Traditional project phases include concept, development, implementation, and closeout. Projects often develop products, which follow product life cycles. Project managers must understand the specific life cycles of their products as well as the general project life cycle model.
+
+A project should successfully pass through each project phase in order to continue to the next phase. A management review should occur at the end of each project phase, and more frequent management inputs are often needed. These management reviews and inputs are important for keeping projects on track and determining if projects should be continued, redirected, or terminated.
+
+Project managers need to consider several factors affected by the unique context of IT projects. The diverse nature of these projects and the wide range of business areas and technologies involved make IT projects especially challenging to manage. Leading project team members 01356_ch02_hr_047-084.indd 77
+
+Chapter 2 - Chapter Summary end
+
+* * *
