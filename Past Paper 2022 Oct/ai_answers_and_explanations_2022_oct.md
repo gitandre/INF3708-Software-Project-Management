@@ -1,7 +1,9 @@
 # Past Paper Analysis - Oct 2022 - AI Answers
 
-## Disclaimer
-This document is meant for learning purposes and comes with no guarantee of accuracy or correctness. Do your own research and use it as a tool to double-check your own work, attempts and understanding
+
+### Disclaimer
+
+These resources are meant for learning purposes and comes with no guarantee of accuracy or correctness. Do your own research and use it as a tool to double-check your own work, attempts and understanding.
 
 ---
 

@@ -1,5 +1,12 @@
 ## Glossary of Software Project Management Terms
 
+
+### Disclaimer
+
+These resources are meant for learning purposes and comes with no guarantee of accuracy or correctness. Do your own research and use it as a tool to double-check your own work, attempts and understanding.
+
+---
+
 ### return on investment (ROI)
 
 A method for determining the financial value of a project; the ROI is the result of subtracting the project costs from the benefits and then dividing by the costs.
