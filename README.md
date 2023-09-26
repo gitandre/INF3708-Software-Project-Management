@@ -1,4 +1,4 @@
-# NF3708-Software-Project-Management Exam Prep
+# INF3708-Software-Project-Management Exam Prep
 
 ---
 
@@ -10,6 +10,10 @@ This document is meant for learning purposes and comes with no guarantee of accu
 
 Chapters 1,2,3,4,5,6,7,9,11,13
 
+---
+
+0. Chapter analysis based on past papers (marks per chapter expressed study hours)
+![img.png](img.png)
 ---
 
 1. Calculations in dir `./Calculations`
