@@ -343,7 +343,101 @@ Each organization may have its own specific ethical guidelines, but these are so
 
 
 ## Key Terms
-None
+
+### Best Practice
+A method or technique that has consistently shown superior results compared to other means. In software project management, best practices often come from frameworks like Agile, Scrum, or methodologies like PMBOK.
+
+### Project and Portfolio Management Software
+A category of software that helps organizations to manage multiple projects and align them with business objectives. It includes features like resource allocation, budgeting, scheduling, and analytics.
+
+### Charismatic
+Refers to a leadership style where the leader uses their charm and personality to influence team members. This is often effective in motivating the team but may lack in other managerial aspects.
+
+### Project Management
+The practice of initiating, planning, executing, monitoring, and closing projects. It involves various methodologies and tools to deliver software projects successfully.
+
+### DevOps
+A set of practices that automates the processes between software development and IT teams, in order to build, test, and release software more efficiently.
+
+### Project Management Institute (PMI)
+A global non-profit professional organization for project management professionals. PMI is known for its Project Management Professional (PMP) certification.
+
+### Enterprise Project Management Software
+Software designed to be used by larger organizations to manage complex, multi-faceted projects.
+
+### Project Management Knowledge Areas
+Specific domains of project management where knowledge and skills are applied. Examples include scope management, time management, cost management, etc.
+
+### Ethics
+Moral principles that govern the behavior of the project team and the conduct of the project.
+
+### Project Management Office (PMO)
+A centralized team or department within an organization that defines and maintains standards for project management.
+
+### Gantt Chart
+A type of bar chart that illustrates a project schedule. It is commonly used in project management for task scheduling.
+
+### Project Management Professional (PMP®)
+A professional certification offered by PMI, known globally as a standard for project management skills.
+
+### Interactional
+A leadership style combining multiple types of leadership styles such as transformational, transactional, and charismatic.
+
+### Project Management Tools and Techniques
+Various applications and methods used by project managers to plan, execute, and close projects.
+
+### Laissez-faire
+A "hands-off" leadership style where team members are provided the freedom to make decisions.
+
+### Project Manager
+The individual responsible for planning, executing, and closing projects.
+
+### Leader
+An individual who influences a group of people towards the achievement of a goal.
+
+### Manager
+An individual who is charged with overseeing a project or a team within a project.
+
+### Project Portfolio Management or Portfolio Management
+The centralized management of multiple projects to ensure that they align with organizational objectives.
+
+### Megaproject
+An extremely large-scale project often costing billions of dollars and impacting multiple areas of business and even public life.
+
+### Project Sponsor
+An executive in the organization who champions the project and provides financial and political support.
+
+### Organizational Project Management
+An organization's framework to deliver projects successfully, aligned with business strategy.
+
+### Servant Leader
+A leader who serves the team, removes roadblocks, and focuses more on the well-being of the team rather than achieving specific goals.
+
+### Portfolio
+A collection of projects or programs managed as a group to achieve strategic business objectives.
+
+### Stakeholders
+Individuals or organizations that have a vested interest in the outcome of the project.
+
+### Program
+A group of related projects managed in a coordinated way to gain benefits that could not be achieved if the projects were managed separately.
+
+### Transactional
+A leadership style where the leader rewards or punishes the team based on their performance.
+
+### Program Manager
+An individual responsible for managing a program, which is a collection of related projects.
+
+### Transformational
+A leadership style where the leader works with teams to identify needed change, creating a vision to guide the change through inspiration.
+
+### Project
+A temporary endeavor undertaken to create a unique product, service, or result.
+
+### Triple Constraint
+The balancing of scope, time, and cost in a project.
+
+These terms are critical in understanding the nuanced practices and methodologies within software project management.
 
 ---
 
