@@ -32,7 +32,7 @@ This repository is shared in the spirit of 'paying it forward.' While the resour
 9. **Inspiration**: Those who witness or receive acts of kindness are often inspired to pay it forward themselves, perpetuating the cycle of goodwill.
 
 10. **Cultivating a Culture of Kindness**: Ultimately, paying it forward aims to cultivate a culture where kindness and compassion are valued and actively practiced in various aspects of life.
-11. 
+
 ---
 ### Chapters
 01,02,03,04,05,06,07,09,11,13
