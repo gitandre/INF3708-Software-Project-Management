@@ -1,5 +1,6 @@
 # INF3708-Software-Project-Management Exam Prep
 
+![img_1.png](img_1.png)
 ---
 
 ### Disclaimer
