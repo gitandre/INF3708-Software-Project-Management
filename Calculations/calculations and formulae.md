@@ -3,7 +3,7 @@
 
 ### Disclaimer
 
-These resources are meant for learning purposes and comes with no guarantee of accuracy or correctness. Do your own research and use it as a tool to double-check your own work, attempts and understanding.
+These resources are meant for learning purposes and comes with no guarantee of accuracy or correctness. Please do your own research and use it as a tool to double-check your own work, attempts and understanding.
 
 ---
 
