@@ -11,7 +11,7 @@ These resources are meant for learning purposes and comes with no guarantee of a
 
 ### Please Pay-It-Forward
 
-This repository is shared in the spirit of 'paying it forward.' While the resources are freely available, I encourage you to contribute to the cycle of goodwill. If you find value in this project, I hope you'll use your gained knowledge and resources to assist others in the community, whether that's by contributing to another open-source project, helping a colleague, or sharing your own expertise. This practice fosters a collaborative and generous atmosphere, enriching both individual growth and the broader community.
+This repository is shared in the spirit of 'paying it forward.' While the resources are freely available, I encourage you to contribute to the cycle of goodwill. If you find value in this project, I hope you'll use your gained knowledge and resources to assist others in the community, whether that's by contributing to another open-source project, helping a colleague/fellow student, or sharing your own expertise. This practice fosters a collaborative and generous atmosphere, enriching both individual growth and the broader community.
 
 #### Guiding Principles:
 1. **Selflessness**: Paying it forward is rooted in selfless acts of kindness, where individuals help others without expecting personal gain or direct reciprocity.
@@ -36,9 +36,16 @@ This repository is shared in the spirit of 'paying it forward.' While the resour
 
 ---
 ### Chapters
-Done: 01,02,03  
-Busy: 04  
-Next: 05,06,07,09,11,13  
+
+**Done:** 01,02,03  :)  
+
+[Chapter 1 Study Guide](https://github.com/gitandre/INF3708-Software-Project-Management/blob/main/Study%20Guides%20by%20Chapter%20(wip%20%26%20AI%20assisted)/Study%20Guides/vetted%20and%20complete/chapter_01.md)  
+[Chapter 2 Study Guide](https://github.com/gitandre/INF3708-Software-Project-Management/blob/main/Study%20Guides%20by%20Chapter%20(wip%20%26%20AI%20assisted)/Study%20Guides/vetted%20and%20complete/chapter_02.md)  
+[Chapter 3 Study Guide](https://github.com/gitandre/INF3708-Software-Project-Management/blob/main/Study%20Guides%20by%20Chapter%20(wip%20%26%20AI%20assisted)/Study%20Guides/vetted%20and%20complete/chapter_03.md)  
+
+**Busy:** 04  
+
+**Next:** 05,06,07,09,11,13  
 
 ---
 
