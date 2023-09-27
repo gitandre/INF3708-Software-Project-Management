@@ -31,68 +31,84 @@
 
 6. **Templates by Process Group**
 
-6. **Summary**
+7. **Summary**
 
 ---
 
 # My Study Guide
 
 ## 1. Project Management Process Groups
-
+{content-here}
 
 ---
 
 ## 2. Mapping the Process Groups to the Knowledge Areas
-
+{content-here}
 
 ---
 
 ## 3. Developing an IT Project Management Methodology
-
+{content-here}
 
 ---
 
 ## 4. Case Study 1: JWD Consulting’s Project Management Intranet Site Project (Predictive Approach)
 ### 4.1 Project Pre-Initiation and Initiation
+{content-here}
 
 ### 4.2 Pre-Initiation Tasks
+{content-here}
 
 ### 4.3 Initiating
+{content-here}
 
 ### 4.4 Identifying Project Stakeholders
+{content-here}
 
 ### 4.5 Drafting the Project Charter
+{content-here}
 
 ### 4.6 Holding a Project Kick-Off Meeting
+{content-here}
 
 ### 4.7 Project Planning
+{content-here}
 
 ### 4.8 Project Execution
+{content-here}
 
 ### 4.9 Project Monitoring and Controlling
+{content-here}
 
 ### 4.10 Project Closing
+{content-here}
 
 ---
 
 ## 5. Case Study 2: JWD Consulting’s Project Management Intranet Site Project (Agile Approach)
 ### 5.1 Scrum Roles, Artifacts, and Ceremonies
+{content-here}
 
 ### 5.2 Project Pre-Initiation and Initiation
+{content-here}
 
 ### 5.3 Planning
+{content-here}
 
 ### 5.4 Executing
+{content-here}
 
 ### 5.5 Monitoring and Controlling
+{content-here}
 
 ### 5.6 Closing
+{content-here}
 
 
 ---
 
 ## 6. Templates by Process Group
----
+{content-here}
 
 
 
@@ -155,4 +171,3 @@ The **JWD Consulting case study** demonstrates how one organization managed an *
 The second version of the same case study illustrates how to use **Scrum**, the leading **agile method**, to manage the project. Instead of releasing the new intranet software just once near the end of the project, the team could release three **iterations** of the software. This version of the case study introduced some new **tools**, including a **product backlog**, **sprint backlog**, and **burndown chart**. Later chapters provide detailed information for creating these and other **project management documents** and using several of the **tools and techniques** described in both versions of this case study.
 
 ---
-
