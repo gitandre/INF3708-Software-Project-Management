@@ -377,43 +377,243 @@ These points underscore the need for careful planning and strategic alignment ri
 ---
 
 ## 5. Case Study 2: JWD Consulting’s Project Management Intranet Site Project (Agile Approach)
+
+1. **Choice of Agile Approach**: An agile approach is particularly useful for projects where the scope is not clearly defined early in the product life cycle, but there is a desire to produce potentially shippable products earlier. It involves multiple iterations or deliveries throughout the project lifecycle.
+
+2. **Decision-Making Criteria**: The section emphasizes that the choice between an agile and a predictive approach should be logical and based on various factors like team experience, constraints, risks, clarity of requirements, and scheduling flexibility.
+
+3. **Agile Techniques and Scrum**: When opting for an agile approach, specific roles, artifacts, and ceremonies, often drawn from the Scrum methodology, are employed to manage the project effectively.
+
 ### 5.1 Scrum Roles, Artifacts, and Ceremonies
-{content-here}
+
+1. **Scrum Roles**: 
+   - **Product Owner**: Responsible for the business value of the project and prioritizes the work in the product backlog.
+   - **ScrumMaster**: Ensures the team is productive, facilitates daily Scrum meetings, and removes barriers for the team.
+   - **Development Team**: A cross-functional team responsible for carrying out the work planned for each sprint.
+
+2. **Scrum Artifacts**: 
+   - **Product Backlog**: A prioritized list of features based on business value.
+   - **Sprint Backlog**: High-priority items from the product backlog to be completed within a sprint.
+   - **Burndown Chart**: A visual representation of work remaining in a sprint on a day-by-day basis.
+
+3. **Scrum Ceremonies**: 
+   - **Sprint Planning Session**: A meeting to select work from the product backlog for the upcoming sprint.
+   - **Daily Scrum**: A brief daily meeting to discuss progress, challenges, and plans for the day.
+   - **Sprint Reviews and Retrospectives**: Meetings for demonstrating completed work and for reflecting on ways to improve the product and the process.
 
 ### 5.2 Project Pre-Initiation and Initiation
-{content-here}
+
+1. **Role Determination and Functionality Planning**: In an agile setting like Scrum, roles such as the Product Owner and ScrumMaster are defined differently than in traditional project management. Joe and Erica met to determine what functionality would be part of each software release, the number of sprints required for each release, and how many software releases would be needed. 
+
+2. **Requirement Gathering and User Surveys**: Before determining the specifics of the sprints and releases, Joe and Erica recognized the need to survey potential users to gather requirements for the software. They designed a survey asking users to rank specific features by importance, aiming to streamline the software development process.
+
+3. **Iterative Releases and User Interface Feedback**: Joe and Erica decided on three software releases considering time and cost constraints, and each sprint would last four weeks. Team member Cindy emphasized the value of involving users in graphical interface design, explaining that this feedback can significantly reduce rework and improve the end product.
 
 ### 5.3 Planning
-{content-here}
+
+1. **Product and Sprint Backlogs Instead of WBS**: Unlike traditional project management that uses a Work Breakdown Structure (WBS), Scrum relies on Product and Sprint Backlogs. The Product Backlog prioritizes the most important functionalities, while the Sprint Backlog details what will be tackled during each sprint. These backlogs are more dynamic and are continually updated.
+
+2. **Velocity and Time Estimates**: The Scrum team estimates their capacity (or velocity) for each sprint, often in terms of hours or points. These estimates are based on how much work each team member can realistically accomplish during a sprint, providing a metric that aids in sprint planning and tracking.
+
+3. **User Stories and Technical Stories**: In Scrum, requirements are often broken down into User Stories and Technical Stories. User stories are customer-written and brief, focusing on what the user needs from the system. These are further broken down into Technical Stories, which are used to translate user requirements into technical specifications. Tasks derived from these stories guide the developers throughout the sprint.
+
+4. **Release Road Map**: Some teams use a release road map to outline the work for an entire release, which may contain multiple sprints. This road map provides a comprehensive view of what will be accomplished in each sprint and allows for easy tracking of estimated versus actual velocity.
+
+5. **Multiple Software Releases**: Unlike the predictive approach, where there is usually a single software release at the end, the agile Scrum approach plans for multiple software releases throughout the project lifecycle. This allows for quicker delivery of valuable features.
+
 
 ### 5.4 Executing
-{content-here}
+
+1. **Multiple Iterations of Shippable Product**: Unlike the traditional predictive approach, the agile methodology aims to produce several iterations of a potentially shippable product throughout the project. In this case, JWD Consulting would have some basic functionality available at the end of each sprint, allowing users to engage with the product much earlier.
+
+2. **User Feedback Loop**: The agile approach allows users to make suggestions for additional functionalities as the project progresses. This enables the team to incorporate valuable user feedback in real-time, enhancing the final product.
+
+3. **Communication Challenges**: Due to the daily stand-up meetings and iterative nature of Scrum, the communication dynamics are different from traditional methods. The team would need to address the potential confusion among end-users who are exposed to multiple iterations of the product. This is particularly a concern for teams that are new to Scrum, like Erica and her team.
+
+4. **Learning Curve for New Scrum Teams**: For teams inexperienced in Scrum, like Erica's, there will be challenges to work out, including adapting to the daily communications rhythm and understanding how to efficiently produce shippable increments of the product.
 
 ### 5.5 Monitoring and Controlling
-{content-here}
+
+1. **Daily Scrum and Sprint Review**: The two main tools for monitoring and controlling are the daily Scrum meetings and the sprint review meetings. Daily Scrums focus on planning the day's work and identifying any issues or blockers, while the sprint review is about demonstrating what has been completed during the sprint.
+
+2. **Role of the ScrumMaster**: The ScrumMaster is responsible for facilitating the daily Scrum, documenting issues and blockers, and working with stakeholders to remove these obstacles. This role is critical for keeping the project on track and ensuring that the team can work efficiently.
+
+3. **Sprint Board for Task Management**: A sprint board is maintained to track the status of each task during a sprint. It helps in visualizing the workflow and is updated continuously by different team members based on the progress of tasks.
+
+4. **Burndown Chart**: This chart is used to graphically display the team's progress throughout the sprint. It shows the sum of the estimated hours or points remaining for tasks each day, providing a quick view of whether the sprint is on track to complete its goals.
+
+5. **Sprint Demonstration Review Meeting**: At the end of each sprint, the team demonstrates the completed functionalities to the product owner. This not only serves as a checkpoint for what has been achieved but also allows for updating the product backlog for future sprints based on new insights and business needs.
+
+6. **Focus on Remaining Work**: In Scrum, the emphasis is not on how many hours have been spent but on how many hours of work remain to complete the user stories for that sprint. This approach helps in better project control and adjustments.
 
 ### 5.6 Closing
-{content-here}
 
+1. **Sprint Retrospective**: Led by the ScrumMaster, this meeting is similar to a lessons-learned report but focuses on a shorter time frame (the sprint). It is a reflective session where the team discusses what happened during the sprint to identify areas for improvement and aspects that worked well.
+
+2. **Two Fundamental Questions**: The sprint retrospective aims to answer two main questions: "What went well during the last sprint that we should continue doing?" and "What could we do differently to improve the product or process?" These questions guide the team in refining their approach for future sprints.
+
+3. **Action Items and Product Backlog**: The ScrumMaster documents a list of action items that come out of the retrospective. These action items could be added to the product backlog for consideration in future sprints, provided the product owner agrees with them. For example, new requirements like making the site mobile-enabled could be added to the product backlog.
+
+4. **Adaptability and Business Value**: The agile approach, exemplified by Scrum, welcomes new requirements and changes, provided they add business value. This adaptability allows the team and the organization to quickly respond to changing business needs.
 
 ---
 
 ## 6. Templates by Process Group
-{content-here}
+
+### 6.1 Table sorted by process group:
+
+| Template Name | Process Group | Chapter(s) Where Used | Application Software | File |
+|---------------|--------------|-----------------------|---------------------|------|
+| Business Case | Pre-initiating | 3 | Word | business case.doc |
+| Business Case Financials | Pre-initiating | 3, 4 | Excel | business case financials.xls |
+| Stakeholder Register | Initiating | 3, 13 | Word | stakeholder register.doc |
+| Stakeholder Management Strategy | Initiating | 3, 13 | Word | stakeholder management strategy.doc |
+| Kick-off Meeting Agenda | Initiating | 3 | Word | kick-off meeting agenda.doc |
+| Payback Period Chart | Initiating | 4 | Excel | payback period chart.xls |
+| Weighted Scoring Model | Initiating | 4, 12 | Excel | weighted scoring model.xls |
+| Project Charter | Initiating | 3, 4, 5 | Word | charter.doc |
+| Assumption Log | Initiating | 3, 4 | Excel | assumption log.xlsx |
+| Team Charter | Planning | 3, 9 | Word | team charter.doc |
+| Requirements Traceability Matrix | Planning | 5 | Word | requirements traceability matrix.doc |
+| Scope Statement | Planning | 3, 4, 5 | Word | scope statement.doc |
+| Contract Statement of Work | Planning | 12 | Word | contract statement of work.doc |
+| Request for Proposal | Planning | 12 | Word | request for proposal.doc |
+| Project Management Plan | Planning | 4 | Word | project management plan.doc |
+| Work Breakdown Structure (WBS) | Planning | 3, 5, 6 | Word | wbs.doc |
+| WBS Dictionary Entry | Planning | 5 | Word | wbs dictionary description.doc |
+| Cost Estimate | Planning | 7 | Excel | cost estimate.xls |
+| Earned Value Chart | Monitoring and Controlling | 7 | Excel | earned value chart.xls |
+| Burndown Chart | Monitoring and Controlling | 3, 7 | Excel | burndownchart.xls |
+| Quality Metrics | Executing | 8 | Word | quality metrics.doc |
+| Pareto Chart | Monitoring and Controlling | 8 | Excel | pareto chart.xls |
+| Project Organizational Chart | Planning, Executing | 9 | PowerPoint | project organizational chart.ppt |
+| Responsibility Assignment Matrix | Planning, Executing | 9 | Excel | RACI chart.xls |
+| Resource Histogram | Planning, Executing | 9 | Excel | resource histogram.xls |
+| Communications Management Plan | Planning | 10 | Word | communications management plan.doc |
+| Lessons-learned Register | Executing | 4 | Excel | lessons-learned register.xlsx |
+| Milestone Report | Executing | 3, 6 | Word | milestone report.doc |
+| Change Request Form | Planning, Monitoring and Controlling | 4 | Word | change request.doc |
+| Performance Report | Monitoring and Controlling | 3, 4 | Word | performance report.doc |
+| Probability/Impact Matrix | Planning, Executing, Monitoring and Controlling | 11 | PowerPoint | probability impact matrix.ppt |
+| Risk Register | Planning, Monitoring and Controlling | 11 | Excel | risk register.xls |
+| Breakeven/Sensitivity Analysis | Planning | 11 | Excel | breakeven.xls |
+| Contract | Planning | 12 | Word | contract.doc |
+| Request for Proposal | Planning | 12 | Word | request for proposal.doc |
+| Issue Log | Monitoring and Controlling | 13 | Word | issue log.doc |
+| Customer Acceptance Form | Closing | 10 | Word | customer acceptance form.doc |
+| Lessons-Learned Report | Closing | 3, 10 | Word | lessons-learned report.doc |
+| Final Project Report Table of Contents | Closing | 3, 10 | Word | final project report table of contents.doc |
 
 
+### 6.2 Table sorted by chapter
 
+| Template Name | Process Group | Chapter(s) Where Used | Application Software | File |
+|---------------|--------------|-----------------------|---------------------|------|
+| Assumption Log | Initiating | [3, 4] | Excel | assumption log.xlsx |
+| Burndown Chart | Monitoring and Controlling | [3, 7] | Excel | burndownchart.xls |
+| Business Case | Pre-initiating | [3] | Word | business case.doc |
+| Business Case Financials | Pre-initiating | [3, 4] | Excel | business case financials.xls |
+| Kick-off Meeting Agenda | Initiating | [3] | Word | kick-off meeting agenda.doc |
+| Lessons-Learned Report | Closing | [3, 10] | Word | lessons-learned report.doc |
+| Milestone Report | Executing | [3, 6] | Word | milestone report.doc |
+| Performance Report | Monitoring and Controlling | [3, 4] | Word | performance report.doc |
+| Project Charter | Initiating | [3, 4, 5] | Word | charter.doc |
+| Scope Statement | Planning | [3, 4, 5] | Word | scope statement.doc |
+| Stakeholder Management Strategy | Initiating | [3, 13] | Word | stakeholder management strategy.doc |
+| Stakeholder Register | Initiating | [3, 13] | Word | stakeholder register.doc |
+| Team Charter | Planning | [3, 9] | Word | team charter.doc |
+| Work Breakdown Structure (WBS) | Planning | [3, 5, 6] | Word | wbs.doc |
+| Change Request Form | Planning, Monitoring and Controlling | [4] | Word | change request.doc |
+| Lessons-learned Register | Executing | [4] | Excel | lessons-learned register.xlsx |
+| Payback Period Chart | Initiating | [4] | Excel | payback period chart.xls |
+| Project Management Plan | Planning | [4] | Word | project management plan.doc |
+| Weighted Scoring Model | Initiating | [4, 12] | Excel | weighted scoring model.xls |
+| Requirements Traceability Matrix | Planning | [5] | Word | requirements traceability matrix.doc |
+| WBS Dictionary Entry | Planning | [5] | Word | wbs dictionary description.doc |
+| Cost Estimate | Planning | [7] | Excel | cost estimate.xls |
+| Earned Value Chart | Monitoring and Controlling | [7] | Excel | earned value chart.xls |
+| Pareto Chart | Monitoring and Controlling | [8] | Excel | pareto chart.xls |
+| Quality Metrics | Executing | [8] | Word | quality metrics.doc |
+| Project Organizational Chart | Planning, Executing | [9] | PowerPoint | project organizational chart.ppt |
+| Resource Histogram | Planning, Executing | [9] | Excel | resource histogram.xls |
+| Responsibility Assignment Matrix | Planning, Executing | [9] | Excel | RACI chart.xls |
+| Communications Management Plan | Planning | [10] | Word | communications managemnt plan.doc |
+| Customer Acceptance Form | Closing | [10] | Word | customer acceptance form.doc |
+| Issue Log | Closing | [10] | Word | issue log.doc |
+| Breakeven/Sensitivity Analysis | Planning | [11] | Excel | breakeven.xls |
+| Probability/Impact Matrix | Planning, Executing, Monitoring and Controlling | [11] | PowerPoint | probability impact matrix.ppt |
+| Risk Register | Planning, Monitoring and Controlling | [11] | Excel | risk register.xls |
+| Contract | Planning | [12] | Word | contract.doc |
+| Contract Statement of Work | Planning | [12] | Word | contract statement of work.doc |
+| Request for Proposal | Planning | [12] | Word | request for proposal.doc |
+| Request for Proposal | Monitoring and Controlling | [13] | Word | request for proposal.doc |
+| Final Project Report Table of Contents | N/A | [] | Word | final project report table of contents.doc |
 
 ---
 
 ## Key Terms
 
+- **Agile Methods**: A set of software development methodologies that focus on flexibility, iterative progress, and collaboration between cross-functional teams.
+  
+- **Project Management Process Groups**: These are the five groups of project management activities: Initiating, Planning, Executing, Monitoring and Controlling, and Closing.
+
+- **Artifact**: Any document, information, or tangible item created or used during the process of project management.
+
+- **Burndown Chart**: A graphical representation that shows the progress of work completed in a sprint against the total work planned for that sprint.
+
+- **Projects IN Controlled Environments (PRINCE2)**: A process-driven project management methodology that is widely used in the UK and Europe.
+
+- **Closing Processes**: The final set of actions and activities that conclude all the other process groups and complete the project.
+
+- **Rational Unified Process (RUP) Framework**: A software development framework that includes a specific set of practices and phases, emphasizing the iterative development.
+
+- **Daily Scrum**: A short meeting that happens every day where the Scrum team discusses progress and plans for the day.
+
+- **ScrumMaster**: The facilitator for an agile development team, responsible for removing any obstacles the team might be facing.
+
+- **Executing Processes**: The activities where the work gets done, and the project plan is put into action.
+
+- **Scrum Team or Development Team**: The group of professionals working together on an Agile Scrum project.
+
+- **Initiating Processes**: The initial steps where the value and feasibility of the project are measured.
+
+- **Six Sigma Methodologies**: A set of techniques and tools for process improvement that focus on reducing variability and defects.
+
+- **Kick-off Meeting**: The first meeting between the project team and the client, where the scope, objectives, and other initial matters are discussed.
+
+- **Sprint**: A set period in which specific work has to be completed and made ready for review in Scrum methodology.
+
+- **Methodology**: A system of methods, techniques, and practices used in a discipline.
+
+- **Sprint Backlog**: The list of tasks identified by the Scrum team to be completed during the next sprint.
+
+- **Monitoring and Controlling Processes**: Activities to track, review, and orchestrate the progress and performance of a project.
+
+- **Sprint Planning Session**: A meeting where the Scrum team discusses and selects the tasks for the next sprint.
+
+- **Planning Processes**: The set of activities where the project plan is developed, including scopes, timelines, costs, quality, communication, risk, and resource management.
+
+- **Sprint Retrospectives**: A meeting at the end of each sprint where the Scrum team reviews what went well and what needs improvement.
+
+- **Process**: A series of actions or steps taken to achieve a particular end in project management.
+
+- **Sprint Reviews**: A meeting where the Scrum team and stakeholders review what was accomplished during the sprint and what is next.
+
+- **Product Backlog**: A list of all the features, changes, enhancements, and bug fixes planned for a product in future releases.
+
+- **Stakeholder Register**: A document listing all stakeholders along with their interests, involvement, and impact on a project.
+
+- **Product Owner**: The individual responsible for defining the features of a product and prioritizing them in the product backlog.
+
+- **Standard**: A set of guidelines and criteria against which a product, project, or process is judged.
+
+- **User Stories**: Short, simple descriptions of a feature told from the perspective of the person who desires the capability, usually a user or customer of the system.
 
 ---
 
 ## Calculations
 
-### Net Present Value (NPV)
+### Net Present Value (NPV) - mostly used in Chapter 4 and onwards in more detail
 
 - **Definition**: Used in economic feasibility to evaluate the profitability of an investment or project.
 - **Formula**: NPV = Sum of (Rt / (1 + i) ^ t) for t from 0 to n
@@ -424,7 +624,7 @@ These points underscore the need for careful planning and strategic alignment ri
   - t = Time period (Years)
   - n = Total number of time periods (Years)
 
-### Risk Priority Number (RPN)
+### Risk Priority Number (RPN) - mostly used in Chapter 4 and onwards in more detail
 
 - **Definition**: Used in risk assessment to prioritize risks based on their severity, occurrence, and detection.
 - **Formula**: RPN = Severity (S) x Occurrence (O) x Detection (D)

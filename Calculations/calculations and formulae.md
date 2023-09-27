@@ -7,6 +7,8 @@ These resources are meant for learning purposes and comes with no guarantee of a
 
 ---
 
+## Calculations (Work In Progress...)
+
 ### return on investment (ROI)
 
 A method for determining the financial value of a project; the ROI is the result of subtracting the project costs from the benefits and then dividing by the costs.
@@ -97,3 +99,4 @@ Example Calculation: SPI = 100,000 / 90,000 = 1.11
 
 ---
 
+Still a WIP...
