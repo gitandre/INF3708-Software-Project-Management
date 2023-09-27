@@ -36,7 +36,9 @@ This repository is shared in the spirit of 'paying it forward.' While the resour
 
 ---
 ### Chapters
-01,02,03,04,05,06,07,09,11,13
+Done: 01,02,03  
+Busy: 04  
+Next: 05,06,07,09,11,13  
 
 ---
 
