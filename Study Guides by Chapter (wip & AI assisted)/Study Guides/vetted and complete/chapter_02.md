@@ -170,7 +170,7 @@ Understanding the organizational structure is essential for software project man
 
 ![img_6.png](img_6.png)
 
-### 2.3 Orgazational Culture
+### 2.3 Organizational Culture
 The section on "Organizational Culture" explores how the culture of an organization can have a profound impact on project management. Here are the key points, integrated with my knowledge of software project management:
 
 ### Characteristics of Organizational Culture
