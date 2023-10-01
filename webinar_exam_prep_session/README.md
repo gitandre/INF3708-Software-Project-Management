@@ -59,7 +59,7 @@ Know when to use which diagram above for what. Check what the question is asking
 
 ## Miscellaneous
 
-1. **June/July 2012 Memo**: See May-June 2021 memo.pdf in this directory.
+1. **June/July 2021 Memo**: See May-June 2021 memo.pdf in this directory.
 2. **Answering Tips**: Consider the marks and the use of singular vs. plural words when answering questions.
    - **Example**: "Critical path" vs. "Critical path**s**" for 4 marks.
 3. **Using Excel online** is allowed as per Emil but please note that pre-created templates are not and will be seen as cheating.
