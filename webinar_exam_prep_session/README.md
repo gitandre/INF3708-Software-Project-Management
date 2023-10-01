@@ -23,6 +23,7 @@ These resources are meant for learning purposes and come with no guarantee of ac
 
 1. **Manual Diagrams**: Try to master drawing the diagrams manually on paper first.
 2. **Diagramming Tools**: Tools like [app.diagrams.net](app.diagrams.net) are allowed, but pre-created templates are probably not allowed.
+3. Practice using the tool way before the exam.
 3. **New Tabs**: Iris will flag a new tab being opened, but Emil will check whether the new tab is being used appropriately.
 
 ## Methodologies and Models
