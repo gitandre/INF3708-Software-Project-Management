@@ -39,19 +39,31 @@ This repository is shared in the spirit of 'paying it forward.' While the resour
 ## Directories and Their Purposes
 
 ### Calculations  
-About: ## Software Project Management Calculations (wip)
+Software Project Management Calculations (wip)
 
 ### Glossary of terms  
-About: # Glossary of Terms and Definitions
+Glossary of Terms and Definitions (wip)
 
 ### Past Paper 2022 Oct  
-About: # Past Paper Analysis - Oct 2022
+Past Paper Analysis - Oct 2022 (wip)
 
 ### Study Guides by Chapter (wip & AI assisted)  
-About: # AI Generated Study Guides for Chapters 01,02,03,04,05,06,07,09,11,13 
+I Generated Study Guides for Chapters 01,02,03,04,05,06,07,09,11,13 
 
 ### Textbook Analysis  
-About: # Chapter Summaries
+Chapter Summaries (wip)
 
 ### Webinar Exam Prep Session  
-About: # Webinar Exam Prep Session: Organized Notes
+Webinar Exam Prep Session: Organized Notes (wip)
+
+---
+
+ (wip) = Work In progress
+
+---
+
+### Disclaimer
+
+These resources are meant for learning purposes and comes with no guarantee of accuracy or correctness. Please do your own research and use it as a tool to double-check your own work, attempts and understanding.
+
+---
