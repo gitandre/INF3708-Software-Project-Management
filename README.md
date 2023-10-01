@@ -35,49 +35,23 @@ This repository is shared in the spirit of 'paying it forward.' While the resour
 10. **Cultivating a Culture of Kindness**: Ultimately, paying it forward aims to cultivate a culture where kindness and compassion are valued and actively practiced in various aspects of life.
 
 ---
-### Chapters
 
-**Done:** 01,02,03  :)  
+## Directories and Their Purposes
 
-[Chapter 1 Study Guide](https://github.com/gitandre/INF3708-Software-Project-Management/blob/main/Study%20Guides%20by%20Chapter%20(wip%20%26%20AI%20assisted)/Study%20Guides/vetted%20and%20complete/chapter_01.md)  
-[Chapter 2 Study Guide](https://github.com/gitandre/INF3708-Software-Project-Management/blob/main/Study%20Guides%20by%20Chapter%20(wip%20%26%20AI%20assisted)/Study%20Guides/vetted%20and%20complete/chapter_02.md)  
-[Chapter 3 Study Guide](https://github.com/gitandre/INF3708-Software-Project-Management/blob/main/Study%20Guides%20by%20Chapter%20(wip%20%26%20AI%20assisted)/Study%20Guides/vetted%20and%20complete/chapter_03.md)  
+### Calculations  
+About: ## Software Project Management Calculations (wip)
 
-**Busy:** 04  
+### Glossary of terms  
+About: # Glossary of Terms and Definitions
 
-**Next:** 05,06,07,09,11,13  
+### Past Paper 2022 Oct  
+About: # Past Paper Analysis - Oct 2022
 
----
+### Study Guides by Chapter (wip & AI assisted)  
+About: # AI Generated Study Guides for Chapters 01,02,03,04,05,06,07,09,11,13 
 
-### Content (wip)
+### Textbook Analysis  
+About: # Chapter Summaries
 
-0. Chapter analysis based on past papers (marks per chapter expressed study hours)
-![img.png](img.png)
----
-
-1. Calculations in dir `./Calculations`
- - calculations and formulae.md
-
----
-
-2. Glossary of terms in dir `./Glossary of Terms
- - Glossary of terms.md
- - glossary.json
-
----
-
-3. Past Paper Analysis Oct 2022 in dir `./Past Paper 2022 Oct`
- - ai_answers_and_explanations_2022_oct.md
- - ai_marked_and_area_for_improvment.md
- - formulae and calculations used.md
- - INF3708_2022-Oct-exam.pdf
- - my_answers_and_explanations_2022_oct.md
-
----
-
-4. Textbook analysis in dir `./Textbook Analysis`
- - summaries.md
----
-5. Study Guides by Chapter (wip & AI assisted) in dir `./Study Guides by Chapter (wip & AI assisted)`
-
-
+### Webinar Exam Prep Session  
+About: # Webinar Exam Prep Session: Organized Notes
