@@ -53,7 +53,7 @@ Know when to use which diagram above for what. Check what the question is asking
 
 ## Exam Rules and Tips
 
-1. **Iris Extension**: Use Chrome and the Iris extension.
+1. **Iris Extension**: Use Chrome and the Iris extension. Test these well in advance. 
 2. **Equipment Testing**: Test all your equipment and systems to ensure they are exam-day ready.
 3. **Apparel Restrictions**: Use of earphones or wearing of hats is not allowed.
 
@@ -62,7 +62,7 @@ Know when to use which diagram above for what. Check what the question is asking
 1. **June/July 2012 Memo**: See May-June 2021 memo.pdf in this directory.
 2. **Answering Tips**: Consider the marks and the use of singular vs. plural words when answering questions.
    - **Example**: "Critical path" vs. "Critical paths" for 4 marks.
-3. Using Excel online is allowed as per Emil but please note that pre-created templates are not and will be seen as cheating.
-4. Emil takes great efforts to identify cheating and often grabs popcorn and reviews each incident raised by Iris for review. i.e don't cheat it's not worth it :)
+3. **Using Excel online** is allowed as per Emil but please note that pre-created templates are not and will be seen as cheating.
+4. **Emil takes great efforts to identify cheating** and often grabs popcorn and reviews each incident raised by Iris for review. i.e. don't cheat it's not worth it :)
 
-Feel free to adjust these notes based on your understanding and unique situation.
+Please adjust these notes based on your understanding, unique situation and interpretation. These are merely what i heard and thought relevant.
