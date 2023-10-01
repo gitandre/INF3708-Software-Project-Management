@@ -28,8 +28,14 @@ These resources are meant for learning purposes and come with no guarantee of ac
 
 ## Methodologies and Models
 
-1. **AoA or ADM**: (Insert example here)
-2. **PDM or AoN**: (Insert example here)
+1. **AoA or ADM**
+![img.png](img.png)
+
+2. **PDM or AoN**: 
+![img_1.png](img_1.png)
+
+Know when to use which diagram above for what. Check what the question is asking for.
+
 3. **Waterfall vs. Agile**: Both methodologies seem important.
    - **Identifying Progress**: Consider how progress and completion are identified (requirements vs. testing vs. definition of done).
 
@@ -57,6 +63,6 @@ These resources are meant for learning purposes and come with no guarantee of ac
 2. **Answering Tips**: Consider the marks and the use of singular vs. plural words when answering questions.
    - **Example**: "Critical path" vs. "Critical paths" for 4 marks.
 3. Using Excel online is allowed as per Emil but please note that pre-created templates are not and will be seen as cheating.
-4. Emil takes great efforts to identify cheating and often grabs popcorn and reviews each incident raised by Iris for review. i.e dont cheat its not worth it :)
+4. Emil takes great efforts to identify cheating and often grabs popcorn and reviews each incident raised by Iris for review. i.e don't cheat it's not worth it :)
 
 Feel free to adjust these notes based on your understanding and unique situation.
