@@ -55,5 +55,7 @@ These resources are meant for learning purposes and come with no guarantee of ac
 1. **June/July 2012 Memo**: See May-June 2021 memo.pdf in this directory.
 2. **Answering Tips**: Consider the marks and the use of singular vs. plural words when answering questions.
    - **Example**: "Critical path" vs. "Critical paths" for 4 marks.
+3. Using Excel online is allowed as per Emil but please note that pre-created templates are not and will be seen as cheating.
+4. Emil takes great efforts to identify cheating and often grabs popcorn and reviews each incident raised by Iris for review. i.e dont cheat its not worth it :)
 
 Feel free to adjust these notes based on your understanding and unique situation.
